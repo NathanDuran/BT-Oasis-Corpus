@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="083929010.unit.b">
+<word id="083929010.b.unit.2">uh</word>
+<word id="083929010.b.unit.3">yes</word>
+<word id="083929010.b.unit.4">i'm</word>
+<word id="083929010.b.unit.5">trying</word>
+<word id="083929010.b.unit.6">to</word>
+<word id="083929010.b.unit.7">check</word>
+<word id="083929010.b.unit.8">my</word>
+<word id="083929010.b.unit.9">bill</word>
+<word id="083929010.b.unit.10">on</word>
+<word id="083929010.b.unit.11">your</word>
+<word id="083929010.b.unit.12">automated</word>
+<word id="083929010.b.unit.13">service</word>
+<word id="083929010.b.unit.14">but</word>
+<word id="083929010.b.unit.15">it's</word>
+<word id="083929010.b.unit.16">gone</word>
+<word id="083929010.b.unit.17">haywire</word>
+<word id="083929010.b.unit.44">it</word>
+<word id="083929010.b.unit.45">keeps</word>
+<word id="083929010.b.unit.46">on</word>
+<word id="083929010.b.unit.47">saying</word>
+<word id="083929010.b.unit.48">um</word>
+<word id="083929010.b.unit.49">you</word>
+<word id="083929010.b.unit.50">know</word>
+<word id="083929010.b.unit.51">you</word>
+<partword id="083929010.b.unit.52">ac</partword>
+<word id="083929010.b.unit.59">yes</word>
+<bcanchor id="083929010.bcanchorb.1"><nite:pointer href="083929010.a.lturn.xml#id(083929010.lturn.6.1)" role="bc"/></bcanchor>
+<word id="083929010.b.unit.61">it</word>
+<word id="083929010.b.unit.62">doesn't</word>
+<word id="083929010.b.unit.63">recognise</word>
+<word id="083929010.b.unit.109">oh</word>
+<word id="083929010.b.unit.110">right</word>
+<word id="083929010.b.unit.126">yeah</word>
+<word id="083929010.b.unit.127">i</word>
+<word id="083929010.b.unit.128">think</word>
+<word id="083929010.b.unit.129">it's</word>
+<word id="083929010.b.unit.130">Call</word>
+<word id="083929010.b.unit.131">the</word>
+<word id="083929010.b.unit.132">Call</word>
+<word id="083929010.b.unit.133">My</word>
+<word id="083929010.b.unit.134">Bill</word>
+<word id="083929010.b.unit.135">number</word>
+</nite:root>

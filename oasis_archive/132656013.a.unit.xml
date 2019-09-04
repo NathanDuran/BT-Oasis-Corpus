@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="132656013.unit.a">
+<stdzcode id="132656013.a.unit.1" description="name"/>
+<word id="132656013.a.unit.8">oh</word>
+<word id="132656013.a.unit.9">dear</word>
+<word id="132656013.a.unit.10">i</word>
+<word id="132656013.a.unit.11">am</word>
+<word id="132656013.a.unit.12">sorry</word>
+<word id="132656013.a.unit.30">oh</word>
+<word id="132656013.a.unit.31">right</word>
+<word id="132656013.a.unit.32">i</word>
+<sil BTlength="" id="132656013.a.unit.33"/>
+<word id="132656013.a.unit.34">i</word>
+<word id="132656013.a.unit.35">mean</word>
+<word id="132656013.a.unit.36">i</word>
+<word id="132656013.a.unit.37">wouldn't</word>
+<word id="132656013.a.unit.38">have</word>
+<word id="132656013.a.unit.39">thought</word>
+<word id="132656013.a.unit.40">he</word>
+<word id="132656013.a.unit.41">did</word>
+<word id="132656013.a.unit.42">it</word>
+<word id="132656013.a.unit.43">on</word>
+<word id="132656013.a.unit.44">purpose</word>
+<bcanchor id="132656013.bcanchora.1"><nite:pointer href="132656013.b.lturn.xml#id(132656013.lturn.5.1)" role="bc"/></bcanchor>
+<word id="132656013.a.unit.46">but</word>
+<sil BTlength="" id="132656013.a.unit.47"/>
+<word id="132656013.a.unit.48">can</word>
+<word id="132656013.a.unit.49">i</word>
+<word id="132656013.a.unit.50">help</word>
+<word id="132656013.a.unit.51">at</word>
+<word id="132656013.a.unit.52">all</word>
+<word id="132656013.a.unit.92">right</word>
+<word id="132656013.a.unit.99">yeah</word>
+<word id="132656013.a.unit.142">right</word>
+<word id="132656013.a.unit.169">we</word>
+<word id="132656013.a.unit.170">don't</word>
+<word id="132656013.a.unit.171">charge</word>
+<word id="132656013.a.unit.172">at</word>
+<word id="132656013.a.unit.173">all</word>
+<word id="132656013.a.unit.174">for</word>
+<word id="132656013.a.unit.175">you</word>
+<word id="132656013.a.unit.176">to</word>
+<word id="132656013.a.unit.177">take</word>
+<word id="132656013.a.unit.178">over</word>
+<word id="132656013.a.unit.179">a</word>
+<word id="132656013.a.unit.180">line</word>
+<word id="132656013.a.unit.181">there's</word>
+<word id="132656013.a.unit.182">no</word>
+<word id="132656013.a.unit.183">charge</word>
+<word id="132656013.a.unit.189">at</word>
+<word id="132656013.a.unit.190">any</word>
+<word id="132656013.a.unit.191">time</word>
+<word id="132656013.a.unit.192">no</word>
+<comment text="entire_call_covered_by_buzz" id="132656013.a.unit.193"/>
+</nite:root>

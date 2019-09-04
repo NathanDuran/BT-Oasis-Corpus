@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="090638013.unit.b">
+<word id="090638013.b.unit.2">hello</word>
+<word id="090638013.b.unit.16">i</word>
+<word id="090638013.b.unit.17">thought</word>
+<word id="090638013.b.unit.18">i</word>
+<word id="090638013.b.unit.19">got</word>
+<word id="090638013.b.unit.20">through</word>
+<word id="090638013.b.unit.21">there's</word>
+<word id="090638013.b.unit.22">usually</word>
+<word id="090638013.b.unit.23">an</word>
+<word id="090638013.b.unit.24">answer</word>
+<sil BTlength="" id="090638013.b.unit.25"/>
+<word id="090638013.b.unit.26">oh</word>
+<word id="090638013.b.unit.27">machine</word>
+<word id="090638013.b.unit.33">right</word>
+<word id="090638013.b.unit.34">um</word>
+<word id="090638013.b.unit.35">it's</word>
+<word id="090638013.b.unit.36">uh</word>
+<partword id="090638013.b.unit.37">wha</partword>
+<word id="090638013.b.unit.38">um</word>
+<sil BTlength="" id="090638013.b.unit.39"/>
+<word id="090638013.b.unit.40">uh</word>
+<word id="090638013.b.unit.41">moving</word>
+<word id="090638013.b.unit.42">a</word>
+<sil BTlength="" id="090638013.b.unit.43"/>
+<word id="090638013.b.unit.44">new</word>
+<word id="090638013.b.unit.45">telephone</word>
+<word id="090638013.b.unit.46">number</word>
+<bcanchor id="090638013.bcanchorb.1"><nite:pointer href="090638013.a.lturn.xml#id(090638013.lturn.6.1)" role="bc"/></bcanchor>
+<word id="090638013.b.unit.48">um</word>
+<word id="090638013.b.unit.49">i</word>
+<word id="090638013.b.unit.50">just</word>
+<word id="090638013.b.unit.51">spoke</word>
+<word id="090638013.b.unit.52">to</word>
+<word id="090638013.b.unit.53">somebody</word>
+<word id="090638013.b.unit.54">i</word>
+<word id="090638013.b.unit.55">think</word>
+<word id="090638013.b.unit.56">it</word>
+<word id="090638013.b.unit.57">was</word>
+<stdzcode id="090638013.b.unit.58" description="name"/>
+<bcanchor id="090638013.bcanchorb.2"><nite:pointer href="090638013.a.lturn.xml#id(090638013.lturn.6.2)" role="bc"/></bcanchor>
+<word id="090638013.b.unit.61">and</word>
+<word id="090638013.b.unit.62">um</word>
+<sil BTlength="" id="090638013.b.unit.63"/>
+<word id="090638013.b.unit.64">i've</word>
+<sil BTlength="" id="090638013.b.unit.65"/>
+<word id="090638013.b.unit.66">we're</word>
+<word id="090638013.b.unit.67">moving</word>
+<word id="090638013.b.unit.68">out</word>
+<word id="090638013.b.unit.69">of</word>
+<word id="090638013.b.unit.70">this</word>
+<word id="090638013.b.unit.71">house</word>
+<bcanchor id="090638013.bcanchorb.3"><nite:pointer href="090638013.a.lturn.xml#id(090638013.lturn.6.3)" role="bc"/></bcanchor>
+<word id="090638013.b.unit.74">we're</word>
+<word id="090638013.b.unit.75">moving</word>
+<word id="090638013.b.unit.76">to</word>
+<word id="090638013.b.unit.77">another</word>
+<word id="090638013.b.unit.78">house</word>
+<word id="090638013.b.unit.79">but</word>
+<word id="090638013.b.unit.80">we're</word>
+<word id="090638013.b.unit.81">we</word>
+<word id="090638013.b.unit.82">don't</word>
+<word id="090638013.b.unit.83">want</word>
+<word id="090638013.b.unit.84">the</word>
+<word id="090638013.b.unit.85">telephone</word>
+<word id="090638013.b.unit.86">connected</word>
+<sil BTlength="" id="090638013.b.unit.87"/>
+<word id="090638013.b.unit.88">at</word>
+<word id="090638013.b.unit.89">the</word>
+<word id="090638013.b.unit.90">moment</word>
+<word id="090638013.b.unit.91">because</word>
+<bcanchor id="090638013.bcanchorb.4"><nite:pointer href="090638013.a.lturn.xml#id(090638013.lturn.6.4)" role="bc"/></bcanchor>
+<word id="090638013.b.unit.93">um</word>
+<sil BTlength="" id="090638013.b.unit.94"/>
+<word id="090638013.b.unit.95">we're</word>
+<word id="090638013.b.unit.96">actually</word>
+<word id="090638013.b.unit.97">moving</word>
+<word id="090638013.b.unit.98">into</word>
+<word id="090638013.b.unit.99">somewhere</word>
+<word id="090638013.b.unit.100">else</word>
+<word id="090638013.b.unit.101">at</word>
+<word id="090638013.b.unit.102">the</word>
+<word id="090638013.b.unit.103">moment</word>
+<word id="090638013.b.unit.104">but</word>
+<bcanchor id="090638013.bcanchorb.5"><nite:pointer href="090638013.a.lturn.xml#id(090638013.lturn.6.5)" role="bc"/></bcanchor>
+<word id="090638013.b.unit.106">um</word>
+<word id="090638013.b.unit.107">i'm</word>
+<word id="090638013.b.unit.108">not</word>
+<word id="090638013.b.unit.109">sure</word>
+<word id="090638013.b.unit.110">if</word>
+<word id="090638013.b.unit.111">i</word>
+<word id="090638013.b.unit.112">gave</word>
+<word id="090638013.b.unit.113">her</word>
+<word id="090638013.b.unit.114">the</word>
+<word id="090638013.b.unit.115">right</word>
+<word id="090638013.b.unit.116">phone</word>
+<word id="090638013.b.unit.117">number</word>
+<sil BTlength="" id="090638013.b.unit.118"/>
+<word id="090638013.b.unit.119">i</word>
+<word id="090638013.b.unit.120">just</word>
+<word id="090638013.b.unit.121">wanted</word>
+<word id="090638013.b.unit.122">to</word>
+<word id="090638013.b.unit.123">just</word>
+<word id="090638013.b.unit.124">check</word>
+<word id="090638013.b.unit.125">it</word>
+<word id="090638013.b.unit.126">all</word>
+<word id="090638013.b.unit.127">because</word>
+<word id="090638013.b.unit.128">ah</word>
+<word id="090638013.b.unit.129">i</word>
+<word id="090638013.b.unit.130">i</word>
+<word id="090638013.b.unit.131">i</word>
+<word id="090638013.b.unit.132">only</word>
+<word id="090638013.b.unit.133">seem</word>
+<word id="090638013.b.unit.134">to</word>
+<word id="090638013.b.unit.135">remember</word>
+<word id="090638013.b.unit.136">giving</word>
+<word id="090638013.b.unit.137">her</word>
+<word id="090638013.b.unit.138">the</word>
+<word id="090638013.b.unit.139">phone</word>
+<word id="090638013.b.unit.140">number</word>
+<word id="090638013.b.unit.141">we've</word>
+<word id="090638013.b.unit.142">got</word>
+<word id="090638013.b.unit.143">here</word>
+</nite:root>

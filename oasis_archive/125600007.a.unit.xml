@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="125600007.unit.a">
+<stdzcode id="125600007.a.unit.1" description="name"/>
+<word id="125600007.a.unit.18">right</word>
+<word id="125600007.a.unit.45">right</word>
+<partword id="125600007.a.unit.46">c</partword>
+<word id="125600007.a.unit.47">can</word>
+<word id="125600007.a.unit.48">i</word>
+<word id="125600007.a.unit.49">have</word>
+<word id="125600007.a.unit.50">the</word>
+<word id="125600007.a.unit.51">that's</word>
+<word id="125600007.a.unit.52">fine</word>
+<word id="125600007.a.unit.53">i'll</word>
+<word id="125600007.a.unit.54">just</word>
+<word id="125600007.a.unit.55">need</word>
+<word id="125600007.a.unit.56">the</word>
+<word id="125600007.a.unit.57">order</word>
+<word id="125600007.a.unit.58">number</word>
+<word id="125600007.a.unit.59">and</word>
+<word id="125600007.a.unit.60">i'll</word>
+<word id="125600007.a.unit.61">access</word>
+<word id="125600007.a.unit.62">that</word>
+<word id="125600007.a.unit.63">for</word>
+<word id="125600007.a.unit.64">you</word>
+<word id="125600007.a.unit.67">mm</word>
+<word id="125600007.a.unit.68">hm</word>
+<word id="125600007.a.unit.75">right</word>
+<word id="125600007.a.unit.76">an</word>
+<word id="125600007.a.unit.77">account</word>
+<word id="125600007.a.unit.78">number</word>
+<word id="125600007.a.unit.93">yes</word>
+<word id="125600007.a.unit.94">an</word>
+<word id="125600007.a.unit.95">and</word>
+<bcanchor id="125600007.bcanchora.2"><nite:pointer href="125600007.b.lturn.xml#id(125600007.lturn.9.1)" role="bc"/></bcanchor>
+<partword id="125600007.a.unit.98">y</partword>
+<word id="125600007.a.unit.99">you</word>
+<word id="125600007.a.unit.100">weren't</word>
+<word id="125600007.a.unit.101">given</word>
+<word id="125600007.a.unit.102">anything</word>
+<word id="125600007.a.unit.103">at</word>
+<word id="125600007.a.unit.104">all</word>
+<word id="125600007.a.unit.126">right</word>
+<partword id="125600007.a.unit.127">l</partword>
+<word id="125600007.a.unit.128">let's</word>
+<word id="125600007.a.unit.129">do</word>
+<word id="125600007.a.unit.130">it</word>
+<word id="125600007.a.unit.131">by</word>
+<word id="125600007.a.unit.132">the</word>
+<word id="125600007.a.unit.133">address</word>
+<word id="125600007.a.unit.134">can</word>
+<word id="125600007.a.unit.135">i</word>
+<word id="125600007.a.unit.136">take</word>
+<word id="125600007.a.unit.137">the</word>
+<word id="125600007.a.unit.138">the</word>
+<word id="125600007.a.unit.139">address</word>
+<word id="125600007.a.unit.140">where</word>
+<word id="125600007.a.unit.141">this</word>
+<word id="125600007.a.unit.142">is</word>
+<word id="125600007.a.unit.143">to</word>
+<word id="125600007.a.unit.144">be</word>
+<word id="125600007.a.unit.145">and</word>
+<word id="125600007.a.unit.146">i'll</word>
+<word id="125600007.a.unit.147">trace</word>
+<word id="125600007.a.unit.148">the</word>
+<word id="125600007.a.unit.149">order</word>
+<word id="125600007.a.unit.150">number</word>
+<word id="125600007.a.unit.151">for</word>
+<word id="125600007.a.unit.152">you</word>
+<word id="125600007.a.unit.160">yeah</word>
+<pncode type="letter" id="125600007.a.unit.163"/>
+<pncode type="letter" id="125600007.a.unit.164"/>
+<pncode type="letter" id="125600007.a.unit.165"/>
+<pncode type="letter" id="125600007.a.unit.166"/>
+<pncode type="letter" id="125600007.a.unit.167"/>
+<pncode type="letter" id="125600007.a.unit.168"/>
+<pncode type="letter" id="125600007.a.unit.169"/>
+</nite:root>

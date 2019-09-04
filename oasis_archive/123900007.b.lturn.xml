@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='123900007.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='123900007.lturn.2'>
+
+
+<utt id='123900007.utt.2'>
+
+<segment type='frag' sp-act='expressRegret' id='123900007.frag.2'>
+<nite:child href='123900007.b.unit.xml#id(123900007.b.unit.2)..id(123900007.b.unit.3)'/>
+</segment>
+
+</utt>
+
+<utt id='123900007.utt.3'>
+
+<segment type='decl' sp-act='expressOpinion' id='123900007.decl.1'>
+<nite:child href='123900007.b.unit.xml#id(123900007.b.unit.4)..id(123900007.b.unit.10)'/>
+</segment>
+
+</utt>
+
+<utt id='123900007.utt.4'>
+
+<segment type='decl' sp-act='expressWish' id='123900007.decl.2'>
+<nite:child href='123900007.b.unit.xml#id(123900007.b.unit.11)..id(123900007.b.unit.16)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='123900007.lturn.4'>
+
+
+<utt id='123900007.utt.9'>
+
+<segment type='yes' sp-act='accept' id='123900007.yes.1'>
+<nite:child href='123900007.b.unit.xml#id(123900007.b.unit.43)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='123900007.lturn.5.1' type='backchannel'>
+
+<utt id='123900007.utt.10.1'>
+<segment type='backch' sp-act='' id='123900007.backch.1'>
+<nite:child href='123900007.b.unit.xml#id(123900007.b.unit.46)'/>
+</segment>
+</utt>
+</lturn>
+<lturn id='123900007.lturn.6'>
+
+
+<utt id='123900007.utt.13'>
+
+<segment type='frag' sp-act='echo' id='123900007.frag.5'>
+<nite:child href='123900007.b.unit.xml#id(123900007.b.unit.58)..id(123900007.b.unit.60)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='123900007.lturn.8'>
+
+
+<utt id='123900007.utt.15'>
+
+<segment type='dm' sp-act='ackn' id='123900007.dm.1'>
+<nite:child href='123900007.b.unit.xml#id(123900007.b.unit.63)'/>
+</segment>
+
+</utt>
+
+<utt id='123900007.utt.16'>
+
+<segment type='frag' sp-act='thank' id='123900007.frag.6'>
+<nite:child href='123900007.b.unit.xml#id(123900007.b.unit.64)'/>
+</segment>
+
+</utt>
+
+<utt id='123900007.utt.17'>
+
+<segment type='frag' sp-act='bye' id='123900007.frag.7'>
+<nite:child href='123900007.b.unit.xml#id(123900007.b.unit.65)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

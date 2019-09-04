@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="095743006.unit.b">
+<word id="095743006.b.unit.2">um</word>
+<word id="095743006.b.unit.3">actually</word>
+<word id="095743006.b.unit.4">this</word>
+<word id="095743006.b.unit.5">is</word>
+<word id="095743006.b.unit.6">a</word>
+<word id="095743006.b.unit.7">missus</word>
+<pncode type="surname" id="095743006.b.unit.8"/>
+<word id="095743006.b.unit.9">phoning</word>
+<pncode type="road" id="095743006.b.unit.10"/>
+<pncode type="road" id="095743006.b.unit.11"/>
+<pncode type="road" id="095743006.b.unit.12"/>
+<word id="095743006.b.unit.13">i</word>
+<word id="095743006.b.unit.14">got</word>
+<word id="095743006.b.unit.15">a</word>
+<word id="095743006.b.unit.16">phone</word>
+<word id="095743006.b.unit.17">bill</word>
+<word id="095743006.b.unit.18">in</word>
+<sil BTlength="" id="095743006.b.unit.19"/>
+<word id="095743006.b.unit.20">uh</word>
+<word id="095743006.b.unit.21">it's</word>
+<word id="095743006.b.unit.22">for</word>
+<num id="095743006.b.unit.23"/>
+<word id="095743006.b.unit.24">pound</word>
+<num id="095743006.b.unit.25"/>
+<word id="095743006.b.unit.27">um</word>
+<word id="095743006.b.unit.28">my</word>
+<word id="095743006.b.unit.29">phone</word>
+<word id="095743006.b.unit.30">had</word>
+<word id="095743006.b.unit.31">been</word>
+<phonword id="095743006.b.unit.32">outta</phonword>
+<word id="095743006.b.unit.33">order</word>
+<sil BTlength="" id="095743006.b.unit.34"/>
+<word id="095743006.b.unit.35">and</word>
+<word id="095743006.b.unit.36">i've</word>
+<word id="095743006.b.unit.37">got</word>
+<word id="095743006.b.unit.38">a</word>
+<word id="095743006.b.unit.39">list</word>
+<word id="095743006.b.unit.40">here</word>
+<word id="095743006.b.unit.41">on</word>
+<word id="095743006.b.unit.42">my</word>
+<word id="095743006.b.unit.43">own</word>
+<word id="095743006.b.unit.44">mobile</word>
+<word id="095743006.b.unit.45">phone</word>
+<sil BTlength="" id="095743006.b.unit.46"/>
+<word id="095743006.b.unit.47">numbers</word>
+<sil BTlength="" id="095743006.b.unit.48"/>
+<word id="095743006.b.unit.49">you</word>
+<word id="095743006.b.unit.50">had</word>
+<word id="095743006.b.unit.51">transferred</word>
+<word id="095743006.b.unit.52">the</word>
+<word id="095743006.b.unit.53">calls</word>
+<word id="095743006.b.unit.54">because</word>
+<word id="095743006.b.unit.55">i</word>
+<word id="095743006.b.unit.56">couldn't</word>
+<word id="095743006.b.unit.57">get</word>
+<word id="095743006.b.unit.58">any</word>
+<word id="095743006.b.unit.59">calls</word>
+<word id="095743006.b.unit.60">in</word>
+<word id="095743006.b.unit.62">onto</word>
+<word id="095743006.b.unit.63">a</word>
+<word id="095743006.b.unit.64">mobile</word>
+<word id="095743006.b.unit.65">phone</word>
+<word id="095743006.b.unit.66">i</word>
+<word id="095743006.b.unit.67">got</word>
+<bcanchor id="095743006.bcanchorb.1"><nite:pointer href="095743006.a.lturn.xml#id(095743006.lturn.6.1)" role="bc"/></bcanchor>
+<word id="095743006.b.unit.69">and</word>
+<word id="095743006.b.unit.70">i've</word>
+<word id="095743006.b.unit.71">got</word>
+<word id="095743006.b.unit.72">the</word>
+<word id="095743006.b.unit.73">bill</word>
+<word id="095743006.b.unit.74">for</word>
+<word id="095743006.b.unit.75">i</word>
+<word id="095743006.b.unit.76">don't</word>
+<word id="095743006.b.unit.77">understand</word>
+<word id="095743006.b.unit.78">it</word>
+<word id="095743006.b.unit.79">at</word>
+<word id="095743006.b.unit.80">all</word>
+</nite:root>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="131829010.unit.a">
+<stdzcode id="131829010.a.unit.1" description="name"/>
+<word id="131829010.a.unit.64">right</word>
+<word id="131829010.a.unit.65">okay</word>
+<partword id="131829010.a.unit.66">w</partword>
+<word id="131829010.a.unit.67">um</word>
+<word id="131829010.a.unit.68">can</word>
+<word id="131829010.a.unit.69">i</word>
+<word id="131829010.a.unit.70">have</word>
+<word id="131829010.a.unit.71">your</word>
+<word id="131829010.a.unit.72">telephone</word>
+<word id="131829010.a.unit.73">number</word>
+<word id="131829010.a.unit.74">please</word>
+<word id="131829010.a.unit.91">yes</word>
+<word id="131829010.a.unit.92">please</word>
+<word id="131829010.a.unit.93">your</word>
+<word id="131829010.a.unit.94">home</word>
+<word id="131829010.a.unit.95">number</word>
+<num id="131829010.a.unit.101"/>
+<num id="131829010.a.unit.102"/>
+<num id="131829010.a.unit.103"/>
+<num id="131829010.a.unit.104"/>
+<num id="131829010.a.unit.108"/>
+<word id="131829010.a.unit.109">double</word>
+<num id="131829010.a.unit.110"/>
+<num id="131829010.a.unit.113"/>
+<num id="131829010.a.unit.114"/>
+<num id="131829010.a.unit.117"/>
+<num id="131829010.a.unit.118"/>
+<sil BTlength="" id="131829010.a.unit.119"/>
+<word id="131829010.a.unit.120">and</word>
+<word id="131829010.a.unit.121">uh</word>
+<word id="131829010.a.unit.122">can</word>
+<word id="131829010.a.unit.123">i</word>
+<word id="131829010.a.unit.124">confirm</word>
+<word id="131829010.a.unit.125">your</word>
+<word id="131829010.a.unit.126">name</word>
+<word id="131829010.a.unit.127">address</word>
+<word id="131829010.a.unit.128">and</word>
+<word id="131829010.a.unit.129">post</word>
+<word id="131829010.a.unit.130">code</word>
+<word id="131829010.a.unit.131">for</word>
+<word id="131829010.a.unit.132">me</word>
+<word id="131829010.a.unit.133">please</word>
+<word id="131829010.a.unit.149">okay</word>
+<word id="131829010.a.unit.150">missus</word>
+<word id="131829010.a.unit.151">uh</word>
+<stdzcode id="131829010.a.unit.152" description="name"/>
+<word id="131829010.a.unit.153">how</word>
+<word id="131829010.a.unit.154">can</word>
+<word id="131829010.a.unit.155">i</word>
+<partword id="131829010.a.unit.156">he</partword>
+<word id="131829010.a.unit.157">um</word>
+<word id="131829010.a.unit.158">the</word>
+<word id="131829010.a.unit.159">line</word>
+<sil BTlength="3s" id="131829010.a.unit.160"/>
+<word id="131829010.a.unit.161">right</word>
+<word id="131829010.a.unit.162">so</word>
+<word id="131829010.a.unit.163">it's</word>
+<word id="131829010.a.unit.164">not</word>
+<word id="131829010.a.unit.165">being</word>
+<sil BTlength="" id="131829010.a.unit.166"/>
+<word id="131829010.a.unit.167">can</word>
+<word id="131829010.a.unit.168">you</word>
+<word id="131829010.a.unit.169">not</word>
+<word id="131829010.a.unit.170">make</word>
+<word id="131829010.a.unit.171">outcoming</word>
+<word id="131829010.a.unit.172">calls</word>
+</nite:root>

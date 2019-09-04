@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="093325007.unit.b">
+<word id="093325007.b.unit.2">yeah</word>
+<word id="093325007.b.unit.3">hello</word>
+<word id="093325007.b.unit.4">um</word>
+<word id="093325007.b.unit.5">i</word>
+<word id="093325007.b.unit.6">just</word>
+<word id="093325007.b.unit.7">wanted</word>
+<word id="093325007.b.unit.8">to</word>
+<word id="093325007.b.unit.9">know</word>
+<word id="093325007.b.unit.10">if</word>
+<word id="093325007.b.unit.11">you</word>
+<word id="093325007.b.unit.12">could</word>
+<word id="093325007.b.unit.13">review</word>
+<word id="093325007.b.unit.14">like</word>
+<word id="093325007.b.unit.15">we</word>
+<word id="093325007.b.unit.16">pay</word>
+<num id="093325007.b.unit.17"/>
+<word id="093325007.b.unit.18">pound</word>
+<word id="093325007.b.unit.19">on</word>
+<word id="093325007.b.unit.20">a</word>
+<word id="093325007.b.unit.21">direct</word>
+<word id="093325007.b.unit.22">debit</word>
+<word id="093325007.b.unit.23">every</word>
+<word id="093325007.b.unit.24">uh</word>
+<word id="093325007.b.unit.25">month</word>
+<bcanchor id="093325007.bcanchorb.1"><nite:pointer href="093325007.a.lturn.xml#id(093325007.lturn.2.1)" role="bc"/></bcanchor>
+<word id="093325007.b.unit.27">but</word>
+<word id="093325007.b.unit.28">we've</word>
+<word id="093325007.b.unit.29">decided</word>
+<word id="093325007.b.unit.30">that</word>
+<word id="093325007.b.unit.31">we're</word>
+<word id="093325007.b.unit.32">gonna</word>
+<word id="093325007.b.unit.33">use</word>
+<word id="093325007.b.unit.34">you</word>
+<word id="093325007.b.unit.35">for</word>
+<word id="093325007.b.unit.36">um</word>
+<word id="093325007.b.unit.37">like</word>
+<word id="093325007.b.unit.38">the</word>
+<word id="093325007.b.unit.39">line</word>
+<word id="093325007.b.unit.40">rental</word>
+<word id="093325007.b.unit.41">but</word>
+<word id="093325007.b.unit.42">that</word>
+<word id="093325007.b.unit.43">we're</word>
+<word id="093325007.b.unit.44">not</word>
+<word id="093325007.b.unit.45">gonna</word>
+<word id="093325007.b.unit.46">make</word>
+<word id="093325007.b.unit.47">any</word>
+<word id="093325007.b.unit.48">calls</word>
+<word id="093325007.b.unit.49">with</word>
+<word id="093325007.b.unit.50">you</word>
+<word id="093325007.b.unit.65">yes</word>
+<word id="093325007.b.unit.66">i</word>
+<word id="093325007.b.unit.67">did</word>
+<word id="093325007.b.unit.77">yeah</word>
+<word id="093325007.b.unit.78">it's</word>
+<num id="093325007.b.unit.79"/>
+<num id="093325007.b.unit.80"/>
+<num id="093325007.b.unit.81"/>
+<num id="093325007.b.unit.82"/>
+<num id="093325007.b.unit.83"/>
+<num id="093325007.b.unit.85"/>
+<num id="093325007.b.unit.86"/>
+<num id="093325007.b.unit.88"/>
+<num id="093325007.b.unit.89"/>
+<num id="093325007.b.unit.90"/>
+<num id="093325007.b.unit.91"/>
+<word id="093325007.b.unit.106">yeah</word>
+<word id="093325007.b.unit.107">it's</word>
+<word id="093325007.b.unit.108">missus</word>
+<stdzcode id="093325007.b.unit.109" description="name"/>
+<pncode type="surname" id="093325007.b.unit.110"/>
+<word id="093325007.b.unit.112">number</word>
+<num id="093325007.b.unit.113"/>
+<pncode type="road" id="093325007.b.unit.114"/>
+<pncode type="road" id="093325007.b.unit.115"/>
+<pncode type="town" id="093325007.b.unit.116"/>
+<pncode type="region" id="093325007.b.unit.117"/>
+<pncode type="letter" id="093325007.b.unit.121"/>
+<pncode type="letter" id="093325007.b.unit.122"/>
+<num id="093325007.b.unit.123"/>
+<num id="093325007.b.unit.124"/>
+<pncode type="letter" id="093325007.b.unit.125"/>
+<pncode type="letter" id="093325007.b.unit.126"/>
+</nite:root>

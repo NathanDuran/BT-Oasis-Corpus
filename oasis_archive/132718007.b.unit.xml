@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="132718007.unit.b">
+<word id="132718007.b.unit.6">hello</word>
+<word id="132718007.b.unit.8">um</word>
+<word id="132718007.b.unit.9">i</word>
+<word id="132718007.b.unit.10">wanna</word>
+<word id="132718007.b.unit.11">uh</word>
+<word id="132718007.b.unit.12">um</word>
+<word id="132718007.b.unit.13">put</word>
+<word id="132718007.b.unit.14">in</word>
+<word id="132718007.b.unit.15">a</word>
+<word id="132718007.b.unit.16">new</word>
+<word id="132718007.b.unit.17">phone</word>
+<word id="132718007.b.unit.18">for</word>
+<word id="132718007.b.unit.19">my</word>
+<word id="132718007.b.unit.20">new</word>
+<word id="132718007.b.unit.21">address</word>
+<word id="132718007.b.unit.34">no</word>
+<bcanchor id="132718007.bcanchorb.1"><nite:pointer href="132718007.a.lturn.xml#id(132718007.lturn.6.1)" role="bc"/></bcanchor>
+<word id="132718007.b.unit.37">i've</word>
+<word id="132718007.b.unit.38">just</word>
+<word id="132718007.b.unit.39">moved</word>
+<word id="132718007.b.unit.40">from</word>
+<word id="132718007.b.unit.41">me</word>
+<word id="132718007.b.unit.42">parents</word>
+<word id="132718007.b.unit.43">so</word>
+</nite:root>

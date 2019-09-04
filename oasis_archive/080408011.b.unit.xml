@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="080408011.unit.b">
+<word id="080408011.b.unit.2">oh</word>
+<word id="080408011.b.unit.3">it's</word>
+<word id="080408011.b.unit.4">a</word>
+<word id="080408011.b.unit.5">rang</word>
+<word id="080408011.b.unit.6">number</word>
+<word id="080408011.b.unit.7">here</word>
+<word id="080408011.b.unit.8">sorry</word>
+<word id="080408011.b.unit.9">right</word>
+<word id="080408011.b.unit.10">sorry</word>
+<comment text="hangs_up" id="080408011.b.unit.11"/>
+<comment text="end-ok" id="080408011.b.unit.12"/>
+</nite:root>

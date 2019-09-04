@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='091553009.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='091553009.lturn.1'>
+
+
+<utt id='091553009.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='091553009.frag.1'>
+<nite:child href='091553009.a.unit.xml#id(091553009.a.unit.1)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='091553009.lturn.2.1' type='backchannel'>
+
+<utt id='091553009.utt.3.1'>
+<segment type='backch' sp-act='' id='091553009.backch.1'>
+<nite:child href='091553009.a.unit.xml#id(091553009.a.unit.6)..id(091553009.a.unit.7)'/>
+</segment>
+</utt>
+</lturn>
+<lturn id='091553009.lturn.3'>
+
+
+<utt id='091553009.utt.5'>
+
+<segment type='yes' sp-act='accept' id='091553009.yes.1'>
+<nite:child href='091553009.a.unit.xml#id(091553009.a.unit.15)..id(091553009.a.unit.16)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='091553009.lturn.5'>
+
+
+<utt id='091553009.utt.7'>
+
+<segment type='frag' sp-act='echo' id='091553009.frag.5'>
+<nite:child href='091553009.a.unit.xml#id(091553009.a.unit.19)..id(091553009.a.unit.20)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='091553009.lturn.6.1' type='backchannel'>
+
+<utt id='091553009.utt.8.1'>
+<segment type='backch' sp-act='' id='091553009.backch.2'>
+<nite:child href='091553009.a.unit.xml#id(091553009.a.unit.22)'/>
+</segment>
+</utt>
+</lturn>
+<lturn id='091553009.lturn.7'>
+
+
+<utt id='091553009.utt.10'>
+
+<segment type='yes' sp-act='ackn' id='091553009.yes.3'>
+<nite:child href='091553009.a.unit.xml#id(091553009.a.unit.25)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='091553009.lturn.9'>
+
+
+<utt id='091553009.utt.12'>
+
+<segment type='decl' sp-act='inform' id='091553009.decl.1'>
+<nite:child href='091553009.a.unit.xml#id(091553009.a.unit.30)..id(091553009.a.unit.38)'/>
+</segment>
+
+</utt>
+
+<utt id='091553009.utt.13'>
+
+<segment type='q_yn' sp-act='reqInfo' id='091553009.q_yn.2'>
+<nite:child href='091553009.a.unit.xml#id(091553009.a.unit.39)..id(091553009.a.unit.44)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="083509009.unit.a">
+<comment text="clicks_before_prompt" id="083509009.a.unit.1"/>
+<stdzcode id="083509009.a.unit.2" description="name"/>
+<word id="083509009.a.unit.10">okay</word>
+<word id="083509009.a.unit.11">then</word>
+<comment text="hangs_up" id="083509009.a.unit.12"/>
+<comment text="end-ok" id="083509009.a.unit.13"/>
+</nite:root>

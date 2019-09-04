@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="092628009.unit.a">
+<stdzcode id="092628009.a.unit.1" description="name"/>
+<word id="092628009.a.unit.15">right</word>
+<word id="092628009.a.unit.36">um</word>
+<word id="092628009.a.unit.37">or</word>
+<word id="092628009.a.unit.38">a</word>
+<word id="092628009.a.unit.39">barring</word>
+<word id="092628009.a.unit.40">you</word>
+<word id="092628009.a.unit.41">mean</word>
+<sil BTlength="" id="092628009.a.unit.42"/>
+<word id="092628009.a.unit.43">you</word>
+<bcanchor id="092628009.bcanchora.1"><nite:pointer href="092628009.b.lturn.xml#id(092628009.lturn.5.1)" role="bc"/></bcanchor>
+<word id="092628009.a.unit.45">know</word>
+<word id="092628009.a.unit.46">where</word>
+<word id="092628009.a.unit.47">you</word>
+<word id="092628009.a.unit.48">can</word>
+<word id="092628009.a.unit.49">bar</word>
+<word id="092628009.a.unit.50">the</word>
+<word id="092628009.a.unit.51">outgoing</word>
+<word id="092628009.a.unit.52">calls</word>
+<word id="092628009.a.unit.53">or</word>
+<word id="092628009.a.unit.54">do</word>
+<word id="092628009.a.unit.55">you</word>
+<word id="092628009.a.unit.56">mean</word>
+<word id="092628009.a.unit.57">like</word>
+<word id="092628009.a.unit.58">a</word>
+<word id="092628009.a.unit.59">call</word>
+<word id="092628009.a.unit.60">level</word>
+<word id="092628009.a.unit.84">right</word>
+<word id="092628009.a.unit.85">i</word>
+<word id="092628009.a.unit.86">don't</word>
+<word id="092628009.a.unit.87">believe</word>
+<word id="092628009.a.unit.88">there</word>
+<word id="092628009.a.unit.89">is</word>
+<word id="092628009.a.unit.90">such</word>
+<word id="092628009.a.unit.91">as</word>
+<word id="092628009.a.unit.92">service</word>
+<word id="092628009.a.unit.93">um</word>
+<word id="092628009.a.unit.94">but</word>
+<word id="092628009.a.unit.95">you</word>
+<word id="092628009.a.unit.96">can</word>
+<word id="092628009.a.unit.97">put</word>
+<word id="092628009.a.unit.98">a</word>
+<word id="092628009.a.unit.99">barring</word>
+<word id="092628009.a.unit.100">on</word>
+<word id="092628009.a.unit.101">yourself</word>
+<word id="092628009.a.unit.103">oh</word>
+<word id="092628009.a.unit.104">do</word>
+<word id="092628009.a.unit.105">you</word>
+<word id="092628009.a.unit.106">have</word>
+<word id="092628009.a.unit.107">your</word>
+<word id="092628009.a.unit.108">telephone</word>
+<word id="092628009.a.unit.109">number</word>
+<word id="092628009.a.unit.116">yeah</word>
+<word id="092628009.a.unit.120">yeah</word>
+<word id="092628009.a.unit.125">okay</word>
+</nite:root>

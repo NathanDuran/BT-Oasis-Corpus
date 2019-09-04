@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="094614007.unit.a">
+<stdzcode id="094614007.a.unit.1" description="name"/>
+<word id="094614007.a.unit.28">okay</word>
+<word id="094614007.a.unit.29">let's</word>
+<word id="094614007.a.unit.30">have</word>
+<word id="094614007.a.unit.31">a</word>
+<word id="094614007.a.unit.32">look</word>
+<word id="094614007.a.unit.33">for</word>
+<word id="094614007.a.unit.34">you</word>
+<word id="094614007.a.unit.35">please</word>
+<word id="094614007.a.unit.36">what's</word>
+<word id="094614007.a.unit.37">your</word>
+<word id="094614007.a.unit.38">phone</word>
+<word id="094614007.a.unit.39">number</word>
+<word id="094614007.a.unit.40">please</word>
+<word id="094614007.a.unit.45">uh</word>
+<word id="094614007.a.unit.46">hm</word>
+<word id="094614007.a.unit.50">uh</word>
+<word id="094614007.a.unit.51">hm</word>
+<sil BTlength="" id="094614007.a.unit.56"/>
+<comment text="3.5s" id="094614007.a.unit.57"/>
+<word id="094614007.a.unit.58">okay</word>
+<word id="094614007.a.unit.59">lovely</word>
+<word id="094614007.a.unit.60">thank</word>
+<word id="094614007.a.unit.61">you</word>
+<word id="094614007.a.unit.62">can</word>
+<word id="094614007.a.unit.63">you</word>
+<word id="094614007.a.unit.64">confirm</word>
+<word id="094614007.a.unit.65">your</word>
+<word id="094614007.a.unit.66">full</word>
+<word id="094614007.a.unit.67">name</word>
+<word id="094614007.a.unit.68">and</word>
+<word id="094614007.a.unit.69">address</word>
+<word id="094614007.a.unit.70">with</word>
+<word id="094614007.a.unit.71">the</word>
+<word id="094614007.a.unit.72">postal</word>
+<word id="094614007.a.unit.73">code</word>
+<word id="094614007.a.unit.74">please</word>
+<word id="094614007.a.unit.87">thank</word>
+<word id="094614007.a.unit.88">you</word>
+<word id="094614007.a.unit.89">can</word>
+<word id="094614007.a.unit.90">you</word>
+<word id="094614007.a.unit.91">just</word>
+<word id="094614007.a.unit.92">confirm</word>
+<word id="094614007.a.unit.93">the</word>
+<word id="094614007.a.unit.94">initial</word>
+<word id="094614007.a.unit.95">for</word>
+<word id="094614007.a.unit.96">me</word>
+<word id="094614007.a.unit.99">thank</word>
+<word id="094614007.a.unit.100">you</word>
+<sil BTlength="" id="094614007.a.unit.101"/>
+<word id="094614007.a.unit.102">right</word>
+<word id="094614007.a.unit.103">okay</word>
+<word id="094614007.a.unit.104">it's</word>
+<word id="094614007.a.unit.105">for</word>
+<num id="094614007.a.unit.106"/>
+<word id="094614007.a.unit.107">pounds</word>
+<num id="094614007.a.unit.108"/>
+<bcanchor id="094614007.bcanchora.1"><nite:pointer href="094614007.b.lturn.xml#id(094614007.lturn.13.1)" role="bc"/></bcanchor>
+<word id="094614007.a.unit.111">yeah</word>
+<word id="094614007.a.unit.112">when</word>
+<word id="094614007.a.unit.113">did</word>
+<word id="094614007.a.unit.114">you</word>
+<word id="094614007.a.unit.115">want</word>
+<word id="094614007.a.unit.116">to</word>
+<word id="094614007.a.unit.117">actually</word>
+<word id="094614007.a.unit.118">repay</word>
+<word id="094614007.a.unit.119">that</word>
+<word id="094614007.a.unit.124">thank</word>
+<word id="094614007.a.unit.125">you</word>
+</nite:root>

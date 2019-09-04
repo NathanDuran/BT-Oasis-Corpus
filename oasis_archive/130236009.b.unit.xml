@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="130236009.unit.b">
+<word id="130236009.b.unit.1">it's</word>
+<word id="130236009.b.unit.2">ringing</word>
+<word id="130236009.b.unit.3">now</word>
+<word id="130236009.b.unit.7">hello</word>
+<word id="130236009.b.unit.9">ah</word>
+<word id="130236009.b.unit.10">hold</word>
+<word id="130236009.b.unit.11">on</word>
+<noi id="130236009.b.unit.12"/>
+<comment text="background_talking_away_from_phone" id="130236009.b.unit.13"/>
+<sil BTlength="5s" id="130236009.b.unit.14"/>
+<word id="130236009.b.unit.15">hello</word>
+<word id="130236009.b.unit.17">um</word>
+<word id="130236009.b.unit.18">i've</word>
+<word id="130236009.b.unit.19">just</word>
+<word id="130236009.b.unit.20">been</word>
+<word id="130236009.b.unit.21">on</word>
+<word id="130236009.b.unit.22">the</word>
+<word id="130236009.b.unit.23">phone</word>
+<word id="130236009.b.unit.24">to</word>
+<word id="130236009.b.unit.25">get</word>
+<word id="130236009.b.unit.26">the</word>
+<word id="130236009.b.unit.27">phone</word>
+<word id="130236009.b.unit.28">put</word>
+<word id="130236009.b.unit.29">back</word>
+<word id="130236009.b.unit.30">on</word>
+<bcanchor id="130236009.bcanchorb.2"><nite:pointer href="130236009.a.lturn.xml#id(130236009.lturn.6.1)" role="bc"/></bcanchor>
+<word id="130236009.b.unit.32">and</word>
+<word id="130236009.b.unit.33">they've</word>
+<word id="130236009.b.unit.34">said</word>
+<word id="130236009.b.unit.35">someone's</word>
+<word id="130236009.b.unit.36">gonna</word>
+<word id="130236009.b.unit.37">ring</word>
+<word id="130236009.b.unit.38">us</word>
+<sil BTlength="" id="130236009.b.unit.39"/>
+<word id="130236009.b.unit.40">so</word>
+<word id="130236009.b.unit.41">i</word>
+<word id="130236009.b.unit.42">can</word>
+<word id="130236009.b.unit.43">give</word>
+<word id="130236009.b.unit.44">them</word>
+<word id="130236009.b.unit.45">the</word>
+<sil BTlength="" id="130236009.b.unit.46"/>
+<word id="130236009.b.unit.47">customer</word>
+<word id="130236009.b.unit.48">number</word>
+<sil BTlength="" id="130236009.b.unit.49"/>
+<word id="130236009.b.unit.50">and</word>
+<word id="130236009.b.unit.51">they</word>
+<word id="130236009.b.unit.52">haven't</word>
+<word id="130236009.b.unit.53">rang</word>
+<word id="130236009.b.unit.54">yet</word>
+<word id="130236009.b.unit.55">and</word>
+<word id="130236009.b.unit.56">i'm</word>
+<word id="130236009.b.unit.57">waiting</word>
+<word id="130236009.b.unit.58">to</word>
+<word id="130236009.b.unit.59">go</word>
+<word id="130236009.b.unit.60">out</word>
+</nite:root>

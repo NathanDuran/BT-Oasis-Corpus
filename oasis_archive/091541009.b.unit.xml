@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="091541009.unit.b">
+<word id="091541009.b.unit.2">good</word>
+<word id="091541009.b.unit.3">morning</word>
+<word id="091541009.b.unit.4">i</word>
+<word id="091541009.b.unit.5">hope</word>
+<word id="091541009.b.unit.6">you</word>
+<word id="091541009.b.unit.7">can</word>
+<word id="091541009.b.unit.8">um</word>
+<word id="091541009.b.unit.9">i've</word>
+<word id="091541009.b.unit.10">moved</word>
+<word id="091541009.b.unit.11">into</word>
+<word id="091541009.b.unit.12">a</word>
+<word id="091541009.b.unit.13">property</word>
+<word id="091541009.b.unit.14">on</word>
+<word id="091541009.b.unit.15">the</word>
+<num id="091541009.b.unit.16"/>
+<word id="091541009.b.unit.17">um</word>
+<word id="091541009.b.unit.18">of</word>
+<word id="091541009.b.unit.19">this</word>
+<word id="091541009.b.unit.20">month</word>
+<bcanchor id="091541009.bcanchorb.1"><nite:pointer href="091541009.a.lturn.xml#id(091541009.lturn.2.1)" role="bc"/></bcanchor>
+<word id="091541009.b.unit.23">now</word>
+<word id="091541009.b.unit.24">the</word>
+<word id="091541009.b.unit.25">previous</word>
+<word id="091541009.b.unit.26">occupiers</word>
+<word id="091541009.b.unit.27">um</word>
+<word id="091541009.b.unit.28">were</word>
+<word id="091541009.b.unit.29">serviced</word>
+<word id="091541009.b.unit.30">by</word>
+<word id="091541009.b.unit.31">cable</word>
+<bcanchor id="091541009.bcanchorb.2"><nite:pointer href="091541009.a.lturn.xml#id(091541009.lturn.2.2)" role="bc"/></bcanchor>
+<word id="091541009.b.unit.33">um</word>
+<word id="091541009.b.unit.34">i</word>
+<word id="091541009.b.unit.35">would</word>
+<word id="091541009.b.unit.36">like</word>
+<word id="091541009.b.unit.37">to</word>
+<word id="091541009.b.unit.38">actually</word>
+<word id="091541009.b.unit.39">go</word>
+<word id="091541009.b.unit.40">onto</word>
+<pncode type="business" id="091541009.b.unit.41"/>
+<pncode type="business" id="091541009.b.unit.42"/>
+<word id="091541009.b.unit.43">i</word>
+<word id="091541009.b.unit.44">wonder</word>
+<word id="091541009.b.unit.45">if</word>
+<word id="091541009.b.unit.46">you</word>
+<word id="091541009.b.unit.47">can</word>
+<word id="091541009.b.unit.48">help</word>
+<word id="091541009.b.unit.49">me</word>
+<word id="091541009.b.unit.50">regarding</word>
+<word id="091541009.b.unit.51">this</word>
+<word id="091541009.b.unit.89">okay</word>
+<word id="091541009.b.unit.97">it's</word>
+<word id="091541009.b.unit.98">number</word>
+<num id="091541009.b.unit.99"/>
+<bcanchor id="091541009.bcanchorb.3"><nite:pointer href="091541009.a.lturn.xml#id(091541009.lturn.6.1)" role="bc"/></bcanchor>
+<pncode type="road" id="091541009.b.unit.102"/>
+<pncode type="road" id="091541009.b.unit.103"/>
+<pncode type="letter" id="091541009.b.unit.108"/>
+<num id="091541009.b.unit.109"/>
+<num id="091541009.b.unit.113"/>
+<num id="091541009.b.unit.114"/>
+<pncode type="letter" id="091541009.b.unit.115"/>
+<pncode type="letter" id="091541009.b.unit.116"/>
+<pncode type="alpha" id="091541009.b.unit.117"/>
+<pncode type="alpha" id="091541009.b.unit.118"/>
+<word id="091541009.b.unit.131">right</word>
+<word id="091541009.b.unit.153">uh</word>
+<word id="091541009.b.unit.154">to</word>
+<word id="091541009.b.unit.155">be</word>
+<word id="091541009.b.unit.156">honest</word>
+<word id="091541009.b.unit.157">i'm</word>
+<word id="091541009.b.unit.158">not</word>
+<word id="091541009.b.unit.159">there</word>
+<word id="091541009.b.unit.160">at</word>
+<word id="091541009.b.unit.161">the</word>
+<word id="091541009.b.unit.162">moment</word>
+<word id="091541009.b.unit.163">i'd</word>
+<word id="091541009.b.unit.164">need</word>
+<word id="091541009.b.unit.165">to</word>
+<word id="091541009.b.unit.166">sort</word>
+<word id="091541009.b.unit.167">of</word>
+<word id="091541009.b.unit.168">have</word>
+<word id="091541009.b.unit.169">a</word>
+<word id="091541009.b.unit.170">scout</word>
+<word id="091541009.b.unit.171">round</word>
+<word id="091541009.b.unit.172">the</word>
+<word id="091541009.b.unit.173">house</word>
+<word id="091541009.b.unit.174">just</word>
+<word id="091541009.b.unit.175">to</word>
+<word id="091541009.b.unit.176">check</word>
+<word id="091541009.b.unit.177">whether</word>
+<word id="091541009.b.unit.178">there</word>
+<word id="091541009.b.unit.179">has</word>
+<word id="091541009.b.unit.180">been</word>
+<word id="091541009.b.unit.190">yeah</word>
+</nite:root>

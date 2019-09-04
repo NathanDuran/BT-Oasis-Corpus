@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="082824013.unit.b">
+<word id="082824013.b.unit.2">oh</word>
+<word id="082824013.b.unit.3">good</word>
+<word id="082824013.b.unit.4">morning</word>
+<word id="082824013.b.unit.5">love</word>
+<word id="082824013.b.unit.6">um</word>
+<word id="082824013.b.unit.7">listen</word>
+<word id="082824013.b.unit.8">love</word>
+<word id="082824013.b.unit.9">um</word>
+<word id="082824013.b.unit.10">my</word>
+<word id="082824013.b.unit.11">cable</word>
+<sil BTlength="" id="082824013.b.unit.12"/>
+<word id="082824013.b.unit.13">me</word>
+<word id="082824013.b.unit.14">T</word>
+<word id="082824013.b.unit.15">V</word>
+<word id="082824013.b.unit.16">cable</word>
+<bcanchor id="082824013.bcanchorb.1"><nite:pointer href="082824013.a.lturn.xml#id(082824013.lturn.2.1)" role="bc"/></bcanchor>
+<word id="082824013.b.unit.18">is</word>
+<word id="082824013.b.unit.19">in</word>
+<word id="082824013.b.unit.20">the</word>
+<word id="082824013.b.unit.21">name</word>
+<word id="082824013.b.unit.22">of</word>
+<pncode type="surname" id="082824013.b.unit.23"/>
+<sil BTlength="" id="082824013.b.unit.24"/>
+<word id="082824013.b.unit.25">see</word>
+<word id="082824013.b.unit.41">yeah</word>
+<word id="082824013.b.unit.42">me</word>
+<partword id="082824013.b.unit.43">te</partword>
+<word id="082824013.b.unit.44">me</word>
+<word id="082824013.b.unit.45">me</word>
+<word id="082824013.b.unit.46">me</word>
+<word id="082824013.b.unit.47">television</word>
+<word id="082824013.b.unit.48">cable</word>
+<word id="082824013.b.unit.49">yeah</word>
+<word id="082824013.b.unit.60">oh</word>
+<word id="082824013.b.unit.61">we're</word>
+<word id="082824013.b.unit.62">back</word>
+<word id="082824013.b.unit.63">to</word>
+<pncode type="business" id="082824013.b.unit.64"/>
+<pncode type="business" id="082824013.b.unit.65"/>
+<word id="082824013.b.unit.66">again</word>
+<word id="082824013.b.unit.72">oh</word>
+<word id="082824013.b.unit.73">i'm</word>
+<word id="082824013.b.unit.74">sorry</word>
+<word id="082824013.b.unit.75">about</word>
+<word id="082824013.b.unit.76">this</word>
+<word id="082824013.b.unit.77">love</word>
+<word id="082824013.b.unit.78">this</word>
+<word id="082824013.b.unit.79">is</word>
+<word id="082824013.b.unit.80">all</word>
+<word id="082824013.b.unit.81">i</word>
+<word id="082824013.b.unit.82">seem</word>
+<word id="082824013.b.unit.83">to</word>
+<word id="082824013.b.unit.84">be</word>
+<word id="082824013.b.unit.85">getting</word>
+<word id="082824013.b.unit.86">all</word>
+<word id="082824013.b.unit.87">the</word>
+<word id="082824013.b.unit.88">time</word>
+<word id="082824013.b.unit.95">sorry</word>
+<word id="082824013.b.unit.98">sorry</word>
+</nite:root>

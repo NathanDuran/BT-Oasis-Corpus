@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="124753007.unit.b">
+<word id="124753007.b.unit.2">hello</word>
+<stdzcode id="124753007.b.unit.3" description="name"/>
+<word id="124753007.b.unit.4">uh</word>
+<word id="124753007.b.unit.5">yeah</word>
+<word id="124753007.b.unit.9">sorry</word>
+<word id="124753007.b.unit.13">oh</word>
+<stdzcode id="124753007.b.unit.14" description="name"/>
+<word id="124753007.b.unit.15">sorry</word>
+<word id="124753007.b.unit.16">i</word>
+<word id="124753007.b.unit.17">missed</word>
+<word id="124753007.b.unit.18">the</word>
+<stdzcode id="124753007.b.unit.19" description="name"/>
+<comment text="cheeky_chuckle" id="124753007.b.unit.20"/>
+<comment text="chuckle" id="124753007.b.unit.28"/>
+<word id="124753007.b.unit.29">oh</word>
+<partword id="124753007.b.unit.30">h</partword>
+<word id="124753007.b.unit.37">um</word>
+<word id="124753007.b.unit.38">yeah</word>
+<word id="124753007.b.unit.39">i've</word>
+<word id="124753007.b.unit.40">been</word>
+<word id="124753007.b.unit.41">the</word>
+<partword id="124753007.b.unit.42">na</partword>
+<word id="124753007.b.unit.43">the</word>
+<pncode type="business" id="124753007.b.unit.44"/>
+<word id="124753007.b.unit.45">and</word>
+<word id="124753007.b.unit.46">uh</word>
+<word id="124753007.b.unit.47">i</word>
+<word id="124753007.b.unit.48">rang</word>
+<word id="124753007.b.unit.49">'em</word>
+<phonword id="124753007.b.unit.50">sorta</phonword>
+<word id="124753007.b.unit.51">'bout</word>
+<word id="124753007.b.unit.52">quarter</word>
+<word id="124753007.b.unit.53">to</word>
+<comment text="child_noise" id="124753007.b.unit.54"/>
+<word id="124753007.b.unit.55">and</word>
+<word id="124753007.b.unit.56">they</word>
+<word id="124753007.b.unit.57">answered</word>
+<word id="124753007.b.unit.58">the</word>
+<word id="124753007.b.unit.59">phone</word>
+<word id="124753007.b.unit.60">and</word>
+<word id="124753007.b.unit.61">they</word>
+<word id="124753007.b.unit.62">put</word>
+<word id="124753007.b.unit.63">me</word>
+<word id="124753007.b.unit.64">on</word>
+<word id="124753007.b.unit.65">hold</word>
+<word id="124753007.b.unit.66">and</word>
+<word id="124753007.b.unit.67">i've</word>
+<word id="124753007.b.unit.68">been</word>
+<word id="124753007.b.unit.69">on</word>
+<word id="124753007.b.unit.70">hold</word>
+<word id="124753007.b.unit.71">now</word>
+<word id="124753007.b.unit.72">for</word>
+<word id="124753007.b.unit.73">sort</word>
+<word id="124753007.b.unit.74">of</word>
+<num id="124753007.b.unit.75"/>
+<num id="124753007.b.unit.76"/>
+<word id="124753007.b.unit.77">minutes</word>
+<sil BTlength="" id="124753007.b.unit.78"/>
+<word id="124753007.b.unit.79">and</word>
+<word id="124753007.b.unit.80">i've</word>
+<word id="124753007.b.unit.81">given</word>
+<word id="124753007.b.unit.82">up</word>
+<partword id="124753007.b.unit.83">hol</partword>
+<word id="124753007.b.unit.84">you</word>
+<word id="124753007.b.unit.85">know</word>
+<word id="124753007.b.unit.86">you</word>
+<word id="124753007.b.unit.87">know</word>
+<phonword id="124753007.b.unit.88">'cking</phonword>
+<word id="124753007.b.unit.89">fed</word>
+<word id="124753007.b.unit.90">up</word>
+<word id="124753007.b.unit.91">with</word>
+<word id="124753007.b.unit.92">waiting</word>
+<word id="124753007.b.unit.93">that</word>
+<word id="124753007.b.unit.94">long</word>
+<word id="124753007.b.unit.95">um</word>
+<word id="124753007.b.unit.96">am</word>
+<word id="124753007.b.unit.97">i</word>
+<word id="124753007.b.unit.98">still</word>
+<word id="124753007.b.unit.99">gonna</word>
+<word id="124753007.b.unit.100">be</word>
+<word id="124753007.b.unit.101">charged</word>
+<word id="124753007.b.unit.102">for</word>
+<word id="124753007.b.unit.103">that</word>
+<word id="124753007.b.unit.104">call</word>
+</nite:root>

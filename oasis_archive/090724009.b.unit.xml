@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="090724009.unit.b">
+<word id="090724009.b.unit.2">oh</word>
+<word id="090724009.b.unit.3">hello</word>
+<word id="090724009.b.unit.4">it's</word>
+<word id="090724009.b.unit.5">mister</word>
+<pncode type="surname" id="090724009.b.unit.6"/>
+<word id="090724009.b.unit.7">here</word>
+<word id="090724009.b.unit.11">um</word>
+<word id="090724009.b.unit.12">can</word>
+<word id="090724009.b.unit.13">i</word>
+<word id="090724009.b.unit.14">speak</word>
+<word id="090724009.b.unit.15">to</word>
+<word id="090724009.b.unit.16">you</word>
+<word id="090724009.b.unit.17">about</word>
+<word id="090724009.b.unit.18">when</word>
+<word id="090724009.b.unit.19">uh</word>
+<word id="090724009.b.unit.20">about</word>
+<word id="090724009.b.unit.21">um</word>
+<sil BTlength="" id="090724009.b.unit.22"/>
+<comment text="1.5s" id="090724009.b.unit.23"/>
+<word id="090724009.b.unit.24">stopping</word>
+<word id="090724009.b.unit.25">a</word>
+<word id="090724009.b.unit.26">B</word>
+<word id="090724009.b.unit.27">T</word>
+<word id="090724009.b.unit.28">Chargecard</word>
+<word id="090724009.b.unit.44">my</word>
+<word id="090724009.b.unit.45">number</word>
+<word id="090724009.b.unit.46">is</word>
+<word id="090724009.b.unit.47">yes</word>
+<word id="090724009.b.unit.48">it's</word>
+<num id="090724009.b.unit.49"/>
+<num id="090724009.b.unit.50"/>
+<num id="090724009.b.unit.51"/>
+<num id="090724009.b.unit.52"/>
+<num id="090724009.b.unit.55"/>
+<num id="090724009.b.unit.56"/>
+<num id="090724009.b.unit.57"/>
+<num id="090724009.b.unit.59"/>
+<num id="090724009.b.unit.60"/>
+<word id="090724009.b.unit.61">double</word>
+<num id="090724009.b.unit.62"/>
+<sil BTlength="2s" id="090724009.b.unit.63"/>
+<word id="090724009.b.unit.64">and</word>
+<word id="090724009.b.unit.65">i'm</word>
+<word id="090724009.b.unit.66">mister</word>
+<stdzcode id="090724009.b.unit.67" description="name"/>
+<stdzcode id="090724009.b.unit.68" description="name"/>
+<pncode type="surname" id="090724009.b.unit.69"/>
+<word id="090724009.b.unit.70">now</word>
+<word id="090724009.b.unit.71">i've</word>
+<word id="090724009.b.unit.72">just</word>
+<word id="090724009.b.unit.73">got</word>
+<word id="090724009.b.unit.74">a</word>
+<word id="090724009.b.unit.75">bill</word>
+<num id="090724009.b.unit.100"/>
+<num id="090724009.b.unit.101"/>
+<num id="090724009.b.unit.102"/>
+<num id="090724009.b.unit.104"/>
+<num id="090724009.b.unit.105"/>
+<word id="090724009.b.unit.106">double</word>
+<num id="090724009.b.unit.107"/>
+<word id="090724009.b.unit.115">okay</word>
+</nite:root>

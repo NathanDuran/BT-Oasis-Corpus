@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="095423013.unit.a">
+<stdzcode id="095423013.a.unit.1" description="name"/>
+<word id="095423013.a.unit.15">yes</word>
+<word id="095423013.a.unit.23">sorry</word>
+<word id="095423013.a.unit.24">is</word>
+<word id="095423013.a.unit.25">that</word>
+<num id="095423013.a.unit.26"/>
+<num id="095423013.a.unit.27"/>
+<num id="095423013.a.unit.28"/>
+<num id="095423013.a.unit.29"/>
+<num id="095423013.a.unit.31"/>
+<num id="095423013.a.unit.32"/>
+<num id="095423013.a.unit.33"/>
+<sil BTlength="3s" id="095423013.a.unit.41"/>
+<word id="095423013.a.unit.42">sorry</word>
+<word id="095423013.a.unit.43">what</word>
+<word id="095423013.a.unit.44">was</word>
+<word id="095423013.a.unit.45">your</word>
+<word id="095423013.a.unit.46">name</word>
+<word id="095423013.a.unit.49">and</word>
+<word id="095423013.a.unit.50">your</word>
+<word id="095423013.a.unit.51">address</word>
+<word id="095423013.a.unit.52">please</word>
+<word id="095423013.a.unit.53">missus</word>
+<pncode type="surname" id="095423013.a.unit.54"/>
+</nite:root>

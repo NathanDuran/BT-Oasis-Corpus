@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="101707011.unit.b">
+<word id="101707011.b.unit.2">uh</word>
+<word id="101707011.b.unit.3">hello</word>
+<word id="101707011.b.unit.4">it</word>
+<word id="101707011.b.unit.5">it</word>
+<word id="101707011.b.unit.6">concerns</word>
+<word id="101707011.b.unit.7">a</word>
+<word id="101707011.b.unit.8">bill</word>
+<word id="101707011.b.unit.9">that</word>
+<word id="101707011.b.unit.10">i've</word>
+<word id="101707011.b.unit.11">just</word>
+<word id="101707011.b.unit.12">received</word>
+<word id="101707011.b.unit.35">uh</word>
+<word id="101707011.b.unit.36">like</word>
+<word id="101707011.b.unit.37">the</word>
+<word id="101707011.b.unit.38">full</word>
+<word id="101707011.b.unit.39">telephone</word>
+<word id="101707011.b.unit.40">number</word>
+<word id="101707011.b.unit.57">it's</word>
+<pncode type="letter" id="101707011.b.unit.58"/>
+<pncode type="letter" id="101707011.b.unit.59"/>
+<num id="101707011.b.unit.61"/>
+<word id="101707011.b.unit.62">double</word>
+<num id="101707011.b.unit.63"/>
+<bcanchor id="101707011.bcanchorb.1"><nite:pointer href="101707011.a.lturn.xml#id(101707011.lturn.8.1)" role="bc"/></bcanchor>
+<num id="101707011.b.unit.65"/>
+<num id="101707011.b.unit.66"/>
+<word id="101707011.b.unit.72">yeah</word>
+<bcanchor id="101707011.bcanchorb.2"><nite:pointer href="101707011.a.lturn.xml#id(101707011.lturn.10.1)" role="bc"/></bcanchor>
+<num id="101707011.b.unit.74"/>
+<num id="101707011.b.unit.75"/>
+<num id="101707011.b.unit.76"/>
+<num id="101707011.b.unit.77"/>
+<word id="101707011.b.unit.103">it's</word>
+<word id="101707011.b.unit.104">missus</word>
+<pncode type="surname" id="101707011.b.unit.105"/>
+<num id="101707011.b.unit.106"/>
+<pncode type="road" id="101707011.b.unit.107"/>
+<bcanchor id="101707011.bcanchorb.3"><nite:pointer href="101707011.a.lturn.xml#id(101707011.lturn.12.1)" role="bc"/></bcanchor>
+<pncode type="road" id="101707011.b.unit.110"/>
+<pncode type="town" id="101707011.b.unit.111"/>
+<pncode type="town" id="101707011.b.unit.112"/>
+<sil BTlength="" id="101707011.b.unit.113"/>
+<pncode type="letter" id="101707011.b.unit.120"/>
+<pncode type="letter" id="101707011.b.unit.121"/>
+<num id="101707011.b.unit.122"/>
+<num id="101707011.b.unit.123"/>
+<pncode type="letter" id="101707011.b.unit.124"/>
+<pncode type="letter" id="101707011.b.unit.125"/>
+</nite:root>

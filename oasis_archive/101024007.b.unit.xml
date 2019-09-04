@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="101024007.unit.b">
+<word id="101024007.b.unit.2">hello</word>
+<word id="101024007.b.unit.3">uh</word>
+<word id="101024007.b.unit.4">my</word>
+<word id="101024007.b.unit.5">phone</word>
+<word id="101024007.b.unit.6">was</word>
+<word id="101024007.b.unit.7">ex</word>
+<word id="101024007.b.unit.8">directory</word>
+<bcanchor id="101024007.bcanchorb.1"><nite:pointer href="101024007.a.lturn.xml#id(101024007.lturn.2.1)" role="bc"/></bcanchor>
+<word id="101024007.b.unit.11">but</word>
+<word id="101024007.b.unit.12">now</word>
+<word id="101024007.b.unit.13">it's</word>
+<word id="101024007.b.unit.14">not</word>
+<word id="101024007.b.unit.18">no</word>
+<word id="101024007.b.unit.19">cause</word>
+<word id="101024007.b.unit.20">i</word>
+<word id="101024007.b.unit.21">don't</word>
+<word id="101024007.b.unit.22">know</word>
+<word id="101024007.b.unit.23">what's</word>
+<word id="101024007.b.unit.24">happened</word>
+<word id="101024007.b.unit.25">but</word>
+<word id="101024007.b.unit.26">can</word>
+<word id="101024007.b.unit.27">you</word>
+<word id="101024007.b.unit.28">put</word>
+<word id="101024007.b.unit.29">it</word>
+<word id="101024007.b.unit.30">back</word>
+<word id="101024007.b.unit.31">on</word>
+<word id="101024007.b.unit.32">please</word>
+<word id="101024007.b.unit.48">yeah</word>
+<num id="101024007.b.unit.49"/>
+<num id="101024007.b.unit.50"/>
+<num id="101024007.b.unit.51"/>
+<word id="101024007.b.unit.58">oh</word>
+<word id="101024007.b.unit.59">sorry</word>
+<num id="101024007.b.unit.60"/>
+<num id="101024007.b.unit.61"/>
+<num id="101024007.b.unit.62"/>
+<num id="101024007.b.unit.63"/>
+<num id="101024007.b.unit.69"/>
+<num id="101024007.b.unit.70"/>
+<num id="101024007.b.unit.71"/>
+<num id="101024007.b.unit.75"/>
+<num id="101024007.b.unit.76"/>
+<word id="101024007.b.unit.77">double</word>
+<num id="101024007.b.unit.78"/>
+<word id="101024007.b.unit.83">yeah</word>
+</nite:root>

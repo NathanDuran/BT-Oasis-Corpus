@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="093853009.unit.b">
+<word id="093853009.b.unit.2">yeah</word>
+<word id="093853009.b.unit.3">i</word>
+<partword id="093853009.b.unit.4">j</partword>
+<word id="093853009.b.unit.5">i</word>
+<word id="093853009.b.unit.6">just</word>
+<word id="093853009.b.unit.7">rung</word>
+<word id="093853009.b.unit.8">you</word>
+<word id="093853009.b.unit.9">once</word>
+<word id="093853009.b.unit.10">and</word>
+<word id="093853009.b.unit.11">me</word>
+<word id="093853009.b.unit.12">phone</word>
+<word id="093853009.b.unit.13">went</word>
+<word id="093853009.b.unit.14">dead</word>
+<word id="093853009.b.unit.17">um</word>
+<word id="093853009.b.unit.18">well</word>
+<word id="093853009.b.unit.19">actually</word>
+<word id="093853009.b.unit.20">i</word>
+<word id="093853009.b.unit.21">live</word>
+<word id="093853009.b.unit.22">on</word>
+<pncode type="road" id="093853009.b.unit.23"/>
+<pncode type="road" id="093853009.b.unit.24"/>
+<pncode type="town" id="093853009.b.unit.25"/>
+<pncode type="town" id="093853009.b.unit.26"/>
+<pncode type="town" id="093853009.b.unit.27"/>
+<bcanchor id="093853009.bcanchorb.1"><nite:pointer href="093853009.a.lturn.xml#id(093853009.lturn.4.1)" role="bc"/></bcanchor>
+<word id="093853009.b.unit.30">and</word>
+<word id="093853009.b.unit.31">across</word>
+<word id="093853009.b.unit.32">road</word>
+<word id="093853009.b.unit.33">from</word>
+<word id="093853009.b.unit.34">where</word>
+<word id="093853009.b.unit.35">i</word>
+<word id="093853009.b.unit.36">am</word>
+<word id="093853009.b.unit.37">uh</word>
+<word id="093853009.b.unit.38">there's</word>
+<word id="093853009.b.unit.39">a</word>
+<word id="093853009.b.unit.40">telegraph</word>
+<word id="093853009.b.unit.41">pole</word>
+<bcanchor id="093853009.bcanchorb.2"><nite:pointer href="093853009.a.lturn.xml#id(093853009.lturn.4.2)" role="bc"/></bcanchor>
+<word id="093853009.b.unit.44">you</word>
+<word id="093853009.b.unit.45">know</word>
+<word id="093853009.b.unit.46">with</word>
+<word id="093853009.b.unit.47">the</word>
+<word id="093853009.b.unit.48">wires</word>
+<word id="093853009.b.unit.49">uh</word>
+<word id="093853009.b.unit.50">coming</word>
+<word id="093853009.b.unit.51">to</word>
+<partword id="093853009.b.unit.52">t</partword>
+<word id="093853009.b.unit.53">people's</word>
+<word id="093853009.b.unit.54">arses</word>
+<word id="093853009.b.unit.55">well</word>
+<word id="093853009.b.unit.56">one</word>
+<word id="093853009.b.unit.57">on</word>
+<word id="093853009.b.unit.58">em's</word>
+<word id="093853009.b.unit.59">hanging</word>
+<word id="093853009.b.unit.60">off</word>
+<word id="093853009.b.unit.61">and</word>
+<word id="093853009.b.unit.62">it's</word>
+<word id="093853009.b.unit.63">it</word>
+<word id="093853009.b.unit.64">looks</word>
+<word id="093853009.b.unit.65">as</word>
+<word id="093853009.b.unit.66">if</word>
+<word id="093853009.b.unit.67">it's</word>
+<word id="093853009.b.unit.68">snapped</word>
+<word id="093853009.b.unit.69">and</word>
+<word id="093853009.b.unit.70">caught</word>
+<word id="093853009.b.unit.71">on</word>
+<word id="093853009.b.unit.72">the</word>
+<word id="093853009.b.unit.73">tree</word>
+<word id="093853009.b.unit.92">yeah</word>
+<word id="093853009.b.unit.109">right</word>
+<word id="093853009.b.unit.120">yeah</word>
+<word id="093853009.b.unit.124">hello</word>
+<pncode type="road" id="093853009.b.unit.140"/>
+<pncode type="road" id="093853009.b.unit.141"/>
+<word id="093853009.b.unit.144">yeah</word>
+</nite:root>

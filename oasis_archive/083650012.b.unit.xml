@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="083650012.unit.b">
+<word id="083650012.b.unit.2">yes</word>
+<word id="083650012.b.unit.3">good</word>
+<word id="083650012.b.unit.4">morning</word>
+<word id="083650012.b.unit.7">i</word>
+<word id="083650012.b.unit.8">would</word>
+<word id="083650012.b.unit.9">like</word>
+<word id="083650012.b.unit.10">to</word>
+<word id="083650012.b.unit.11">find</word>
+<word id="083650012.b.unit.12">out</word>
+<sil BTlength="" id="083650012.b.unit.13"/>
+<word id="083650012.b.unit.14">you've</word>
+<word id="083650012.b.unit.15">just</word>
+<word id="083650012.b.unit.16">had</word>
+<word id="083650012.b.unit.17">to</word>
+<word id="083650012.b.unit.18">run</word>
+<word id="083650012.b.unit.19">back</word>
+<word id="083650012.b.unit.20">to</word>
+<word id="083650012.b.unit.21">the</word>
+<word id="083650012.b.unit.22">desk</word>
+<word id="083650012.b.unit.23">haven't</word>
+<word id="083650012.b.unit.24">you</word>
+<comment text="laugh" id="083650012.b.unit.30"/>
+<bcanchor id="083650012.bcanchorb.1"><nite:pointer href="083650012.a.lturn.xml#id(083650012.lturn.6.1)" role="bc"/></bcanchor>
+<word id="083650012.b.unit.34">i</word>
+<word id="083650012.b.unit.35">just</word>
+<word id="083650012.b.unit.36">saw</word>
+<word id="083650012.b.unit.37">you</word>
+<word id="083650012.b.unit.38">i'm</word>
+<word id="083650012.b.unit.39">i'm</word>
+<word id="083650012.b.unit.40">just</word>
+<word id="083650012.b.unit.41">behind</word>
+<word id="083650012.b.unit.42">you</word>
+</nite:root>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="085945007.unit.b">
+<word id="085945007.b.unit.3">yeah</word>
+<word id="085945007.b.unit.4">morning</word>
+<word id="085945007.b.unit.5">that</word>
+<pncode type="business" id="085945007.b.unit.6"/>
+<pncode type="business" id="085945007.b.unit.7"/>
+<word id="085945007.b.unit.11">ah</word>
+<word id="085945007.b.unit.12">it's</word>
+<word id="085945007.b.unit.13">unusual</word>
+<word id="085945007.b.unit.14">for</word>
+<word id="085945007.b.unit.15">a</word>
+<word id="085945007.b.unit.16">phone</word>
+<word id="085945007.b.unit.17">to</word>
+<word id="085945007.b.unit.18">be</word>
+<word id="085945007.b.unit.19">answered</word>
+<word id="085945007.b.unit.20">straight</word>
+<word id="085945007.b.unit.21">away</word>
+<word id="085945007.b.unit.26">yeah</word>
+<word id="085945007.b.unit.27">i</word>
+<word id="085945007.b.unit.28">can't</word>
+<word id="085945007.b.unit.29">get</word>
+<comment text="agent_and_customer_begin_to_laugh" id="085945007.b.unit.30"/>
+<word id="085945007.b.unit.31">over</word>
+<word id="085945007.b.unit.32">the</word>
+<word id="085945007.b.unit.33">shock</word>
+<sil BTlength="" id="085945007.b.unit.34"/>
+<comment text="they_continue_to_laugh" id="085945007.b.unit.35"/>
+<word id="085945007.b.unit.36">what</word>
+<word id="085945007.b.unit.37">you</word>
+<word id="085945007.b.unit.38">pick</word>
+<word id="085945007.b.unit.39">up</word>
+<word id="085945007.b.unit.40">the</word>
+<word id="085945007.b.unit.41">phone</word>
+<word id="085945007.b.unit.42">by</word>
+<word id="085945007.b.unit.43">mistake</word>
+<sil BTlength="" id="085945007.b.unit.44"/>
+<comment text="they_continue_to_laugh" id="085945007.b.unit.45"/>
+<word id="085945007.b.unit.71">well</word>
+<word id="085945007.b.unit.72">yeah</word>
+<comment text="speech_disappears_into_more_laughter" id="085945007.b.unit.73"/>
+<word id="085945007.b.unit.74">whereas</word>
+<word id="085945007.b.unit.75">you're</word>
+<word id="085945007.b.unit.76">right</word>
+<word id="085945007.b.unit.77">there</word>
+<sil BTlength="" id="085945007.b.unit.78"/>
+<word id="085945007.b.unit.79">um</word>
+<sil BTlength="" id="085945007.b.unit.80"/>
+<word id="085945007.b.unit.81">right</word>
+<word id="085945007.b.unit.82">i've</word>
+<word id="085945007.b.unit.83">got</word>
+<sil BTlength="" id="085945007.b.unit.84"/>
+<word id="085945007.b.unit.85">a</word>
+<word id="085945007.b.unit.86">reminder</word>
+<word id="085945007.b.unit.87">red</word>
+<word id="085945007.b.unit.88">one</word>
+<word id="085945007.b.unit.89">here</word>
+<bcanchor id="085945007.bcanchorb.1"><nite:pointer href="085945007.a.lturn.xml#id(085945007.lturn.8.1)" role="bc"/></bcanchor>
+<word id="085945007.b.unit.91">yeah</word>
+<sil BTlength="" id="085945007.b.unit.92"/>
+<word id="085945007.b.unit.93">which</word>
+<word id="085945007.b.unit.94">i</word>
+<word id="085945007.b.unit.95">should</word>
+<word id="085945007.b.unit.96">not</word>
+<word id="085945007.b.unit.97">have</word>
+</nite:root>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="082551007.unit.a">
+<stdzcode id="082551007.a.unit.1" description="name"/>
+<word id="082551007.a.unit.15">a</word>
+<word id="082551007.a.unit.16">local</word>
+<word id="082551007.a.unit.17">call</word>
+<word id="082551007.a.unit.18">are</word>
+<word id="082551007.a.unit.19">you</word>
+<word id="082551007.a.unit.20">with</word>
+<pncode type="business" id="082551007.a.unit.21"/>
+<pncode type="business" id="082551007.a.unit.22"/>
+<pncode type="business" id="082551007.a.unit.23"/>
+<word id="082551007.a.unit.24">or</word>
+<word id="082551007.a.unit.25">the</word>
+<word id="082551007.a.unit.26">standard</word>
+<word id="082551007.a.unit.27">line</word>
+<partword id="082551007.a.unit.42">i</partword>
+<word id="082551007.a.unit.43">if</word>
+<word id="082551007.a.unit.44">you're</word>
+<word id="082551007.a.unit.45">on</word>
+<word id="082551007.a.unit.46">B</word>
+<word id="082551007.a.unit.47">T</word>
+<word id="082551007.a.unit.48">Together</word>
+<bcanchor id="082551007.bcanchora.1"><nite:pointer href="082551007.b.lturn.xml#id(082551007.lturn.5.1)" role="bc"/></bcanchor>
+<word id="082551007.a.unit.50">or</word>
+<word id="082551007.a.unit.51">a</word>
+<word id="082551007.a.unit.52">standard</word>
+<word id="082551007.a.unit.53">line</word>
+<word id="082551007.a.unit.54">the</word>
+<word id="082551007.a.unit.55">charges</word>
+<word id="082551007.a.unit.56">are</word>
+<word id="082551007.a.unit.57">different</word>
+<word id="082551007.a.unit.60">yes</word>
+<word id="082551007.a.unit.70">you</word>
+<word id="082551007.a.unit.71">should</word>
+<word id="082551007.a.unit.72">be</word>
+<word id="082551007.a.unit.73">able</word>
+<word id="082551007.a.unit.74">to</word>
+<word id="082551007.a.unit.75">yep</word>
+<word id="082551007.a.unit.86">yep</word>
+<word id="082551007.a.unit.87">please</word>
+<word id="082551007.a.unit.92">that's</word>
+<num id="082551007.a.unit.93"/>
+<num id="082551007.a.unit.94"/>
+<num id="082551007.a.unit.95"/>
+<num id="082551007.a.unit.96"/>
+<word id="082551007.a.unit.97">yeah</word>
+<word id="082551007.a.unit.98">yeah</word>
+<num id="082551007.a.unit.102"/>
+<num id="082551007.a.unit.103"/>
+<num id="082551007.a.unit.104"/>
+</nite:root>

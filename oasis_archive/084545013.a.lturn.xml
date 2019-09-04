@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='084545013.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='084545013.lturn.1'>
+
+
+<utt id='084545013.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='084545013.frag.1'>
+<nite:child href='084545013.a.unit.xml#id(084545013.a.unit.1)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='084545013.lturn.3'>
+
+
+<utt id='084545013.utt.4'>
+
+<segment type='decl' sp-act='unclassifiable' id='084545013.decl.2'>
+<nite:child href='084545013.a.unit.xml#id(084545013.a.unit.8)..id(084545013.a.unit.10)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='084545013.lturn.5'>
+
+
+<utt id='084545013.utt.6'>
+
+<segment type='q_wh' sp-act='offer' id='084545013.q_wh.1'>
+<nite:child href='084545013.a.unit.xml#id(084545013.a.unit.12)..id(084545013.a.unit.15)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='084545013.lturn.6.1' type='backchannel'>
+
+<utt id='084545013.utt.8.1'>
+<segment type='backch' sp-act='' id='084545013.backch.1'>
+<nite:child href='084545013.a.unit.xml#id(084545013.a.unit.35)..id(084545013.a.unit.36)'/>
+</segment>
+</utt>
+</lturn>
+</nite:root>

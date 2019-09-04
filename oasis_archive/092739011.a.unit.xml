@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="092739011.unit.a">
+<stdzcode id="092739011.a.unit.1" description="name"/>
+<word id="092739011.a.unit.5">hello</word>
+<word id="092739011.a.unit.26">right</word>
+<word id="092739011.a.unit.27">yes</word>
+<comment text="chuckle" id="092739011.a.unit.28"/>
+<word id="092739011.a.unit.45">yeah</word>
+<word id="092739011.a.unit.89">yes</word>
+<word id="092739011.a.unit.90">please</word>
+<pncode type="letter" id="092739011.a.unit.94"/>
+<pncode type="letter" id="092739011.a.unit.95"/>
+<word id="092739011.a.unit.97">yeah</word>
+<pncode type="letter" id="092739011.a.unit.99"/>
+<partword id="092739011.a.unit.100">sor</partword>
+<word id="092739011.a.unit.101">sorry</word>
+<pncode type="letter" id="092739011.a.unit.102"/>
+<pncode type="letter" id="092739011.a.unit.103"/>
+<num id="092739011.a.unit.104"/>
+<num id="092739011.a.unit.105"/>
+<num id="092739011.a.unit.108"/>
+<num id="092739011.a.unit.109"/>
+<num id="092739011.a.unit.111"/>
+<num id="092739011.a.unit.112"/>
+<word id="092739011.a.unit.115">yes</word>
+<word id="092739011.a.unit.117">yes</word>
+</nite:root>

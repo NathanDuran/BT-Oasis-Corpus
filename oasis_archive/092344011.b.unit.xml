@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="092344011.unit.b">
+<word id="092344011.b.unit.2">yeah</word>
+<word id="092344011.b.unit.3">it's</word>
+<word id="092344011.b.unit.4">regarding</word>
+<word id="092344011.b.unit.5">me</word>
+<word id="092344011.b.unit.6">bill</word>
+<word id="092344011.b.unit.8">okay</word>
+<word id="092344011.b.unit.9">right</word>
+<word id="092344011.b.unit.10">do</word>
+<word id="092344011.b.unit.11">you</word>
+<partword id="092344011.b.unit.12">wan</partword>
+<word id="092344011.b.unit.13">i</word>
+<word id="092344011.b.unit.14">haven't</word>
+<word id="092344011.b.unit.15">got</word>
+<word id="092344011.b.unit.16">me</word>
+<word id="092344011.b.unit.17">account</word>
+<word id="092344011.b.unit.18">number</word>
+<bcanchor id="092344011.bcanchorb.1"><nite:pointer href="092344011.a.lturn.xml#id(092344011.lturn.4.1)" role="bc"/></bcanchor>
+<word id="092344011.b.unit.20">but</word>
+<word id="092344011.b.unit.21">do</word>
+<word id="092344011.b.unit.22">you</word>
+<word id="092344011.b.unit.23">want</word>
+<word id="092344011.b.unit.24">me</word>
+<word id="092344011.b.unit.25">details</word>
+<word id="092344011.b.unit.32">it's</word>
+<num id="092344011.b.unit.33"/>
+<num id="092344011.b.unit.34"/>
+<num id="092344011.b.unit.35"/>
+<num id="092344011.b.unit.36"/>
+<num id="092344011.b.unit.37"/>
+<num id="092344011.b.unit.40"/>
+<num id="092344011.b.unit.41"/>
+<num id="092344011.b.unit.42"/>
+<num id="092344011.b.unit.44"/>
+<num id="092344011.b.unit.45"/>
+<num id="092344011.b.unit.46"/>
+<word id="092344011.b.unit.56">yeah</word>
+<word id="092344011.b.unit.57">it's</word>
+<word id="092344011.b.unit.58">miss</word>
+<stdzcode id="092344011.b.unit.59" description="name"/>
+<stdzcode id="092344011.b.unit.60" description="name"/>
+<pncode type="surname" id="092344011.b.unit.61"/>
+<num id="092344011.b.unit.62"/>
+<bcanchor id="092344011.bcanchorb.2"><nite:pointer href="092344011.a.lturn.xml#id(092344011.lturn.12.1)" role="bc"/></bcanchor>
+<pncode type="road" id="092344011.b.unit.64"/>
+<pncode type="road" id="092344011.b.unit.65"/>
+<word id="092344011.b.unit.66">and</word>
+<word id="092344011.b.unit.67">it's</word>
+<pncode type="letter" id="092344011.b.unit.68"/>
+<pncode type="letter" id="092344011.b.unit.69"/>
+<num id="092344011.b.unit.70"/>
+<num id="092344011.b.unit.71"/>
+<pncode type="letter" id="092344011.b.unit.72"/>
+<pncode type="letter" id="092344011.b.unit.73"/>
+</nite:root>

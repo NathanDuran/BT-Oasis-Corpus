@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="091017012.unit.b">
+<word id="091017012.b.unit.2">hi</word>
+<word id="091017012.b.unit.3">um</word>
+<word id="091017012.b.unit.4">i'm</word>
+<word id="091017012.b.unit.5">trying</word>
+<word id="091017012.b.unit.6">to</word>
+<word id="091017012.b.unit.7">transfer</word>
+<word id="091017012.b.unit.8">my</word>
+<word id="091017012.b.unit.9">telephone</word>
+<word id="091017012.b.unit.10">cause</word>
+<word id="091017012.b.unit.11">i've</word>
+<word id="091017012.b.unit.12">moved</word>
+<word id="091017012.b.unit.13">house</word>
+<word id="091017012.b.unit.14">and</word>
+<word id="091017012.b.unit.15">i've</word>
+<word id="091017012.b.unit.16">been</word>
+<word id="091017012.b.unit.17">trying</word>
+<word id="091017012.b.unit.18">to</word>
+<word id="091017012.b.unit.19">sort</word>
+<word id="091017012.b.unit.20">of</word>
+<word id="091017012.b.unit.21">ring</word>
+<word id="091017012.b.unit.22">up</word>
+<word id="091017012.b.unit.23">for</word>
+<word id="091017012.b.unit.24">like</word>
+<word id="091017012.b.unit.25">four</word>
+<word id="091017012.b.unit.26">days</word>
+<word id="091017012.b.unit.27">now</word>
+<bcanchor id="091017012.bcanchorb.1"><nite:pointer href="091017012.a.lturn.xml#id(091017012.lturn.2.1)" role="bc"/></bcanchor>
+<word id="091017012.b.unit.30">and</word>
+<word id="091017012.b.unit.31">every</word>
+<word id="091017012.b.unit.32">time</word>
+<word id="091017012.b.unit.33">i</word>
+<word id="091017012.b.unit.34">keep</word>
+<word id="091017012.b.unit.35">getting</word>
+<word id="091017012.b.unit.36">please</word>
+<word id="091017012.b.unit.37">hold</word>
+<word id="091017012.b.unit.38">please</word>
+<word id="091017012.b.unit.39">hold</word>
+<word id="091017012.b.unit.40">please</word>
+<word id="091017012.b.unit.41">hold</word>
+<word id="091017012.b.unit.47">it's</word>
+<word id="091017012.b.unit.48">not</word>
+<word id="091017012.b.unit.49">that</word>
+<word id="091017012.b.unit.50">it's</word>
+<word id="091017012.b.unit.51">not</word>
+<word id="091017012.b.unit.52">that</word>
+<word id="091017012.b.unit.53">it's</word>
+<word id="091017012.b.unit.54">just</word>
+<word id="091017012.b.unit.55">that</word>
+<word id="091017012.b.unit.56">they're</word>
+<word id="091017012.b.unit.57">busy</word>
+<word id="091017012.b.unit.58">all</word>
+<word id="091017012.b.unit.59">the</word>
+<word id="091017012.b.unit.60">time</word>
+<partword id="091017012.b.unit.61">an</partword>
+<word id="091017012.b.unit.73">no</word>
+<word id="091017012.b.unit.74">i</word>
+<word id="091017012.b.unit.75">just</word>
+<word id="091017012.b.unit.76">keep</word>
+<word id="091017012.b.unit.77">holding</word>
+<word id="091017012.b.unit.78">and</word>
+<word id="091017012.b.unit.79">holding</word>
+<word id="091017012.b.unit.88">yeah</word>
+<num id="091017012.b.unit.89"/>
+<num id="091017012.b.unit.90"/>
+<num id="091017012.b.unit.91"/>
+<num id="091017012.b.unit.92"/>
+<num id="091017012.b.unit.94"/>
+<word id="091017012.b.unit.95">double</word>
+<num id="091017012.b.unit.96"/>
+<num id="091017012.b.unit.98"/>
+<num id="091017012.b.unit.99"/>
+<word id="091017012.b.unit.100">double</word>
+<num id="091017012.b.unit.101"/>
+<word id="091017012.b.unit.117">yeah</word>
+<word id="091017012.b.unit.118">it's</word>
+<pncode type="road" id="091017012.b.unit.119"/>
+<pncode type="road" id="091017012.b.unit.120"/>
+<pncode type="road" id="091017012.b.unit.121"/>
+<pncode type="town" id="091017012.b.unit.122"/>
+<pncode type="letter" id="091017012.b.unit.123"/>
+<num id="091017012.b.unit.124"/>
+<num id="091017012.b.unit.125"/>
+<pncode type="letter" id="091017012.b.unit.126"/>
+<pncode type="letter" id="091017012.b.unit.127"/>
+</nite:root>

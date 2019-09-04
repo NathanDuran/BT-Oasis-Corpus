@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="124933006.unit.b">
+<word id="124933006.b.unit.2">hi</word>
+<word id="124933006.b.unit.3">um</word>
+<word id="124933006.b.unit.4">just</word>
+<word id="124933006.b.unit.5">phoning</word>
+<word id="124933006.b.unit.6">up</word>
+<word id="124933006.b.unit.7">could</word>
+<word id="124933006.b.unit.8">you</word>
+<word id="124933006.b.unit.9">tell</word>
+<word id="124933006.b.unit.10">me</word>
+<word id="124933006.b.unit.11">how</word>
+<word id="124933006.b.unit.12">much</word>
+<word id="124933006.b.unit.13">my</word>
+<word id="124933006.b.unit.14">bill</word>
+<word id="124933006.b.unit.15">is</word>
+<word id="124933006.b.unit.16">please</word>
+<word id="124933006.b.unit.24">it's</word>
+<num id="124933006.b.unit.25"/>
+<num id="124933006.b.unit.26"/>
+<num id="124933006.b.unit.27"/>
+<num id="124933006.b.unit.32"/>
+<num id="124933006.b.unit.33"/>
+<num id="124933006.b.unit.36"/>
+<num id="124933006.b.unit.37"/>
+<num id="124933006.b.unit.38"/>
+<num id="124933006.b.unit.41"/>
+<num id="124933006.b.unit.42"/>
+<num id="124933006.b.unit.43"/>
+<num id="124933006.b.unit.44"/>
+<comment text="very_loud_scouser_noise" id="124933006.b.unit.55"/>
+<word id="124933006.b.unit.56">um</word>
+<word id="124933006.b.unit.57">yeah</word>
+<word id="124933006.b.unit.58">should</word>
+<word id="124933006.b.unit.59">have</word>
+<word id="124933006.b.unit.60">just</word>
+<word id="124933006.b.unit.61">one</word>
+<word id="124933006.b.unit.62">minute</word>
+<word id="124933006.b.unit.63">right</word>
+<word id="124933006.b.unit.64">it's</word>
+<word id="124933006.b.unit.65">hang</word>
+<word id="124933006.b.unit.66">on</word>
+<sil BTlength="" id="124933006.b.unit.67"/>
+<word id="124933006.b.unit.68">um</word>
+<pncode type="letter" id="124933006.b.unit.69"/>
+<pncode type="letter" id="124933006.b.unit.70"/>
+<bcanchor id="124933006.bcanchorb.1"><nite:pointer href="124933006.a.lturn.xml#id(124933006.lturn.12.1)" role="bc"/></bcanchor>
+<num id="124933006.b.unit.73"/>
+<num id="124933006.b.unit.74"/>
+<num id="124933006.b.unit.75"/>
+<num id="124933006.b.unit.76"/>
+<bcanchor id="124933006.bcanchorb.2"><nite:pointer href="124933006.a.lturn.xml#id(124933006.lturn.12.2)" role="bc"/></bcanchor>
+<num id="124933006.b.unit.79"/>
+<num id="124933006.b.unit.80"/>
+<word id="124933006.b.unit.113">yeah</word>
+<word id="124933006.b.unit.117">yeah</word>
+<num id="124933006.b.unit.121"/>
+<num id="124933006.b.unit.122"/>
+<num id="124933006.b.unit.123"/>
+<word id="124933006.b.unit.124">okay</word>
+</nite:root>

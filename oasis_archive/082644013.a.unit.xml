@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="082644013.unit.a">
+<stdzcode id="082644013.a.unit.1" description="name"/>
+<word id="082644013.a.unit.13">ah</word>
+<word id="082644013.a.unit.14">right</word>
+<word id="082644013.a.unit.19">unfortunately</word>
+<word id="082644013.a.unit.20">at</word>
+<word id="082644013.a.unit.21">the</word>
+<word id="082644013.a.unit.22">moment</word>
+<word id="082644013.a.unit.23">though</word>
+<word id="082644013.a.unit.24">i</word>
+<word id="082644013.a.unit.25">don't</word>
+<word id="082644013.a.unit.26">have</word>
+<word id="082644013.a.unit.27">a</word>
+<word id="082644013.a.unit.28">computer</word>
+<word id="082644013.a.unit.29">system</word>
+<word id="082644013.a.unit.30">so</word>
+<word id="082644013.a.unit.31">everything</word>
+<word id="082644013.a.unit.32">i'm</word>
+<word id="082644013.a.unit.33">doing</word>
+<word id="082644013.a.unit.34">is</word>
+<word id="082644013.a.unit.35">taking</word>
+<word id="082644013.a.unit.36">down</word>
+<word id="082644013.a.unit.37">sorta</word>
+<word id="082644013.a.unit.38">and</word>
+<word id="082644013.a.unit.39">being</word>
+<word id="082644013.a.unit.40">done</word>
+<word id="082644013.a.unit.41">later</word>
+<word id="082644013.a.unit.42">this</word>
+<word id="082644013.a.unit.43">morning</word>
+<word id="082644013.a.unit.55">right</word>
+<word id="082644013.a.unit.60">yeah</word>
+<word id="082644013.a.unit.72">yeah</word>
+<word id="082644013.a.unit.90">yeah</word>
+<word id="082644013.a.unit.106">right</word>
+<word id="082644013.a.unit.107">can't</word>
+<word id="082644013.a.unit.108">actually</word>
+<word id="082644013.a.unit.109">look</word>
+<word id="082644013.a.unit.110">at</word>
+<word id="082644013.a.unit.111">your</word>
+<word id="082644013.a.unit.112">bill</word>
+<word id="082644013.a.unit.113">that's</word>
+<word id="082644013.a.unit.114">the</word>
+<word id="082644013.a.unit.115">only</word>
+<word id="082644013.a.unit.116">thing</word>
+<bcanchor id="082644013.bcanchora.5"><nite:pointer href="082644013.b.lturn.xml#id(082644013.lturn.7.1)" role="bc"/></bcanchor>
+<word id="082644013.a.unit.119">i</word>
+<word id="082644013.a.unit.120">can</word>
+<word id="082644013.a.unit.121">take</word>
+<word id="082644013.a.unit.122">the</word>
+<word id="082644013.a.unit.123">details</word>
+<word id="082644013.a.unit.124">down</word>
+<word id="082644013.a.unit.125">and</word>
+<word id="082644013.a.unit.126">um</word>
+<word id="082644013.a.unit.127">get</word>
+<word id="082644013.a.unit.128">someone</word>
+<word id="082644013.a.unit.129">to</word>
+<word id="082644013.a.unit.130">call</word>
+<word id="082644013.a.unit.131">you</word>
+<word id="082644013.a.unit.132">back</word>
+<word id="082644013.a.unit.133">later</word>
+<word id="082644013.a.unit.135">yeah</word>
+<bcanchor id="082644013.bcanchora.6"><nite:pointer href="082644013.b.lturn.xml#id(082644013.lturn.9.1)" role="bc"/></bcanchor>
+<word id="082644013.a.unit.137">what's</word>
+<word id="082644013.a.unit.138">your</word>
+<word id="082644013.a.unit.139">customer</word>
+<word id="082644013.a.unit.140">number</word>
+<word id="082644013.a.unit.141">on</word>
+<word id="082644013.a.unit.142">there</word>
+<word id="082644013.a.unit.143">please</word>
+<word id="082644013.a.unit.152">yeah</word>
+<comment text="phone_handling_noise" id="082644013.a.unit.157"/>
+<comment text="customer_clears_throat" id="082644013.a.unit.158"/>
+<word id="082644013.a.unit.159">yeah</word>
+</nite:root>

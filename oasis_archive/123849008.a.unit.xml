@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="123849008.unit.a">
+<comment text="mumble" id="123849008.a.unit.1"/>
+<stdzcode id="123849008.a.unit.2" description="name"/>
+<word id="123849008.a.unit.18">to</word>
+<word id="123849008.a.unit.19">credit</word>
+<word id="123849008.a.unit.21">um</word>
+<word id="123849008.a.unit.22">was</word>
+<word id="123849008.a.unit.23">that</word>
+<word id="123849008.a.unit.24">to</word>
+<word id="123849008.a.unit.25">actually</word>
+<word id="123849008.a.unit.26">pay</word>
+<word id="123849008.a.unit.27">a</word>
+<word id="123849008.a.unit.28">bill</word>
+<word id="123849008.a.unit.29">or</word>
+<sil BTlength="" id="123849008.a.unit.43"/>
+<word id="123849008.a.unit.44">right</word>
+<word id="123849008.a.unit.45">okay</word>
+<word id="123849008.a.unit.46">then</word>
+<word id="123849008.a.unit.47">just</word>
+<word id="123849008.a.unit.48">bear</word>
+<word id="123849008.a.unit.49">with</word>
+<word id="123849008.a.unit.50">me</word>
+<word id="123849008.a.unit.51">one</word>
+<word id="123849008.a.unit.52">moment</word>
+<word id="123849008.a.unit.53">i'll</word>
+<word id="123849008.a.unit.54">check</word>
+<word id="123849008.a.unit.55">that</word>
+<word id="123849008.a.unit.56">number</word>
+<word id="123849008.a.unit.57">for</word>
+<word id="123849008.a.unit.58">you</word>
+<sil BTlength="5s" id="123849008.a.unit.61"/>
+<comment text="groovy_hold_music_56s" id="123849008.a.unit.62"/>
+<word id="123849008.a.unit.63">hello</word>
+<word id="123849008.a.unit.64">right</word>
+<word id="123849008.a.unit.65">they</word>
+<word id="123849008.a.unit.66">have</word>
+<word id="123849008.a.unit.67">a</word>
+<word id="123849008.a.unit.68">different</word>
+<word id="123849008.a.unit.69">freephone</word>
+<word id="123849008.a.unit.70">number</word>
+<word id="123849008.a.unit.71">have</word>
+<bcanchor id="123849008.bcanchora.1"><nite:pointer href="123849008.b.lturn.xml#id(123849008.lturn.9.1)" role="bc"/></bcanchor>
+<word id="123849008.a.unit.73">you</word>
+<word id="123849008.a.unit.74">got</word>
+<word id="123849008.a.unit.75">a</word>
+<word id="123849008.a.unit.76">pen</word>
+<word id="123849008.a.unit.77">handy</word>
+<sil BTlength="" id="123849008.a.unit.80"/>
+<comment text="laughs" id="123849008.a.unit.81"/>
+<word id="123849008.a.unit.82">it's</word>
+<num id="123849008.a.unit.83"/>
+<num id="123849008.a.unit.84"/>
+<word id="123849008.a.unit.98">that's</word>
+<word id="123849008.a.unit.99">okay</word>
+<num id="123849008.a.unit.100"/>
+<num id="123849008.a.unit.101"/>
+<num id="123849008.a.unit.102"/>
+<num id="123849008.a.unit.103"/>
+<num id="123849008.a.unit.104"/>
+<num id="123849008.a.unit.107"/>
+<num id="123849008.a.unit.108"/>
+<num id="123849008.a.unit.109"/>
+<bcanchor id="123849008.bcanchora.2"><nite:pointer href="123849008.b.lturn.xml#id(123849008.lturn.15.1)" role="bc"/></bcanchor>
+<word id="123849008.a.unit.112">and</word>
+<word id="123849008.a.unit.113">that'll</word>
+<word id="123849008.a.unit.114">take</word>
+<word id="123849008.a.unit.115">you</word>
+<word id="123849008.a.unit.116">straight</word>
+<word id="123849008.a.unit.117">through</word>
+<word id="123849008.a.unit.118">to</word>
+<word id="123849008.a.unit.119">them</word>
+<comment text="end-ok" id="123849008.a.unit.120"/>
+</nite:root>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="091220007.unit.b">
+<word id="091220007.b.unit.2">hi</word>
+<word id="091220007.b.unit.3">could</word>
+<word id="091220007.b.unit.4">i</word>
+<word id="091220007.b.unit.5">speak</word>
+<word id="091220007.b.unit.6">to</word>
+<word id="091220007.b.unit.7">someone</word>
+<word id="091220007.b.unit.8">with</word>
+<word id="091220007.b.unit.9">a</word>
+<word id="091220007.b.unit.10">query</word>
+<word id="091220007.b.unit.11">on</word>
+<word id="091220007.b.unit.12">my</word>
+<word id="091220007.b.unit.13">Friends</word>
+<word id="091220007.b.unit.14">And</word>
+<word id="091220007.b.unit.15">Family</word>
+<word id="091220007.b.unit.16">please</word>
+<word id="091220007.b.unit.24">uh</word>
+<num id="091220007.b.unit.25"/>
+<num id="091220007.b.unit.26"/>
+<num id="091220007.b.unit.27"/>
+<num id="091220007.b.unit.28"/>
+<num id="091220007.b.unit.33"/>
+<num id="091220007.b.unit.34"/>
+<num id="091220007.b.unit.35"/>
+<word id="091220007.b.unit.56">breaths</word>
+<word id="091220007.b.unit.57">out</word>
+<word id="091220007.b.unit.79">okay</word>
+<word id="091220007.b.unit.91">okay</word>
+<word id="091220007.b.unit.103">okay</word>
+<word id="091220007.b.unit.109">yep</word>
+<word id="091220007.b.unit.110">it's</word>
+<num id="091220007.b.unit.111"/>
+<num id="091220007.b.unit.112"/>
+<num id="091220007.b.unit.113"/>
+<num id="091220007.b.unit.114"/>
+<num id="091220007.b.unit.116"/>
+<num id="091220007.b.unit.117"/>
+<num id="091220007.b.unit.118"/>
+<bcanchor id="091220007.bcanchorb.5"><nite:pointer href="091220007.x.lturn.xml#id(091220007.lturn.11.1)" role="bc"/></bcanchor>
+<num id="091220007.b.unit.120"/>
+<num id="091220007.b.unit.121"/>
+<num id="091220007.b.unit.122"/>
+<num id="091220007.b.unit.123"/>
+</nite:root>

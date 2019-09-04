@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="081456012.unit.b">
+<word id="081456012.b.unit.2">hello</word>
+<word id="081456012.b.unit.3">if</word>
+<word id="081456012.b.unit.4">i</word>
+<word id="081456012.b.unit.5">was</word>
+<word id="081456012.b.unit.6">to</word>
+<word id="081456012.b.unit.7">buy</word>
+<word id="081456012.b.unit.8">a</word>
+<word id="081456012.b.unit.9">fax</word>
+<word id="081456012.b.unit.10">machine</word>
+<bcanchor id="081456012.bcanchorb.1"><nite:pointer href="081456012.a.lturn.xml#id(081456012.lturn.2.1)" role="bc"/></bcanchor>
+<word id="081456012.b.unit.13">what</word>
+<word id="081456012.b.unit.14">charges</word>
+<word id="081456012.b.unit.15">would</word>
+<word id="081456012.b.unit.16">i</word>
+<word id="081456012.b.unit.17">incur</word>
+<word id="081456012.b.unit.18">for</word>
+<word id="081456012.b.unit.19">using</word>
+<word id="081456012.b.unit.20">it</word>
+<word id="081456012.b.unit.33">yeah</word>
+<sil BTlength="" id="081456012.b.unit.34"/>
+<word id="081456012.b.unit.35">oh</word>
+<word id="081456012.b.unit.77">ah</word>
+<word id="081456012.b.unit.78">ha</word>
+<word id="081456012.b.unit.79">do</word>
+<word id="081456012.b.unit.80">i</word>
+<word id="081456012.b.unit.81">pay</word>
+<word id="081456012.b.unit.82">for</word>
+<word id="081456012.b.unit.83">incoming</word>
+<word id="081456012.b.unit.84">or</word>
+<word id="081456012.b.unit.85">just</word>
+<word id="081456012.b.unit.86">outgoing</word>
+<word id="081456012.b.unit.89">just</word>
+<word id="081456012.b.unit.90">outgoing</word>
+<comment text="murmurs" id="081456012.b.unit.91"/>
+<gap id="081456012.b.unit.92"/>
+<word id="081456012.b.unit.105">aha</word>
+<word id="081456012.b.unit.113">right</word>
+<word id="081456012.b.unit.114">and</word>
+<word id="081456012.b.unit.115">if</word>
+<word id="081456012.b.unit.116">i</word>
+<word id="081456012.b.unit.117">had</word>
+<word id="081456012.b.unit.118">an</word>
+<word id="081456012.b.unit.119">answer</word>
+<word id="081456012.b.unit.120">machine</word>
+<word id="081456012.b.unit.121">with</word>
+<word id="081456012.b.unit.122">it</word>
+<word id="081456012.b.unit.123">what</word>
+<word id="081456012.b.unit.124">would</word>
+<word id="081456012.b.unit.125">that</word>
+<partword id="081456012.b.unit.126">i</partword>
+</nite:root>

@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='131416008.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='131416008.lturn.1'>
+
+
+<utt id='131416008.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='131416008.frag.1'>
+<nite:child href='131416008.a.unit.xml#id(131416008.a.unit.1)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='131416008.lturn.3'>
+
+
+<utt id='131416008.utt.3'>
+
+<segment type='decl' sp-act='reqDirect' id='131416008.decl.1'>
+<nite:child href='131416008.a.unit.xml#id(131416008.a.unit.16)..id(131416008.a.unit.23)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='131416008.lturn.5'>
+
+
+<utt id='131416008.utt.5'>
+
+<segment type='dm' sp-act='accept' id='131416008.dm.1'>
+<nite:child href='131416008.a.unit.xml#id(131416008.a.unit.25)..id(131416008.a.unit.26)'/>
+</segment>
+
+</utt>
+
+<utt id='131416008.utt.6'>
+
+<segment type='q_wh' sp-act='reqInfo' id='131416008.q_wh.1' secondary-act='abandon'>
+<nite:child href='131416008.a.unit.xml#id(131416008.a.unit.27)'/>
+</segment>
+
+</utt>
+
+<utt id='131416008.utt.7'>
+
+<segment type='q_yn' sp-act='reqInfo' id='131416008.q_yn.2'>
+<nite:child href='131416008.a.unit.xml#id(131416008.a.unit.28)..id(131416008.a.unit.38)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='131416008.lturn.6.1' type='backchannel'>
+
+<utt id='131416008.utt.11.1'>
+<segment type='backch' sp-act='' id='131416008.backch.1'>
+<nite:child href='131416008.a.unit.xml#id(131416008.a.unit.51)..id(131416008.a.unit.53)'/>
+</segment>
+</utt>
+</lturn>
+<lturn id='131416008.lturn.7'>
+
+
+<utt id='131416008.utt.12'>
+
+<segment type='dm' sp-act='ackn' id='131416008.dm.2'>
+<nite:child href='131416008.a.unit.xml#id(131416008.a.unit.59)..id(131416008.a.unit.60)'/>
+</segment>
+
+<segment type='q_yn' sp-act='reqInfo' id='131416008.q_yn.3'>
+<nite:child href='131416008.a.unit.xml#id(131416008.a.unit.61)..id(131416008.a.unit.69)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='131416008.lturn.9'>
+
+
+<utt id='131416008.utt.15'>
+
+<segment type='dm' sp-act='ackn' id='131416008.dm.3'>
+<nite:child href='131416008.a.unit.xml#id(131416008.a.unit.74)'/>
+</segment>
+
+</utt>
+
+<utt id='131416008.utt.16'>
+
+<segment type='q_wh' sp-act='reqInfo' id='131416008.q_wh.2'>
+<nite:child href='131416008.a.unit.xml#id(131416008.a.unit.75)..id(131416008.a.unit.80)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='131416008.lturn.11'>
+
+
+<utt id='131416008.utt.18'>
+
+<segment type='frag' sp-act='echo' id='131416008.frag.2'>
+<nite:child href='131416008.a.unit.xml#id(131416008.a.unit.87)..id(131416008.a.unit.89)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='131416008.lturn.13'>
+
+
+<utt id='131416008.utt.20'>
+
+<segment type='frag' sp-act='echo' id='131416008.frag.4'>
+<nite:child href='131416008.a.unit.xml#id(131416008.a.unit.97)..id(131416008.a.unit.99)'/>
+</segment>
+
+</utt>
+
+<utt id='131416008.utt.21'>
+
+<segment type='frag' sp-act='thank' id='131416008.frag.5'>
+<nite:child href='131416008.a.unit.xml#id(131416008.a.unit.100)..id(131416008.a.unit.104)'/>
+</segment>
+
+</utt>
+
+<utt id='131416008.utt.22'>
+
+<segment type='q_yn' sp-act='reqInfo' id='131416008.q_yn.4'>
+<nite:child href='131416008.a.unit.xml#id(131416008.a.unit.105)..id(131416008.a.unit.116)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='131416008.lturn.15'>
+
+
+<utt id='131416008.utt.24'>
+
+<segment type='q_wh' sp-act='reqInfo' id='131416008.q_wh.3'>
+<nite:child href='131416008.a.unit.xml#id(131416008.a.unit.125)..id(131416008.a.unit.130)'/>
+</segment>
+
+</utt>
+
+<utt id='131416008.utt.25'>
+
+<segment type='q_yn' sp-act='reqInfo' id='131416008.q_yn.5' secondary-act='abandon'>
+<nite:child href='131416008.a.unit.xml#id(131416008.a.unit.131)..id(131416008.a.unit.133)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='131416008.lturn.17'>
+
+
+<utt id='131416008.utt.27'>
+
+<segment type='dm' sp-act='ackn' id='131416008.dm.4'>
+<nite:child href='131416008.a.unit.xml#id(131416008.a.unit.137)..id(131416008.a.unit.139)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

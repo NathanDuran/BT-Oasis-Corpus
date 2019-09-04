@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="082434008.unit.b">
+<word id="082434008.b.unit.18">um</word>
+<word id="082434008.b.unit.19">it's</word>
+<word id="082434008.b.unit.20">uh</word>
+<num id="082434008.b.unit.21"/>
+<num id="082434008.b.unit.22"/>
+<num id="082434008.b.unit.23"/>
+<num id="082434008.b.unit.24"/>
+<num id="082434008.b.unit.29"/>
+<num id="082434008.b.unit.30"/>
+<num id="082434008.b.unit.31"/>
+<num id="082434008.b.unit.35"/>
+<num id="082434008.b.unit.36"/>
+<num id="082434008.b.unit.37"/>
+<num id="082434008.b.unit.38"/>
+<word id="082434008.b.unit.43">now</word>
+<word id="082434008.b.unit.44">i'm</word>
+<word id="082434008.b.unit.45">phoning</word>
+<word id="082434008.b.unit.46">on</word>
+<word id="082434008.b.unit.47">behalf</word>
+<word id="082434008.b.unit.48">of</word>
+<word id="082434008.b.unit.49">me</word>
+<word id="082434008.b.unit.50">mother</word>
+<word id="082434008.b.unit.51">she's</word>
+<word id="082434008.b.unit.52">uh</word>
+<word id="082434008.b.unit.53">leaving</word>
+<word id="082434008.b.unit.54">this</word>
+<word id="082434008.b.unit.55">place</word>
+<word id="082434008.b.unit.56">today</word>
+<word id="082434008.b.unit.57">it</word>
+<word id="082434008.b.unit.58">was</word>
+<word id="082434008.b.unit.59">rather</word>
+<word id="082434008.b.unit.60">sudden</word>
+<word id="082434008.b.unit.61">she's</word>
+<word id="082434008.b.unit.62">going</word>
+<word id="082434008.b.unit.63">back</word>
+<word id="082434008.b.unit.64">to</word>
+<word id="082434008.b.unit.65">her</word>
+<word id="082434008.b.unit.66">house</word>
+<word id="082434008.b.unit.84">um</word>
+<word id="082434008.b.unit.85">it's</word>
+<word id="082434008.b.unit.86">uh</word>
+<partword id="082434008.b.unit.87">thir</partword>
+<word id="082434008.b.unit.88">it's</word>
+<word id="082434008.b.unit.89">missus</word>
+<stdzcode id="082434008.b.unit.90" description="name"/>
+<pncode type="surname" id="082434008.b.unit.91"/>
+<bcanchor id="082434008.bcanchorb.1"><nite:pointer href="082434008.a.lturn.xml#id(082434008.lturn.10.1)" role="bc"/></bcanchor>
+<word id="082434008.b.unit.93">and</word>
+<word id="082434008.b.unit.94">it's</word>
+<num id="082434008.b.unit.95"/>
+<pncode type="road" id="082434008.b.unit.96"/>
+<pncode type="road" id="082434008.b.unit.97"/>
+<bcanchor id="082434008.bcanchorb.2"><nite:pointer href="082434008.a.lturn.xml#id(082434008.lturn.10.2)" role="bc"/></bcanchor>
+<pncode type="road" id="082434008.b.unit.99"/>
+<pncode type="road" id="082434008.b.unit.100"/>
+<partword id="082434008.b.unit.101">m</partword>
+<word id="082434008.b.unit.102">ah</word>
+<pncode type="town" id="082434008.b.unit.103"/>
+<word id="082434008.b.unit.108">now</word>
+<word id="082434008.b.unit.109">she's</word>
+<word id="082434008.b.unit.110">moving</word>
+<word id="082434008.b.unit.111">out</word>
+<word id="082434008.b.unit.112">today</word>
+<word id="082434008.b.unit.113">um</word>
+</nite:root>

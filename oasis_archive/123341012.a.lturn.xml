@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='123341012.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='123341012.lturn.1'>
+
+
+<utt id='123341012.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='123341012.frag.1'>
+<nite:child href='123341012.a.unit.xml#id(123341012.a.unit.1)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='123341012.lturn.3'>
+
+
+<utt id='123341012.utt.4'>
+
+<segment type='dm' sp-act='ackn' id='123341012.dm.1'>
+<nite:child href='123341012.a.unit.xml#id(123341012.a.unit.16)..id(123341012.a.unit.17)'/>
+</segment>
+
+</utt>
+
+<utt id='123341012.utt.5'>
+
+<segment type='q_yn' sp-act='reqInfo' id='123341012.q_yn.2'>
+<nite:child href='123341012.a.unit.xml#id(123341012.a.unit.18)..id(123341012.a.unit.26)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='123341012.lturn.5'>
+
+
+<utt id='123341012.utt.7'>
+
+<segment type='yes' sp-act='ackn' id='123341012.yes.2'>
+<nite:child href='123341012.a.unit.xml#id(123341012.a.unit.30)'/>
+</segment>
+
+</utt>
+
+<utt id='123341012.utt.8'>
+
+<segment type='dm' sp-act='accept' id='123341012.dm.3'>
+<nite:child href='123341012.a.unit.xml#id(123341012.a.unit.31)'/>
+</segment>
+
+</utt>
+
+<utt id='123341012.utt.9'>
+
+<segment type='imp' sp-act='hold' id='123341012.a.imp.1'>
+<nite:child href='123341012.a.unit.xml#id(123341012.a.unit.32)..id(123341012.a.unit.35)'/>
+</segment>
+
+</utt>
+
+<utt id='123341012.utt.10'>
+
+<segment type='decl' sp-act='informIntent' id='123341012.decl.1'>
+<nite:child href='123341012.a.unit.xml#id(123341012.a.unit.36)..id(123341012.a.unit.42)'/>
+</segment>
+
+</utt>
+
+<utt id='123341012.utt.11'>
+
+<segment type='decl' sp-act='inform' id='123341012.decl.2'>
+<nite:child href='123341012.a.unit.xml#id(123341012.a.unit.43)..id(123341012.a.unit.49)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='123341012.lturn.7'>
+
+
+<utt id='123341012.utt.13'>
+
+<segment type='frag' sp-act='uninterpretable' id='123341012.frag.4'>
+<nite:child href='123341012.a.unit.xml#id(123341012.a.unit.52)..id(123341012.a.unit.53)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

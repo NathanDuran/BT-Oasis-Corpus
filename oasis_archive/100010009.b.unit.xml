@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="100010009.unit.b">
+<comment text="click" id="100010009.b.unit.2"/>
+<word id="100010009.b.unit.3">oh</word>
+<word id="100010009.b.unit.4">this</word>
+<word id="100010009.b.unit.5">is</word>
+<word id="100010009.b.unit.6">good</word>
+<word id="100010009.b.unit.7">getting</word>
+<word id="100010009.b.unit.8">through</word>
+<word id="100010009.b.unit.9">like</word>
+<word id="100010009.b.unit.10">this</word>
+<bcanchor id="100010009.bcanchorb.1"><nite:pointer href="100010009.a.lturn.xml#id(100010009.lturn.2.1)" role="bc"/></bcanchor>
+<comment text="laugh" id="100010009.b.unit.14"/>
+<word id="100010009.b.unit.15">it's</word>
+<word id="100010009.b.unit.16">the</word>
+<pncode type="business" id="100010009.b.unit.17"/>
+<pncode type="business" id="100010009.b.unit.18"/>
+<pncode type="business" id="100010009.b.unit.19"/>
+<word id="100010009.b.unit.20">in</word>
+<pncode type="town" id="100010009.b.unit.21"/>
+<word id="100010009.b.unit.22">here</word>
+<word id="100010009.b.unit.24">i'll</word>
+<word id="100010009.b.unit.25">tell</word>
+<word id="100010009.b.unit.26">you</word>
+<word id="100010009.b.unit.27">what</word>
+<word id="100010009.b.unit.28">it</word>
+<word id="100010009.b.unit.29">is</word>
+<bcanchor id="100010009.bcanchorb.2"><nite:pointer href="100010009.a.lturn.xml#id(100010009.lturn.4.1)" role="bc"/></bcanchor>
+<word id="100010009.b.unit.32">i'll</word>
+<word id="100010009.b.unit.33">give</word>
+<word id="100010009.b.unit.34">you</word>
+<word id="100010009.b.unit.35">the</word>
+<word id="100010009.b.unit.36">customer's</word>
+<word id="100010009.b.unit.37">telephone</word>
+<word id="100010009.b.unit.38">number</word>
+<word id="100010009.b.unit.44">you</word>
+<word id="100010009.b.unit.45">i</word>
+<word id="100010009.b.unit.46">think</word>
+<word id="100010009.b.unit.47">she</word>
+<word id="100010009.b.unit.48">should</word>
+<word id="100010009.b.unit.49">be</word>
+<word id="100010009.b.unit.50">on</word>
+<word id="100010009.b.unit.51">low</word>
+<word id="100010009.b.unit.52">user</word>
+</nite:root>

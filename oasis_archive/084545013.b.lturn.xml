@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='084545013.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='084545013.lturn.2'>
+
+
+<utt id='084545013.utt.2'>
+
+<segment type='frag' sp-act='exclaim' id='084545013.frag.2'>
+<nite:child href='084545013.b.unit.xml#id(084545013.b.unit.2)..id(084545013.b.unit.3)'/>
+</segment>
+
+</utt>
+
+<utt id='084545013.utt.3'>
+
+<segment type='decl' sp-act='unclassifiable' id='084545013.decl.1'>
+<nite:child href='084545013.b.unit.xml#id(084545013.b.unit.4)..id(084545013.b.unit.7)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='084545013.lturn.4'>
+
+
+<utt id='084545013.utt.5'>
+
+<segment type='frag' sp-act='exclaim' id='084545013.frag.3'>
+<nite:child href='084545013.b.unit.xml#id(084545013.b.unit.11)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='084545013.lturn.6'>
+
+
+<utt id='084545013.utt.7'>
+
+<segment type='dm' sp-act='init' id='084545013.dm.1'>
+<nite:child href='084545013.b.unit.xml#id(084545013.b.unit.16)'/>
+</segment>
+
+<segment type='decl' sp-act='inform' id='084545013.decl.3'>
+<nite:child href='084545013.b.unit.xml#id(084545013.b.unit.17)..id(084545013.b.unit.33)'/>
+</segment>
+
+</utt>
+
+<utt id='084545013.utt.8'>
+
+<segment type='decl' sp-act='inform' id='084545013.decl.4'>
+<nite:child href='084545013.b.unit.xml#id(084545013.b.unit.34)..id(084545013.b.unit.40)'/>
+</segment>
+
+</utt>
+
+<utt id='084545013.utt.9'>
+
+<segment type='decl' sp-act='inform' id='084545013.decl.5'>
+<nite:child href='084545013.b.unit.xml#id(084545013.b.unit.41)..id(084545013.b.unit.53)'/>
+</segment>
+
+</utt>
+
+<utt id='084545013.utt.10'>
+
+<segment type='decl' sp-act='inform' id='084545013.decl.6'>
+<nite:child href='084545013.b.unit.xml#id(084545013.b.unit.54)..id(084545013.b.unit.85)'/>
+</segment>
+
+</utt>
+
+<utt id='084545013.utt.11'>
+
+<segment type='decl' sp-act='raiseIssue' id='084545013.decl.7'>
+<nite:child href='084545013.b.unit.xml#id(084545013.b.unit.86)..id(084545013.b.unit.95)'/>
+</segment>
+
+</utt>
+
+<utt id='084545013.utt.12'>
+
+<segment type='decl' sp-act='raiseIssue' id='084545013.decl.8'>
+<nite:child href='084545013.b.unit.xml#id(084545013.b.unit.96)..id(084545013.b.unit.104)'/>
+</segment>
+
+</utt>
+
+<utt id='084545013.utt.13'>
+
+<segment type='decl' sp-act='inform' id='084545013.decl.9'>
+<nite:child href='084545013.b.unit.xml#id(084545013.b.unit.105)..id(084545013.b.unit.116)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

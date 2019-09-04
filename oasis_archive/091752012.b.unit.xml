@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="091752012.unit.b">
+<word id="091752012.b.unit.2">hiya</word>
+<word id="091752012.b.unit.3">um</word>
+<word id="091752012.b.unit.4">i</word>
+<word id="091752012.b.unit.5">rang</word>
+<word id="091752012.b.unit.6">about</word>
+<word id="091752012.b.unit.7">a</word>
+<word id="091752012.b.unit.8">couple</word>
+<word id="091752012.b.unit.9">of</word>
+<word id="091752012.b.unit.10">weeks</word>
+<word id="091752012.b.unit.11">ago</word>
+<word id="091752012.b.unit.12">about</word>
+<partword id="091752012.b.unit.13">th</partword>
+<word id="091752012.b.unit.14">that</word>
+<word id="091752012.b.unit.15">we'd</word>
+<word id="091752012.b.unit.16">moved</word>
+<word id="091752012.b.unit.17">home</word>
+<bcanchor id="091752012.bcanchorb.1"><nite:pointer href="091752012.a.lturn.xml#id(091752012.lturn.2.1)" role="bc"/></bcanchor>
+<word id="091752012.b.unit.20">and</word>
+<word id="091752012.b.unit.21">to</word>
+<word id="091752012.b.unit.22">arrange</word>
+<word id="091752012.b.unit.23">for</word>
+<word id="091752012.b.unit.24">a</word>
+<word id="091752012.b.unit.25">final</word>
+<word id="091752012.b.unit.26">bill</word>
+<word id="091752012.b.unit.27">to</word>
+<word id="091752012.b.unit.28">be</word>
+<word id="091752012.b.unit.29">sent</word>
+<word id="091752012.b.unit.30">out</word>
+<bcanchor id="091752012.bcanchorb.2"><nite:pointer href="091752012.a.lturn.xml#id(091752012.lturn.2.2)" role="bc"/></bcanchor>
+<word id="091752012.b.unit.34">and</word>
+<word id="091752012.b.unit.35">the</word>
+<word id="091752012.b.unit.36">phone</word>
+<word id="091752012.b.unit.37">to</word>
+<word id="091752012.b.unit.38">be</word>
+<word id="091752012.b.unit.39">cut</word>
+<word id="091752012.b.unit.40">off</word>
+<word id="091752012.b.unit.41">uh</word>
+<word id="091752012.b.unit.42">we</word>
+<word id="091752012.b.unit.43">haven't</word>
+<word id="091752012.b.unit.44">received</word>
+<word id="091752012.b.unit.45">it</word>
+<word id="091752012.b.unit.46">yet</word>
+<word id="091752012.b.unit.47">i'm</word>
+<word id="091752012.b.unit.48">just</word>
+<word id="091752012.b.unit.49">checking</word>
+<word id="091752012.b.unit.50">that</word>
+<word id="091752012.b.unit.51">it's</word>
+<word id="091752012.b.unit.52">been</word>
+<word id="091752012.b.unit.53">done</word>
+<word id="091752012.b.unit.65">yeah</word>
+<word id="091752012.b.unit.66">it's</word>
+<num id="091752012.b.unit.67"/>
+<num id="091752012.b.unit.68"/>
+<num id="091752012.b.unit.69"/>
+<num id="091752012.b.unit.70"/>
+<num id="091752012.b.unit.71"/>
+<num id="091752012.b.unit.77"/>
+<num id="091752012.b.unit.78"/>
+<num id="091752012.b.unit.79"/>
+<num id="091752012.b.unit.83"/>
+<num id="091752012.b.unit.84"/>
+<num id="091752012.b.unit.85"/>
+<sil BTlength="4s" id="091752012.b.unit.86"/>
+<word id="091752012.b.unit.114">yeah</word>
+<word id="091752012.b.unit.115">the</word>
+<word id="091752012.b.unit.116">name</word>
+<word id="091752012.b.unit.117">you've</word>
+<word id="091752012.b.unit.118">got</word>
+<word id="091752012.b.unit.119">is</word>
+<word id="091752012.b.unit.120">miss</word>
+<stdzcode id="091752012.b.unit.121" description="name"/>
+<pncode type="surname" id="091752012.b.unit.122"/>
+<sil BTlength="" id="091752012.b.unit.123"/>
+<word id="091752012.b.unit.124">uh</word>
+<word id="091752012.b.unit.125">sorry</word>
+<word id="091752012.b.unit.126">is</word>
+<word id="091752012.b.unit.127">miss</word>
+<stdzcode id="091752012.b.unit.128" description="name"/>
+<pncode type="surname" id="091752012.b.unit.129"/>
+<bcanchor id="091752012.bcanchorb.3"><nite:pointer href="091752012.a.lturn.xml#id(091752012.lturn.10.1)" role="bc"/></bcanchor>
+<word id="091752012.b.unit.133">but</word>
+<word id="091752012.b.unit.134">it's</word>
+<word id="091752012.b.unit.135">actually</word>
+<word id="091752012.b.unit.136">a</word>
+<word id="091752012.b.unit.137">miss</word>
+<stdzcode id="091752012.b.unit.138" description="name"/>
+<pncode type="surname" id="091752012.b.unit.139"/>
+<word id="091752012.b.unit.140">and</word>
+<word id="091752012.b.unit.141">it's</word>
+<word id="091752012.b.unit.142">flat</word>
+<num id="091752012.b.unit.143"/>
+<num id="091752012.b.unit.144"/>
+<pncode type="letter" id="091752012.b.unit.145"/>
+<pncode type="road" id="091752012.b.unit.146"/>
+<pncode type="road" id="091752012.b.unit.147"/>
+<pncode type="town" id="091752012.b.unit.148"/>
+<pncode type="letter" id="091752012.b.unit.149"/>
+<pncode type="letter" id="091752012.b.unit.150"/>
+<num id="091752012.b.unit.151"/>
+<num id="091752012.b.unit.152"/>
+<pncode type="letter" id="091752012.b.unit.153"/>
+<pncode type="letter" id="091752012.b.unit.154"/>
+<word id="091752012.b.unit.178">right</word>
+<word id="091752012.b.unit.179">i</word>
+<word id="091752012.b.unit.180">spoke</word>
+<word id="091752012.b.unit.181">to</word>
+<partword id="091752012.b.unit.182">s</partword>
+<word id="091752012.b.unit.183">uh</word>
+<word id="091752012.b.unit.184">uh</word>
+<word id="091752012.b.unit.185">a</word>
+<word id="091752012.b.unit.186">man</word>
+<word id="091752012.b.unit.187">a</word>
+<word id="091752012.b.unit.188">couple</word>
+<word id="091752012.b.unit.189">of</word>
+<word id="091752012.b.unit.190">weeks</word>
+<word id="091752012.b.unit.191">ago</word>
+<sil BTlength="2s" id="091752012.b.unit.192"/>
+<word id="091752012.b.unit.193">and</word>
+<word id="091752012.b.unit.194">he</word>
+<word id="091752012.b.unit.195">was</word>
+<word id="091752012.b.unit.196">supposed</word>
+<word id="091752012.b.unit.197">to</word>
+<word id="091752012.b.unit.198">be</word>
+<word id="091752012.b.unit.199">cutting</word>
+<word id="091752012.b.unit.200">it</word>
+<word id="091752012.b.unit.201">off</word>
+<word id="091752012.b.unit.202">he</word>
+<word id="091752012.b.unit.203">said</word>
+<word id="091752012.b.unit.204">it</word>
+<word id="091752012.b.unit.205">normally</word>
+<word id="091752012.b.unit.206">takes</word>
+<word id="091752012.b.unit.207">a</word>
+<word id="091752012.b.unit.208">while</word>
+<word id="091752012.b.unit.209">but</word>
+<word id="091752012.b.unit.210">he</word>
+<word id="091752012.b.unit.211">could</word>
+<word id="091752012.b.unit.212">do</word>
+<word id="091752012.b.unit.213">it</word>
+<word id="091752012.b.unit.214">today</word>
+<word id="091752012.b.unit.215">if</word>
+<word id="091752012.b.unit.216">he</word>
+<word id="091752012.b.unit.217">rushed</word>
+<word id="091752012.b.unit.218">it</word>
+<word id="091752012.b.unit.219">through</word>
+<word id="091752012.b.unit.220">or</word>
+<word id="091752012.b.unit.221">something</word>
+<word id="091752012.b.unit.222">and</word>
+<word id="091752012.b.unit.223">he'd</word>
+<word id="091752012.b.unit.224">send</word>
+<word id="091752012.b.unit.225">me</word>
+<word id="091752012.b.unit.226">the</word>
+<word id="091752012.b.unit.227">bill</word>
+<sil BTlength="3s" id="091752012.b.unit.228"/>
+<word id="091752012.b.unit.229">as</word>
+<word id="091752012.b.unit.230">of</word>
+<word id="091752012.b.unit.231">the</word>
+<num id="091752012.b.unit.232"/>
+<sil BTlength="32s" id="091752012.b.unit.233"/>
+<word id="091752012.b.unit.245">um</word>
+<word id="091752012.b.unit.246">yeah</word>
+<word id="091752012.b.unit.247">hang</word>
+<word id="091752012.b.unit.248">on</word>
+<word id="091752012.b.unit.249">a</word>
+<word id="091752012.b.unit.250">minute</word>
+<pncode type="letter" id="091752012.b.unit.251"/>
+<pncode type="letter" id="091752012.b.unit.252"/>
+<bcanchor id="091752012.bcanchorb.4"><nite:pointer href="091752012.a.lturn.xml#id(091752012.lturn.14.1)" role="bc"/></bcanchor>
+<num id="091752012.b.unit.254"/>
+<num id="091752012.b.unit.255"/>
+<num id="091752012.b.unit.256"/>
+<num id="091752012.b.unit.257"/>
+<bcanchor id="091752012.bcanchorb.5"><nite:pointer href="091752012.a.lturn.xml#id(091752012.lturn.14.2)" role="bc"/></bcanchor>
+<num id="091752012.b.unit.259"/>
+<num id="091752012.b.unit.260"/>
+<num id="091752012.b.unit.261"/>
+<num id="091752012.b.unit.262"/>
+<word id="091752012.b.unit.290">okay</word>
+</nite:root>

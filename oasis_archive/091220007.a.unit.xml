@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="091220007.unit.a">
+<stdzcode id="091220007.a.unit.1" description="name"/>
+<word id="091220007.a.unit.17">um</word>
+<word id="091220007.a.unit.18">yes</word>
+<word id="091220007.a.unit.19">uh</word>
+<word id="091220007.a.unit.20">what's</word>
+<word id="091220007.a.unit.21">your</word>
+<word id="091220007.a.unit.22">telephone</word>
+<word id="091220007.a.unit.23">number</word>
+<num id="091220007.a.unit.29"/>
+<num id="091220007.a.unit.30"/>
+<num id="091220007.a.unit.31"/>
+<num id="091220007.a.unit.32"/>
+<partword id="091220007.a.unit.36">l</partword>
+<word id="091220007.a.unit.37">no</word>
+<phonword id="091220007.a.unit.38">hng*</phonword>
+<partword id="091220007.a.unit.39">n</partword>
+<comment text="typing_noise_2.4s" id="091220007.a.unit.40"/>
+<word id="091220007.a.unit.41">i'm</word>
+<word id="091220007.a.unit.42">afraid</word>
+<word id="091220007.a.unit.43">i</word>
+<word id="091220007.a.unit.44">can't</word>
+<word id="091220007.a.unit.45">do</word>
+<word id="091220007.a.unit.46">anything</word>
+<word id="091220007.a.unit.47">on</word>
+<word id="091220007.a.unit.48">my</word>
+<word id="091220007.a.unit.49">oh</word>
+<partword id="091220007.a.unit.50">m</partword>
+<word id="091220007.a.unit.51">computer's</word>
+<word id="091220007.a.unit.52">just</word>
+<word id="091220007.a.unit.53">locked</word>
+<word id="091220007.a.unit.54">me</word>
+<word id="091220007.a.unit.55">out</word>
+<bcanchor id="091220007.bcanchora.1"><nite:pointer href="091220007.b.lturn.xml#id(091220007.lturn.7.1)" role="bc"/></bcanchor>
+<word id="091220007.a.unit.58">hold</word>
+<word id="091220007.a.unit.59">on</word>
+<comment text="typing_59s" id="091220007.a.unit.60"/>
+<word id="091220007.a.unit.61">righty</word>
+<word id="091220007.a.unit.62">ho</word>
+<word id="091220007.a.unit.63">if</word>
+<word id="091220007.a.unit.64">you</word>
+<word id="091220007.a.unit.65">just</word>
+<word id="091220007.a.unit.66">bear</word>
+<word id="091220007.a.unit.67">with</word>
+<word id="091220007.a.unit.68">me</word>
+<word id="091220007.a.unit.69">a</word>
+<word id="091220007.a.unit.70">moment</word>
+<word id="091220007.a.unit.71">i'll</word>
+<word id="091220007.a.unit.72">have</word>
+<word id="091220007.a.unit.73">to</word>
+<word id="091220007.a.unit.74">transfer</word>
+<word id="091220007.a.unit.75">you</word>
+<word id="091220007.a.unit.76">i'm</word>
+<word id="091220007.a.unit.77">afraid</word>
+<word id="091220007.a.unit.78">through</word>
+<bcanchor id="091220007.bcanchora.2"><nite:pointer href="091220007.b.lturn.xml#id(091220007.lturn.7.2)" role="bc"/></bcanchor>
+<word id="091220007.a.unit.80">to</word>
+<word id="091220007.a.unit.81">a</word>
+<word id="091220007.a.unit.82">colleague</word>
+<word id="091220007.a.unit.83">because</word>
+<word id="091220007.a.unit.84">i</word>
+<word id="091220007.a.unit.85">can't</word>
+<word id="091220007.a.unit.86">dial</word>
+<word id="091220007.a.unit.87">anything</word>
+<word id="091220007.a.unit.88">on</word>
+<word id="091220007.a.unit.89">my</word>
+<partword id="091220007.a.unit.90">comput</partword>
+<bcanchor id="091220007.bcanchora.3"><nite:pointer href="091220007.b.lturn.xml#id(091220007.lturn.7.3)" role="bc"/></bcanchor>
+<word id="091220007.a.unit.92">on</word>
+<word id="091220007.a.unit.93">my</word>
+<word id="091220007.a.unit.94">um</word>
+<sil BTlength="" id="091220007.a.unit.95"/>
+<word id="091220007.a.unit.96">keypad</word>
+<word id="091220007.a.unit.97">if</word>
+<word id="091220007.a.unit.98">you</word>
+<word id="091220007.a.unit.99">just</word>
+<word id="091220007.a.unit.100">bear</word>
+<word id="091220007.a.unit.101">with</word>
+<word id="091220007.a.unit.102">me</word>
+<bcanchor id="091220007.bcanchora.4"><nite:pointer href="091220007.b.lturn.xml#id(091220007.lturn.7.4)" role="bc"/></bcanchor>
+<word id="091220007.a.unit.104">a</word>
+<word id="091220007.a.unit.105">moment</word>
+<sil BTlength="4s" id="091220007.a.unit.106"/>
+<comment text="music_3s" id="091220007.a.unit.107"/>
+</nite:root>

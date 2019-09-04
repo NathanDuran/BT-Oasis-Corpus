@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="132057006.unit.b">
+<word id="132057006.b.unit.2">oh</word>
+<word id="132057006.b.unit.3">hi</word>
+<word id="132057006.b.unit.4">i</word>
+<word id="132057006.b.unit.5">wanted</word>
+<word id="132057006.b.unit.6">to</word>
+<word id="132057006.b.unit.7">change</word>
+<word id="132057006.b.unit.8">some</word>
+<word id="132057006.b.unit.9">numbers</word>
+<word id="132057006.b.unit.10">on</word>
+<word id="132057006.b.unit.11">my</word>
+<word id="132057006.b.unit.12">friends</word>
+<word id="132057006.b.unit.13">and</word>
+<word id="132057006.b.unit.14">family</word>
+<word id="132057006.b.unit.15">um</word>
+<word id="132057006.b.unit.16">can</word>
+<word id="132057006.b.unit.17">you</word>
+<word id="132057006.b.unit.18">give</word>
+<word id="132057006.b.unit.19">me</word>
+<word id="132057006.b.unit.20">the</word>
+<word id="132057006.b.unit.21">number</word>
+<word id="132057006.b.unit.22">who</word>
+<word id="132057006.b.unit.23">to</word>
+<word id="132057006.b.unit.24">phone</word>
+<word id="132057006.b.unit.35">it's</word>
+<word id="132057006.b.unit.36">um</word>
+<pncode type="letter" id="132057006.b.unit.37"/>
+<pncode type="letter" id="132057006.b.unit.38"/>
+<bcanchor id="132057006.bcanchorb.1"><nite:pointer href="132057006.a.lturn.xml#id(132057006.lturn.4.1)" role="bc"/></bcanchor>
+<num id="132057006.b.unit.40"/>
+<num id="132057006.b.unit.41"/>
+<num id="132057006.b.unit.42"/>
+<num id="132057006.b.unit.43"/>
+<bcanchor id="132057006.bcanchorb.2"><nite:pointer href="132057006.a.lturn.xml#id(132057006.lturn.4.2)" role="bc"/></bcanchor>
+<num id="132057006.b.unit.45"/>
+<num id="132057006.b.unit.46"/>
+<num id="132057006.b.unit.47"/>
+<num id="132057006.b.unit.48"/>
+<pncode type="letter" id="132057006.b.unit.49"/>
+<num id="132057006.b.unit.50"/>
+<num id="132057006.b.unit.51"/>
+<num id="132057006.b.unit.52"/>
+<word id="132057006.b.unit.64">it's</word>
+<stdzcode id="132057006.b.unit.65" description="name"/>
+<stdzcode id="132057006.b.unit.66" description="name"/>
+<word id="132057006.b.unit.67">number</word>
+<num id="132057006.b.unit.68"/>
+<pncode type="road" id="132057006.b.unit.69"/>
+<pncode type="town" id="132057006.b.unit.73"/>
+<pncode type="town" id="132057006.b.unit.74"/>
+<word id="132057006.b.unit.75">in</word>
+<pncode type="town" id="132057006.b.unit.76"/>
+<word id="132057006.b.unit.82">is</word>
+<pncode type="letter" id="132057006.b.unit.83"/>
+<pncode type="letter" id="132057006.b.unit.84"/>
+<num id="132057006.b.unit.85"/>
+<num id="132057006.b.unit.86"/>
+<pncode type="letter" id="132057006.b.unit.87"/>
+<pncode type="letter" id="132057006.b.unit.88"/>
+<word id="132057006.b.unit.99">it's</word>
+<word id="132057006.b.unit.100">quite</word>
+<word id="132057006.b.unit.101">a</word>
+<word id="132057006.b.unit.102">few</word>
+<word id="132057006.b.unit.103">actually</word>
+<word id="132057006.b.unit.104">um</word>
+<word id="132057006.b.unit.118">yeah</word>
+<word id="132057006.b.unit.119">please</word>
+<word id="132057006.b.unit.120">um</word>
+<word id="132057006.b.unit.121">wanna</word>
+<word id="132057006.b.unit.122">keep</word>
+<word id="132057006.b.unit.123">the</word>
+<word id="132057006.b.unit.124">best</word>
+<word id="132057006.b.unit.125">friends</word>
+<word id="132057006.b.unit.126">the</word>
+<word id="132057006.b.unit.127">same</word>
+</nite:root>

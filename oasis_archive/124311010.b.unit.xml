@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="124311010.unit.b">
+<word id="124311010.b.unit.2">um</word>
+<word id="124311010.b.unit.3">you</word>
+<word id="124311010.b.unit.4">don't</word>
+<word id="124311010.b.unit.5">know</word>
+<word id="124311010.b.unit.6">which</word>
+<word id="124311010.b.unit.7">number</word>
+<word id="124311010.b.unit.8">i</word>
+<word id="124311010.b.unit.9">have</word>
+<word id="124311010.b.unit.10">to</word>
+<word id="124311010.b.unit.11">phone</word>
+<word id="124311010.b.unit.12">to</word>
+<word id="124311010.b.unit.13">get</word>
+<word id="124311010.b.unit.14">through</word>
+<word id="124311010.b.unit.15">about</word>
+<word id="124311010.b.unit.16">the</word>
+<word id="124311010.b.unit.17">digital</word>
+<word id="124311010.b.unit.18">television</word>
+<word id="124311010.b.unit.19">do</word>
+<word id="124311010.b.unit.20">you</word>
+<word id="124311010.b.unit.24">yes</word>
+<word id="124311010.b.unit.39">okay</word>
+<word id="124311010.b.unit.40">thank</word>
+<word id="124311010.b.unit.41">you</word>
+<word id="124311010.b.unit.53">okay</word>
+<comment text="throat" id="124311010.b.unit.54"/>
+<sil BTlength="5s" id="124311010.b.unit.55"/>
+<comment text="music_18s" id="124311010.b.unit.56"/>
+<comment text="dog_barks" id="124311010.b.unit.57"/>
+<comment text="hangs_up" id="124311010.b.unit.58"/>
+<comment text="end-ok" id="124311010.b.unit.59"/>
+</nite:root>

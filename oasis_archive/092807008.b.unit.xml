@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="092807008.unit.b">
+<word id="092807008.b.unit.2">oh</word>
+<word id="092807008.b.unit.3">hi</word>
+<word id="092807008.b.unit.4">i've</word>
+<word id="092807008.b.unit.5">just</word>
+<word id="092807008.b.unit.6">um</word>
+<word id="092807008.b.unit.7">had</word>
+<word id="092807008.b.unit.8">a</word>
+<word id="092807008.b.unit.9">new</word>
+<word id="092807008.b.unit.10">phone</word>
+<word id="092807008.b.unit.11">line</word>
+<word id="092807008.b.unit.12">put</word>
+<word id="092807008.b.unit.13">on</word>
+<word id="092807008.b.unit.14">this</word>
+<word id="092807008.b.unit.15">morning</word>
+<sil BTlength="" id="092807008.b.unit.16"/>
+<bcanchor id="092807008.bcanchorb.1"><nite:pointer href="092807008.a.lturn.xml#id(092807008.lturn.2.1)" role="bc"/></bcanchor>
+<word id="092807008.b.unit.19">and</word>
+<word id="092807008.b.unit.20">my</word>
+<word id="092807008.b.unit.21">number's</word>
+<num id="092807008.b.unit.22"/>
+<num id="092807008.b.unit.23"/>
+<num id="092807008.b.unit.24"/>
+<num id="092807008.b.unit.25"/>
+<num id="092807008.b.unit.26"/>
+<word id="092807008.b.unit.32">um</word>
+<num id="092807008.b.unit.33"/>
+<num id="092807008.b.unit.34"/>
+<num id="092807008.b.unit.35"/>
+<num id="092807008.b.unit.38"/>
+<num id="092807008.b.unit.39"/>
+<num id="092807008.b.unit.40"/>
+<word id="092807008.b.unit.42">and</word>
+<word id="092807008.b.unit.43">it</word>
+<word id="092807008.b.unit.44">hasn't</word>
+<word id="092807008.b.unit.45">got</word>
+<word id="092807008.b.unit.46">um</word>
+<word id="092807008.b.unit.47">the</word>
+<word id="092807008.b.unit.48">Call</word>
+<word id="092807008.b.unit.49">Back</word>
+<word id="092807008.b.unit.50">on</word>
+<word id="092807008.b.unit.51">it</word>
+</nite:root>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="094627008.unit.b">
+<word id="094627008.b.unit.2">i</word>
+<word id="094627008.b.unit.3">i'm</word>
+<word id="094627008.b.unit.4">just</word>
+<word id="094627008.b.unit.5">trying</word>
+<word id="094627008.b.unit.6">to</word>
+<word id="094627008.b.unit.7">find</word>
+<word id="094627008.b.unit.8">out</word>
+<word id="094627008.b.unit.9">how</word>
+<word id="094627008.b.unit.10">much</word>
+<word id="094627008.b.unit.11">i've</word>
+<word id="094627008.b.unit.12">got</word>
+<word id="094627008.b.unit.13">left</word>
+<word id="094627008.b.unit.14">on</word>
+<word id="094627008.b.unit.15">me</word>
+<word id="094627008.b.unit.16">bill</word>
+<word id="094627008.b.unit.17">love</word>
+<word id="094627008.b.unit.28">yeah</word>
+<word id="094627008.b.unit.29">uh</word>
+<word id="094627008.b.unit.30">what</word>
+<word id="094627008.b.unit.31">me</word>
+<word id="094627008.b.unit.32">customer</word>
+<word id="094627008.b.unit.33">number</word>
+<word id="094627008.b.unit.36">it's</word>
+<pncode type="letter" id="094627008.b.unit.37"/>
+<word id="094627008.b.unit.38">for</word>
+<stdzcode id="094627008.b.unit.39" description="name"/>
+<pncode type="letter" id="094627008.b.unit.40"/>
+<word id="094627008.b.unit.41">for</word>
+<stdzcode id="094627008.b.unit.42" description="name"/>
+<word id="094627008.b.unit.44">double</word>
+<num id="094627008.b.unit.45"/>
+<num id="094627008.b.unit.46"/>
+<num id="094627008.b.unit.47"/>
+<word id="094627008.b.unit.49">treble</word>
+<num id="094627008.b.unit.50"/>
+<num id="094627008.b.unit.51"/>
+<num id="094627008.b.unit.53"/>
+<word id="094627008.b.unit.54">double</word>
+<num id="094627008.b.unit.55"/>
+<num id="094627008.b.unit.56"/>
+<sil BTlength="" id="094627008.b.unit.57"/>
+<pncode type="letter" id="094627008.b.unit.58"/>
+<word id="094627008.b.unit.59">for</word>
+<stdzcode id="094627008.b.unit.60" description="name"/>
+<num id="094627008.b.unit.61"/>
+</nite:root>

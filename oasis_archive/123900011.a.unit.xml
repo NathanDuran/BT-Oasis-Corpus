@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="123900011.unit.a">
+<stdzcode id="123900011.a.unit.1" description="name"/>
+<word id="123900011.a.unit.41">right</word>
+<word id="123900011.a.unit.42">at</word>
+<word id="123900011.a.unit.43">the</word>
+<word id="123900011.a.unit.44">new</word>
+<word id="123900011.a.unit.45">at</word>
+<word id="123900011.a.unit.46">the</word>
+<word id="123900011.a.unit.47">address</word>
+<word id="123900011.a.unit.48">that</word>
+<word id="123900011.a.unit.49">you're</word>
+<word id="123900011.a.unit.50">moving</word>
+<word id="123900011.a.unit.51">to</word>
+<num id="123900011.a.unit.57"/>
+<pncode type="road" id="123900011.a.unit.58"/>
+<word id="123900011.a.unit.59">is</word>
+<word id="123900011.a.unit.60">that</word>
+<num id="123900011.a.unit.63"/>
+<sil BTlength="" id="123900011.a.unit.64"/>
+<pncode type="road" id="123900011.a.unit.65"/>
+<pncode type="letter" id="123900011.a.unit.73"/>
+<pncode type="letter" id="123900011.a.unit.74"/>
+<pncode type="letter" id="123900011.a.unit.75"/>
+<pncode type="letter" id="123900011.a.unit.76"/>
+<pncode type="road" id="123900011.a.unit.77"/>
+<pncode type="road" id="123900011.a.unit.78"/>
+<word id="123900011.a.unit.79">yeah</word>
+<pncode type="road" id="123900011.a.unit.83"/>
+<pncode type="road" id="123900011.a.unit.84"/>
+<word id="123900011.a.unit.85">yeah</word>
+<pncode type="town" id="123900011.a.unit.87"/>
+<word id="123900011.a.unit.88">yeah</word>
+<word id="123900011.a.unit.90">mm</word>
+<word id="123900011.a.unit.91">mm</word>
+<word id="123900011.a.unit.92">and</word>
+<word id="123900011.a.unit.93">do</word>
+<word id="123900011.a.unit.94">you</word>
+<word id="123900011.a.unit.95">have</word>
+<word id="123900011.a.unit.96">a</word>
+<word id="123900011.a.unit.97">postcode</word>
+</nite:root>

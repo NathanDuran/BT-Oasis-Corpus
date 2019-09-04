@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="123900007.unit.a">
+<stdzcode id="123900007.a.unit.1" description="name"/>
+<word id="123900007.a.unit.17">i'll</word>
+<word id="123900007.a.unit.18">get</word>
+<word id="123900007.a.unit.19">you</word>
+<word id="123900007.a.unit.20">the</word>
+<word id="123900007.a.unit.21">number</word>
+<partword id="123900007.a.unit.22">f</partword>
+<word id="123900007.a.unit.23">hold</word>
+<word id="123900007.a.unit.24">on</word>
+<sil BTlength="3s" id="123900007.a.unit.25"/>
+<word id="123900007.a.unit.26">if</word>
+<word id="123900007.a.unit.27">i</word>
+<word id="123900007.a.unit.28">can</word>
+<word id="123900007.a.unit.29">find</word>
+<word id="123900007.a.unit.30">it</word>
+<word id="123900007.a.unit.31">that</word>
+<word id="123900007.a.unit.32">is</word>
+<word id="123900007.a.unit.33">can</word>
+<word id="123900007.a.unit.34">you</word>
+<word id="123900007.a.unit.35">hold</word>
+<word id="123900007.a.unit.36">on</word>
+<word id="123900007.a.unit.37">a</word>
+<word id="123900007.a.unit.38">second</word>
+<sil BTlength="" id="123900007.a.unit.39"/>
+<word id="123900007.a.unit.40">can</word>
+<word id="123900007.a.unit.41">you</word>
+<word id="123900007.a.unit.42">hold</word>
+<comment text="hold_music_07s" id="123900007.a.unit.44"/>
+<word id="123900007.a.unit.45">hello</word>
+<bcanchor id="123900007.bcanchora.1"><nite:pointer href="123900007.b.lturn.xml#id(123900007.lturn.5.1)" role="bc"/></bcanchor>
+<word id="123900007.a.unit.47">sorry</word>
+<word id="123900007.a.unit.48">to</word>
+<word id="123900007.a.unit.49">keep</word>
+<word id="123900007.a.unit.50">you</word>
+<word id="123900007.a.unit.51">if</word>
+<word id="123900007.a.unit.52">you</word>
+<word id="123900007.a.unit.53">ring</word>
+<num id="123900007.a.unit.54"/>
+<num id="123900007.a.unit.55"/>
+<num id="123900007.a.unit.56"/>
+<word id="123900007.a.unit.57">okay</word>
+<word id="123900007.a.unit.61">that's</word>
+<word id="123900007.a.unit.62">it</word>
+<word id="123900007.a.unit.66">thank</word>
+<word id="123900007.a.unit.67">you</word>
+<word id="123900007.a.unit.68">bye</word>
+<comment text="end-ok" id="123900007.a.unit.69"/>
+</nite:root>

@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='125713010.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='125713010.lturn.2'>
+
+
+<utt id='125713010.utt.2'>
+
+<segment type='frag' sp-act='greet' id='125713010.frag.2'>
+<nite:child href='125713010.b.unit.xml#id(125713010.b.unit.2)'/>
+</segment>
+
+</utt>
+
+<utt id='125713010.utt.3'>
+
+<segment type='yes' sp-act='ackn' id='125713010.yes.1'>
+<nite:child href='125713010.b.unit.xml#id(125713010.b.unit.3)..id(125713010.b.unit.4)'/>
+</segment>
+
+</utt>
+
+<utt id='125713010.utt.4'>
+
+<segment type='decl' sp-act='inform' id='125713010.decl.1'>
+<nite:child href='125713010.b.unit.xml#id(125713010.b.unit.5)..id(125713010.b.unit.23)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='125713010.lturn.4'>
+
+
+<utt id='125713010.utt.6'>
+
+<segment type='decl' sp-act='inform' id='125713010.decl.2'>
+<nite:child href='125713010.b.unit.xml#id(125713010.b.unit.25)..id(125713010.b.unit.30)'/>
+</segment>
+
+</utt>
+
+<utt id='125713010.utt.7'>
+
+<segment type='decl' sp-act='inform' id='125713010.decl.3'>
+<nite:child href='125713010.b.unit.xml#id(125713010.b.unit.31)..id(125713010.b.unit.40)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='125713010.lturn.6'>
+
+
+<utt id='125713010.utt.9'>
+
+<segment type='decl' sp-act='inform' id='125713010.decl.4'>
+<nite:child href='125713010.b.unit.xml#id(125713010.b.unit.42)..id(125713010.b.unit.56)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='125713010.lturn.8'>
+
+
+<utt id='125713010.utt.11'>
+
+<segment type='dm' sp-act='init' id='125713010.dm.3'>
+<nite:child href='125713010.b.unit.xml#id(125713010.b.unit.65)'/>
+</segment>
+
+</utt>
+
+<utt id='125713010.utt.12'>
+
+<segment type='q_wh' sp-act='inform' id='125713010.q_wh.1'>
+<nite:child href='125713010.b.unit.xml#id(125713010.b.unit.66)..id(125713010.b.unit.72)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='125713010.lturn.10'>
+
+
+<utt id='125713010.utt.16'>
+
+<segment type='decl' sp-act='answ' id='125713010.decl.6'>
+<nite:child href='125713010.b.unit.xml#id(125713010.b.unit.84)..id(125713010.b.unit.91)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='125713010.lturn.12'>
+
+
+<utt id='125713010.utt.18'>
+
+<segment type='frag' sp-act='answElab' id='125713010.frag.3'>
+<nite:child href='125713010.b.unit.xml#id(125713010.b.unit.93)..id(125713010.b.unit.95)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='125713010.lturn.14'>
+
+
+<utt id='125713010.utt.20'>
+
+<segment type='frag' sp-act='answElab' id='125713010.frag.4'>
+<nite:child href='125713010.b.unit.xml#id(125713010.b.unit.97)..id(125713010.b.unit.99)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="132950010.unit.b">
+<word id="132950010.b.unit.15">yes</word>
+<word id="132950010.b.unit.16">i've</word>
+<word id="132950010.b.unit.17">got</word>
+<word id="132950010.b.unit.18">a</word>
+<word id="132950010.b.unit.19">fault</word>
+<word id="132950010.b.unit.20">on</word>
+<word id="132950010.b.unit.21">the</word>
+<word id="132950010.b.unit.22">line</word>
+<word id="132950010.b.unit.23">could</word>
+<word id="132950010.b.unit.24">you</word>
+<word id="132950010.b.unit.25">check</word>
+<word id="132950010.b.unit.26">into</word>
+<word id="132950010.b.unit.27">it</word>
+<word id="132950010.b.unit.28">for</word>
+<word id="132950010.b.unit.29">us</word>
+<word id="132950010.b.unit.30">please</word>
+<word id="132950010.b.unit.40">yeah</word>
+<word id="132950010.b.unit.41">the</word>
+<word id="132950010.b.unit.42">phone</word>
+<word id="132950010.b.unit.43">is</word>
+<word id="132950010.b.unit.44">doesn't</word>
+<word id="132950010.b.unit.45">appear</word>
+<word id="132950010.b.unit.46">to</word>
+<word id="132950010.b.unit.47">be</word>
+<word id="132950010.b.unit.48">working</word>
+<word id="132950010.b.unit.49">all</word>
+<word id="132950010.b.unit.50">that</word>
+<partword id="132950010.b.unit.51">go</partword>
+<partword id="132950010.b.unit.52">a</partword>
+<partword id="132950010.b.unit.53">a</partword>
+<partword id="132950010.b.unit.54">a</partword>
+<word id="132950010.b.unit.55">all</word>
+<word id="132950010.b.unit.56">that</word>
+<word id="132950010.b.unit.57">good</word>
+<num id="132950010.b.unit.71"/>
+<num id="132950010.b.unit.72"/>
+<num id="132950010.b.unit.73"/>
+<word id="132950010.b.unit.74">okay</word>
+<num id="132950010.b.unit.85"/>
+<num id="132950010.b.unit.86"/>
+<num id="132950010.b.unit.87"/>
+<word id="132950010.b.unit.91">cheers</word>
+<word id="132950010.b.unit.92">now</word>
+<word id="132950010.b.unit.95">bye</word>
+<comment text="hang_up" id="132950010.b.unit.96"/>
+<comment text="end-ok" id="132950010.b.unit.97"/>
+</nite:root>

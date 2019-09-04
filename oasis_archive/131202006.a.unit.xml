@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="131202006.unit.a">
+<stdzcode id="131202006.a.unit.1" description="name"/>
+<word id="131202006.a.unit.10">okay</word>
+<partword id="131202006.a.unit.11">th</partword>
+<word id="131202006.a.unit.20">okay</word>
+<word id="131202006.a.unit.21">have</word>
+<word id="131202006.a.unit.22">you</word>
+<word id="131202006.a.unit.23">got</word>
+<word id="131202006.a.unit.24">you</word>
+<word id="131202006.a.unit.25">um</word>
+<word id="131202006.a.unit.26">account</word>
+<word id="131202006.a.unit.29">have</word>
+<word id="131202006.a.unit.30">you</word>
+<word id="131202006.a.unit.31">got</word>
+<word id="131202006.a.unit.32">your</word>
+<word id="131202006.a.unit.33">account</word>
+<word id="131202006.a.unit.34">number</word>
+<word id="131202006.a.unit.35">or</word>
+<word id="131202006.a.unit.36">your</word>
+<word id="131202006.a.unit.37">telephone</word>
+<word id="131202006.a.unit.38">number</word>
+<word id="131202006.a.unit.39">there</word>
+<word id="131202006.a.unit.40">please</word>
+<sil BTlength="" id="131202006.a.unit.41"/>
+<word id="131202006.a.unit.54">yes</word>
+<word id="131202006.a.unit.55">please</word>
+<sil BTlength="" id="131202006.a.unit.56"/>
+<partword id="131202006.a.unit.62">tha</partword>
+<word id="131202006.a.unit.63">that</word>
+<word id="131202006.a.unit.64">would</word>
+<word id="131202006.a.unit.65">be</word>
+<word id="131202006.a.unit.66">it</word>
+<word id="131202006.a.unit.67">yeah</word>
+<word id="131202006.a.unit.68">your</word>
+<word id="131202006.a.unit.69">customer</word>
+<word id="131202006.a.unit.70">account</word>
+<word id="131202006.a.unit.71">number</word>
+<word id="131202006.a.unit.74">yeah</word>
+<word id="131202006.a.unit.77">yeah</word>
+<num id="131202006.a.unit.80"/>
+<num id="131202006.a.unit.81"/>
+<num id="131202006.a.unit.84"/>
+<num id="131202006.a.unit.85"/>
+<num id="131202006.a.unit.88"/>
+<num id="131202006.a.unit.89"/>
+<word id="131202006.a.unit.96">okay</word>
+<word id="131202006.a.unit.99">i'm</word>
+<word id="131202006.a.unit.100">just</word>
+<word id="131202006.a.unit.101">gonna</word>
+<word id="131202006.a.unit.102">get</word>
+<word id="131202006.a.unit.103">your</word>
+<word id="131202006.a.unit.104">details</word>
+<word id="131202006.a.unit.105">up</word>
+<noi id="131202006.a.unit.106"/>
+<comment text="headset_noise" id="131202006.a.unit.107"/>
+<sil BTlength="" id="131202006.a.unit.108"/>
+<word id="131202006.a.unit.109">okay</word>
+<word id="131202006.a.unit.110">missus</word>
+<pncode type="surname" id="131202006.a.unit.111"/>
+<word id="131202006.a.unit.112">will</word>
+<word id="131202006.a.unit.113">did</word>
+<word id="131202006.a.unit.114">you</word>
+<word id="131202006.a.unit.115">say</word>
+<word id="131202006.a.unit.116">we're</word>
+<word id="131202006.a.unit.117">looking</word>
+<word id="131202006.a.unit.118">at</word>
+<word id="131202006.a.unit.119">your</word>
+<word id="131202006.a.unit.120">bill</word>
+</nite:root>

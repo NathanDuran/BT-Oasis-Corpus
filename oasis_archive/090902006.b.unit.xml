@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="090902006.unit.b">
+<word id="090902006.b.unit.2">hey</word>
+<word id="090902006.b.unit.3">good</word>
+<word id="090902006.b.unit.4">morning</word>
+<word id="090902006.b.unit.5">would</word>
+<word id="090902006.b.unit.6">you</word>
+<word id="090902006.b.unit.7">like</word>
+<word id="090902006.b.unit.8">my</word>
+<word id="090902006.b.unit.9">customer</word>
+<word id="090902006.b.unit.10">number</word>
+<word id="090902006.b.unit.24">right</word>
+<word id="090902006.b.unit.25">um</word>
+<word id="090902006.b.unit.26">i'm</word>
+<word id="090902006.b.unit.27">the</word>
+<word id="090902006.b.unit.28">owner</word>
+<word id="090902006.b.unit.29">of</word>
+<word id="090902006.b.unit.30">a</word>
+<word id="090902006.b.unit.31">property</word>
+<word id="090902006.b.unit.32">which</word>
+<word id="090902006.b.unit.33">is</word>
+<word id="090902006.b.unit.34">normally</word>
+<word id="090902006.b.unit.35">let</word>
+<word id="090902006.b.unit.36">out</word>
+<word id="090902006.b.unit.38">it's</word>
+<word id="090902006.b.unit.39">been</word>
+<word id="090902006.b.unit.40">vacant</word>
+<word id="090902006.b.unit.41">for</word>
+<word id="090902006.b.unit.42">some</word>
+<word id="090902006.b.unit.43">time</word>
+<word id="090902006.b.unit.44">and</word>
+<word id="090902006.b.unit.45">the</word>
+<word id="090902006.b.unit.46">phone</word>
+<word id="090902006.b.unit.47">has</word>
+<word id="090902006.b.unit.48">been</word>
+<word id="090902006.b.unit.49">in</word>
+<word id="090902006.b.unit.50">my</word>
+<word id="090902006.b.unit.51">name</word>
+<sil BTlength="" id="090902006.b.unit.52"/>
+<bcanchor id="090902006.bcanchorb.1"><nite:pointer href="090902006.a.lturn.xml#id(090902006.lturn.6.1)" role="bc"/></bcanchor>
+<word id="090902006.b.unit.54">i</word>
+<word id="090902006.b.unit.55">phoned</word>
+<word id="090902006.b.unit.56">on</word>
+<word id="090902006.b.unit.57">Tuesday</word>
+<word id="090902006.b.unit.58">to</word>
+<word id="090902006.b.unit.59">say</word>
+<word id="090902006.b.unit.60">that</word>
+<word id="090902006.b.unit.61">i</word>
+<word id="090902006.b.unit.62">have</word>
+<word id="090902006.b.unit.63">sold</word>
+<word id="090902006.b.unit.64">the</word>
+<word id="090902006.b.unit.65">flat</word>
+<word id="090902006.b.unit.66">and</word>
+<word id="090902006.b.unit.67">new</word>
+<word id="090902006.b.unit.68">owners</word>
+<word id="090902006.b.unit.69">are</word>
+<word id="090902006.b.unit.70">coming</word>
+<word id="090902006.b.unit.71">in</word>
+<word id="090902006.b.unit.72">today</word>
+<bcanchor id="090902006.bcanchorb.2"><nite:pointer href="090902006.a.lturn.xml#id(090902006.lturn.6.2)" role="bc"/></bcanchor>
+<word id="090902006.b.unit.75">and</word>
+<word id="090902006.b.unit.76">that</word>
+<word id="090902006.b.unit.77">that</word>
+<word id="090902006.b.unit.78">the</word>
+<partword id="090902006.b.unit.79">nu</partword>
+<word id="090902006.b.unit.80">you</word>
+<word id="090902006.b.unit.81">know</word>
+<word id="090902006.b.unit.82">the</word>
+<word id="090902006.b.unit.83">line</word>
+<word id="090902006.b.unit.84">would</word>
+<word id="090902006.b.unit.85">be</word>
+<word id="090902006.b.unit.86">transferred</word>
+<word id="090902006.b.unit.87">to</word>
+<word id="090902006.b.unit.88">them</word>
+</nite:root>

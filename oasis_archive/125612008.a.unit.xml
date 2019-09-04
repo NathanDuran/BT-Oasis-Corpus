@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="125612008.unit.a">
+<stdzcode id="125612008.a.unit.1" description="name"/>
+<word id="125612008.a.unit.17">right</word>
+<word id="125612008.a.unit.35">oh</word>
+<word id="125612008.a.unit.36">dear</word>
+<word id="125612008.a.unit.54">oh</word>
+<word id="125612008.a.unit.55">dear</word>
+<word id="125612008.a.unit.56">right</word>
+<word id="125612008.a.unit.113">right</word>
+<word id="125612008.a.unit.128">was</word>
+<word id="125612008.a.unit.129">it</word>
+<word id="125612008.a.unit.130">an</word>
+<word id="125612008.a.unit.131">actual</word>
+<word id="125612008.a.unit.132">fault</word>
+<word id="125612008.a.unit.133">on</word>
+<word id="125612008.a.unit.134">the</word>
+<word id="125612008.a.unit.135">line</word>
+<word id="125612008.a.unit.136">or</word>
+<word id="125612008.a.unit.139">or</word>
+<word id="125612008.a.unit.140">you</word>
+<word id="125612008.a.unit.141">don't</word>
+<word id="125612008.a.unit.152">right</word>
+<word id="125612008.a.unit.167">oh</word>
+<word id="125612008.a.unit.168">dear</word>
+<word id="125612008.a.unit.185">no</word>
+<word id="125612008.a.unit.186">no</word>
+<word id="125612008.a.unit.191">no</word>
+<word id="125612008.a.unit.192">it</word>
+<word id="125612008.a.unit.193">was</word>
+<word id="125612008.a.unit.194">just</word>
+<word id="125612008.a.unit.195">something</word>
+<word id="125612008.a.unit.216">oh</word>
+<word id="125612008.a.unit.217">right</word>
+<word id="125612008.a.unit.231">right</word>
+<word id="125612008.a.unit.232">yes</word>
+<word id="125612008.a.unit.233">it</word>
+<word id="125612008.a.unit.234">sounds</word>
+<word id="125612008.a.unit.235">as</word>
+<word id="125612008.a.unit.236">it</word>
+<partword id="125612008.a.unit.237">vari</partword>
+<word id="125612008.a.unit.238">various</word>
+<word id="125612008.a.unit.239">faults</word>
+<word id="125612008.a.unit.240">and</word>
+<bcanchor id="125612008.bcanchora.7"><nite:pointer href="125612008.b.lturn.xml#id(125612008.lturn.13.1)" role="bc"/></bcanchor>
+<word id="125612008.a.unit.242">bits</word>
+<word id="125612008.a.unit.243">an</word>
+<word id="125612008.a.unit.244">pieces</word>
+<word id="125612008.a.unit.245">right</word>
+</nite:root>

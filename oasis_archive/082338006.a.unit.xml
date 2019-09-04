@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="082338006.unit.a">
+<stdzcode id="082338006.a.unit.1" description="name"/>
+<word id="082338006.a.unit.25">oh</word>
+<word id="082338006.a.unit.26">right</word>
+<word id="082338006.a.unit.27">no</word>
+<word id="082338006.a.unit.28">when</word>
+<word id="082338006.a.unit.29">were</word>
+<word id="082338006.a.unit.30">you</word>
+<word id="082338006.a.unit.31">when</word>
+<word id="082338006.a.unit.32">were</word>
+<word id="082338006.a.unit.33">you</word>
+<word id="082338006.a.unit.34">wanting</word>
+<word id="082338006.a.unit.35">disconnected</word>
+<word id="082338006.a.unit.45">oh</word>
+<word id="082338006.a.unit.46">right</word>
+<word id="082338006.a.unit.51">okay</word>
+<word id="082338006.a.unit.52">no</word>
+<word id="082338006.a.unit.53">that's</word>
+<word id="082338006.a.unit.54">fine</word>
+<word id="082338006.a.unit.55">what's</word>
+<word id="082338006.a.unit.56">your</word>
+<word id="082338006.a.unit.57">telephone</word>
+<word id="082338006.a.unit.58">number</word>
+<word id="082338006.a.unit.59">please</word>
+<word id="082338006.a.unit.66">yeah</word>
+<word id="082338006.a.unit.70">yeah</word>
+<word id="082338006.a.unit.74">thank</word>
+<word id="082338006.a.unit.75">you</word>
+<word id="082338006.a.unit.76">can</word>
+<word id="082338006.a.unit.77">you</word>
+<word id="082338006.a.unit.78">confirm</word>
+<word id="082338006.a.unit.79">your</word>
+<word id="082338006.a.unit.80">name</word>
+<word id="082338006.a.unit.81">and</word>
+<word id="082338006.a.unit.82">address</word>
+<word id="082338006.a.unit.83">for</word>
+<word id="082338006.a.unit.84">me</word>
+<word id="082338006.a.unit.85">please</word>
+<word id="082338006.a.unit.101">right</word>
+<word id="082338006.a.unit.102">if</word>
+<word id="082338006.a.unit.103">you</word>
+<word id="082338006.a.unit.104">just</word>
+<word id="082338006.a.unit.105">bear</word>
+<word id="082338006.a.unit.106">with</word>
+<word id="082338006.a.unit.107">me</word>
+<word id="082338006.a.unit.108">i'll</word>
+<word id="082338006.a.unit.109">go</word>
+<word id="082338006.a.unit.110">through</word>
+<word id="082338006.a.unit.111">to</word>
+<word id="082338006.a.unit.112">that</word>
+<word id="082338006.a.unit.113">department</word>
+<bcanchor id="082338006.bcanchora.4"><nite:pointer href="082338006.b.lturn.xml#id(082338006.lturn.9.1)" role="bc"/></bcanchor>
+<word id="082338006.a.unit.116">and</word>
+<word id="082338006.a.unit.117">get</word>
+<word id="082338006.a.unit.118">them</word>
+<word id="082338006.a.unit.119">to</word>
+<word id="082338006.a.unit.120">check</word>
+<word id="082338006.a.unit.121">it</word>
+<word id="082338006.a.unit.122">won't</word>
+<word id="082338006.a.unit.123">keep</word>
+<word id="082338006.a.unit.124">you</word>
+<word id="082338006.a.unit.125">a</word>
+<word id="082338006.a.unit.126">minute</word>
+<word id="082338006.a.unit.129">miss</word>
+<pncode type="surname" id="082338006.a.unit.130"/>
+<bcanchor id="082338006.bcanchora.5"><nite:pointer href="082338006.b.lturn.xml#id(082338006.lturn.11.1)" role="bc"/></bcanchor>
+<word id="082338006.a.unit.132">passing</word>
+<word id="082338006.a.unit.133">you</word>
+<word id="082338006.a.unit.134">through</word>
+<word id="082338006.a.unit.135">to</word>
+<word id="082338006.a.unit.136">my</word>
+<word id="082338006.a.unit.137">colleague</word>
+<stdzcode id="082338006.a.unit.138" description="name"/>
+<word id="082338006.a.unit.139">now</word>
+<word id="082338006.a.unit.140">he'll</word>
+<word id="082338006.a.unit.141">help</word>
+<word id="082338006.a.unit.142">you</word>
+</nite:root>

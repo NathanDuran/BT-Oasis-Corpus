@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="133645012.unit.a">
+<stdzcode id="133645012.a.unit.1" description="name"/>
+<word id="133645012.a.unit.5">it's</word>
+<stdzcode id="133645012.a.unit.6" description="name"/>
+<word id="133645012.a.unit.7">from</word>
+<pncode type="business" id="133645012.a.unit.8"/>
+<pncode type="business" id="133645012.a.unit.9"/>
+<word id="133645012.a.unit.10">customer</word>
+<word id="133645012.a.unit.11">services</word>
+<word id="133645012.a.unit.30">that's</word>
+<word id="133645012.a.unit.31">okay</word>
+<word id="133645012.a.unit.50">not</word>
+<word id="133645012.a.unit.51">a</word>
+<word id="133645012.a.unit.52">problem</word>
+<word id="133645012.a.unit.55">okay</word>
+<word id="133645012.a.unit.56">byebye</word>
+<comment text="ok" id="133645012.a.unit.57"/>
+</nite:root>

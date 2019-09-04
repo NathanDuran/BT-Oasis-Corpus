@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="101821010.unit.a">
+<stdzcode id="101821010.a.unit.1" description="name"/>
+<word id="101821010.a.unit.8">yes</word>
+<word id="101821010.a.unit.9">it</word>
+<word id="101821010.a.unit.10">is</word>
+<word id="101821010.a.unit.11">yes</word>
+<comment text="laughs" id="101821010.a.unit.23"/>
+<word id="101821010.a.unit.24">you</word>
+<word id="101821010.a.unit.25">have</word>
+<word id="101821010.a.unit.26">yes</word>
+<word id="101821010.a.unit.82">oh</word>
+<word id="101821010.a.unit.83">right</word>
+<word id="101821010.a.unit.84">ok</word>
+<word id="101821010.a.unit.94">every</word>
+<word id="101821010.a.unit.95">quarter</word>
+<word id="101821010.a.unit.96">yes</word>
+<comment text="ok" id="101821010.a.unit.97"/>
+</nite:root>

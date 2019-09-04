@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root xmlns:nite='http://nite.sourceforge.net/' id='124706008'>
+<turn_pointer id='124706008.lturn_pointer.1'><nite:child href='124706008.a.lturn.xml#id(124706008.lturn.1)'/></turn_pointer>
+<turn_pointer id='124706008.lturn_pointer.2'><nite:child href='124706008.b.lturn.xml#id(124706008.lturn.2)'/></turn_pointer>
+<turn_pointer id='124706008.lturn_pointer.3'><nite:child href='124706008.a.lturn.xml#id(124706008.lturn.3)'/></turn_pointer>
+<turn_pointer id='124706008.lturn_pointer.4'><nite:child href='124706008.b.lturn.xml#id(124706008.lturn.4)'/></turn_pointer>
+<turn_pointer id='124706008.lturn_pointer.5'><nite:child href='124706008.a.lturn.xml#id(124706008.lturn.5)'/></turn_pointer>
+<turn_pointer id='124706008.lturn_pointer.6'><nite:child href='124706008.b.lturn.xml#id(124706008.lturn.6)'/></turn_pointer>
+<turn_pointer id='124706008.lturn_pointer.7'><nite:child href='124706008.a.lturn.xml#id(124706008.lturn.7)'/></turn_pointer>
+<turn_pointer id='124706008.lturn_pointer.8'><nite:child href='124706008.b.lturn.xml#id(124706008.lturn.8)'/></turn_pointer>
+<turn_pointer id='124706008.lturn_pointer.9'><nite:child href='124706008.a.lturn.xml#id(124706008.lturn.8.1)'/></turn_pointer>
+<turn_pointer id='124706008.lturn_pointer.10'><nite:child href='124706008.a.lturn.xml#id(124706008.lturn.9)'/></turn_pointer>
+<turn_pointer id='124706008.lturn_pointer.11'><nite:child href='124706008.b.lturn.xml#id(124706008.lturn.10)'/></turn_pointer>
+<turn_pointer id='124706008.lturn_pointer.12'><nite:child href='124706008.a.lturn.xml#id(124706008.lturn.11)'/></turn_pointer>
+<turn_pointer id='124706008.lturn_pointer.13'><nite:child href='124706008.b.lturn.xml#id(124706008.lturn.12)'/></turn_pointer>
+<turn_pointer id='124706008.lturn_pointer.14'><nite:child href='124706008.a.lturn.xml#id(124706008.lturn.13)'/></turn_pointer>
+<turn_pointer id='124706008.lturn_pointer.15'><nite:child href='124706008.b.lturn.xml#id(124706008.lturn.14)'/></turn_pointer>
+<turn_pointer id='124706008.lturn_pointer.16'><nite:child href='124706008.a.lturn.xml#id(124706008.lturn.15)'/></turn_pointer>
+</nite:root>

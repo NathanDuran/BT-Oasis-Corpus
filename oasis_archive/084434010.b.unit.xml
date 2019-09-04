@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="084434010.unit.b">
+<word id="084434010.b.unit.3">ah</word>
+<word id="084434010.b.unit.4">yeah</word>
+<word id="084434010.b.unit.5">um</word>
+<word id="084434010.b.unit.6">i</word>
+<word id="084434010.b.unit.7">just</word>
+<word id="084434010.b.unit.8">wanted</word>
+<word id="084434010.b.unit.9">to</word>
+<word id="084434010.b.unit.10">check</word>
+<word id="084434010.b.unit.11">how</word>
+<word id="084434010.b.unit.12">much</word>
+<word id="084434010.b.unit.13">was</word>
+<word id="084434010.b.unit.14">outstanding</word>
+<word id="084434010.b.unit.15">on</word>
+<word id="084434010.b.unit.16">my</word>
+<word id="084434010.b.unit.17">bill</word>
+<word id="084434010.b.unit.18">because</word>
+<sil BTlength="" id="084434010.b.unit.19"/>
+<word id="084434010.b.unit.20">what</word>
+<word id="084434010.b.unit.21">i</word>
+<word id="084434010.b.unit.22">asked</word>
+<word id="084434010.b.unit.23">the</word>
+<word id="084434010.b.unit.24">post</word>
+<word id="084434010.b.unit.25">office</word>
+<word id="084434010.b.unit.26">to</word>
+<word id="084434010.b.unit.27">pay</word>
+<word id="084434010.b.unit.28">last</word>
+<word id="084434010.b.unit.29">week</word>
+<bcanchor id="084434010.bcanchorb.1"><nite:pointer href="084434010.a.lturn.xml#id(084434010.lturn.2.1)" role="bc"/></bcanchor>
+<word id="084434010.b.unit.31">i've</word>
+<word id="084434010.b.unit.32">looked</word>
+<word id="084434010.b.unit.33">at</word>
+<word id="084434010.b.unit.34">my</word>
+<word id="084434010.b.unit.35">receipt</word>
+<word id="084434010.b.unit.36">just</word>
+<word id="084434010.b.unit.37">and</word>
+<word id="084434010.b.unit.38">it</word>
+<word id="084434010.b.unit.39">says</word>
+<num id="084434010.b.unit.40"/>
+<word id="084434010.b.unit.41">pound</word>
+<word id="084434010.b.unit.42">i</word>
+<word id="084434010.b.unit.43">asked</word>
+<word id="084434010.b.unit.44">them</word>
+<word id="084434010.b.unit.45">to</word>
+<word id="084434010.b.unit.46">take</word>
+<num id="084434010.b.unit.47"/>
+<word id="084434010.b.unit.59">i</word>
+<word id="084434010.b.unit.60">haven't</word>
+<word id="084434010.b.unit.61">got</word>
+<word id="084434010.b.unit.62">it</word>
+<word id="084434010.b.unit.63">with</word>
+<word id="084434010.b.unit.64">uh</word>
+<word id="084434010.b.unit.65">hang</word>
+<word id="084434010.b.unit.66">in</word>
+<word id="084434010.b.unit.67">hang</word>
+<word id="084434010.b.unit.68">on</word>
+<word id="084434010.b.unit.69">it's</word>
+<num id="084434010.b.unit.70"/>
+<num id="084434010.b.unit.71"/>
+<num id="084434010.b.unit.72"/>
+<num id="084434010.b.unit.73"/>
+<num id="084434010.b.unit.86"/>
+<num id="084434010.b.unit.87"/>
+<num id="084434010.b.unit.88"/>
+<num id="084434010.b.unit.89"/>
+<word id="084434010.b.unit.91">it's</word>
+<word id="084434010.b.unit.92">on</word>
+<word id="084434010.b.unit.93">the</word>
+<word id="084434010.b.unit.94">back</word>
+<word id="084434010.b.unit.95">of</word>
+<word id="084434010.b.unit.96">me</word>
+<word id="084434010.b.unit.97">on</word>
+<word id="084434010.b.unit.98">the</word>
+<word id="084434010.b.unit.99">back</word>
+<word id="084434010.b.unit.100">of</word>
+<word id="084434010.b.unit.101">me</word>
+<word id="084434010.b.unit.102">strip</word>
+<word id="084434010.b.unit.103">on</word>
+<word id="084434010.b.unit.104">the</word>
+<word id="084434010.b.unit.105">phone</word>
+<word id="084434010.b.unit.118">yeah</word>
+<word id="084434010.b.unit.119">it's</word>
+<word id="084434010.b.unit.120">miss</word>
+<pncode type="surname" id="084434010.b.unit.121"/>
+<num id="084434010.b.unit.122"/>
+<pncode type="surname" id="084434010.b.unit.123"/>
+<pncode type="road" id="084434010.b.unit.124"/>
+<pncode type="town" id="084434010.b.unit.125"/>
+<pncode type="region" id="084434010.b.unit.126"/>
+<pncode type="letter" id="084434010.b.unit.127"/>
+<pncode type="letter" id="084434010.b.unit.128"/>
+<num id="084434010.b.unit.129"/>
+<num id="084434010.b.unit.130"/>
+<pncode type="letter" id="084434010.b.unit.131"/>
+<pncode type="letter" id="084434010.b.unit.132"/>
+</nite:root>

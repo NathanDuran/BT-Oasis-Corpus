@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="082310012.unit.b">
+<word id="082310012.b.unit.2">oh</word>
+<word id="082310012.b.unit.3">yes</word>
+<word id="082310012.b.unit.4">um</word>
+<word id="082310012.b.unit.5">oh</word>
+<word id="082310012.b.unit.6">now</word>
+<word id="082310012.b.unit.7">me</word>
+<word id="082310012.b.unit.8">clock's</word>
+<word id="082310012.b.unit.9">gonna</word>
+<word id="082310012.b.unit.10">go</word>
+<word id="082310012.b.unit.11">good</word>
+<word id="082310012.b.unit.12">morning</word>
+<word id="082310012.b.unit.13">i'm</word>
+<word id="082310012.b.unit.14">on</word>
+<pncode type="town" id="082310012.b.unit.15"/>
+<num id="082310012.b.unit.16"/>
+<num id="082310012.b.unit.17"/>
+<num id="082310012.b.unit.18"/>
+<num id="082310012.b.unit.19"/>
+<num id="082310012.b.unit.20"/>
+<num id="082310012.b.unit.21"/>
+<num id="082310012.b.unit.22"/>
+<num id="082310012.b.unit.23"/>
+<num id="082310012.b.unit.24"/>
+<num id="082310012.b.unit.25"/>
+<num id="082310012.b.unit.26"/>
+<sil BTlength="" id="082310012.b.unit.27"/>
+<word id="082310012.b.unit.28">hello</word>
+<word id="082310012.b.unit.30">yeah</word>
+<word id="082310012.b.unit.31">and</word>
+<word id="082310012.b.unit.32">um</word>
+<word id="082310012.b.unit.33">i've</word>
+<word id="082310012.b.unit.34">just</word>
+<word id="082310012.b.unit.35">had</word>
+<word id="082310012.b.unit.36">um</word>
+<word id="082310012.b.unit.37">two</word>
+<word id="082310012.b.unit.38">phone</word>
+<word id="082310012.b.unit.39">calls</word>
+<word id="082310012.b.unit.40">from</word>
+<word id="082310012.b.unit.41">the</word>
+<word id="082310012.b.unit.42">same</word>
+<word id="082310012.b.unit.43">people</word>
+<bcanchor id="082310012.bcanchorb.1"><nite:pointer href="082310012.a.lturn.xml#id(082310012.lturn.4.1)" role="bc"/></bcanchor>
+<word id="082310012.b.unit.45">and</word>
+<word id="082310012.b.unit.46">i</word>
+<word id="082310012.b.unit.47">explained</word>
+<word id="082310012.b.unit.48">that</word>
+<word id="082310012.b.unit.49">they</word>
+<word id="082310012.b.unit.50">rung</word>
+<word id="082310012.b.unit.51">the</word>
+<word id="082310012.b.unit.52">wrong</word>
+<word id="082310012.b.unit.53">number</word>
+<word id="082310012.b.unit.54">but</word>
+<word id="082310012.b.unit.55">when</word>
+<word id="082310012.b.unit.56">our</word>
+<word id="082310012.b.unit.57">phone</word>
+<word id="082310012.b.unit.58">rang</word>
+<word id="082310012.b.unit.59">it</word>
+<word id="082310012.b.unit.60">made</word>
+<word id="082310012.b.unit.61">a</word>
+<word id="082310012.b.unit.62">different</word>
+<word id="082310012.b.unit.63">um</word>
+<word id="082310012.b.unit.64">sound</word>
+<word id="082310012.b.unit.65">it</word>
+<word id="082310012.b.unit.66">didn't</word>
+<word id="082310012.b.unit.67">use</word>
+<word id="082310012.b.unit.68">use</word>
+<word id="082310012.b.unit.69">use</word>
+<word id="082310012.b.unit.70">the</word>
+<word id="082310012.b.unit.71">usual</word>
+<word id="082310012.b.unit.72">ringing</word>
+<word id="082310012.b.unit.73">tone</word>
+<word id="082310012.b.unit.78">that's</word>
+<word id="082310012.b.unit.79">what</word>
+<word id="082310012.b.unit.80">i</word>
+<word id="082310012.b.unit.81">thought</word>
+<word id="082310012.b.unit.82">but</word>
+<word id="082310012.b.unit.83">uh</word>
+<word id="082310012.b.unit.84">but</word>
+<word id="082310012.b.unit.85">um</word>
+<word id="082310012.b.unit.86">a</word>
+<word id="082310012.b.unit.87">while</word>
+<word id="082310012.b.unit.88">back</word>
+<word id="082310012.b.unit.89">we</word>
+<word id="082310012.b.unit.90">did</word>
+<word id="082310012.b.unit.91">have</word>
+<word id="082310012.b.unit.92">a</word>
+<word id="082310012.b.unit.93">second</word>
+<word id="082310012.b.unit.94">number</word>
+<word id="082310012.b.unit.95">on</word>
+<word id="082310012.b.unit.96">the</word>
+<word id="082310012.b.unit.97">same</word>
+<word id="082310012.b.unit.98">line</word>
+<word id="082310012.b.unit.102">uh</word>
+<word id="082310012.b.unit.103">yes</word>
+<word id="082310012.b.unit.104">but</word>
+<word id="082310012.b.unit.105">we</word>
+<word id="082310012.b.unit.106">got</word>
+<word id="082310012.b.unit.107">it</word>
+<word id="082310012.b.unit.108">to</word>
+<word id="082310012.b.unit.109">be</word>
+<word id="082310012.b.unit.110">we</word>
+<word id="082310012.b.unit.111">asked</word>
+<word id="082310012.b.unit.112">for</word>
+<word id="082310012.b.unit.113">it</word>
+<word id="082310012.b.unit.114">to</word>
+<word id="082310012.b.unit.115">be</word>
+<word id="082310012.b.unit.116">taken</word>
+<word id="082310012.b.unit.117">off</word>
+<word id="082310012.b.unit.132">yeah</word>
+<word id="082310012.b.unit.133">it's</word>
+<pncode type="letter" id="082310012.b.unit.134"/>
+<pncode type="letter" id="082310012.b.unit.135"/>
+<bcanchor id="082310012.bcanchorb.2"><nite:pointer href="082310012.a.lturn.xml#id(082310012.lturn.10.1)" role="bc"/></bcanchor>
+<word id="082310012.b.unit.137">double</word>
+<num id="082310012.b.unit.138"/>
+<word id="082310012.b.unit.139">double</word>
+<num id="082310012.b.unit.140"/>
+<bcanchor id="082310012.bcanchorb.3"><nite:pointer href="082310012.a.lturn.xml#id(082310012.lturn.10.2)" role="bc"/></bcanchor>
+<num id="082310012.b.unit.142"/>
+<num id="082310012.b.unit.143"/>
+<num id="082310012.b.unit.144"/>
+<num id="082310012.b.unit.145"/>
+<word id="082310012.b.unit.176">yeah</word>
+<word id="082310012.b.unit.177">missus</word>
+<stdzcode id="082310012.b.unit.178" description="name"/>
+<pncode type="surname" id="082310012.b.unit.179"/>
+<pncode type="town" id="082310012.b.unit.180"/>
+<num id="082310012.b.unit.181"/>
+<pncode type="road" id="082310012.b.unit.182"/>
+<pncode type="town" id="082310012.b.unit.183"/>
+<pncode type="town" id="082310012.b.unit.184"/>
+<pncode type="town" id="082310012.b.unit.185"/>
+<comment text="other" id="082310012.b.unit.186"/>
+<word id="082310012.b.unit.187">place}</word>
+<pncode type="letter" id="082310012.b.unit.188"/>
+<pncode type="letter" id="082310012.b.unit.189"/>
+<num id="082310012.b.unit.190"/>
+<num id="082310012.b.unit.191"/>
+<pncode type="letter" id="082310012.b.unit.192"/>
+<pncode type="letter" id="082310012.b.unit.193"/>
+<word id="082310012.b.unit.236">oh</word>
+<word id="082310012.b.unit.237">that</word>
+<word id="082310012.b.unit.238">should</word>
+<word id="082310012.b.unit.239">that</word>
+<word id="082310012.b.unit.240">was</word>
+<word id="082310012.b.unit.241">that</word>
+<word id="082310012.b.unit.242">was</word>
+<word id="082310012.b.unit.243">months</word>
+<word id="082310012.b.unit.244">ago</word>
+<sil BTlength="" id="082310012.b.unit.245"/>
+<word id="082310012.b.unit.246">cos</word>
+<word id="082310012.b.unit.247">we</word>
+<word id="082310012.b.unit.248">never</word>
+<word id="082310012.b.unit.249">we</word>
+<word id="082310012.b.unit.250">never</word>
+<word id="082310012.b.unit.251">ever</word>
+<word id="082310012.b.unit.252">used</word>
+<word id="082310012.b.unit.253">in</word>
+<word id="082310012.b.unit.254">the</word>
+<word id="082310012.b.unit.255">end</word>
+<word id="082310012.b.unit.256">we</word>
+<word id="082310012.b.unit.257">never</word>
+<word id="082310012.b.unit.258">used</word>
+<word id="082310012.b.unit.259">it</word>
+<word id="082310012.b.unit.260">so</word>
+<word id="082310012.b.unit.261">i</word>
+<word id="082310012.b.unit.262">think</word>
+<word id="082310012.b.unit.263">we</word>
+<word id="082310012.b.unit.264">must</word>
+<word id="082310012.b.unit.265">have</word>
+<word id="082310012.b.unit.266">had</word>
+<word id="082310012.b.unit.267">it</word>
+<word id="082310012.b.unit.268">on</word>
+<word id="082310012.b.unit.269">for</word>
+<word id="082310012.b.unit.270">about</word>
+<num id="082310012.b.unit.271"/>
+<word id="082310012.b.unit.272">maybe</word>
+<num id="082310012.b.unit.273"/>
+<word id="082310012.b.unit.274">months</word>
+<word id="082310012.b.unit.275">at</word>
+<word id="082310012.b.unit.276">the</word>
+<word id="082310012.b.unit.277">most</word>
+<sil BTlength="" id="082310012.b.unit.278"/>
+<word id="082310012.b.unit.279">but</word>
+<word id="082310012.b.unit.280">i</word>
+<word id="082310012.b.unit.281">i</word>
+<word id="082310012.b.unit.282">thought</word>
+<word id="082310012.b.unit.283">the</word>
+<word id="082310012.b.unit.284">man</word>
+<word id="082310012.b.unit.285">i</word>
+<word id="082310012.b.unit.286">spoke</word>
+<word id="082310012.b.unit.287">to</word>
+<word id="082310012.b.unit.288">took</word>
+<word id="082310012.b.unit.289">it</word>
+<word id="082310012.b.unit.290">off</word>
+<word id="082310012.b.unit.291">must</word>
+<word id="082310012.b.unit.292">have</word>
+<word id="082310012.b.unit.293">been</word>
+<word id="082310012.b.unit.294">two</word>
+<word id="082310012.b.unit.295">couple</word>
+<word id="082310012.b.unit.296">of</word>
+<word id="082310012.b.unit.297">months</word>
+<word id="082310012.b.unit.298">ago</word>
+<word id="082310012.b.unit.299">at</word>
+<word id="082310012.b.unit.300">the</word>
+<word id="082310012.b.unit.301">least</word>
+</nite:root>

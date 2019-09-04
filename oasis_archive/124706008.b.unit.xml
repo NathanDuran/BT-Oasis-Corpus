@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="124706008.unit.b">
+<comment text="receiver_click" id="124706008.b.unit.2"/>
+<word id="124706008.b.unit.4">sorry</word>
+<word id="124706008.b.unit.5">i</word>
+<word id="124706008.b.unit.6">was</word>
+<word id="124706008.b.unit.7">expecting</word>
+<word id="124706008.b.unit.8">an</word>
+<word id="124706008.b.unit.9">automated</word>
+<word id="124706008.b.unit.10">service</word>
+<comment text="laugh" id="124706008.b.unit.11"/>
+<word id="124706008.b.unit.14">um</word>
+<sil BTlength="" id="124706008.b.unit.15"/>
+<word id="124706008.b.unit.16">first</word>
+<word id="124706008.b.unit.17">things</word>
+<word id="124706008.b.unit.18">first</word>
+<word id="124706008.b.unit.19">could</word>
+<word id="124706008.b.unit.20">you</word>
+<word id="124706008.b.unit.21">have</word>
+<word id="124706008.b.unit.22">a</word>
+<word id="124706008.b.unit.23">look</word>
+<word id="124706008.b.unit.24">at</word>
+<word id="124706008.b.unit.25">my</word>
+<word id="124706008.b.unit.26">account</word>
+<word id="124706008.b.unit.27">please</word>
+<word id="124706008.b.unit.36">uh</word>
+<word id="124706008.b.unit.37">no</word>
+<bcanchor id="124706008.bcanchorb.1"><nite:pointer href="124706008.a.lturn.xml#id(124706008.lturn.8.1)" role="bc"/></bcanchor>
+<word id="124706008.b.unit.39">i've</word>
+<word id="124706008.b.unit.40">got</word>
+<word id="124706008.b.unit.41">me</word>
+<word id="124706008.b.unit.42">phone</word>
+<word id="124706008.b.unit.43">number</word>
+<word id="124706008.b.unit.51">it's</word>
+<num id="124706008.b.unit.52"/>
+<num id="124706008.b.unit.53"/>
+<num id="124706008.b.unit.54"/>
+<num id="124706008.b.unit.55"/>
+<num id="124706008.b.unit.56"/>
+<num id="124706008.b.unit.58"/>
+<num id="124706008.b.unit.59"/>
+<num id="124706008.b.unit.60"/>
+<num id="124706008.b.unit.62"/>
+<num id="124706008.b.unit.63"/>
+<num id="124706008.b.unit.64"/>
+</nite:root>

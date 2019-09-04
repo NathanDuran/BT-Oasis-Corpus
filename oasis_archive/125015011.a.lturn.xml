@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='125015011.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='125015011.lturn.1'>
+
+
+<utt id='125015011.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='125015011.frag.1'>
+<nite:child href='125015011.a.unit.xml#id(125015011.a.unit.1)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='125015011.lturn.3'>
+
+
+<utt id='125015011.utt.3'>
+
+<segment type='yes' sp-act='ackn' id='125015011.yes.1'>
+<nite:child href='125015011.a.unit.xml#id(125015011.a.unit.7)..id(125015011.a.unit.9)'/>
+</segment>
+
+</utt>
+
+<utt id='125015011.utt.4'>
+
+<segment type='q_wh' sp-act='offer' id='125015011.q_wh.1'>
+<nite:child href='125015011.a.unit.xml#id(125015011.a.unit.10)..id(125015011.a.unit.13)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='125015011.lturn.5'>
+
+
+<utt id='125015011.utt.6'>
+
+<segment type='yes' sp-act='ackn' id='125015011.yes.2'>
+<nite:child href='125015011.a.unit.xml#id(125015011.a.unit.18)'/>
+</segment>
+
+<segment type='q_wh' sp-act='uninterpretable' id='125015011.q_wh.2' secondary-act='abandon'>
+<nite:child href='125015011.a.unit.xml#id(125015011.a.unit.19)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

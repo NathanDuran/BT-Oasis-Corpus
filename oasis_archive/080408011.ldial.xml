@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root xmlns:nite='http://nite.sourceforge.net/' id='080408011'>
+<turn_pointer id='080408011.lturn_pointer.1'><nite:child href='080408011.a.lturn.xml#id(080408011.lturn.1)'/></turn_pointer>
+<turn_pointer id='080408011.lturn_pointer.2'><nite:child href='080408011.b.lturn.xml#id(080408011.lturn.2)'/></turn_pointer>
+</nite:root>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="123726009.unit.a">
+<stdzcode id="123726009.a.unit.1" description="name"/>
+<word id="123726009.a.unit.14">oh</word>
+<word id="123726009.a.unit.15">right</word>
+<word id="123726009.a.unit.16">can</word>
+<word id="123726009.a.unit.17">i</word>
+<word id="123726009.a.unit.18">give</word>
+<word id="123726009.a.unit.19">you</word>
+<word id="123726009.a.unit.20">a</word>
+<word id="123726009.a.unit.21">a</word>
+<word id="123726009.a.unit.22">freephone</word>
+<word id="123726009.a.unit.23">number</word>
+<bcanchor id="123726009.bcanchora.1"><nite:pointer href="123726009.b.lturn.xml#id(123726009.lturn.3.1)" role="bc"/></bcanchor>
+<word id="123726009.a.unit.26">to</word>
+<word id="123726009.a.unit.27">dial</word>
+<word id="123726009.a.unit.28">and</word>
+<word id="123726009.a.unit.29">that</word>
+<word id="123726009.a.unit.30">so</word>
+<word id="123726009.a.unit.31">it's</word>
+<num id="123726009.a.unit.32"/>
+<num id="123726009.a.unit.33"/>
+<num id="123726009.a.unit.35"/>
+<num id="123726009.a.unit.36"/>
+<num id="123726009.a.unit.37"/>
+<num id="123726009.a.unit.39"/>
+<word id="123726009.a.unit.40">double</word>
+<num id="123726009.a.unit.41"/>
+<word id="123726009.a.unit.45">alright</word>
+<word id="123726009.a.unit.46">thank</word>
+<word id="123726009.a.unit.47">you</word>
+<word id="123726009.a.unit.49">byebye</word>
+<comment text="hang_up" id="123726009.a.unit.50"/>
+<comment text="end-ok" id="123726009.a.unit.51"/>
+</nite:root>

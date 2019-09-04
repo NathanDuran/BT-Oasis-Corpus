@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="083726011.unit.b">
+<word id="083726011.b.unit.2">uh</word>
+<word id="083726011.b.unit.3">i'd</word>
+<word id="083726011.b.unit.4">like</word>
+<word id="083726011.b.unit.5">to</word>
+<word id="083726011.b.unit.6">get</word>
+<word id="083726011.b.unit.7">in</word>
+<word id="083726011.b.unit.8">touch</word>
+<word id="083726011.b.unit.9">with</word>
+<word id="083726011.b.unit.10">billing</word>
+<comment text="throat" id="083726011.b.unit.11"/>
+<word id="083726011.b.unit.12">uh</word>
+<word id="083726011.b.unit.13">pardon</word>
+<word id="083726011.b.unit.14">me</word>
+<comment text="throat" id="083726011.b.unit.15"/>
+<word id="083726011.b.unit.16">uh</word>
+<word id="083726011.b.unit.17">i've</word>
+<word id="083726011.b.unit.18">got</word>
+<word id="083726011.b.unit.19">a</word>
+<word id="083726011.b.unit.20">bill</word>
+<word id="083726011.b.unit.21">due</word>
+<word id="083726011.b.unit.22">in</word>
+<word id="083726011.b.unit.23">shortly</word>
+<word id="083726011.b.unit.24">and</word>
+<word id="083726011.b.unit.25">we'd</word>
+<word id="083726011.b.unit.26">be</word>
+<word id="083726011.b.unit.27">away</word>
+<word id="083726011.b.unit.28">for</word>
+<word id="083726011.b.unit.29">a</word>
+<word id="083726011.b.unit.30">month</word>
+<word id="083726011.b.unit.31">so</word>
+<word id="083726011.b.unit.32">i</word>
+<word id="083726011.b.unit.33">won't</word>
+<word id="083726011.b.unit.34">be</word>
+<word id="083726011.b.unit.35">here</word>
+<word id="083726011.b.unit.36">when</word>
+<word id="083726011.b.unit.37">the</word>
+<word id="083726011.b.unit.38">bill</word>
+<word id="083726011.b.unit.39">comes</word>
+<word id="083726011.b.unit.40">in</word>
+<word id="083726011.b.unit.49">uh</word>
+<num id="083726011.b.unit.50"/>
+<num id="083726011.b.unit.51"/>
+<num id="083726011.b.unit.52"/>
+<num id="083726011.b.unit.53"/>
+<num id="083726011.b.unit.54"/>
+<sil BTlength="" id="083726011.b.unit.55"/>
+<num id="083726011.b.unit.56"/>
+<num id="083726011.b.unit.57"/>
+<num id="083726011.b.unit.58"/>
+<num id="083726011.b.unit.59"/>
+<num id="083726011.b.unit.60"/>
+<num id="083726011.b.unit.61"/>
+<stdzcode id="083726011.b.unit.78" description="name"/>
+<pncode type="surname" id="083726011.b.unit.79"/>
+<sil BTlength="" id="083726011.b.unit.80"/>
+<pncode type="letter" id="083726011.b.unit.81"/>
+<pncode type="letter" id="083726011.b.unit.82"/>
+<word id="083726011.b.unit.83">double</word>
+<pncode type="letter" id="083726011.b.unit.84"/>
+<pncode type="letter" id="083726011.b.unit.85"/>
+<pncode type="letter" id="083726011.b.unit.86"/>
+<pncode type="letter" id="083726011.b.unit.87"/>
+<pncode type="letter" id="083726011.b.unit.88"/>
+<bcanchor id="083726011.bcanchorb.1"><nite:pointer href="083726011.a.lturn.xml#id(083726011.lturn.6.1)" role="bc"/></bcanchor>
+<num id="083726011.b.unit.91"/>
+<pncode type="region" id="083726011.b.unit.92"/>
+<pncode type="region" id="083726011.b.unit.93"/>
+<sil BTlength="" id="083726011.b.unit.94"/>
+<pncode type="road" id="083726011.b.unit.95"/>
+<pncode type="road" id="083726011.b.unit.96"/>
+<sil BTlength="" id="083726011.b.unit.97"/>
+<pncode type="town" id="083726011.b.unit.98"/>
+<pncode type="letter" id="083726011.b.unit.108"/>
+<pncode type="letter" id="083726011.b.unit.109"/>
+<num id="083726011.b.unit.110"/>
+<num id="083726011.b.unit.111"/>
+<num id="083726011.b.unit.112"/>
+<pncode type="letter" id="083726011.b.unit.113"/>
+<pncode type="letter" id="083726011.b.unit.114"/>
+<word id="083726011.b.unit.144">yeah</word>
+<word id="083726011.b.unit.145">i'll</word>
+<word id="083726011.b.unit.146">be</word>
+<gap id="083726011.b.unit.147"/>
+<word id="083726011.b.unit.148">about</word>
+<word id="083726011.b.unit.149">the</word>
+<word id="083726011.b.unit.150">fourteenth</word>
+<word id="083726011.b.unit.151">of</word>
+<word id="083726011.b.unit.152">August</word>
+<word id="083726011.b.unit.186">right</word>
+<word id="083726011.b.unit.187">that's</word>
+<word id="083726011.b.unit.188">good</word>
+<word id="083726011.b.unit.190">thank</word>
+<word id="083726011.b.unit.191">you</word>
+<gap id="083726011.b.unit.195"/>
+<word id="083726011.b.unit.196">thank</word>
+<word id="083726011.b.unit.197">you</word>
+<word id="083726011.b.unit.198">very</word>
+<word id="083726011.b.unit.199">much</word>
+<word id="083726011.b.unit.201">right</word>
+<word id="083726011.b.unit.202">bye</word>
+</nite:root>

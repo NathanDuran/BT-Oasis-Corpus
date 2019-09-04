@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="092444007.unit.b">
+<word id="092444007.b.unit.2">ah</word>
+<word id="092444007.b.unit.3">good</word>
+<word id="092444007.b.unit.4">morning</word>
+<word id="092444007.b.unit.5">i</word>
+<word id="092444007.b.unit.6">was</word>
+<bcanchor id="092444007.bcanchorb.1"><nite:pointer href="092444007.a.lturn.xml#id(092444007.lturn.2.1)" role="bc"/></bcanchor>
+<word id="092444007.b.unit.8">trying</word>
+<word id="092444007.b.unit.9">to</word>
+<word id="092444007.b.unit.10">get</word>
+<word id="092444007.b.unit.11">through</word>
+<word id="092444007.b.unit.12">to</word>
+<word id="092444007.b.unit.13">your</word>
+<word id="092444007.b.unit.14">billing</word>
+<word id="092444007.b.unit.15">department</word>
+<word id="092444007.b.unit.25">oh</word>
+<word id="092444007.b.unit.26">right</word>
+<word id="092444007.b.unit.35">oh</word>
+<word id="092444007.b.unit.36">i</word>
+<word id="092444007.b.unit.37">just</word>
+<word id="092444007.b.unit.38">want</word>
+<word id="092444007.b.unit.39">to</word>
+<word id="092444007.b.unit.40">cancel</word>
+<word id="092444007.b.unit.41">a</word>
+<word id="092444007.b.unit.42">payment</word>
+<word id="092444007.b.unit.43">that</word>
+<word id="092444007.b.unit.44">i</word>
+<word id="092444007.b.unit.45">make</word>
+<word id="092444007.b.unit.46">for</word>
+<word id="092444007.b.unit.47">you</word>
+<pncode type="business" id="092444007.b.unit.48"/>
+<pncode type="business" id="092444007.b.unit.49"/>
+<word id="092444007.b.unit.50">internet</word>
+<word id="092444007.b.unit.51">services</word>
+<word id="092444007.b.unit.62">yes</word>
+<word id="092444007.b.unit.63">but</word>
+<word id="092444007.b.unit.64">i</word>
+<word id="092444007.b.unit.65">rang</word>
+<word id="092444007.b.unit.66">before</word>
+<word id="092444007.b.unit.67">and</word>
+<word id="092444007.b.unit.68">they</word>
+<word id="092444007.b.unit.69">told</word>
+<word id="092444007.b.unit.70">me</word>
+<word id="092444007.b.unit.71">to</word>
+<word id="092444007.b.unit.72">come</word>
+<word id="092444007.b.unit.73">through</word>
+<word id="092444007.b.unit.74">to</word>
+<word id="092444007.b.unit.75">the</word>
+<word id="092444007.b.unit.76">billing</word>
+<word id="092444007.b.unit.77">department</word>
+<word id="092444007.b.unit.97">i've</word>
+<word id="092444007.b.unit.98">already</word>
+<word id="092444007.b.unit.99">got</word>
+<word id="092444007.b.unit.100">that</word>
+<word id="092444007.b.unit.101">yes</word>
+<sil BTlength="" id="092444007.b.unit.102"/>
+<word id="092444007.b.unit.103">and</word>
+<word id="092444007.b.unit.104">i</word>
+<word id="092444007.b.unit.105">wanna</word>
+<word id="092444007.b.unit.106">cancel</word>
+<word id="092444007.b.unit.107">it</word>
+<word id="092444007.b.unit.113">yes</word>
+<word id="092444007.b.unit.121">uh</word>
+<word id="092444007.b.unit.122">it's</word>
+<word id="092444007.b.unit.123">a</word>
+<word id="092444007.b.unit.124">cable</word>
+<word id="092444007.b.unit.125">number</word>
+<num id="092444007.b.unit.126"/>
+<num id="092444007.b.unit.127"/>
+<num id="092444007.b.unit.128"/>
+<num id="092444007.b.unit.129"/>
+<num id="092444007.b.unit.130"/>
+<word id="092444007.b.unit.141">no</word>
+<word id="092444007.b.unit.142">it's</word>
+<pncode type="business" id="092444007.b.unit.143"/>
+<partword id="092444007.b.unit.144">te</partword>
+<word id="092444007.b.unit.145">i've</word>
+<word id="092444007.b.unit.146">got</word>
+<word id="092444007.b.unit.147">the</word>
+<pncode type="business" id="092444007.b.unit.148"/>
+<pncode type="business" id="092444007.b.unit.149"/>
+<word id="092444007.b.unit.150">internet</word>
+<word id="092444007.b.unit.151">service</word>
+<bcanchor id="092444007.bcanchorb.4"><nite:pointer href="092444007.a.lturn.xml#id(092444007.lturn.12.1)" role="bc"/></bcanchor>
+<word id="092444007.b.unit.153">but</word>
+<word id="092444007.b.unit.154">i've</word>
+<word id="092444007.b.unit.155">got</word>
+<word id="092444007.b.unit.156">a</word>
+<word id="092444007.b.unit.157">cable</word>
+<word id="092444007.b.unit.158">number</word>
+<word id="092444007.b.unit.181">yes</word>
+<word id="092444007.b.unit.182">yes</word>
+<word id="092444007.b.unit.190">yes</word>
+</nite:root>

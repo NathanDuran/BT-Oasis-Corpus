@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="124622008.unit.a">
+<stdzcode id="124622008.a.unit.1" description="name"/>
+<word id="124622008.a.unit.15">sorry</word>
+<word id="124622008.a.unit.16">can</word>
+<word id="124622008.a.unit.17">you</word>
+<word id="124622008.a.unit.18">do</word>
+<word id="124622008.a.unit.19">what</word>
+<word id="124622008.a.unit.36">you</word>
+<word id="124622008.a.unit.37">want</word>
+<word id="124622008.a.unit.38">to</word>
+<word id="124622008.a.unit.39">go</word>
+<word id="124622008.a.unit.40">onto</word>
+<word id="124622008.a.unit.41">the</word>
+<word id="124622008.a.unit.42">phone</word>
+<word id="124622008.a.unit.43">what</word>
+<word id="124622008.a.unit.44">have</word>
+<pncode type="business" id="124622008.a.unit.45"/>
+<pncode type="business" id="124622008.a.unit.46"/>
+<word id="124622008.a.unit.47">service</word>
+<word id="124622008.a.unit.52">have</word>
+<word id="124622008.a.unit.53">you</word>
+<word id="124622008.a.unit.54">got</word>
+<pncode type="business" id="124622008.a.unit.55"/>
+<pncode type="business" id="124622008.a.unit.56"/>
+<word id="124622008.a.unit.57">service</word>
+<word id="124622008.a.unit.58">where</word>
+<word id="124622008.a.unit.59">you</word>
+<word id="124622008.a.unit.60">are</word>
+<word id="124622008.a.unit.61">at</word>
+<word id="124622008.a.unit.62">the</word>
+<word id="124622008.a.unit.63">moment</word>
+<word id="124622008.a.unit.75">for</word>
+<word id="124622008.a.unit.76">a</word>
+<word id="124622008.a.unit.77">friend</word>
+<word id="124622008.a.unit.78">okay</word>
+<word id="124622008.a.unit.79">is</word>
+<word id="124622008.a.unit.80">she</word>
+<word id="124622008.a.unit.81">there</word>
+<word id="124622008.a.unit.92">you've</word>
+<word id="124622008.a.unit.93">got</word>
+<word id="124622008.a.unit.94">the</word>
+<word id="124622008.a.unit.95">customer</word>
+<word id="124622008.a.unit.96">number</word>
+<word id="124622008.a.unit.97">have</word>
+<word id="124622008.a.unit.98">you</word>
+<word id="124622008.a.unit.99">for</word>
+<word id="124622008.a.unit.100">where</word>
+<word id="124622008.a.unit.101">she</word>
+<word id="124622008.a.unit.102">is</word>
+<word id="124622008.a.unit.103">at</word>
+<word id="124622008.a.unit.104">the</word>
+<word id="124622008.a.unit.105">moment</word>
+<word id="124622008.a.unit.120">she</word>
+<word id="124622008.a.unit.121">wants</word>
+<word id="124622008.a.unit.122">to</word>
+<word id="124622008.a.unit.123">go</word>
+<word id="124622008.a.unit.124">on</word>
+<word id="124622008.a.unit.125">the</word>
+<word id="124622008.a.unit.126">phone</word>
+<bcanchor id="124622008.bcanchora.1"><nite:pointer href="124622008.b.lturn.xml#id(124622008.lturn.13.1)" role="bc"/></bcanchor>
+<word id="124622008.a.unit.128">right</word>
+<word id="124622008.a.unit.129">just</word>
+<word id="124622008.a.unit.130">bear</word>
+<word id="124622008.a.unit.131">with</word>
+<word id="124622008.a.unit.132">me</word>
+</nite:root>

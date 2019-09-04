@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="095433010.unit.b">
+<word id="095433010.b.unit.2">um</word>
+<word id="095433010.b.unit.3">is</word>
+<word id="095433010.b.unit.4">that</word>
+<num id="095433010.b.unit.5"/>
+<num id="095433010.b.unit.6"/>
+<num id="095433010.b.unit.7"/>
+<word id="095433010.b.unit.11">oh</word>
+<word id="095433010.b.unit.12">that's</word>
+<word id="095433010.b.unit.13">unusual</word>
+<word id="095433010.b.unit.14">good</word>
+<word id="095433010.b.unit.15">morning</word>
+<bcanchor id="095433010.bcanchorb.1"><nite:pointer href="095433010.a.lturn.xml#id(095433010.lturn.4.1)" role="bc"/></bcanchor>
+<word id="095433010.b.unit.17">this</word>
+<word id="095433010.b.unit.18">is</word>
+<word id="095433010.b.unit.19">the</word>
+<pncode type="business" id="095433010.b.unit.20"/>
+<pncode type="business" id="095433010.b.unit.21"/>
+<word id="095433010.b.unit.22">shop</word>
+<word id="095433010.b.unit.23">in</word>
+<pncode type="town" id="095433010.b.unit.24"/>
+<word id="095433010.b.unit.32">oh</word>
+<word id="095433010.b.unit.33">right</word>
+<word id="095433010.b.unit.38">right</word>
+<word id="095433010.b.unit.39">okay</word>
+<word id="095433010.b.unit.40">i</word>
+<word id="095433010.b.unit.41">um</word>
+<word id="095433010.b.unit.42">have</word>
+<word id="095433010.b.unit.43">um</word>
+<word id="095433010.b.unit.44">a</word>
+<word id="095433010.b.unit.45">gentleman</word>
+<word id="095433010.b.unit.46">here</word>
+<word id="095433010.b.unit.47">who</word>
+<word id="095433010.b.unit.48">would</word>
+<word id="095433010.b.unit.49">like</word>
+<word id="095433010.b.unit.50">to</word>
+<word id="095433010.b.unit.51">get</word>
+<word id="095433010.b.unit.52">connected</word>
+<word id="095433010.b.unit.53">to</word>
+<word id="095433010.b.unit.54">uh</word>
+<pncode type="business" id="095433010.b.unit.55"/>
+<pncode type="business" id="095433010.b.unit.56"/>
+<word id="095433010.b.unit.57">please</word>
+</nite:root>

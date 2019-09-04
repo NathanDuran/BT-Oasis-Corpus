@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="130236009.unit.a">
+<bcanchor id="130236009.bcanchora.1"><nite:pointer href="130236009.b.lturn.xml#id(130236009.lturn.1.1)" role="bc"/></bcanchor>
+<stdzcode id="130236009.a.unit.4" description="name"/>
+<sil BTlength="" id="130236009.a.unit.5"/>
+<word id="130236009.a.unit.6">hello</word>
+<word id="130236009.a.unit.8">hello</word>
+<word id="130236009.a.unit.16">hello</word>
+<word id="130236009.a.unit.31">right</word>
+</nite:root>

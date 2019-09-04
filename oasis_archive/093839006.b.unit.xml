@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="093839006.unit.b">
+<word id="093839006.b.unit.2">hello</word>
+<word id="093839006.b.unit.3">i'm</word>
+<word id="093839006.b.unit.4">customer</word>
+<word id="093839006.b.unit.5">number</word>
+<pncode type="letter" id="093839006.b.unit.6"/>
+<pncode type="letter" id="093839006.b.unit.7"/>
+<num id="093839006.b.unit.10"/>
+<num id="093839006.b.unit.11"/>
+<num id="093839006.b.unit.12"/>
+<num id="093839006.b.unit.13"/>
+<num id="093839006.b.unit.18"/>
+<num id="093839006.b.unit.19"/>
+<num id="093839006.b.unit.20"/>
+<num id="093839006.b.unit.21"/>
+<word id="093839006.b.unit.31">um</word>
+<word id="093839006.b.unit.32">i've</word>
+<word id="093839006.b.unit.33">got</word>
+<word id="093839006.b.unit.34">a</word>
+<word id="093839006.b.unit.35">bill</word>
+<word id="093839006.b.unit.36">outstanding</word>
+<word id="093839006.b.unit.37">for</word>
+<word id="093839006.b.unit.38">about</word>
+<num id="093839006.b.unit.39"/>
+<word id="093839006.b.unit.40">pound</word>
+</nite:root>

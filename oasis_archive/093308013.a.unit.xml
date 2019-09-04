@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="093308013.unit.a">
+<stdzcode id="093308013.a.unit.1" description="name"/>
+<word id="093308013.a.unit.13">yep</word>
+<word id="093308013.a.unit.14">you</word>
+<word id="093308013.a.unit.15">need</word>
+<word id="093308013.a.unit.16">to</word>
+<word id="093308013.a.unit.17">ring</word>
+<num id="093308013.a.unit.18"/>
+<num id="093308013.a.unit.19"/>
+<num id="093308013.a.unit.20"/>
+<word id="093308013.a.unit.24">that's</word>
+<word id="093308013.a.unit.25">it</word>
+<word id="093308013.a.unit.28">thank</word>
+<word id="093308013.a.unit.29">you</word>
+<word id="093308013.a.unit.30">bye</word>
+<comment text="hangup" id="093308013.a.unit.31"/>
+<comment text="end-ok" id="093308013.a.unit.32"/>
+</nite:root>

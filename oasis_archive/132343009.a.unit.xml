@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="132343009.unit.a">
+<stdzcode id="132343009.a.unit.1" description="name"/>
+<word id="132343009.a.unit.10">yep</word>
+<word id="132343009.a.unit.11">lovely</word>
+<word id="132343009.a.unit.12">thank</word>
+<word id="132343009.a.unit.13">you</word>
+<word id="132343009.a.unit.17">yeah</word>
+<word id="132343009.a.unit.22">yeah</word>
+<word id="132343009.a.unit.27">thank</word>
+<word id="132343009.a.unit.28">you</word>
+<word id="132343009.a.unit.29">if</word>
+<word id="132343009.a.unit.30">you</word>
+<word id="132343009.a.unit.31">could</word>
+<word id="132343009.a.unit.32">hold</word>
+<word id="132343009.a.unit.33">on</word>
+<comment text="keyboard_typing" id="132343009.a.unit.34"/>
+<comment text="clears_throat" id="132343009.a.unit.35"/>
+<word id="132343009.a.unit.36">could</word>
+<word id="132343009.a.unit.37">you</word>
+<word id="132343009.a.unit.38">confirm</word>
+<word id="132343009.a.unit.39">your</word>
+<word id="132343009.a.unit.40">full</word>
+<word id="132343009.a.unit.41">name</word>
+<word id="132343009.a.unit.42">and</word>
+<word id="132343009.a.unit.43">the</word>
+<word id="132343009.a.unit.44">address</word>
+<word id="132343009.a.unit.45">including</word>
+<word id="132343009.a.unit.46">the</word>
+<word id="132343009.a.unit.47">postcode</word>
+<word id="132343009.a.unit.48">please</word>
+<word id="132343009.a.unit.67">thank</word>
+<word id="132343009.a.unit.68">you</word>
+<word id="132343009.a.unit.69">miss</word>
+<stdzcode id="132343009.a.unit.70" description="name"/>
+<word id="132343009.a.unit.71">and</word>
+<word id="132343009.a.unit.72">how</word>
+<word id="132343009.a.unit.73">can</word>
+<word id="132343009.a.unit.74">i</word>
+<word id="132343009.a.unit.75">help</word>
+<word id="132343009.a.unit.76">you</word>
+<word id="132343009.a.unit.87">yeah</word>
+<word id="132343009.a.unit.104">let</word>
+<word id="132343009.a.unit.105">me</word>
+<word id="132343009.a.unit.106">just</word>
+<word id="132343009.a.unit.107">have</word>
+<word id="132343009.a.unit.108">a</word>
+<word id="132343009.a.unit.109">look</word>
+<word id="132343009.a.unit.110">for</word>
+<word id="132343009.a.unit.111">you</word>
+<word id="132343009.a.unit.112">hold</word>
+<word id="132343009.a.unit.113">on</word>
+<comment text="keyboard_typing" id="132343009.a.unit.114"/>
+<sil BTlength="" id="132343009.a.unit.115"/>
+<comment text="16.35s" id="132343009.a.unit.116"/>
+<word id="132343009.a.unit.117">so</word>
+<word id="132343009.a.unit.118">you</word>
+<word id="132343009.a.unit.119">could</word>
+<word id="132343009.a.unit.120">pay</word>
+<word id="132343009.a.unit.121">it</word>
+<word id="132343009.a.unit.122">in</word>
+<word id="132343009.a.unit.123">full</word>
+<word id="132343009.a.unit.124">by</word>
+<word id="132343009.a.unit.125">the</word>
+<word id="132343009.a.unit.126">twenty</word>
+<word id="132343009.a.unit.127">seventh</word>
+<bcanchor id="132343009.bcanchora.4"><nite:pointer href="132343009.b.lturn.xml#id(132343009.lturn.9.1)" role="bc"/></bcanchor>
+<word id="132343009.a.unit.129">but</word>
+<word id="132343009.a.unit.130">you</word>
+<word id="132343009.a.unit.131">are</word>
+<word id="132343009.a.unit.132">monthly</word>
+<word id="132343009.a.unit.133">billed</word>
+<word id="132343009.a.unit.134">aren't</word>
+<word id="132343009.a.unit.135">you</word>
+<word id="132343009.a.unit.136">miss</word>
+<stdzcode id="132343009.a.unit.137" description="name"/>
+<word id="132343009.a.unit.176">right</word>
+<word id="132343009.a.unit.177">what</word>
+<word id="132343009.a.unit.178">i'll</word>
+<word id="132343009.a.unit.179">need</word>
+<word id="132343009.a.unit.180">to</word>
+<word id="132343009.a.unit.181">do</word>
+<word id="132343009.a.unit.182">i</word>
+<word id="132343009.a.unit.183">i</word>
+<word id="132343009.a.unit.184">can't</word>
+<word id="132343009.a.unit.185">say</word>
+<word id="132343009.a.unit.186">yes</word>
+<word id="132343009.a.unit.187">or</word>
+<word id="132343009.a.unit.188">no</word>
+<word id="132343009.a.unit.189">what</word>
+<word id="132343009.a.unit.190">i'll</word>
+<word id="132343009.a.unit.191">do</word>
+<word id="132343009.a.unit.192">is</word>
+<word id="132343009.a.unit.193">put</word>
+<word id="132343009.a.unit.194">you</word>
+<word id="132343009.a.unit.195">through</word>
+<word id="132343009.a.unit.196">to</word>
+<word id="132343009.a.unit.197">credit</word>
+<word id="132343009.a.unit.198">control</word>
+<bcanchor id="132343009.bcanchora.5"><nite:pointer href="132343009.b.lturn.xml#id(132343009.lturn.11.1)" role="bc"/></bcanchor>
+<word id="132343009.a.unit.200">and</word>
+<word id="132343009.a.unit.201">they</word>
+<word id="132343009.a.unit.202">can</word>
+<word id="132343009.a.unit.203">advise</word>
+<word id="132343009.a.unit.204">you</word>
+<word id="132343009.a.unit.205">okay</word>
+<bcanchor id="132343009.bcanchora.6"><nite:pointer href="132343009.b.lturn.xml#id(132343009.lturn.11.2)" role="bc"/></bcanchor>
+<word id="132343009.a.unit.207">it's</word>
+<word id="132343009.a.unit.208">just</word>
+<word id="132343009.a.unit.209">with</word>
+<word id="132343009.a.unit.210">monthly</word>
+<word id="132343009.a.unit.211">billing</word>
+<bcanchor id="132343009.bcanchora.7"><nite:pointer href="132343009.b.lturn.xml#id(132343009.lturn.11.3)" role="bc"/></bcanchor>
+<word id="132343009.a.unit.214">you</word>
+<word id="132343009.a.unit.215">know</word>
+<word id="132343009.a.unit.216">you</word>
+<word id="132343009.a.unit.217">don't</word>
+<word id="132343009.a.unit.218">get</word>
+<word id="132343009.a.unit.219">as</word>
+<word id="132343009.a.unit.220">long</word>
+<word id="132343009.a.unit.221">to</word>
+<word id="132343009.a.unit.222">pay</word>
+<word id="132343009.a.unit.223">it</word>
+<word id="132343009.a.unit.224">complicates</word>
+<word id="132343009.a.unit.225">things</word>
+<word id="132343009.a.unit.229">hold</word>
+<word id="132343009.a.unit.230">on</word>
+<word id="132343009.a.unit.231">i'll</word>
+<word id="132343009.a.unit.232">just</word>
+<word id="132343009.a.unit.233">pop</word>
+<bcanchor id="132343009.bcanchora.8"><nite:pointer href="132343009.b.lturn.xml#id(132343009.lturn.13.1)" role="bc"/></bcanchor>
+<word id="132343009.a.unit.235">you</word>
+<word id="132343009.a.unit.236">through</word>
+</nite:root>

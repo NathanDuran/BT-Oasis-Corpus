@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="094206011.unit.a">
+<stdzcode id="094206011.a.unit.1" description="name"/>
+<word id="094206011.a.unit.5">sorry</word>
+<word id="094206011.a.unit.6">about</word>
+<word id="094206011.a.unit.7">that</word>
+<word id="094206011.a.unit.8">i</word>
+<word id="094206011.a.unit.9">was</word>
+<word id="094206011.a.unit.10">just</word>
+<word id="094206011.a.unit.11">i</word>
+<word id="094206011.a.unit.12">was</word>
+<word id="094206011.a.unit.13">just</word>
+<word id="094206011.a.unit.14">about</word>
+<word id="094206011.a.unit.15">to</word>
+<word id="094206011.a.unit.16">cough</word>
+<comment text="laughs" id="094206011.a.unit.17"/>
+<word id="094206011.a.unit.22">how</word>
+<word id="094206011.a.unit.23">can</word>
+<word id="094206011.a.unit.24">i</word>
+<word id="094206011.a.unit.25">help</word>
+<word id="094206011.a.unit.39">right</word>
+<word id="094206011.a.unit.40">uh</word>
+<word id="094206011.a.unit.41">huh</word>
+<word id="094206011.a.unit.53">oh</word>
+<word id="094206011.a.unit.54">that's</word>
+<word id="094206011.a.unit.55">no</word>
+<word id="094206011.a.unit.56">problem</word>
+<word id="094206011.a.unit.57">do</word>
+<word id="094206011.a.unit.58">you</word>
+<word id="094206011.a.unit.59">actually</word>
+<word id="094206011.a.unit.60">have</word>
+<word id="094206011.a.unit.61">a</word>
+<word id="094206011.a.unit.62">payment</word>
+<word id="094206011.a.unit.63">card</word>
+<word id="094206011.a.unit.64">or</word>
+<word id="094206011.a.unit.65">would</word>
+<word id="094206011.a.unit.66">you</word>
+<word id="094206011.a.unit.67">like</word>
+<word id="094206011.a.unit.68">me</word>
+<word id="094206011.a.unit.69">to</word>
+<word id="094206011.a.unit.70">send</word>
+<word id="094206011.a.unit.71">you</word>
+<word id="094206011.a.unit.72">out</word>
+<word id="094206011.a.unit.73">an</word>
+<word id="094206011.a.unit.74">a</word>
+<word id="094206011.a.unit.75">sort</word>
+<word id="094206011.a.unit.76">of</word>
+<word id="094206011.a.unit.77">ad</word>
+<word id="094206011.a.unit.78">hoc</word>
+<word id="094206011.a.unit.79">counterfoil</word>
+<sil BTlength="" id="094206011.a.unit.85"/>
+<word id="094206011.a.unit.86">um</word>
+<word id="094206011.a.unit.87">well</word>
+<word id="094206011.a.unit.88">you</word>
+<word id="094206011.a.unit.89">could</word>
+<word id="094206011.a.unit.90">pay</word>
+<word id="094206011.a.unit.91">that</word>
+<word id="094206011.a.unit.92">over</word>
+<word id="094206011.a.unit.93">the</word>
+<word id="094206011.a.unit.94">telephone</word>
+<word id="094206011.a.unit.95">if</word>
+<word id="094206011.a.unit.96">you'd</word>
+<word id="094206011.a.unit.97">like</word>
+<word id="094206011.a.unit.100">yes</word>
+<word id="094206011.a.unit.101">certainly</word>
+<word id="094206011.a.unit.104">i'll</word>
+<word id="094206011.a.unit.105">transfer</word>
+<word id="094206011.a.unit.106">you</word>
+<word id="094206011.a.unit.107">through</word>
+<word id="094206011.a.unit.108">to</word>
+<word id="094206011.a.unit.109">um</word>
+<word id="094206011.a.unit.110">our</word>
+<word id="094206011.a.unit.111">um</word>
+<word id="094206011.a.unit.112">uh</word>
+<word id="094206011.a.unit.113">card</word>
+<word id="094206011.a.unit.114">payment</word>
+<word id="094206011.a.unit.115">section</word>
+<bcanchor id="094206011.bcanchora.2"><nite:pointer href="094206011.b.lturn.xml#id(094206011.lturn.13.1)" role="bc"/></bcanchor>
+<word id="094206011.a.unit.117">just</word>
+<word id="094206011.a.unit.118">bear</word>
+<word id="094206011.a.unit.119">with</word>
+<word id="094206011.a.unit.120">me</word>
+<word id="094206011.a.unit.121">one</word>
+<word id="094206011.a.unit.122">moment</word>
+</nite:root>

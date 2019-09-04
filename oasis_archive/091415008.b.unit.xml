@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="091415008.unit.b">
+<word id="091415008.b.unit.2">ah</word>
+<word id="091415008.b.unit.3">i</word>
+<word id="091415008.b.unit.4">got</word>
+<word id="091415008.b.unit.5">straight</word>
+<word id="091415008.b.unit.6">through</word>
+<word id="091415008.b.unit.11">i</word>
+<word id="091415008.b.unit.12">expected</word>
+<num id="091415008.b.unit.13"/>
+<word id="091415008.b.unit.14">minutes</word>
+<partword id="091415008.b.unit.15">s</partword>
+<word id="091415008.b.unit.16">talking</word>
+<word id="091415008.b.unit.17">to</word>
+<word id="091415008.b.unit.18">machines</word>
+<word id="091415008.b.unit.34">oh</word>
+<word id="091415008.b.unit.35">good</word>
+<word id="091415008.b.unit.50">that'll</word>
+<word id="091415008.b.unit.51">suit</word>
+<word id="091415008.b.unit.52">me</word>
+<word id="091415008.b.unit.53">if</word>
+<word id="091415008.b.unit.54">you've</word>
+<word id="091415008.b.unit.55">got</word>
+<word id="091415008.b.unit.56">a</word>
+<word id="091415008.b.unit.57">screen</word>
+<word id="091415008.b.unit.58">um</word>
+<word id="091415008.b.unit.59">it</word>
+<word id="091415008.b.unit.60">might</word>
+<word id="091415008.b.unit.61">benefit</word>
+<word id="091415008.b.unit.62">you</word>
+<word id="091415008.b.unit.63">by</word>
+<word id="091415008.b.unit.64">putting</word>
+<word id="091415008.b.unit.65">me</word>
+<word id="091415008.b.unit.66">up</word>
+<word id="091415008.b.unit.67">on</word>
+<word id="091415008.b.unit.68">it</word>
+<bcanchor id="091415008.bcanchorb.2"><nite:pointer href="091415008.a.lturn.xml#id(091415008.lturn.6.1)" role="bc"/></bcanchor>
+<word id="091415008.b.unit.72">my</word>
+<word id="091415008.b.unit.73">telephone</word>
+<word id="091415008.b.unit.74">number</word>
+<word id="091415008.b.unit.75">is</word>
+<num id="091415008.b.unit.76"/>
+<num id="091415008.b.unit.77"/>
+<num id="091415008.b.unit.78"/>
+<num id="091415008.b.unit.79"/>
+<num id="091415008.b.unit.81"/>
+<num id="091415008.b.unit.82"/>
+<num id="091415008.b.unit.83"/>
+<num id="091415008.b.unit.85"/>
+<num id="091415008.b.unit.86"/>
+<num id="091415008.b.unit.87"/>
+<num id="091415008.b.unit.88"/>
+<word id="091415008.b.unit.119">yes</word>
+<stdzcode id="091415008.b.unit.120" description="name"/>
+<pncode type="surname" id="091415008.b.unit.121"/>
+<word id="091415008.b.unit.122">um</word>
+<num id="091415008.b.unit.123"/>
+<pncode type="road" id="091415008.b.unit.124"/>
+<pncode type="road" id="091415008.b.unit.125"/>
+<pncode type="town" id="091415008.b.unit.126"/>
+<pncode type="town" id="091415008.b.unit.127"/>
+<pncode type="letter" id="091415008.b.unit.128"/>
+<pncode type="letter" id="091415008.b.unit.129"/>
+<num id="091415008.b.unit.130"/>
+<num id="091415008.b.unit.131"/>
+<pncode type="letter" id="091415008.b.unit.132"/>
+<pncode type="letter" id="091415008.b.unit.133"/>
+</nite:root>

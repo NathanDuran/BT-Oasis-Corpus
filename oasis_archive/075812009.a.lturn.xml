@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='075812009.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='075812009.lturn.1'>
+
+
+<utt id='075812009.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='075812009.frag.1'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.1)..id(075812009.a.unit.2)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='075812009.lturn.3'>
+
+
+<utt id='075812009.utt.6'>
+
+<segment type='dm' sp-act='ackn' id='075812009.dm.1'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.46)'/>
+</segment>
+
+</utt>
+
+<utt id='075812009.utt.7'>
+
+<segment type='q_yn' sp-act='hold' id='075812009.q_yn.1'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.47)..id(075812009.a.unit.53)'/>
+</segment>
+
+</utt>
+
+<utt id='075812009.utt.8'>
+
+<segment type='frag' sp-act='inform' id='075812009.frag.2'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.54)..id(075812009.bcanchora.1)'/>
+</segment>
+
+</utt>
+
+<utt id='075812009.utt.9'>
+
+<segment type='q_yn' sp-act='reqInfo' id='075812009.q_yn.2'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.66)..id(075812009.a.unit.71)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='075812009.lturn.5'>
+
+
+<utt id='075812009.utt.12'>
+
+<segment type='yes' sp-act='ackn' id='075812009.yes.2'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.75)'/>
+</segment>
+
+<segment type='decl' sp-act='inform' id='075812009.decl.4'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.76)..id(075812009.a.unit.79)'/>
+</segment>
+
+</utt>
+
+<utt id='075812009.utt.13'>
+
+<segment type='decl' sp-act='inform' id='075812009.decl.5'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.80)..id(075812009.a.unit.92)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='075812009.lturn.7'>
+
+
+<utt id='075812009.utt.15'>
+
+<segment type='frag' sp-act='uninterpretable' id='075812009.frag.4'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.98)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='075812009.lturn.9'>
+
+
+<utt id='075812009.utt.17'>
+
+<segment type='imp' sp-act='hold' id='075812009.a.imp.1'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.104)..id(075812009.a.unit.109)'/>
+</segment>
+
+</utt>
+
+<utt id='075812009.utt.18'>
+
+<segment type='dm' sp-act='init' id='075812009.dm.2'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.110)..id(075812009.a.unit.111)'/>
+</segment>
+
+</utt>
+
+<utt id='075812009.utt.19'>
+
+<segment type='imp' sp-act='hold' id='075812009.a.imp.2'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.112)..id(075812009.a.unit.116)'/>
+</segment>
+
+</utt>
+
+<utt id='075812009.utt.20'>
+
+<segment type='q_wh' sp-act='reqInfo' id='075812009.q_wh.1'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.117)..id(075812009.a.unit.123)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='075812009.lturn.11'>
+
+
+<utt id='075812009.utt.25'>
+
+<segment type='dm' sp-act='ackn' id='075812009.dm.3'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.160)'/>
+</segment>
+
+<segment type='imp' sp-act='hold' id='075812009.a.imp.3'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.161)..id(075812009.a.unit.164)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='075812009.lturn.13'>
+
+
+<utt id='075812009.utt.27'>
+
+<segment type='frag' sp-act='expressRegret' id='075812009.frag.7'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.181)..id(075812009.a.unit.183)'/>
+</segment>
+
+</utt>
+
+<utt id='075812009.utt.28'>
+
+<segment type='decl' sp-act='inform' id='075812009.decl.8'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.184)..id(075812009.a.unit.196)'/>
+</segment>
+
+</utt>
+
+<utt id='075812009.utt.29'>
+
+<segment type='frag' sp-act='informIntent-hold' id='075812009.frag.8'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.197)..id(075812009.a.unit.204)'/>
+</segment>
+
+</utt>
+
+<utt id='075812009.utt.30'>
+
+<segment type='decl' sp-act='inform' id='075812009.decl.9'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.205)..id(075812009.a.unit.215)'/>
+</segment>
+
+</utt>
+
+<utt id='075812009.utt.31'>
+
+<segment type='q_wh' sp-act='reqInfo' id='075812009.q_wh.2'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.216)..id(075812009.a.unit.221)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='075812009.lturn.15'>
+
+
+<utt id='075812009.utt.33'>
+
+<segment type='yes' sp-act='ackn' id='075812009.yes.3'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.227)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='075812009.lturn.17'>
+
+
+<utt id='075812009.utt.35'>
+
+<segment type='yes' sp-act='ackn' id='075812009.yes.4'>
+<nite:child href='075812009.a.unit.xml#id(075812009.a.unit.231)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

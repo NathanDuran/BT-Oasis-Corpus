@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="125427011.unit.a">
+<stdzcode id="125427011.a.unit.1" description="name"/>
+<word id="125427011.a.unit.17">oh</word>
+<word id="125427011.a.unit.18">right</word>
+<word id="125427011.a.unit.35">mm</word>
+<word id="125427011.a.unit.86">right</word>
+<word id="125427011.a.unit.87">i</word>
+<word id="125427011.a.unit.88">don't</word>
+<word id="125427011.a.unit.89">know</word>
+<word id="125427011.a.unit.90">if</word>
+<word id="125427011.a.unit.91">you'll</word>
+<word id="125427011.a.unit.92">be</word>
+<word id="125427011.a.unit.93">able</word>
+<word id="125427011.a.unit.94">to</word>
+<word id="125427011.a.unit.95">get</word>
+<word id="125427011.a.unit.96">a</word>
+<word id="125427011.a.unit.97">paying</word>
+<word id="125427011.a.unit.98">in</word>
+<word id="125427011.a.unit.99">slip</word>
+<word id="125427011.a.unit.100">at</word>
+<word id="125427011.a.unit.101">the</word>
+<pncode type="business" id="125427011.a.unit.102"/>
+<pncode type="business" id="125427011.a.unit.103"/>
+<word id="125427011.a.unit.104">they</word>
+<word id="125427011.a.unit.105">might</word>
+<word id="125427011.a.unit.106">be</word>
+<word id="125427011.a.unit.107">able</word>
+<word id="125427011.a.unit.108">to</word>
+<word id="125427011.a.unit.109">furnish</word>
+<word id="125427011.a.unit.110">her</word>
+<word id="125427011.a.unit.111">with</word>
+<word id="125427011.a.unit.112">a</word>
+<word id="125427011.a.unit.113">paying</word>
+<word id="125427011.a.unit.114">in</word>
+<word id="125427011.a.unit.115">slip</word>
+<word id="125427011.a.unit.116">for</word>
+<word id="125427011.a.unit.117">you</word>
+<word id="125427011.a.unit.119">and</word>
+<word id="125427011.a.unit.120">if</word>
+<word id="125427011.a.unit.121">she</word>
+<word id="125427011.a.unit.122">just</word>
+<word id="125427011.a.unit.123">puts</word>
+<word id="125427011.a.unit.124">your</word>
+<word id="125427011.a.unit.125">account</word>
+<word id="125427011.a.unit.126">number</word>
+<word id="125427011.a.unit.127">name</word>
+<word id="125427011.a.unit.128">and</word>
+<word id="125427011.a.unit.129">amount</word>
+<word id="125427011.a.unit.130">on</word>
+<word id="125427011.a.unit.131">it</word>
+<word id="125427011.a.unit.132">hopefully</word>
+<word id="125427011.a.unit.133">they</word>
+<word id="125427011.a.unit.134">will</word>
+<word id="125427011.a.unit.135">take</word>
+<word id="125427011.a.unit.136">it</word>
+<word id="125427011.a.unit.137">on</word>
+<word id="125427011.a.unit.138">that</word>
+<word id="125427011.a.unit.156">have</word>
+<word id="125427011.a.unit.157">you</word>
+<word id="125427011.a.unit.158">not</word>
+<word id="125427011.a.unit.159">got</word>
+<word id="125427011.a.unit.160">the</word>
+<word id="125427011.a.unit.161">bill</word>
+<word id="125427011.a.unit.162">there</word>
+<word id="125427011.a.unit.163">then</word>
+<word id="125427011.a.unit.212">what's</word>
+<word id="125427011.a.unit.213">what's</word>
+<word id="125427011.a.unit.214">your</word>
+<word id="125427011.a.unit.215">telephone</word>
+<word id="125427011.a.unit.216">number</word>
+<word id="125427011.a.unit.217">sir</word>
+<bcanchor id="125427011.bcanchora.1"><nite:pointer href="125427011.b.lturn.xml#id(125427011.lturn.13.1)" role="bc"/></bcanchor>
+<word id="125427011.a.unit.219">and</word>
+<word id="125427011.a.unit.220">i'll</word>
+<word id="125427011.a.unit.221">have</word>
+<word id="125427011.a.unit.222">a</word>
+<word id="125427011.a.unit.223">look</word>
+</nite:root>

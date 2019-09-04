@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="084920007.unit.b">
+<word id="084920007.b.unit.2">hello</word>
+<word id="084920007.b.unit.3">i'm</word>
+<bcanchor id="084920007.bcanchorb.1"><nite:pointer href="084920007.a.lturn.xml#id(084920007.lturn.2.1)" role="bc"/></bcanchor>
+<word id="084920007.b.unit.5">phoning</word>
+<word id="084920007.b.unit.6">up</word>
+<word id="084920007.b.unit.7">oh</word>
+<word id="084920007.b.unit.8">hello</word>
+<word id="084920007.b.unit.10">hello</word>
+<sil BTlength="" id="084920007.b.unit.11"/>
+<word id="084920007.b.unit.12">hello</word>
+<word id="084920007.b.unit.13">there</word>
+<word id="084920007.b.unit.15">yes</word>
+<word id="084920007.b.unit.16">can</word>
+<word id="084920007.b.unit.17">you</word>
+<word id="084920007.b.unit.18">hear</word>
+<word id="084920007.b.unit.19">me</word>
+<word id="084920007.b.unit.22">right</word>
+<word id="084920007.b.unit.23">okay</word>
+<word id="084920007.b.unit.24">i've</word>
+<word id="084920007.b.unit.25">got</word>
+<word id="084920007.b.unit.26">an</word>
+<word id="084920007.b.unit.27">interrim</word>
+<word id="084920007.b.unit.28">bill</word>
+<word id="084920007.b.unit.29">in</word>
+<word id="084920007.b.unit.30">an</word>
+<word id="084920007.b.unit.31">it's</word>
+<word id="084920007.b.unit.32">just</word>
+<word id="084920007.b.unit.33">to</word>
+<word id="084920007.b.unit.34">let</word>
+<word id="084920007.b.unit.35">you</word>
+<word id="084920007.b.unit.36">know</word>
+<word id="084920007.b.unit.37">i'll</word>
+<word id="084920007.b.unit.38">be</word>
+<word id="084920007.b.unit.39">paying</word>
+<word id="084920007.b.unit.40">it</word>
+<word id="084920007.b.unit.41">on</word>
+<word id="084920007.b.unit.42">Friday</word>
+</nite:root>

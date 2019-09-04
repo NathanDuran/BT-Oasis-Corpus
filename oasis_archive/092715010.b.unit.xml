@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="092715010.unit.b">
+<word id="092715010.b.unit.2">oh</word>
+<word id="092715010.b.unit.3">morning</word>
+<word id="092715010.b.unit.4">i've</word>
+<word id="092715010.b.unit.5">got</word>
+<word id="092715010.b.unit.6">um</word>
+<word id="092715010.b.unit.7">a</word>
+<word id="092715010.b.unit.8">B</word>
+<word id="092715010.b.unit.9">T</word>
+<word id="092715010.b.unit.10">Freestyle</word>
+<word id="092715010.b.unit.11">thousand</word>
+<word id="092715010.b.unit.12">um</word>
+<comment text="cough" id="092715010.b.unit.13"/>
+<word id="092715010.b.unit.14">telephone</word>
+<word id="092715010.b.unit.15">um</word>
+<bcanchor id="092715010.bcanchorb.1"><nite:pointer href="092715010.a.lturn.xml#id(092715010.lturn.2.1)" role="bc"/></bcanchor>
+<word id="092715010.b.unit.18">with</word>
+<word id="092715010.b.unit.19">the</word>
+<word id="092715010.b.unit.20">um</word>
+<word id="092715010.b.unit.21">answerphone</word>
+<word id="092715010.b.unit.22">thing</word>
+<word id="092715010.b.unit.23">uh</word>
+<word id="092715010.b.unit.24">in</word>
+<word id="092715010.b.unit.25">the</word>
+<word id="092715010.b.unit.26">base</word>
+<bcanchor id="092715010.bcanchorb.2"><nite:pointer href="092715010.a.lturn.xml#id(092715010.lturn.2.2)" role="bc"/></bcanchor>
+<word id="092715010.b.unit.28">which</word>
+<word id="092715010.b.unit.29">is</word>
+<word id="092715010.b.unit.30">not</word>
+<word id="092715010.b.unit.31">working</word>
+<word id="092715010.b.unit.32">right</word>
+<partword id="092715010.b.unit.33">it..</partword>
+<word id="092715010.b.unit.34">could</word>
+<word id="092715010.b.unit.35">i</word>
+<word id="092715010.b.unit.36">take</word>
+<word id="092715010.b.unit.37">it</word>
+<word id="092715010.b.unit.38">in</word>
+<partword id="092715010.b.unit.39">els</partword>
+<word id="092715010.b.unit.40">to</word>
+<word id="092715010.b.unit.41">be</word>
+<word id="092715010.b.unit.42">serviced</word>
+<word id="092715010.b.unit.43">repaired</word>
+<word id="092715010.b.unit.44">or</word>
+<word id="092715010.b.unit.45">scrapped</word>
+<comment text="laugh" id="092715010.b.unit.46"/>
+<comment text="breath" id="092715010.b.unit.47"/>
+<word id="092715010.b.unit.56">uh</word>
+<word id="092715010.b.unit.57">well</word>
+<partword id="092715010.b.unit.58">m</partword>
+<word id="092715010.b.unit.59">ma</word>
+<word id="092715010.b.unit.60">daughter</word>
+<word id="092715010.b.unit.61">has</word>
+<word id="092715010.b.unit.62">she's</word>
+<word id="092715010.b.unit.63">passed</word>
+<word id="092715010.b.unit.64">it</word>
+<word id="092715010.b.unit.65">to</word>
+<word id="092715010.b.unit.66">me</word>
+<word id="092715010.b.unit.67">actually</word>
+<word id="092715010.b.unit.92">uh</word>
+<word id="092715010.b.unit.93">hmm</word>
+<word id="092715010.b.unit.116">yeah</word>
+<word id="092715010.b.unit.129">thank</word>
+<word id="092715010.b.unit.130">you</word>
+<word id="092715010.b.unit.144">hello</word>
+<word id="092715010.b.unit.153">uh</word>
+<sil BTlength="" id="092715010.b.unit.154"/>
+<num id="092715010.b.unit.155"/>
+<num id="092715010.b.unit.156"/>
+<num id="092715010.b.unit.157"/>
+<num id="092715010.b.unit.158"/>
+<num id="092715010.b.unit.159"/>
+<word id="092715010.b.unit.162">yes</word>
+</nite:root>

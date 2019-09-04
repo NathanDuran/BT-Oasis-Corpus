@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="095500006.unit.b">
+<word id="095500006.b.unit.2">oh</word>
+<word id="095500006.b.unit.3">hello</word>
+<word id="095500006.b.unit.4">i'm</word>
+<word id="095500006.b.unit.5">trying</word>
+<word id="095500006.b.unit.6">to</word>
+<word id="095500006.b.unit.7">um</word>
+<word id="095500006.b.unit.8">change</word>
+<word id="095500006.b.unit.9">one</word>
+<word id="095500006.b.unit.10">of</word>
+<word id="095500006.b.unit.11">my</word>
+<word id="095500006.b.unit.12">Friends</word>
+<word id="095500006.b.unit.13">And</word>
+<word id="095500006.b.unit.14">Family</word>
+<word id="095500006.b.unit.15">numbers</word>
+<word id="095500006.b.unit.16">and</word>
+<word id="095500006.b.unit.17">i've</word>
+<word id="095500006.b.unit.18">been</word>
+<word id="095500006.b.unit.19">i</word>
+<word id="095500006.b.unit.20">can't</word>
+<word id="095500006.b.unit.21">seem</word>
+<word id="095500006.b.unit.22">to</word>
+<word id="095500006.b.unit.23">do</word>
+<word id="095500006.b.unit.24">it</word>
+<partword id="095500006.b.unit.25">o</partword>
+<word id="095500006.b.unit.26">with</word>
+<word id="095500006.b.unit.27">all</word>
+<word id="095500006.b.unit.28">the</word>
+<bcanchor id="095500006.bcanchorb.1"><nite:pointer href="095500006.a.lturn.xml#id(095500006.lturn.2.1)" role="bc"/></bcanchor>
+<word id="095500006.b.unit.31">automated</word>
+<word id="095500006.b.unit.32">service</word>
+<word id="095500006.b.unit.41">um</word>
+<word id="095500006.b.unit.42">it's</word>
+<num id="095500006.b.unit.43"/>
+<num id="095500006.b.unit.44"/>
+<num id="095500006.b.unit.45"/>
+<num id="095500006.b.unit.46"/>
+<num id="095500006.b.unit.47"/>
+<num id="095500006.b.unit.49"/>
+<num id="095500006.b.unit.50"/>
+<num id="095500006.b.unit.51"/>
+<bcanchor id="095500006.bcanchorb.2"><nite:pointer href="095500006.a.lturn.xml#id(095500006.lturn.6.1)" role="bc"/></bcanchor>
+<num id="095500006.b.unit.53"/>
+<num id="095500006.b.unit.54"/>
+<num id="095500006.b.unit.55"/>
+<word id="095500006.b.unit.75">yeah</word>
+<word id="095500006.b.unit.76">it's</word>
+<word id="095500006.b.unit.77">missus</word>
+<stdzcode id="095500006.b.unit.78" description="name"/>
+<pncode type="surname" id="095500006.b.unit.79"/>
+<pncode type="letter" id="095500006.b.unit.82"/>
+<pncode type="letter" id="095500006.b.unit.83"/>
+<pncode type="letter" id="095500006.b.unit.84"/>
+<pncode type="letter" id="095500006.b.unit.85"/>
+<pncode type="letter" id="095500006.b.unit.86"/>
+<word id="095500006.b.unit.87">and</word>
+<word id="095500006.b.unit.88">it's</word>
+<num id="095500006.b.unit.89"/>
+<pncode type="road" id="095500006.b.unit.90"/>
+<pncode type="road" id="095500006.b.unit.91"/>
+<pncode type="town" id="095500006.b.unit.93"/>
+<pncode type="region" id="095500006.b.unit.94"/>
+<pncode type="region" id="095500006.b.unit.95"/>
+<pncode type="letter" id="095500006.b.unit.96"/>
+<pncode type="letter" id="095500006.b.unit.97"/>
+<num id="095500006.b.unit.98"/>
+<num id="095500006.b.unit.99"/>
+<pncode type="letter" id="095500006.b.unit.100"/>
+<pncode type="letter" id="095500006.b.unit.101"/>
+<word id="095500006.b.unit.114">thanks</word>
+</nite:root>

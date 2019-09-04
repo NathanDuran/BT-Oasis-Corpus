@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="125719008.unit.b">
+<word id="125719008.b.unit.2">wonder</word>
+<word id="125719008.b.unit.3">if</word>
+<word id="125719008.b.unit.4">you</word>
+<word id="125719008.b.unit.5">could</word>
+<word id="125719008.b.unit.6">help</word>
+<word id="125719008.b.unit.7">i've</word>
+<word id="125719008.b.unit.8">just</word>
+<word id="125719008.b.unit.9">got</word>
+<word id="125719008.b.unit.10">a</word>
+<word id="125719008.b.unit.11">bill</word>
+<word id="125719008.b.unit.12">in</word>
+<bcanchor id="125719008.bcanchorb.1"><nite:pointer href="125719008.a.lturn.xml#id(125719008.lturn.2.1)" role="bc"/></bcanchor>
+<word id="125719008.b.unit.15">and</word>
+<word id="125719008.b.unit.16">i</word>
+<word id="125719008.b.unit.17">was</word>
+<word id="125719008.b.unit.18">wondering</word>
+<word id="125719008.b.unit.19">if</word>
+<word id="125719008.b.unit.20">i</word>
+<word id="125719008.b.unit.21">could</word>
+<word id="125719008.b.unit.22">pay</word>
+<word id="125719008.b.unit.23">it</word>
+<word id="125719008.b.unit.24">in</word>
+<num id="125719008.b.unit.25"/>
+<word id="125719008.b.unit.26">instalments</word>
+<word id="125719008.b.unit.27">at</word>
+<word id="125719008.b.unit.28">all</word>
+<word id="125719008.b.unit.34">it's</word>
+<num id="125719008.b.unit.35"/>
+<num id="125719008.b.unit.36"/>
+<num id="125719008.b.unit.37"/>
+<num id="125719008.b.unit.38"/>
+<num id="125719008.b.unit.39"/>
+<num id="125719008.b.unit.45"/>
+<num id="125719008.b.unit.46"/>
+<num id="125719008.b.unit.47"/>
+<num id="125719008.b.unit.51"/>
+<num id="125719008.b.unit.52"/>
+<num id="125719008.b.unit.53"/>
+<word id="125719008.b.unit.71">it's</word>
+<word id="125719008.b.unit.72">mister</word>
+<stdzcode id="125719008.b.unit.73" description="name"/>
+<pncode type="surname" id="125719008.b.unit.74"/>
+<bcanchor id="125719008.bcanchorb.2"><nite:pointer href="125719008.a.lturn.xml#id(125719008.lturn.10.1)" role="bc"/></bcanchor>
+<word id="125719008.b.unit.77">and</word>
+<word id="125719008.b.unit.78">it's</word>
+<word id="125719008.b.unit.79">flat</word>
+<num id="125719008.b.unit.80"/>
+<num id="125719008.b.unit.81"/>
+<pncode type="road" id="125719008.b.unit.82"/>
+<pncode type="road" id="125719008.b.unit.83"/>
+<pncode type="letter" id="125719008.b.unit.84"/>
+<pncode type="letter" id="125719008.b.unit.85"/>
+<num id="125719008.b.unit.86"/>
+<num id="125719008.b.unit.87"/>
+<pncode type="letter" id="125719008.b.unit.88"/>
+<pncode type="letter" id="125719008.b.unit.89"/>
+<word id="125719008.b.unit.126">um</word>
+<word id="125719008.b.unit.127">i've</word>
+<word id="125719008.b.unit.128">got</word>
+<word id="125719008.b.unit.129">um</word>
+<word id="125719008.b.unit.130">the</word>
+<partword id="125719008.b.unit.131">p</partword>
+<word id="125719008.b.unit.132">payment</word>
+<word id="125719008.b.unit.133">card</word>
+<word id="125719008.b.unit.134">but</word>
+<word id="125719008.b.unit.135">i've</word>
+<word id="125719008.b.unit.136">just</word>
+<word id="125719008.b.unit.137">got</word>
+<word id="125719008.b.unit.138">credit</word>
+<word id="125719008.b.unit.139">card</word>
+<word id="125719008.b.unit.140">bill</word>
+<word id="125719008.b.unit.141">in</word>
+<word id="125719008.b.unit.142">as</word>
+<word id="125719008.b.unit.143">well</word>
+<word id="125719008.b.unit.144">so</word>
+<word id="125719008.b.unit.164">um</word>
+<word id="125719008.b.unit.165">how</word>
+<word id="125719008.b.unit.166">many</word>
+<word id="125719008.b.unit.167">instalments</word>
+<word id="125719008.b.unit.168">could</word>
+<word id="125719008.b.unit.169">i</word>
+<word id="125719008.b.unit.170">do</word>
+<word id="125719008.b.unit.171">it</word>
+<word id="125719008.b.unit.172">in</word>
+</nite:root>

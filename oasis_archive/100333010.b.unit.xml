@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="100333010.unit.b">
+<word id="100333010.b.unit.2">yes</word>
+<word id="100333010.b.unit.3">i'd</word>
+<word id="100333010.b.unit.4">like</word>
+<word id="100333010.b.unit.5">to</word>
+<word id="100333010.b.unit.6">um</word>
+<word id="100333010.b.unit.7">request</word>
+<word id="100333010.b.unit.8">a</word>
+<word id="100333010.b.unit.9">couple</word>
+<word id="100333010.b.unit.10">of</word>
+<word id="100333010.b.unit.11">services</word>
+<word id="100333010.b.unit.12">please</word>
+<word id="100333010.b.unit.13">i'd</word>
+<word id="100333010.b.unit.14">like</word>
+<word id="100333010.b.unit.15">to</word>
+<word id="100333010.b.unit.16">um</word>
+<word id="100333010.b.unit.17">update</word>
+<word id="100333010.b.unit.18">my</word>
+<word id="100333010.b.unit.19">family</word>
+<word id="100333010.b.unit.20">and</word>
+<word id="100333010.b.unit.21">friends</word>
+<word id="100333010.b.unit.22">list</word>
+<word id="100333010.b.unit.37">it's</word>
+<num id="100333010.b.unit.38"/>
+<num id="100333010.b.unit.39"/>
+<num id="100333010.b.unit.40"/>
+<num id="100333010.b.unit.41"/>
+<num id="100333010.b.unit.42"/>
+<bcanchor id="100333010.bcanchorb.1"><nite:pointer href="100333010.a.lturn.xml#id(100333010.lturn.4.1)" role="bc"/></bcanchor>
+<num id="100333010.b.unit.44"/>
+<num id="100333010.b.unit.45"/>
+<num id="100333010.b.unit.46"/>
+<num id="100333010.b.unit.47"/>
+<num id="100333010.b.unit.48"/>
+<num id="100333010.b.unit.49"/>
+<word id="100333010.b.unit.67">yes</word>
+<word id="100333010.b.unit.68">it's</word>
+<word id="100333010.b.unit.69">missus</word>
+<pncode type="letter" id="100333010.b.unit.70"/>
+<pncode type="surname" id="100333010.b.unit.71"/>
+<num id="100333010.b.unit.72"/>
+<pncode type="road" id="100333010.b.unit.73"/>
+<pncode type="road" id="100333010.b.unit.74"/>
+<pncode type="town" id="100333010.b.unit.75"/>
+<pncode type="town" id="100333010.b.unit.76"/>
+<pncode type="town" id="100333010.b.unit.77"/>
+<pncode type="region" id="100333010.b.unit.78"/>
+<pncode type="letter" id="100333010.b.unit.79"/>
+<pncode type="letter" id="100333010.b.unit.80"/>
+<num id="100333010.b.unit.81"/>
+<num id="100333010.b.unit.82"/>
+<num id="100333010.b.unit.83"/>
+<pncode type="letter" id="100333010.b.unit.84"/>
+<pncode type="letter" id="100333010.b.unit.85"/>
+<word id="100333010.b.unit.108">yes</word>
+<word id="100333010.b.unit.109">i</word>
+<word id="100333010.b.unit.110">would</word>
+<word id="100333010.b.unit.111">yes</word>
+<word id="100333010.b.unit.125">right</word>
+<word id="100333010.b.unit.126">um</word>
+<sil BTlength="2s" id="100333010.b.unit.127"/>
+<word id="100333010.b.unit.128">right</word>
+<word id="100333010.b.unit.129">let</word>
+<word id="100333010.b.unit.130">me</word>
+<word id="100333010.b.unit.131">get</word>
+<word id="100333010.b.unit.132">it</word>
+<word id="100333010.b.unit.133">on</word>
+<word id="100333010.b.unit.134">here</word>
+<word id="100333010.b.unit.135">um</word>
+<word id="100333010.b.unit.136">the</word>
+<pncode type="letter" id="100333010.b.unit.137"/>
+<pncode type="letter" id="100333010.b.unit.138"/>
+<pncode type="letter" id="100333010.b.unit.139"/>
+<word id="100333010.b.unit.140">one</word>
+<num id="100333010.b.unit.141"/>
+<num id="100333010.b.unit.142"/>
+<num id="100333010.b.unit.143"/>
+<num id="100333010.b.unit.144"/>
+<sil BTlength="" id="100333010.b.unit.145"/>
+<num id="100333010.b.unit.146"/>
+<num id="100333010.b.unit.147"/>
+<num id="100333010.b.unit.148"/>
+<num id="100333010.b.unit.149"/>
+<num id="100333010.b.unit.160"/>
+<num id="100333010.b.unit.161"/>
+<num id="100333010.b.unit.162"/>
+<word id="100333010.b.unit.163">that</word>
+<word id="100333010.b.unit.164">one</word>
+<word id="100333010.b.unit.165">off</word>
+<word id="100333010.b.unit.168">and</word>
+<sil BTlength="3s" id="100333010.b.unit.169"/>
+<word id="100333010.b.unit.170">right</word>
+<word id="100333010.b.unit.171">the</word>
+<pncode type="town" id="100333010.b.unit.172"/>
+<word id="100333010.b.unit.173">ones</word>
+<word id="100333010.b.unit.174">have</word>
+<word id="100333010.b.unit.175">automatically</word>
+<word id="100333010.b.unit.176">been</word>
+<word id="100333010.b.unit.177">changed</word>
+<word id="100333010.b.unit.178">haven't</word>
+<word id="100333010.b.unit.179">they</word>
+</nite:root>

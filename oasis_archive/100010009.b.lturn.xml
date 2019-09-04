@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='100010009.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='100010009.lturn.2'>
+
+
+<utt id='100010009.utt.2'>
+
+<segment type='decl' sp-act='expressOpinion' id='100010009.decl.1'>
+<nite:child href='100010009.b.unit.xml#id(100010009.b.unit.2)..id(100010009.b.unit.14)'/>
+</segment>
+
+</utt>
+
+<utt id='100010009.utt.3'>
+
+<segment type='decl' sp-act='identifySelf' id='100010009.decl.2'>
+<nite:child href='100010009.b.unit.xml#id(100010009.b.unit.15)..id(100010009.b.unit.22)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='100010009.lturn.4'>
+
+
+<utt id='100010009.utt.5'>
+
+<segment type='decl' sp-act='informIntent' id='100010009.decl.3'>
+<nite:child href='100010009.b.unit.xml#id(100010009.b.unit.24)..id(100010009.bcanchorb.2)'/>
+</segment>
+
+</utt>
+
+<utt id='100010009.utt.6'>
+
+<segment type='decl' sp-act='informIntent' id='100010009.decl.4'>
+<nite:child href='100010009.b.unit.xml#id(100010009.b.unit.32)..id(100010009.b.unit.38)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='100010009.lturn.6'>
+
+
+<utt id='100010009.utt.8'>
+
+<segment type='decl' sp-act='answ' id='100010009.decl.5'>
+<nite:child href='100010009.b.unit.xml#id(100010009.b.unit.44)..id(100010009.b.unit.52)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

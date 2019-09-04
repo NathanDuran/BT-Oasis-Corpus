@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="080858011.unit.b">
+<word id="080858011.b.unit.2">oh</word>
+<word id="080858011.b.unit.3">uh</word>
+<word id="080858011.b.unit.4">i</word>
+<word id="080858011.b.unit.5">have</word>
+<word id="080858011.b.unit.6">a</word>
+<word id="080858011.b.unit.7">query</word>
+<word id="080858011.b.unit.8">about</word>
+<word id="080858011.b.unit.9">our</word>
+<pncode type="business" id="080858011.b.unit.10"/>
+<pncode type="business" id="080858011.b.unit.11"/>
+<word id="080858011.b.unit.12">billing</word>
+<word id="080858011.b.unit.22">yes</word>
+<word id="080858011.b.unit.23">uh</word>
+<num id="080858011.b.unit.24"/>
+<num id="080858011.b.unit.25"/>
+<num id="080858011.b.unit.26"/>
+<num id="080858011.b.unit.27"/>
+<num id="080858011.b.unit.29"/>
+<num id="080858011.b.unit.30"/>
+<num id="080858011.b.unit.31"/>
+<num id="080858011.b.unit.33"/>
+<num id="080858011.b.unit.34"/>
+<num id="080858011.b.unit.35"/>
+<num id="080858011.b.unit.36"/>
+<word id="080858011.b.unit.51">yes</word>
+<word id="080858011.b.unit.52">my</word>
+<word id="080858011.b.unit.53">my</word>
+<word id="080858011.b.unit.54">name</word>
+<word id="080858011.b.unit.55">is</word>
+<word id="080858011.b.unit.56">uh</word>
+<pncode type="surname" id="080858011.b.unit.57"/>
+<word id="080858011.b.unit.58">initial</word>
+<pncode type="letter" id="080858011.b.unit.59"/>
+<pncode type="letter" id="080858011.b.unit.60"/>
+<bcanchor id="080858011.bcanchorb.1"><nite:pointer href="080858011.a.lturn.xml#id(080858011.lturn.10.1)" role="bc"/></bcanchor>
+<word id="080858011.b.unit.62">and</word>
+<word id="080858011.b.unit.63">my</word>
+<word id="080858011.b.unit.64">address</word>
+<word id="080858011.b.unit.65">is</word>
+<word id="080858011.b.unit.66">flat</word>
+<word id="080858011.b.unit.67">number</word>
+<num id="080858011.b.unit.68"/>
+<num id="080858011.b.unit.69"/>
+<pncode type="road" id="080858011.b.unit.70"/>
+<pncode type="road" id="080858011.b.unit.71"/>
+<word id="080858011.b.unit.72">uh</word>
+<pncode type="letter" id="080858011.b.unit.73"/>
+<pncode type="letter" id="080858011.b.unit.74"/>
+<num id="080858011.b.unit.75"/>
+<num id="080858011.b.unit.76"/>
+<pncode type="letter" id="080858011.b.unit.77"/>
+<pncode type="letter" id="080858011.b.unit.78"/>
+<word id="080858011.b.unit.86">okay</word>
+<comment text="cough" id="080858011.b.unit.87"/>
+<word id="080858011.b.unit.88">i'm</word>
+<word id="080858011.b.unit.89">looking</word>
+<comment text="cough" id="080858011.b.unit.90"/>
+<word id="080858011.b.unit.91">scuse</word>
+<word id="080858011.b.unit.92">me</word>
+<word id="080858011.b.unit.93">i'm</word>
+<word id="080858011.b.unit.94">looking</word>
+<word id="080858011.b.unit.95">at</word>
+<word id="080858011.b.unit.96">my</word>
+<word id="080858011.b.unit.97">bill</word>
+<word id="080858011.b.unit.98">uh</word>
+<word id="080858011.b.unit.99">actually</word>
+<word id="080858011.b.unit.100">it's</word>
+<word id="080858011.b.unit.101">a</word>
+<word id="080858011.b.unit.102">statement</word>
+<word id="080858011.b.unit.103">a</word>
+<word id="080858011.b.unit.104">budget</word>
+<word id="080858011.b.unit.105">account</word>
+<word id="080858011.b.unit.106">statement</word>
+<bcanchor id="080858011.bcanchorb.2"><nite:pointer href="080858011.a.lturn.xml#id(080858011.lturn.12.1)" role="bc"/></bcanchor>
+<word id="080858011.b.unit.108">which</word>
+<word id="080858011.b.unit.109">is</word>
+<word id="080858011.b.unit.110">dated</word>
+<word id="080858011.b.unit.111">the</word>
+<word id="080858011.b.unit.112">twenty</word>
+<word id="080858011.b.unit.113">sixth</word>
+<word id="080858011.b.unit.114">of</word>
+<word id="080858011.b.unit.115">June</word>
+<word id="080858011.b.unit.118">and</word>
+<word id="080858011.b.unit.119">uh</word>
+<word id="080858011.b.unit.120">on</word>
+<word id="080858011.b.unit.121">page</word>
+<num id="080858011.b.unit.122"/>
+<num id="080858011.b.unit.123"/>
+<word id="080858011.b.unit.124">scuse</word>
+<word id="080858011.b.unit.125">me</word>
+<sil BTlength="" id="080858011.b.unit.126"/>
+<word id="080858011.b.unit.127">on</word>
+<sil BTlength="" id="080858011.b.unit.128"/>
+<word id="080858011.b.unit.129">yes</word>
+<word id="080858011.b.unit.130">on</word>
+<word id="080858011.b.unit.131">the</word>
+<word id="080858011.b.unit.132">section</word>
+<word id="080858011.b.unit.133">that</word>
+<word id="080858011.b.unit.134">says</word>
+<sil BTlength="" id="080858011.b.unit.135"/>
+<word id="080858011.b.unit.136">oh</word>
+<word id="080858011.b.unit.137">dear</word>
+<word id="080858011.b.unit.138">me</word>
+<word id="080858011.b.unit.139">ah</word>
+<word id="080858011.b.unit.140">yes</word>
+<word id="080858011.b.unit.141">on</word>
+<word id="080858011.b.unit.142">page</word>
+<num id="080858011.b.unit.143"/>
+<word id="080858011.b.unit.144">section</word>
+<word id="080858011.b.unit.145">says</word>
+<word id="080858011.b.unit.146">other</word>
+<word id="080858011.b.unit.147">charges</word>
+<word id="080858011.b.unit.148">and</word>
+<word id="080858011.b.unit.149">credits</word>
+</nite:root>

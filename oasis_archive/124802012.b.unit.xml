@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="124802012.unit.b">
+<word id="124802012.b.unit.2">uh</word>
+<word id="124802012.b.unit.3">good</word>
+<word id="124802012.b.unit.4">afternoon</word>
+<word id="124802012.b.unit.5">i</word>
+<word id="124802012.b.unit.6">would</word>
+<word id="124802012.b.unit.7">like</word>
+<word id="124802012.b.unit.8">to</word>
+<word id="124802012.b.unit.9">um</word>
+<word id="124802012.b.unit.10">open</word>
+<word id="124802012.b.unit.11">a</word>
+<word id="124802012.b.unit.12">line</word>
+<word id="124802012.b.unit.13">get</word>
+<word id="124802012.b.unit.14">a</word>
+<word id="124802012.b.unit.15">line</word>
+<word id="124802012.b.unit.34">um</word>
+<word id="124802012.b.unit.35">no</word>
+<word id="124802012.b.unit.36">i'm</word>
+<word id="124802012.b.unit.37">not</word>
+<partword id="124802012.b.unit.47">y</partword>
+<word id="124802012.b.unit.48">yes</word>
+<word id="124802012.b.unit.55">uh</word>
+<word id="124802012.b.unit.56">no</word>
+<word id="124802012.b.unit.57">no</word>
+<word id="124802012.b.unit.58">no</word>
+<word id="124802012.b.unit.59">no</word>
+<bcanchor id="124802012.bcanchorb.1"><nite:pointer href="124802012.a.lturn.xml#id(124802012.lturn.8.1)" role="bc"/></bcanchor>
+<word id="124802012.b.unit.61">it</word>
+<word id="124802012.b.unit.62">was</word>
+<word id="124802012.b.unit.63">not</word>
+<word id="124802012.b.unit.64">but</word>
+<word id="124802012.b.unit.65">it's</word>
+<word id="124802012.b.unit.66">quite</word>
+<word id="124802012.b.unit.67">complicated</word>
+<word id="124802012.b.unit.68">so</word>
+<word id="124802012.b.unit.69">i'm</word>
+<word id="124802012.b.unit.70">sorry</word>
+<word id="124802012.b.unit.71">you</word>
+<word id="124802012.b.unit.72">will</word>
+<word id="124802012.b.unit.73">have</word>
+<word id="124802012.b.unit.74">to</word>
+<word id="124802012.b.unit.75">go</word>
+<word id="124802012.b.unit.76">with</word>
+<word id="124802012.b.unit.77">me</word>
+<word id="124802012.b.unit.78">about</word>
+<word id="124802012.b.unit.105">uh</word>
+<word id="124802012.b.unit.106">yes</word>
+<word id="124802012.b.unit.107">it's</word>
+<num id="124802012.b.unit.108"/>
+<word id="124802012.b.unit.109">two</word>
+<num id="124802012.b.unit.110"/>
+<pncode type="road" id="124802012.b.unit.111"/>
+<pncode type="road" id="124802012.b.unit.112"/>
+<word id="124802012.b.unit.118">mm</word>
+<word id="124802012.b.unit.119">hmm</word>
+<word id="124802012.b.unit.123">uh</word>
+<pncode type="town" id="124802012.b.unit.124"/>
+<pncode type="town" id="124802012.b.unit.125"/>
+<word id="124802012.b.unit.126">it's</word>
+<pncode type="letter" id="124802012.b.unit.127"/>
+<pncode type="letter" id="124802012.b.unit.128"/>
+<pncode type="letter" id="124802012.b.unit.129"/>
+<pncode type="letter" id="124802012.b.unit.130"/>
+<pncode type="letter" id="124802012.b.unit.131"/>
+<pncode type="letter" id="124802012.b.unit.132"/>
+<pncode type="letter" id="124802012.b.unit.133"/>
+<pncode type="letter" id="124802012.b.unit.137"/>
+<pncode type="letter" id="124802012.b.unit.138"/>
+<num id="124802012.b.unit.139"/>
+<num id="124802012.b.unit.140"/>
+<pncode type="letter" id="124802012.b.unit.141"/>
+<pncode type="letter" id="124802012.b.unit.142"/>
+</nite:root>

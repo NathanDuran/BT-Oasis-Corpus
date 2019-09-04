@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="081925010.unit.b">
+<word id="081925010.b.unit.2">oh</word>
+<word id="081925010.b.unit.3">uh</word>
+<word id="081925010.b.unit.4">what's</word>
+<word id="081925010.b.unit.5">the</word>
+<word id="081925010.b.unit.6">number</word>
+<word id="081925010.b.unit.7">i</word>
+<word id="081925010.b.unit.8">do</word>
+<word id="081925010.b.unit.9">for</word>
+<word id="081925010.b.unit.10">residential</word>
+<word id="081925010.b.unit.12">what</word>
+<word id="081925010.b.unit.13">number</word>
+<word id="081925010.b.unit.14">do</word>
+<word id="081925010.b.unit.15">i</word>
+<word id="081925010.b.unit.16">dial</word>
+<word id="081925010.b.unit.17">for</word>
+<word id="081925010.b.unit.18">residential</word>
+<word id="081925010.b.unit.19">customer</word>
+<word id="081925010.b.unit.20">service</word>
+<word id="081925010.b.unit.29">oh</word>
+<word id="081925010.b.unit.30">right</word>
+<word id="081925010.b.unit.31">uh</word>
+<word id="081925010.b.unit.32">my</word>
+<word id="081925010.b.unit.33">name</word>
+<word id="081925010.b.unit.34">is</word>
+<partword id="081925010.b.unit.35">mi</partword>
+<word id="081925010.b.unit.36">miss</word>
+<pncode type="surname" id="081925010.b.unit.37"/>
+<word id="081925010.b.unit.38">um</word>
+<word id="081925010.b.unit.39">i</word>
+<word id="081925010.b.unit.40">actually</word>
+<word id="081925010.b.unit.41">got</word>
+<word id="081925010.b.unit.42">my</word>
+<word id="081925010.b.unit.43">phone</word>
+<word id="081925010.b.unit.44">made</word>
+<word id="081925010.b.unit.45">one</word>
+<word id="081925010.b.unit.46">made</word>
+<word id="081925010.b.unit.47">just</word>
+<word id="081925010.b.unit.48">for</word>
+<word id="081925010.b.unit.49">incoming</word>
+<partword id="081925010.b.unit.50">qua</partword>
+<word id="081925010.b.unit.51">calls</word>
+<bcanchor id="081925010.bcanchorb.1"><nite:pointer href="081925010.a.lturn.xml#id(081925010.lturn.6.1)" role="bc"/></bcanchor>
+<word id="081925010.b.unit.54">right</word>
+<word id="081925010.b.unit.55">um</word>
+<word id="081925010.b.unit.56">i'm</word>
+<word id="081925010.b.unit.57">actually</word>
+<word id="081925010.b.unit.58">going</word>
+<word id="081925010.b.unit.59">to</word>
+<word id="081925010.b.unit.60">pay</word>
+<word id="081925010.b.unit.61">my</word>
+<word id="081925010.b.unit.62">full</word>
+<word id="081925010.b.unit.63">phone</word>
+<word id="081925010.b.unit.64">bill</word>
+<word id="081925010.b.unit.65">today</word>
+<word id="081925010.b.unit.66">which</word>
+<word id="081925010.b.unit.67">is</word>
+<num id="081925010.b.unit.68"/>
+<word id="081925010.b.unit.69">pound</word>
+<num id="081925010.b.unit.70"/>
+<word id="081925010.b.unit.71">pence</word>
+<bcanchor id="081925010.bcanchorb.2"><nite:pointer href="081925010.a.lturn.xml#id(081925010.lturn.6.2)" role="bc"/></bcanchor>
+<word id="081925010.b.unit.73">um</word>
+<word id="081925010.b.unit.74">what</word>
+<word id="081925010.b.unit.75">is</word>
+<word id="081925010.b.unit.76">the</word>
+<word id="081925010.b.unit.77">quickest</word>
+<word id="081925010.b.unit.78">well</word>
+<word id="081925010.b.unit.79">quickest</word>
+<word id="081925010.b.unit.80">way</word>
+<word id="081925010.b.unit.81">an</word>
+<sil BTlength="" id="081925010.b.unit.82"/>
+<partword id="081925010.b.unit.83">w</partword>
+<word id="081925010.b.unit.84">how</word>
+<word id="081925010.b.unit.85">quick</word>
+<word id="081925010.b.unit.86">can</word>
+<word id="081925010.b.unit.87">i</word>
+<word id="081925010.b.unit.88">get</word>
+<word id="081925010.b.unit.89">my</word>
+<word id="081925010.b.unit.90">phone</word>
+<word id="081925010.b.unit.91">connected</word>
+<word id="081925010.b.unit.92">back</word>
+<word id="081925010.b.unit.93">on</word>
+</nite:root>

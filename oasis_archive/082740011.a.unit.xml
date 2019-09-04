@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="082740011.unit.a">
+<stdzcode id="082740011.a.unit.1" description="name"/>
+<word id="082740011.a.unit.25">right</word>
+<word id="082740011.a.unit.33">was</word>
+<word id="082740011.a.unit.34">he</word>
+<word id="082740011.a.unit.35">disconnected</word>
+<word id="082740011.a.unit.36">completely</word>
+<word id="082740011.a.unit.39">the</word>
+<partword id="082740011.a.unit.40">l</partword>
+<word id="082740011.a.unit.41"/>
+<word id="082740011.a.unit.50">oh</word>
+<word id="082740011.a.unit.51">right</word>
+<word id="082740011.a.unit.52">okay</word>
+<word id="082740011.a.unit.53">um</word>
+<word id="082740011.a.unit.54">if</word>
+<word id="082740011.a.unit.55">it's</word>
+<word id="082740011.a.unit.56">disconnected</word>
+<word id="082740011.a.unit.57">completely</word>
+<word id="082740011.a.unit.58">it's</word>
+<num id="082740011.a.unit.59"/>
+<word id="082740011.a.unit.60">pounds</word>
+<num id="082740011.a.unit.61"/>
+<word id="082740011.a.unit.62">to</word>
+<word id="082740011.a.unit.63">reconnect</word>
+<word id="082740011.a.unit.70">no</word>
+<word id="082740011.a.unit.71">alright</word>
+<word id="082740011.a.unit.79">okay</word>
+<word id="082740011.a.unit.80">bye</word>
+<comment text="end-ok" id="082740011.a.unit.81"/>
+</nite:root>

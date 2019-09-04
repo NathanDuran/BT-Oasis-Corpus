@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="130005013.unit.b">
+<word id="130005013.b.unit.7">um</word>
+<word id="130005013.b.unit.8">i've</word>
+<word id="130005013.b.unit.9">got</word>
+<word id="130005013.b.unit.10">a</word>
+<word id="130005013.b.unit.11">phone</word>
+<word id="130005013.b.unit.12">bill</word>
+<word id="130005013.b.unit.13">sorry</word>
+<bcanchor id="130005013.bcanchorb.1"><nite:pointer href="130005013.a.lturn.xml#id(130005013.lturn.2.1)" role="bc"/></bcanchor>
+<word id="130005013.b.unit.15">i've</word>
+<word id="130005013.b.unit.16">had</word>
+<word id="130005013.b.unit.17">a</word>
+<bcanchor id="130005013.bcanchorb.2"><nite:pointer href="130005013.a.lturn.xml#id(130005013.lturn.2.2)" role="bc"/></bcanchor>
+<word id="130005013.b.unit.19">i've</word>
+<word id="130005013.b.unit.20">had</word>
+<word id="130005013.b.unit.21">a</word>
+<word id="130005013.b.unit.22">bill</word>
+<word id="130005013.b.unit.23">through</word>
+<word id="130005013.b.unit.24">for</word>
+<word id="130005013.b.unit.25">me</word>
+<word id="130005013.b.unit.26">phone</word>
+<word id="130005013.b.unit.32">a</word>
+<word id="130005013.b.unit.33">bill</word>
+<num id="130005013.b.unit.34"/>
+<word id="130005013.b.unit.35">pound</word>
+<word id="130005013.b.unit.36">uh</word>
+<word id="130005013.b.unit.37">mister</word>
+<pncode type="surname" id="130005013.b.unit.38"/>
+<word id="130005013.b.unit.41">i</word>
+<word id="130005013.b.unit.42">wonder</word>
+<bcanchor id="130005013.bcanchorb.3"><nite:pointer href="130005013.a.lturn.xml#id(130005013.lturn.6.1)" role="bc"/></bcanchor>
+<word id="130005013.b.unit.44">if</word>
+<word id="130005013.b.unit.45">i</word>
+<word id="130005013.b.unit.46">can</word>
+<word id="130005013.b.unit.47">pay</word>
+<word id="130005013.b.unit.48">uh</word>
+<word id="130005013.b.unit.49">how</word>
+<word id="130005013.b.unit.50">much</word>
+<word id="130005013.b.unit.51">a</word>
+<word id="130005013.b.unit.52">week</word>
+<word id="130005013.b.unit.53">you</word>
+<word id="130005013.b.unit.54">know</word>
+<word id="130005013.b.unit.55">in</word>
+<word id="130005013.b.unit.56">total</word>
+<word id="130005013.b.unit.78">yeah</word>
+<word id="130005013.b.unit.79">yeah</word>
+</nite:root>

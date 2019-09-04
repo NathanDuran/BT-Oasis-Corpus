@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="095245008.unit.b">
+<word id="095245008.b.unit.2">hello</word>
+<word id="095245008.b.unit.3">i</word>
+<word id="095245008.b.unit.4">asked</word>
+<word id="095245008.b.unit.5">for</word>
+<word id="095245008.b.unit.6">a</word>
+<word id="095245008.b.unit.7">statement</word>
+<word id="095245008.b.unit.8">last</word>
+<word id="095245008.b.unit.9">Friday</word>
+<word id="095245008.b.unit.10">and</word>
+<word id="095245008.b.unit.11">somebody</word>
+<word id="095245008.b.unit.12">said</word>
+<word id="095245008.b.unit.13">they</word>
+<word id="095245008.b.unit.14">were</word>
+<word id="095245008.b.unit.15">putting</word>
+<word id="095245008.b.unit.16">it</word>
+<word id="095245008.b.unit.17">in</word>
+<word id="095245008.b.unit.18">the</word>
+<word id="095245008.b.unit.19">first</word>
+<word id="095245008.b.unit.20">class</word>
+<word id="095245008.b.unit.21">post</word>
+<word id="095245008.b.unit.24">but</word>
+<word id="095245008.b.unit.25">i</word>
+<word id="095245008.b.unit.26">haven't</word>
+<word id="095245008.b.unit.27">had</word>
+<word id="095245008.b.unit.28">it</word>
+<word id="095245008.b.unit.29">since</word>
+<word id="095245008.b.unit.30">i</word>
+<word id="095245008.b.unit.31">want</word>
+<word id="095245008.b.unit.32">it</word>
+<word id="095245008.b.unit.33">very</word>
+<word id="095245008.b.unit.34">badly</word>
+<num id="095245008.b.unit.46"/>
+<num id="095245008.b.unit.47"/>
+<num id="095245008.b.unit.48"/>
+<word id="095245008.b.unit.49">double</word>
+<num id="095245008.b.unit.50"/>
+<num id="095245008.b.unit.52"/>
+<num id="095245008.b.unit.53"/>
+<num id="095245008.b.unit.54"/>
+<num id="095245008.b.unit.56"/>
+<num id="095245008.b.unit.57"/>
+<num id="095245008.b.unit.58"/>
+<word id="095245008.b.unit.72">uh</word>
+<word id="095245008.b.unit.73">yeah</word>
+<word id="095245008.b.unit.74">i</word>
+<bcanchor id="095245008.bcanchorb.1"><nite:pointer href="095245008.a.lturn.xml#id(095245008.lturn.12.1)" role="bc"/></bcanchor>
+<word id="095245008.b.unit.76">mean</word>
+<word id="095245008.b.unit.77">this</word>
+<word id="095245008.b.unit.78">last</word>
+<word id="095245008.b.unit.79">bill</word>
+<word id="095245008.b.unit.80">because</word>
+<word id="095245008.b.unit.81">i</word>
+<word id="095245008.b.unit.82">mark</word>
+<word id="095245008.b.unit.83">and</word>
+<word id="095245008.b.unit.84">i</word>
+<word id="095245008.b.unit.85">mark</word>
+<word id="095245008.b.unit.86">for</word>
+<word id="095245008.b.unit.87">an</word>
+<word id="095245008.b.unit.88">exam</word>
+<word id="095245008.b.unit.89">board</word>
+<sil BTlength="" id="095245008.b.unit.90"/>
+<bcanchor id="095245008.bcanchorb.2"><nite:pointer href="095245008.a.lturn.xml#id(095245008.lturn.12.2)" role="bc"/></bcanchor>
+<word id="095245008.b.unit.93">and</word>
+<word id="095245008.b.unit.94">i</word>
+<word id="095245008.b.unit.95">need</word>
+<word id="095245008.b.unit.96">to</word>
+<word id="095245008.b.unit.97">put</word>
+<word id="095245008.b.unit.98">in</word>
+<word id="095245008.b.unit.99">all</word>
+<word id="095245008.b.unit.100">the</word>
+<word id="095245008.b.unit.101">calls</word>
+<word id="095245008.b.unit.102">that</word>
+<word id="095245008.b.unit.103">i</word>
+<word id="095245008.b.unit.104">took</word>
+<word id="095245008.b.unit.105">for</word>
+<word id="095245008.b.unit.106">them</word>
+<word id="095245008.b.unit.125">uh</word>
+<word id="095245008.b.unit.126">missus</word>
+<word id="095245008.b.unit.127">uh</word>
+<pncode type="letter" id="095245008.b.unit.128"/>
+<pncode type="surname" id="095245008.b.unit.129"/>
+<num id="095245008.b.unit.131"/>
+<pncode type="road" id="095245008.b.unit.132"/>
+<pncode type="road" id="095245008.b.unit.133"/>
+<pncode type="town" id="095245008.b.unit.135"/>
+</nite:root>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='083509009.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='083509009.lturn.2'>
+
+
+<utt id='083509009.utt.2'>
+
+<segment type='frag' sp-act='expressRegret' id='083509009.frag.2'>
+<nite:child href='083509009.b.unit.xml#id(083509009.b.unit.3)..id(083509009.b.unit.4)'/>
+</segment>
+
+</utt>
+
+<utt id='083509009.utt.3'>
+
+<segment type='decl' sp-act='inform' id='083509009.decl.1'>
+<nite:child href='083509009.b.unit.xml#id(083509009.b.unit.5)..id(083509009.b.unit.9)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="080659012.unit.b">
+<word id="080659012.b.unit.2">hello</word>
+<word id="080659012.b.unit.3">uh</word>
+<word id="080659012.b.unit.4">it's</word>
+<stdzcode id="080659012.b.unit.5" description="name"/>
+<pncode type="surname" id="080659012.b.unit.6"/>
+<word id="080659012.b.unit.7">here</word>
+<word id="080659012.b.unit.8">from</word>
+<num id="080659012.b.unit.9"/>
+<pncode type="road" id="080659012.b.unit.10"/>
+<pncode type="road" id="080659012.b.unit.11"/>
+<word id="080659012.b.unit.12">um</word>
+<word id="080659012.b.unit.13">i</word>
+<word id="080659012.b.unit.14">still</word>
+<word id="080659012.b.unit.15">owe</word>
+<word id="080659012.b.unit.16">you</word>
+<num id="080659012.b.unit.17"/>
+<word id="080659012.b.unit.18">pounds</word>
+<word id="080659012.b.unit.19">from</word>
+<word id="080659012.b.unit.20">um</word>
+<word id="080659012.b.unit.21">my</word>
+<word id="080659012.b.unit.22">phone</word>
+<word id="080659012.b.unit.23">bill</word>
+<bcanchor id="080659012.bcanchorb.1"><nite:pointer href="080659012.a.lturn.xml#id(080659012.lturn.2.1)" role="bc"/></bcanchor>
+<word id="080659012.b.unit.26">um</word>
+<word id="080659012.b.unit.27">i</word>
+<word id="080659012.b.unit.28">can't</word>
+<word id="080659012.b.unit.29">pay</word>
+<word id="080659012.b.unit.30">it</word>
+<word id="080659012.b.unit.31">um</word>
+<word id="080659012.b.unit.32">it's</word>
+<word id="080659012.b.unit.33">not</word>
+<word id="080659012.b.unit.34">that</word>
+<word id="080659012.b.unit.35">i</word>
+<word id="080659012.b.unit.36">haven't</word>
+<word id="080659012.b.unit.37">got</word>
+<word id="080659012.b.unit.38">the</word>
+<word id="080659012.b.unit.39">money</word>
+<word id="080659012.b.unit.40">it's</word>
+<word id="080659012.b.unit.41">that</word>
+<word id="080659012.b.unit.42">me</word>
+<word id="080659012.b.unit.43">son's</word>
+<word id="080659012.b.unit.44">gone</word>
+<word id="080659012.b.unit.45">and</word>
+<word id="080659012.b.unit.46">cut</word>
+<word id="080659012.b.unit.47">me</word>
+<word id="080659012.b.unit.48">card</word>
+<word id="080659012.b.unit.49">up</word>
+<word id="080659012.b.unit.68">right</word>
+<word id="080659012.b.unit.69">it's</word>
+<num id="080659012.b.unit.70"/>
+<num id="080659012.b.unit.71"/>
+<num id="080659012.b.unit.72"/>
+<num id="080659012.b.unit.73"/>
+<num id="080659012.b.unit.74"/>
+<sil BTlength="" id="080659012.b.unit.77"/>
+<num id="080659012.b.unit.78"/>
+<num id="080659012.b.unit.79"/>
+<num id="080659012.b.unit.80"/>
+<sil BTlength="" id="080659012.b.unit.81"/>
+<num id="080659012.b.unit.82"/>
+<num id="080659012.b.unit.83"/>
+<num id="080659012.b.unit.84"/>
+<word id="080659012.b.unit.98">yes</word>
+<word id="080659012.b.unit.99">it's</word>
+<pncode type="letter" id="080659012.b.unit.100"/>
+<pncode type="letter" id="080659012.b.unit.101"/>
+<num id="080659012.b.unit.102"/>
+<num id="080659012.b.unit.103"/>
+<pncode type="letter" id="080659012.b.unit.104"/>
+<word id="080659012.b.unit.105">for</word>
+<pncode type="alpha" id="080659012.b.unit.106"/>
+<word id="080659012.b.unit.107">and</word>
+<pncode type="letter" id="080659012.b.unit.108"/>
+<word id="080659012.b.unit.109">for</word>
+<pncode type="alpha" id="080659012.b.unit.110"/>
+<word id="080659012.b.unit.125">no</word>
+<word id="080659012.b.unit.126">i've</word>
+<word id="080659012.b.unit.127">got</word>
+<word id="080659012.b.unit.128">me</word>
+<word id="080659012.b.unit.129">money</word>
+<word id="080659012.b.unit.130">but</word>
+<word id="080659012.b.unit.131">i</word>
+<word id="080659012.b.unit.132">haven't</word>
+<word id="080659012.b.unit.133">got</word>
+<word id="080659012.b.unit.134">the</word>
+<word id="080659012.b.unit.135">card</word>
+<comment text="embarrassed_laugh" id="080659012.b.unit.136"/>
+<word id="080659012.b.unit.162">yeah</word>
+<word id="080659012.b.unit.172">oh</word>
+<word id="080659012.b.unit.173">that's</word>
+<word id="080659012.b.unit.174">brilliant</word>
+<word id="080659012.b.unit.175">will</word>
+<word id="080659012.b.unit.176">it</word>
+<word id="080659012.b.unit.177">will</word>
+<word id="080659012.b.unit.183">will</word>
+<word id="080659012.b.unit.184">i</word>
+<word id="080659012.b.unit.185">be</word>
+<word id="080659012.b.unit.186">charged</word>
+<word id="080659012.b.unit.187">anything</word>
+<word id="080659012.b.unit.188">for</word>
+<word id="080659012.b.unit.189">that</word>
+</nite:root>

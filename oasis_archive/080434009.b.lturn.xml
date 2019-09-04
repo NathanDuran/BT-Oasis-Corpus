@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='080434009.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='080434009.lturn.2'>
+
+
+<utt id='080434009.utt.2'>
+
+<segment type='frag' sp-act='greet' id='080434009.frag.2'>
+<nite:child href='080434009.b.unit.xml#id(080434009.b.unit.2)..id(080434009.b.unit.3)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='080434009.lturn.4'>
+
+
+<utt id='080434009.utt.4'>
+
+<segment type='frag' sp-act='appreciate' id='080434009.frag.4'>
+<nite:child href='080434009.b.unit.xml#id(080434009.b.unit.6)..id(080434009.b.unit.18)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='080434009.lturn.6'>
+
+
+<utt id='080434009.utt.6'>
+
+<segment type='yes' sp-act='accept' id='080434009.yes.1'>
+<nite:child href='080434009.b.unit.xml#id(080434009.b.unit.29)'/>
+</segment>
+
+</utt>
+
+<utt id='080434009.utt.7'>
+
+<segment type='decl' sp-act='accept' id='080434009.decl.1'>
+<nite:child href='080434009.b.unit.xml#id(080434009.b.unit.30)..id(080434009.b.unit.31)'/>
+</segment>
+
+</utt>
+
+<utt id='080434009.utt.8'>
+
+<segment type='decl' sp-act='inform' id='080434009.decl.2'>
+<nite:child href='080434009.b.unit.xml#id(080434009.b.unit.32)..id(080434009.b.unit.35)'/>
+</segment>
+
+</utt>
+
+<utt id='080434009.utt.9'>
+
+<segment type='decl' sp-act='informIntent' id='080434009.decl.3'>
+<nite:child href='080434009.b.unit.xml#id(080434009.b.unit.36)..id(080434009.b.unit.43)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

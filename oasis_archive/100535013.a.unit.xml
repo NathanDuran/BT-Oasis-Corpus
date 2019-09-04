@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="100535013.unit.a">
+<stdzcode id="100535013.a.unit.1" description="name"/>
+<word id="100535013.a.unit.33">right</word>
+<partword id="100535013.a.unit.34">wh</partword>
+<partword id="100535013.a.unit.35">wh</partword>
+<word id="100535013.a.unit.36">is</word>
+<word id="100535013.a.unit.37">he</word>
+<word id="100535013.a.unit.38">from</word>
+<word id="100535013.a.unit.39">the</word>
+<word id="100535013.a.unit.40">accounts</word>
+<word id="100535013.a.unit.41">department</word>
+<word id="100535013.a.unit.45">okay</word>
+<word id="100535013.a.unit.46">just</word>
+<word id="100535013.a.unit.47">bear</word>
+<word id="100535013.a.unit.48">with</word>
+<word id="100535013.a.unit.49">me</word>
+<word id="100535013.a.unit.50">and</word>
+<word id="100535013.a.unit.51">i'll</word>
+<word id="100535013.a.unit.52">put</word>
+<word id="100535013.a.unit.53">you</word>
+<word id="100535013.a.unit.54">through</word>
+<word id="100535013.a.unit.55">to</word>
+<word id="100535013.a.unit.56">the</word>
+<word id="100535013.a.unit.57">accounts</word>
+<word id="100535013.a.unit.58">department</word>
+<word id="100535013.a.unit.63">thank</word>
+<word id="100535013.a.unit.64">you</word>
+<word id="100535013.a.unit.65">just</word>
+<word id="100535013.a.unit.66">bear</word>
+<word id="100535013.a.unit.67">with</word>
+<word id="100535013.a.unit.68">me</word>
+<sil BTlength="3s" id="100535013.a.unit.69"/>
+<comment text="music_3.8s" id="100535013.a.unit.70"/>
+<comment text="dialling_tone" id="100535013.a.unit.71"/>
+<word id="100535013.a.unit.72">ringing</word>
+<comment text="r_of_ringing_cut_off" id="100535013.a.unit.73"/>
+<word id="100535013.a.unit.74">for</word>
+<word id="100535013.a.unit.75">you</word>
+<word id="100535013.a.unit.76">now</word>
+<sil BTlength="" id="100535013.a.unit.77"/>
+<comment text="1.5s" id="100535013.a.unit.78"/>
+<comment text="dialling_tone_65s" id="100535013.a.unit.79"/>
+<comment text="call_transfered" id="100535013.a.unit.80"/>
+<comment text="end-ok" id="100535013.a.unit.81"/>
+</nite:root>

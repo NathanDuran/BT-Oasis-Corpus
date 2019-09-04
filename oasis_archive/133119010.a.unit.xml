@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="133119010.unit.a">
+<stdzcode id="133119010.a.unit.1" description="name"/>
+<word id="133119010.a.unit.18">yes</word>
+<word id="133119010.a.unit.19">sir</word>
+<word id="133119010.a.unit.20">if</word>
+<word id="133119010.a.unit.21">you'd</word>
+<word id="133119010.a.unit.22">just</word>
+<word id="133119010.a.unit.23">bear</word>
+<word id="133119010.a.unit.24">with</word>
+<word id="133119010.a.unit.25">me</word>
+<word id="133119010.a.unit.26">a</word>
+<word id="133119010.a.unit.27">moment</word>
+<comment text="ring_then_wrong_number_tones" id="133119010.a.unit.35"/>
+<word id="133119010.a.unit.36">it's</word>
+<word id="133119010.a.unit.37">ringing</word>
+<word id="133119010.a.unit.38">for</word>
+<word id="133119010.a.unit.39">you</word>
+<phonword id="133119010.a.unit.40">wooh</phonword>
+<comment text="music" id="133119010.a.unit.47"/>
+<sil BTlength="9s" id="133119010.a.unit.48"/>
+<comment text="music" id="133119010.a.unit.49"/>
+<comment text="ring" id="133119010.a.unit.50"/>
+<word id="133119010.a.unit.51">it's</word>
+<word id="133119010.a.unit.52">ringing</word>
+<word id="133119010.a.unit.53">for</word>
+<word id="133119010.a.unit.54">you</word>
+<comment text="beep_beep_beep" id="133119010.a.unit.55"/>
+<word id="133119010.a.unit.56">oh</word>
+</nite:root>

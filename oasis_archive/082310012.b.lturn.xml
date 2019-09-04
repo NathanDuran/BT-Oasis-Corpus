@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='082310012.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='082310012.lturn.2'>
+
+
+<utt id='082310012.utt.2'>
+
+<segment type='yes' sp-act='ackn' id='082310012.yes.1'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.2)..id(082310012.b.unit.4)'/>
+</segment>
+
+</utt>
+
+<utt id='082310012.utt.3'>
+
+<segment type='dm' sp-act='init' id='082310012.dm.1'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.5)..id(082310012.b.unit.6)'/>
+</segment>
+
+<segment type='decl' sp-act='unclassifiable' id='082310012.decl.1'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.7)..id(082310012.b.unit.10)'/>
+</segment>
+
+</utt>
+
+<utt id='082310012.utt.4'>
+
+<segment type='frag' sp-act='greet' id='082310012.frag.2'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.11)..id(082310012.b.unit.12)'/>
+</segment>
+
+</utt>
+
+<utt id='082310012.utt.5'>
+
+<segment type='decl' sp-act='inform' id='082310012.decl.2'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.13)..id(082310012.b.unit.27)'/>
+</segment>
+
+</utt>
+
+<utt id='082310012.utt.6'>
+
+<segment type='frag' sp-act='greet' id='082310012.frag.3'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.28)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='082310012.lturn.4'>
+
+
+<utt id='082310012.utt.8'>
+
+<segment type='yes' sp-act='ackn' id='082310012.yes.2'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.30)'/>
+</segment>
+
+<segment type='decl' sp-act='inform' id='082310012.decl.3'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.31)..id(082310012.bcanchorb.1)'/>
+</segment>
+
+</utt>
+
+<utt id='082310012.utt.9'>
+
+<segment type='decl' sp-act='inform' id='082310012.decl.4'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.45)..id(082310012.b.unit.53)'/>
+</segment>
+
+</utt>
+
+<utt id='082310012.utt.10'>
+
+<segment type='decl' sp-act='refer' id='082310012.decl.5'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.54)..id(082310012.b.unit.58)'/>
+</segment>
+
+</utt>
+
+<utt id='082310012.utt.11'>
+
+<segment type='decl' sp-act='inform' id='082310012.decl.6'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.59)..id(082310012.b.unit.64)'/>
+</segment>
+
+</utt>
+
+<utt id='082310012.utt.12'>
+
+<segment type='decl' sp-act='inform' id='082310012.decl.7'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.65)..id(082310012.b.unit.73)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='082310012.lturn.6'>
+
+
+<utt id='082310012.utt.15'>
+
+<segment type='decl' sp-act='expressOpinion' id='082310012.decl.9'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.78)..id(082310012.b.unit.81)'/>
+</segment>
+
+</utt>
+
+<utt id='082310012.utt.16'>
+
+<segment type='decl' sp-act='refer' id='082310012.decl.10'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.82)..id(082310012.b.unit.88)'/>
+</segment>
+
+</utt>
+
+<utt id='082310012.utt.17'>
+
+<segment type='decl' sp-act='inform' id='082310012.decl.11'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.89)..id(082310012.b.unit.98)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='082310012.lturn.8'>
+
+
+<utt id='082310012.utt.19'>
+
+<segment type='yes' sp-act='answ' id='082310012.yes.3'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.102)..id(082310012.b.unit.103)'/>
+</segment>
+
+<segment type='decl' sp-act='inform' id='082310012.decl.12'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.104)..id(082310012.b.unit.117)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='082310012.lturn.10'>
+
+
+<utt id='082310012.utt.23'>
+
+<segment type='yes' sp-act='answ' id='082310012.yes.4'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.132)'/>
+</segment>
+
+</utt>
+
+<utt id='082310012.utt.24'>
+
+<segment type='decl' sp-act='answElab' id='082310012.decl.14'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.133)..id(082310012.b.unit.145)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='082310012.lturn.12'>
+
+
+<utt id='082310012.utt.30'>
+
+<segment type='yes' sp-act='answ' id='082310012.yes.5'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.176)'/>
+</segment>
+
+<segment type='frag' sp-act='answElab' id='082310012.frag.8'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.177)..id(082310012.b.unit.193)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='082310012.lturn.14'>
+
+
+<utt id='082310012.utt.36'>
+
+<segment type='decl' sp-act='answ' id='082310012.decl.21'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.236)..id(082310012.b.unit.245)'/>
+</segment>
+
+</utt>
+
+<utt id='082310012.utt.37'>
+
+<segment type='decl' sp-act='inform' id='082310012.decl.22'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.246)..id(082310012.b.unit.255)'/>
+</segment>
+
+</utt>
+
+<utt id='082310012.utt.38'>
+
+<segment type='decl' sp-act='inform' id='082310012.decl.23'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.256)..id(082310012.b.unit.259)'/>
+</segment>
+
+</utt>
+
+<utt id='082310012.utt.39'>
+
+<segment type='decl' sp-act='expressOpinion' id='082310012.decl.24'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.260)..id(082310012.b.unit.278)'/>
+</segment>
+
+</utt>
+
+<utt id='082310012.utt.40'>
+
+<segment type='decl' sp-act='expressOpinion' id='082310012.decl.25'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.279)..id(082310012.b.unit.290)'/>
+</segment>
+
+</utt>
+
+<utt id='082310012.utt.41'>
+
+<segment type='frag' sp-act='inform' id='082310012.frag.9'>
+<nite:child href='082310012.b.unit.xml#id(082310012.b.unit.291)..id(082310012.b.unit.301)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

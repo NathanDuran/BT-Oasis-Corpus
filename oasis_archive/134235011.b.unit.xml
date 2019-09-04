@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="134235011.unit.b">
+<word id="134235011.b.unit.2">yeah</word>
+<word id="134235011.b.unit.3">i</word>
+<word id="134235011.b.unit.4">want</word>
+<word id="134235011.b.unit.5">to</word>
+<word id="134235011.b.unit.6">try</word>
+<word id="134235011.b.unit.7">and</word>
+<word id="134235011.b.unit.8">change</word>
+<word id="134235011.b.unit.9">my</word>
+<word id="134235011.b.unit.10">Friends</word>
+<word id="134235011.b.unit.11">And</word>
+<word id="134235011.b.unit.12">Family</word>
+<word id="134235011.b.unit.13">numbers</word>
+<word id="134235011.b.unit.14">and</word>
+<word id="134235011.b.unit.15">um</word>
+<word id="134235011.b.unit.16">a</word>
+<partword id="134235011.b.unit.17">bu..</partword>
+<word id="134235011.b.unit.18">i</word>
+<word id="134235011.b.unit.19">didn't</word>
+<word id="134235011.b.unit.20">want</word>
+<word id="134235011.b.unit.21">to</word>
+<word id="134235011.b.unit.22">use</word>
+<word id="134235011.b.unit.23">the</word>
+<word id="134235011.b.unit.24">automated</word>
+<word id="134235011.b.unit.25">service</word>
+<word id="134235011.b.unit.26">because</word>
+<word id="134235011.b.unit.27">i</word>
+<word id="134235011.b.unit.28">can't</word>
+<word id="134235011.b.unit.29">find</word>
+<word id="134235011.b.unit.30">anything</word>
+<word id="134235011.b.unit.31">with</word>
+<word id="134235011.b.unit.32">my</word>
+<word id="134235011.b.unit.33">actual</word>
+<word id="134235011.b.unit.34">full</word>
+<comment text="tut" id="134235011.b.unit.35"/>
+<word id="134235011.b.unit.36">account</word>
+<word id="134235011.b.unit.37">number</word>
+<word id="134235011.b.unit.38">on</word>
+<word id="134235011.b.unit.39">i</word>
+<word id="134235011.b.unit.40">tried</word>
+<word id="134235011.b.unit.41">this</word>
+<word id="134235011.b.unit.42">the</word>
+<word id="134235011.b.unit.43">other</word>
+<word id="134235011.b.unit.44">week</word>
+<word id="134235011.b.unit.45">and</word>
+<word id="134235011.b.unit.46">i</word>
+<word id="134235011.b.unit.47">couldn't</word>
+<bcanchor id="134235011.bcanchorb.1"><nite:pointer href="134235011.a.lturn.xml#id(134235011.lturn.2.1)" role="bc"/></bcanchor>
+<word id="134235011.b.unit.49">i</word>
+<word id="134235011.b.unit.50">couldn't</word>
+<word id="134235011.b.unit.51">find</word>
+<word id="134235011.b.unit.52">anything</word>
+<word id="134235011.b.unit.66">no</word>
+<word id="134235011.b.unit.67">not</word>
+<word id="134235011.b.unit.68">handy</word>
+<word id="134235011.b.unit.77">it's</word>
+<num id="134235011.b.unit.78"/>
+<num id="134235011.b.unit.79"/>
+<num id="134235011.b.unit.80"/>
+<num id="134235011.b.unit.81"/>
+<num id="134235011.b.unit.82"/>
+<bcanchor id="134235011.bcanchorb.2"><nite:pointer href="134235011.a.lturn.xml#id(134235011.lturn.6.1)" role="bc"/></bcanchor>
+<num id="134235011.b.unit.85"/>
+<num id="134235011.b.unit.86"/>
+<num id="134235011.b.unit.87"/>
+<num id="134235011.b.unit.88"/>
+<num id="134235011.b.unit.89"/>
+<num id="134235011.b.unit.90"/>
+<word id="134235011.b.unit.106">it's</word>
+<word id="134235011.b.unit.107">missus</word>
+<stdzcode id="134235011.b.unit.108" description="name"/>
+<pncode type="surname" id="134235011.b.unit.109"/>
+<bcanchor id="134235011.bcanchorb.3"><nite:pointer href="134235011.a.lturn.xml#id(134235011.lturn.8.1)" role="bc"/></bcanchor>
+<word id="134235011.b.unit.112">and</word>
+<word id="134235011.b.unit.113">it's</word>
+<num id="134235011.b.unit.114"/>
+<pncode type="road" id="134235011.b.unit.115"/>
+<pncode type="road" id="134235011.b.unit.116"/>
+<word id="134235011.b.unit.117">which</word>
+<word id="134235011.b.unit.118">is</word>
+<partword id="134235011.b.unit.119">a</partword>
+<pncode type="letter" id="134235011.b.unit.120"/>
+<pncode type="letter" id="134235011.b.unit.121"/>
+<pncode type="letter" id="134235011.b.unit.122"/>
+<pncode type="letter" id="134235011.b.unit.123"/>
+<pncode type="letter" id="134235011.b.unit.124"/>
+<pncode type="letter" id="134235011.b.unit.125"/>
+<pncode type="letter" id="134235011.b.unit.126"/>
+<pncode type="letter" id="134235011.b.unit.127"/>
+<bcanchor id="134235011.bcanchorb.4"><nite:pointer href="134235011.a.lturn.xml#id(134235011.lturn.8.2)" role="bc"/></bcanchor>
+<partword id="134235011.b.unit.130">a</partword>
+<word id="134235011.b.unit.131">and</word>
+<word id="134235011.b.unit.132">it's</word>
+<pncode type="town" id="134235011.b.unit.133"/>
+<comment text="other" id="134235011.b.unit.134"/>
+<word id="134235011.b.unit.135">place}</word>
+<pncode type="letter" id="134235011.b.unit.136"/>
+<pncode type="letter" id="134235011.b.unit.137"/>
+<num id="134235011.b.unit.138"/>
+<num id="134235011.b.unit.139"/>
+<pncode type="letter" id="134235011.b.unit.140"/>
+<pncode type="letter" id="134235011.b.unit.141"/>
+<word id="134235011.b.unit.158">yes</word>
+<word id="134235011.b.unit.159">it</word>
+<word id="134235011.b.unit.160">was</word>
+<word id="134235011.b.unit.161">for</word>
+<num id="134235011.b.unit.162"/>
+<word id="134235011.b.unit.163">pounds</word>
+<word id="134235011.b.unit.164">and</word>
+<word id="134235011.b.unit.165">about</word>
+<num id="134235011.b.unit.166"/>
+<word id="134235011.b.unit.167">pence</word>
+<word id="134235011.b.unit.168">i</word>
+<word id="134235011.b.unit.169">believe</word>
+<word id="134235011.b.unit.175">cause</word>
+<word id="134235011.b.unit.176">it</word>
+<word id="134235011.b.unit.177">was</word>
+<word id="134235011.b.unit.178">paid</word>
+<word id="134235011.b.unit.179">on</word>
+<word id="134235011.b.unit.180">Saturday</word>
+<comment text="laugh" id="134235011.b.unit.181"/>
+<word id="134235011.b.unit.205">yeah</word>
+<comment text="muffled" id="134235011.b.unit.206"/>
+<word id="134235011.b.unit.207">i</word>
+<word id="134235011.b.unit.208">want</word>
+<word id="134235011.b.unit.209">to</word>
+<word id="134235011.b.unit.210">change</word>
+<word id="134235011.b.unit.211">the</word>
+<word id="134235011.b.unit.212">the</word>
+<word id="134235011.b.unit.213">most</word>
+<word id="134235011.b.unit.214">important</word>
+<word id="134235011.b.unit.215">one</word>
+<comment text="muffling_stops" id="134235011.b.unit.216"/>
+<word id="134235011.b.unit.217">is</word>
+<word id="134235011.b.unit.218">my</word>
+<word id="134235011.b.unit.219">best</word>
+<word id="134235011.b.unit.220">friends</word>
+<word id="134235011.b.unit.221">number</word>
+<word id="134235011.b.unit.224">because</word>
+<word id="134235011.b.unit.225">i've</word>
+<word id="134235011.b.unit.226">been</word>
+<word id="134235011.b.unit.227">ringing</word>
+<word id="134235011.b.unit.228">her</word>
+<word id="134235011.b.unit.229">for</word>
+<word id="134235011.b.unit.230">ages</word>
+<word id="134235011.b.unit.231">and</word>
+<word id="134235011.b.unit.232">we've</word>
+<word id="134235011.b.unit.233">just</word>
+<word id="134235011.b.unit.234">twigged</word>
+<word id="134235011.b.unit.235">on</word>
+<word id="134235011.b.unit.236">that</word>
+<word id="134235011.b.unit.237">neither</word>
+<word id="134235011.b.unit.238">of</word>
+<word id="134235011.b.unit.239">us</word>
+<word id="134235011.b.unit.240">have</word>
+<word id="134235011.b.unit.241">changed</word>
+<word id="134235011.b.unit.242">it</word>
+<bcanchor id="134235011.bcanchorb.5"><nite:pointer href="134235011.a.lturn.xml#id(134235011.lturn.16.1)" role="bc"/></bcanchor>
+<word id="134235011.b.unit.244">and</word>
+<word id="134235011.b.unit.245">she's</word>
+<word id="134235011.b.unit.246">moved</word>
+</nite:root>

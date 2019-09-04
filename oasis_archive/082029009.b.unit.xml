@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="082029009.unit.b">
+<word id="082029009.b.unit.2">yes</word>
+<word id="082029009.b.unit.3">hello</word>
+<word id="082029009.b.unit.4">i'd</word>
+<word id="082029009.b.unit.5">like</word>
+<word id="082029009.b.unit.6">to</word>
+<word id="082029009.b.unit.7">know</word>
+<word id="082029009.b.unit.8">what</word>
+<word id="082029009.b.unit.9">my</word>
+<word id="082029009.b.unit.10">account's</word>
+<word id="082029009.b.unit.11">up</word>
+<word id="082029009.b.unit.12">to</word>
+<word id="082029009.b.unit.13">at</word>
+<word id="082029009.b.unit.14">the</word>
+<word id="082029009.b.unit.15">moment</word>
+<word id="082029009.b.unit.16">my</word>
+<word id="082029009.b.unit.17">phone</word>
+<word id="082029009.b.unit.18">bill</word>
+<word id="082029009.b.unit.25">my</word>
+<word id="082029009.b.unit.26">customer</word>
+<word id="082029009.b.unit.27">number</word>
+<word id="082029009.b.unit.28">is</word>
+<pncode type="letter" id="082029009.b.unit.29"/>
+<pncode type="letter" id="082029009.b.unit.30"/>
+<bcanchor id="082029009.bcanchorb.1"><nite:pointer href="082029009.a.lturn.xml#id(082029009.lturn.4.1)" role="bc"/></bcanchor>
+<num id="082029009.b.unit.33"/>
+<num id="082029009.b.unit.34"/>
+<num id="082029009.b.unit.35"/>
+<num id="082029009.b.unit.36"/>
+<num id="082029009.b.unit.37"/>
+<num id="082029009.b.unit.38"/>
+<num id="082029009.b.unit.39"/>
+<num id="082029009.b.unit.40"/>
+<sil BTlength="" id="082029009.b.unit.41"/>
+<pncode type="letter" id="082029009.b.unit.42"/>
+<word id="082029009.b.unit.65">yeah</word>
+<word id="082029009.b.unit.66">my</word>
+<word id="082029009.b.unit.67">name's</word>
+<word id="082029009.b.unit.68">missus</word>
+<pncode type="surname" id="082029009.b.unit.69"/>
+<num id="082029009.b.unit.70"/>
+<pncode type="road" id="082029009.b.unit.71"/>
+<pncode type="road" id="082029009.b.unit.72"/>
+<pncode type="town" id="082029009.b.unit.73"/>
+<word id="082029009.b.unit.74">on</word>
+<pncode type="town" id="082029009.b.unit.75"/>
+<pncode type="letter" id="082029009.b.unit.76"/>
+<pncode type="letter" id="082029009.b.unit.77"/>
+<num id="082029009.b.unit.78"/>
+<num id="082029009.b.unit.79"/>
+<num id="082029009.b.unit.80"/>
+<word id="082029009.b.unit.81">double</word>
+<pncode type="letter" id="082029009.b.unit.82"/>
+<word id="082029009.b.unit.109">no</word>
+<word id="082029009.b.unit.121">is</word>
+<word id="082029009.b.unit.122">that</word>
+<word id="082029009.b.unit.123">that</word>
+<num id="082029009.b.unit.124"/>
+<num id="082029009.b.unit.125"/>
+<word id="082029009.b.unit.126">one</word>
+<word id="082029009.b.unit.128">yeah</word>
+<word id="082029009.b.unit.129">that</word>
+<word id="082029009.b.unit.130">lets</word>
+<word id="082029009.b.unit.131">me</word>
+<word id="082029009.b.unit.132">know</word>
+<word id="082029009.b.unit.133">what</word>
+<word id="082029009.b.unit.134">my</word>
+<word id="082029009.b.unit.135">phone</word>
+<word id="082029009.b.unit.136">bill</word>
+<word id="082029009.b.unit.137">is</word>
+<word id="082029009.b.unit.138">after</word>
+<word id="082029009.b.unit.139">it's</word>
+<word id="082029009.b.unit.140">been</word>
+<word id="082029009.b.unit.141">after</word>
+<word id="082029009.b.unit.142">it's</word>
+<word id="082029009.b.unit.143">been</word>
+<word id="082029009.b.unit.144">sent</word>
+<word id="082029009.b.unit.145">out</word>
+<word id="082029009.b.unit.146">i</word>
+<word id="082029009.b.unit.147">wanna</word>
+<word id="082029009.b.unit.148">know</word>
+<word id="082029009.b.unit.149">what</word>
+<word id="082029009.b.unit.150">i've</word>
+<word id="082029009.b.unit.151">actually</word>
+<word id="082029009.b.unit.152">got</word>
+<word id="082029009.b.unit.153">left</word>
+<word id="082029009.b.unit.154">on</word>
+<word id="082029009.b.unit.155">me</word>
+<word id="082029009.b.unit.156">old</word>
+<word id="082029009.b.unit.157">bill</word>
+<word id="082029009.b.unit.158">i've</word>
+<word id="082029009.b.unit.159">been</word>
+<word id="082029009.b.unit.160">paying</word>
+<word id="082029009.b.unit.161">some</word>
+<word id="082029009.b.unit.162">off</word>
+<word id="082029009.b.unit.163">but</word>
+<word id="082029009.b.unit.164">i</word>
+<word id="082029009.b.unit.165">don't</word>
+<word id="082029009.b.unit.166">know</word>
+</nite:root>

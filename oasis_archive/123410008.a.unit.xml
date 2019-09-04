@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="123410008.unit.a">
+<stdzcode id="123410008.a.unit.1" description="name"/>
+<word id="123410008.a.unit.15">you're</word>
+<word id="123410008.a.unit.16">through</word>
+<word id="123410008.a.unit.17">to</word>
+<word id="123410008.a.unit.18">the</word>
+<word id="123410008.a.unit.19">wrong</word>
+<word id="123410008.a.unit.20">number</word>
+<word id="123410008.a.unit.21">then</word>
+<word id="123410008.a.unit.28">you</word>
+<word id="123410008.a.unit.29">need</word>
+<word id="123410008.a.unit.30">to</word>
+<word id="123410008.a.unit.31">ring</word>
+<num id="123410008.a.unit.32"/>
+<num id="123410008.a.unit.33"/>
+<num id="123410008.a.unit.34"/>
+<word id="123410008.a.unit.39">okay</word>
+<word id="123410008.a.unit.41">bye</word>
+<comment text="hangs_up" id="123410008.a.unit.42"/>
+<comment text="end5ok" id="123410008.a.unit.43"/>
+</nite:root>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="094206011.unit.b">
+<word id="094206011.b.unit.2">oh</word>
+<word id="094206011.b.unit.3">hello</word>
+<word id="094206011.b.unit.4">um</word>
+<comment text="laughing" id="094206011.b.unit.18"/>
+<word id="094206011.b.unit.19">oh</word>
+<word id="094206011.b.unit.20">that's</word>
+<word id="094206011.b.unit.21">alright</word>
+<word id="094206011.b.unit.26">um</word>
+<word id="094206011.b.unit.27">i</word>
+<word id="094206011.b.unit.28">know</word>
+<word id="094206011.b.unit.29">my</word>
+<word id="094206011.b.unit.30">phone</word>
+<word id="094206011.b.unit.31">bills</word>
+<word id="094206011.b.unit.32">due</word>
+<word id="094206011.b.unit.33">well</word>
+<word id="094206011.b.unit.34">overdue</word>
+<word id="094206011.b.unit.35">to</word>
+<word id="094206011.b.unit.36">be</word>
+<word id="094206011.b.unit.37">paid</word>
+<word id="094206011.b.unit.38">really</word>
+<bcanchor id="094206011.bcanchorb.1"><nite:pointer href="094206011.a.lturn.xml#id(094206011.lturn.6.1)" role="bc"/></bcanchor>
+<word id="094206011.b.unit.42">um</word>
+<word id="094206011.b.unit.43">but</word>
+<word id="094206011.b.unit.44">i've</word>
+<word id="094206011.b.unit.45">lost</word>
+<word id="094206011.b.unit.46">the</word>
+<word id="094206011.b.unit.47">bill</word>
+<word id="094206011.b.unit.48">so</word>
+<word id="094206011.b.unit.49">how</word>
+<word id="094206011.b.unit.50">can</word>
+<word id="094206011.b.unit.51">i</word>
+<word id="094206011.b.unit.52">pay</word>
+<word id="094206011.b.unit.80">i've</word>
+<word id="094206011.b.unit.81">got</word>
+<word id="094206011.b.unit.82">a</word>
+<word id="094206011.b.unit.83">switch</word>
+<word id="094206011.b.unit.84">card</word>
+<word id="094206011.b.unit.98">can</word>
+<word id="094206011.b.unit.99">i</word>
+<word id="094206011.b.unit.102">yeah</word>
+<word id="094206011.b.unit.103">fine</word>
+<word id="094206011.b.unit.116">okay</word>
+<word id="094206011.b.unit.123">thank</word>
+<word id="094206011.b.unit.124">you</word>
+</nite:root>

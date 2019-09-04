@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="133950009.unit.b">
+<word id="133950009.b.unit.2">yeah</word>
+<word id="133950009.b.unit.3">i've</word>
+<word id="133950009.b.unit.4">been</word>
+<word id="133950009.b.unit.5">having</word>
+<word id="133950009.b.unit.6">trouble</word>
+<word id="133950009.b.unit.7">with</word>
+<word id="133950009.b.unit.8">my</word>
+<word id="133950009.b.unit.9">telephone</word>
+<bcanchor id="133950009.bcanchorb.1"><nite:pointer href="133950009.a.lturn.xml#id(133950009.lturn.2.1)" role="bc"/></bcanchor>
+<word id="133950009.b.unit.11">it</word>
+<comment text="end-ok" id="133950009.b.unit.12"/>
+</nite:root>

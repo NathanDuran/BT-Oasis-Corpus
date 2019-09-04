@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="095654008.unit.b">
+<word id="095654008.b.unit.2">hello</word>
+<word id="095654008.b.unit.3">good</word>
+<word id="095654008.b.unit.4">morning</word>
+<word id="095654008.b.unit.5">i'm</word>
+<word id="095654008.b.unit.6">looking</word>
+<word id="095654008.b.unit.7">for</word>
+<word id="095654008.b.unit.8">um</word>
+<word id="095654008.b.unit.9">it</word>
+<word id="095654008.b.unit.10">actually</word>
+<word id="095654008.b.unit.11">can</word>
+<word id="095654008.b.unit.12">i</word>
+<word id="095654008.b.unit.13">pay</word>
+<word id="095654008.b.unit.14">the</word>
+<word id="095654008.b.unit.15">telephone</word>
+<word id="095654008.b.unit.16">the</word>
+<word id="095654008.b.unit.17">complete</word>
+<word id="095654008.b.unit.18">a</word>
+<phonword id="095654008.b.unit.19">pic</phonword>
+<word id="095654008.b.unit.20">today</word>
+<word id="095654008.b.unit.21">can</word>
+<word id="095654008.b.unit.22">you</word>
+<word id="095654008.b.unit.23">reconnect</word>
+<word id="095654008.b.unit.24">my</word>
+<word id="095654008.b.unit.25">telephone</word>
+<word id="095654008.b.unit.26">today</word>
+<word id="095654008.b.unit.35">yeah</word>
+<word id="095654008.b.unit.36">ah</word>
+<word id="095654008.b.unit.37">i</word>
+<word id="095654008.b.unit.38">go</word>
+<word id="095654008.b.unit.39">pay</word>
+<word id="095654008.b.unit.40">the</word>
+<word id="095654008.b.unit.41">full</word>
+<word id="095654008.b.unit.42">bill</word>
+<sil BTlength="" id="095654008.b.unit.43"/>
+<word id="095654008.b.unit.44">hmm</word>
+<word id="095654008.b.unit.50">yeah</word>
+<partword id="095654008.b.unit.51">e</partword>
+<word id="095654008.b.unit.52">can</word>
+<word id="095654008.b.unit.53">you</word>
+<word id="095654008.b.unit.54">connect</word>
+<word id="095654008.b.unit.55">my</word>
+<word id="095654008.b.unit.56">telephone</word>
+<word id="095654008.b.unit.63">it's</word>
+<word id="095654008.b.unit.64">uh</word>
+<word id="095654008.b.unit.65">night</word>
+<word id="095654008.b.unit.66">i</word>
+<word id="095654008.b.unit.67">can</word>
+<word id="095654008.b.unit.68">use</word>
+<phonword id="095654008.b.unit.69">'elephone</phonword>
+<comment text="telephone*" id="095654008.b.unit.70"/>
+<partword id="095654008.b.unit.71">ent</partword>
+<pncode type="letter" id="095654008.b.unit.72"/>
+<pncode type="letter" id="095654008.b.unit.73"/>
+<word id="095654008.b.unit.76">double</word>
+<num id="095654008.b.unit.77"/>
+<word id="095654008.b.unit.79">no</word>
+<word id="095654008.b.unit.80">uh</word>
+<word id="095654008.b.unit.81">double</word>
+<num id="095654008.b.unit.82"/>
+<num id="095654008.b.unit.83"/>
+<num id="095654008.b.unit.84"/>
+<num id="095654008.b.unit.85"/>
+<num id="095654008.b.unit.86"/>
+<num id="095654008.b.unit.87"/>
+<num id="095654008.b.unit.88"/>
+<pncode type="letter" id="095654008.b.unit.89"/>
+<num id="095654008.b.unit.90"/>
+<num id="095654008.b.unit.91"/>
+<num id="095654008.b.unit.92"/>
+<pncode type="letter" id="095654008.b.unit.93"/>
+<comment text="incomprehensible" id="095654008.b.unit.103"/>
+</nite:root>

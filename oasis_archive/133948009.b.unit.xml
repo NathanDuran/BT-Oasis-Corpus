@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="133948009.unit.b">
+<word id="133948009.b.unit.2">hello</word>
+<word id="133948009.b.unit.3">yeah</word>
+<word id="133948009.b.unit.4">um</word>
+<word id="133948009.b.unit.5">i've</word>
+<word id="133948009.b.unit.6">received</word>
+<word id="133948009.b.unit.7">a</word>
+<word id="133948009.b.unit.8">bill</word>
+<word id="133948009.b.unit.9">in</word>
+<word id="133948009.b.unit.10">for</word>
+<num id="133948009.b.unit.11"/>
+<word id="133948009.b.unit.12">pounds</word>
+<word id="133948009.b.unit.13">something</word>
+<word id="133948009.b.unit.14">or</word>
+<word id="133948009.b.unit.15">other</word>
+<bcanchor id="133948009.bcanchorb.1"><nite:pointer href="133948009.a.lturn.xml#id(133948009.lturn.2.1)" role="bc"/></bcanchor>
+<word id="133948009.b.unit.18">and</word>
+<word id="133948009.b.unit.19">i</word>
+<word id="133948009.b.unit.20">you</word>
+<word id="133948009.b.unit.21">know</word>
+<word id="133948009.b.unit.22">i</word>
+<word id="133948009.b.unit.23">can't</word>
+<word id="133948009.b.unit.24">uh</word>
+<word id="133948009.b.unit.25">meet</word>
+<word id="133948009.b.unit.26">up</word>
+<word id="133948009.b.unit.27">to</word>
+<word id="133948009.b.unit.28">it</word>
+<word id="133948009.b.unit.29">at</word>
+<word id="133948009.b.unit.30">the</word>
+<word id="133948009.b.unit.31">moment</word>
+<word id="133948009.b.unit.32">so</word>
+<word id="133948009.b.unit.33">i</word>
+<word id="133948009.b.unit.34">was</word>
+<word id="133948009.b.unit.35">just</word>
+<word id="133948009.b.unit.36">wondering</word>
+<word id="133948009.b.unit.37">if</word>
+<word id="133948009.b.unit.38">you</word>
+<word id="133948009.b.unit.39">could</word>
+<word id="133948009.b.unit.40">put</word>
+<word id="133948009.b.unit.41">me</word>
+<word id="133948009.b.unit.42">on</word>
+<word id="133948009.b.unit.43">an</word>
+<word id="133948009.b.unit.44">installment</word>
+<word id="133948009.b.unit.45">plan</word>
+<word id="133948009.b.unit.68">yeah</word>
+<word id="133948009.b.unit.69">uh</word>
+<num id="133948009.b.unit.70"/>
+<num id="133948009.b.unit.71"/>
+<num id="133948009.b.unit.72"/>
+<num id="133948009.b.unit.73"/>
+<bcanchor id="133948009.bcanchorb.2"><nite:pointer href="133948009.a.lturn.xml#id(133948009.lturn.4.1)" role="bc"/></bcanchor>
+<num id="133948009.b.unit.75"/>
+<num id="133948009.b.unit.76"/>
+<num id="133948009.b.unit.77"/>
+<bcanchor id="133948009.bcanchorb.3"><nite:pointer href="133948009.a.lturn.xml#id(133948009.lturn.4.2)" role="bc"/></bcanchor>
+<num id="133948009.b.unit.79"/>
+<num id="133948009.b.unit.80"/>
+<num id="133948009.b.unit.81"/>
+<num id="133948009.b.unit.82"/>
+<word id="133948009.b.unit.107">mm</word>
+<word id="133948009.b.unit.111">mm</word>
+<word id="133948009.b.unit.112">yeah</word>
+<word id="133948009.b.unit.113">uh</word>
+<word id="133948009.b.unit.114">it's</word>
+<word id="133948009.b.unit.115">mister</word>
+<pncode type="letter" id="133948009.b.unit.116"/>
+<pncode type="surname" id="133948009.b.unit.117"/>
+<pncode type="letter" id="133948009.b.unit.118"/>
+<pncode type="letter" id="133948009.b.unit.119"/>
+<pncode type="letter" id="133948009.b.unit.120"/>
+<pncode type="letter" id="133948009.b.unit.121"/>
+<bcanchor id="133948009.bcanchorb.5"><nite:pointer href="133948009.a.lturn.xml#id(133948009.lturn.6.1)" role="bc"/></bcanchor>
+<word id="133948009.b.unit.124">um</word>
+<pncode type="letter" id="133948009.b.unit.125"/>
+<pncode type="letter" id="133948009.b.unit.126"/>
+<num id="133948009.b.unit.127"/>
+<num id="133948009.b.unit.128"/>
+<num id="133948009.b.unit.129"/>
+<pncode type="letter" id="133948009.b.unit.130"/>
+<pncode type="letter" id="133948009.b.unit.131"/>
+<word id="133948009.b.unit.150">ah</word>
+<word id="133948009.b.unit.151">ha</word>
+<word id="133948009.b.unit.164">yeah</word>
+<word id="133948009.b.unit.165">i</word>
+<word id="133948009.b.unit.166">have</word>
+<word id="133948009.b.unit.167">yeah</word>
+<word id="133948009.b.unit.182">ah</word>
+<word id="133948009.b.unit.196">sixteenth</word>
+<word id="133948009.b.unit.224">uh</word>
+<word id="133948009.b.unit.225">um</word>
+<word id="133948009.b.unit.240">yeah</word>
+<word id="133948009.b.unit.241">i'm</word>
+<word id="133948009.b.unit.242">unemployed</word>
+<word id="133948009.b.unit.243">so</word>
+<word id="133948009.b.unit.244">it's</word>
+<word id="133948009.b.unit.245">difficult</word>
+</nite:root>

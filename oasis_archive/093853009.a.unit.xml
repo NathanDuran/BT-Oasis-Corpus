@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="093853009.unit.a">
+<stdzcode id="093853009.a.unit.1" description="name"/>
+<word id="093853009.a.unit.15">oh</word>
+<word id="093853009.a.unit.16">really</word>
+<word id="093853009.a.unit.28">uh</word>
+<word id="093853009.a.unit.29">hmm</word>
+<word id="093853009.a.unit.42">uh</word>
+<word id="093853009.a.unit.43">hmm</word>
+<word id="093853009.a.unit.74">okay</word>
+<word id="093853009.a.unit.75">right</word>
+<word id="093853009.a.unit.76">let's</word>
+<word id="093853009.a.unit.77">we'll</word>
+<word id="093853009.a.unit.78">get</word>
+<word id="093853009.a.unit.79">this</word>
+<word id="093853009.a.unit.80">sorted</word>
+<word id="093853009.a.unit.81">for</word>
+<word id="093853009.a.unit.82">you</word>
+<word id="093853009.a.unit.83">if</word>
+<word id="093853009.a.unit.84">you</word>
+<word id="093853009.a.unit.85">can</word>
+<word id="093853009.a.unit.86">just</word>
+<word id="093853009.a.unit.87">hold</word>
+<word id="093853009.a.unit.88">the</word>
+<word id="093853009.a.unit.89">line</word>
+<word id="093853009.a.unit.90">a</word>
+<word id="093853009.a.unit.91">moment</word>
+<bcanchor id="093853009.bcanchora.3"><nite:pointer href="093853009.b.lturn.xml#id(093853009.lturn.5.1)" role="bc"/></bcanchor>
+<word id="093853009.a.unit.93">i'm</word>
+<word id="093853009.a.unit.94">i'm</word>
+<word id="093853009.a.unit.95">going</word>
+<word id="093853009.a.unit.96">to</word>
+<word id="093853009.a.unit.97">um</word>
+<word id="093853009.a.unit.98">get</word>
+<word id="093853009.a.unit.99">uh</word>
+<word id="093853009.a.unit.100">the</word>
+<word id="093853009.a.unit.101">number</word>
+<word id="093853009.a.unit.102">for</word>
+<word id="093853009.a.unit.103">someone</word>
+<word id="093853009.a.unit.104">to</word>
+<word id="093853009.a.unit.105">speak</word>
+<word id="093853009.a.unit.106">to</word>
+<word id="093853009.a.unit.107">about</word>
+<word id="093853009.a.unit.108">this</word>
+<word id="093853009.a.unit.110">if</word>
+<word id="093853009.a.unit.111">you</word>
+<word id="093853009.a.unit.112">can</word>
+<word id="093853009.a.unit.113">just</word>
+<word id="093853009.a.unit.114">bear</word>
+<word id="093853009.a.unit.115">with</word>
+<word id="093853009.a.unit.116">me</word>
+<word id="093853009.a.unit.117">a</word>
+<word id="093853009.a.unit.118">moment</word>
+<word id="093853009.a.unit.119">madam</word>
+<comment text="music_60s" id="093853009.a.unit.121"/>
+<word id="093853009.a.unit.122">hello</word>
+<word id="093853009.a.unit.123">there</word>
+<word id="093853009.a.unit.125">yep</word>
+<word id="093853009.a.unit.126">hi</word>
+<word id="093853009.a.unit.127">um</word>
+<word id="093853009.a.unit.128">what's</word>
+<word id="093853009.a.unit.129">the</word>
+<word id="093853009.a.unit.130">uh</word>
+<word id="093853009.a.unit.131">name</word>
+<word id="093853009.a.unit.132">of</word>
+<word id="093853009.a.unit.133">the</word>
+<word id="093853009.a.unit.134">street</word>
+<word id="093853009.a.unit.135">that</word>
+<word id="093853009.a.unit.136">the</word>
+<word id="093853009.a.unit.137">pole</word>
+<word id="093853009.a.unit.138">is</word>
+<word id="093853009.a.unit.139">on</word>
+<pncode type="road" id="093853009.a.unit.142"/>
+<pncode type="road" id="093853009.a.unit.143"/>
+</nite:root>

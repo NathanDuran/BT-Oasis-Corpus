@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="094055013.unit.a">
+<stdzcode id="094055013.a.unit.1" description="name"/>
+<word id="094055013.a.unit.16">hello</word>
+<word id="094055013.a.unit.17">f</word>
+<word id="094055013.a.unit.18">yes</word>
+<word id="094055013.a.unit.21">good</word>
+<word id="094055013.a.unit.22">morning</word>
+<word id="094055013.a.unit.23">how</word>
+<word id="094055013.a.unit.24">can</word>
+<bcanchor id="094055013.bcanchora.1"><nite:pointer href="094055013.b.lturn.xml#id(094055013.lturn.5.1)" role="bc"/></bcanchor>
+<word id="094055013.a.unit.26">i</word>
+<word id="094055013.a.unit.27">help</word>
+<word id="094055013.a.unit.28">you</word>
+<word id="094055013.a.unit.47">right</word>
+<word id="094055013.a.unit.73">oh</word>
+<word id="094055013.a.unit.74">right</word>
+<word id="094055013.a.unit.95">oh</word>
+<word id="094055013.a.unit.96">right</word>
+<word id="094055013.a.unit.99">yeah</word>
+<word id="094055013.a.unit.100">an</word>
+<word id="094055013.a.unit.101">it</word>
+<word id="094055013.a.unit.102">still</word>
+</nite:root>

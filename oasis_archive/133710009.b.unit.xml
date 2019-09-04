@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="133710009.unit.b">
+<word id="133710009.b.unit.2">um</word>
+<word id="133710009.b.unit.3">i'd</word>
+<word id="133710009.b.unit.4">like</word>
+<word id="133710009.b.unit.5">to</word>
+<word id="133710009.b.unit.6">stop</word>
+<word id="133710009.b.unit.7">the</word>
+<word id="133710009.b.unit.8">um</word>
+<sil BTlength="" id="133710009.b.unit.9"/>
+<word id="133710009.b.unit.10">call</word>
+<word id="133710009.b.unit.11">minder</word>
+<word id="133710009.b.unit.12">please</word>
+<word id="133710009.b.unit.13">is</word>
+<word id="133710009.b.unit.14">that</word>
+<word id="133710009.b.unit.15">possible</word>
+<word id="133710009.b.unit.27">yes</word>
+<word id="133710009.b.unit.28">oh</word>
+<word id="133710009.b.unit.29">hang</word>
+<word id="133710009.b.unit.30">on</word>
+<word id="133710009.b.unit.31">i</word>
+<word id="133710009.b.unit.32">haven't</word>
+<word id="133710009.b.unit.33">got</word>
+<word id="133710009.b.unit.34">it</word>
+<word id="133710009.b.unit.35">available</word>
+<word id="133710009.b.unit.36">i've</word>
+<word id="133710009.b.unit.37">got</word>
+<word id="133710009.b.unit.38">my</word>
+<word id="133710009.b.unit.39">telephone</word>
+<word id="133710009.b.unit.40">number</word>
+<word id="133710009.b.unit.41">is</word>
+<word id="133710009.b.unit.42">that</word>
+<word id="133710009.b.unit.43">no</word>
+<word id="133710009.b.unit.44">help</word>
+<word id="133710009.b.unit.48">are</word>
+<word id="133710009.b.unit.49">you</word>
+<word id="133710009.b.unit.50">sure</word>
+<word id="133710009.b.unit.51">it's</word>
+<num id="133710009.b.unit.52"/>
+<num id="133710009.b.unit.53"/>
+<num id="133710009.b.unit.54"/>
+<word id="133710009.b.unit.55">double</word>
+<num id="133710009.b.unit.56"/>
+<num id="133710009.b.unit.57"/>
+<num id="133710009.b.unit.58"/>
+<num id="133710009.b.unit.59"/>
+<num id="133710009.b.unit.60"/>
+<num id="133710009.b.unit.61"/>
+<num id="133710009.b.unit.62"/>
+<word id="133710009.b.unit.63">sorry</word>
+<word id="133710009.b.unit.64">the</word>
+<partword id="133710009.b.unit.65">co</partword>
+<word id="133710009.b.unit.66">postcode</word>
+<word id="133710009.b.unit.67">sorry</word>
+<num id="133710009.b.unit.76"/>
+<num id="133710009.b.unit.77"/>
+<word id="133710009.b.unit.78">sorry</word>
+<num id="133710009.b.unit.79"/>
+<num id="133710009.b.unit.80"/>
+<num id="133710009.b.unit.81"/>
+<bcanchor id="133710009.bcanchorb.1"><nite:pointer href="133710009.a.lturn.xml#id(133710009.lturn.8.1)" role="bc"/></bcanchor>
+<word id="133710009.b.unit.83">double</word>
+<num id="133710009.b.unit.84"/>
+<num id="133710009.b.unit.85"/>
+<word id="133710009.b.unit.109">no</word>
+<word id="133710009.b.unit.110">no</word>
+<word id="133710009.b.unit.119">it's</word>
+<word id="133710009.b.unit.120">all</word>
+<word id="133710009.b.unit.121">right</word>
+<word id="133710009.b.unit.122">lovee</word>
+<bcanchor id="133710009.bcanchorb.3"><nite:pointer href="133710009.a.lturn.xml#id(133710009.lturn.10.1)" role="bc"/></bcanchor>
+<word id="133710009.b.unit.125">it</word>
+<word id="133710009.b.unit.126">just</word>
+<word id="133710009.b.unit.127">that</word>
+<word id="133710009.b.unit.128">it's</word>
+<word id="133710009.b.unit.129">not</word>
+<word id="133710009.b.unit.130">used</word>
+<word id="133710009.b.unit.131">so</word>
+<word id="133710009.b.unit.132">it's</word>
+<word id="133710009.b.unit.133">pointless</word>
+<bcanchor id="133710009.bcanchorb.4"><nite:pointer href="133710009.a.lturn.xml#id(133710009.lturn.10.2)" role="bc"/></bcanchor>
+<word id="133710009.b.unit.137">isn't</word>
+<word id="133710009.b.unit.138">it</word>
+<word id="133710009.b.unit.139">really</word>
+<word id="133710009.b.unit.151">yes</word>
+<word id="133710009.b.unit.152">yes</word>
+<word id="133710009.b.unit.153">it's</word>
+<word id="133710009.b.unit.154">um</word>
+<word id="133710009.b.unit.155">missus</word>
+<stdzcode id="133710009.b.unit.156" description="name"/>
+<stdzcode id="133710009.b.unit.157" description="name"/>
+<bcanchor id="133710009.bcanchorb.5"><nite:pointer href="133710009.a.lturn.xml#id(133710009.lturn.12.1)" role="bc"/></bcanchor>
+<num id="133710009.b.unit.159"/>
+<pncode type="road" id="133710009.b.unit.160"/>
+<pncode type="road" id="133710009.b.unit.161"/>
+<pncode type="town" id="133710009.b.unit.162"/>
+<pncode type="town" id="133710009.b.unit.163"/>
+<word id="133710009.b.unit.164">do</word>
+<word id="133710009.b.unit.165">you</word>
+<word id="133710009.b.unit.166">want</word>
+<word id="133710009.b.unit.167">postcode</word>
+<bcanchor id="133710009.bcanchorb.6"><nite:pointer href="133710009.a.lturn.xml#id(133710009.lturn.12.2)" role="bc"/></bcanchor>
+<pncode type="letter" id="133710009.b.unit.169"/>
+<pncode type="letter" id="133710009.b.unit.170"/>
+<num id="133710009.b.unit.171"/>
+<num id="133710009.b.unit.172"/>
+<pncode type="letter" id="133710009.b.unit.173"/>
+<pncode type="letter" id="133710009.b.unit.174"/>
+<word id="133710009.b.unit.175">for</word>
+<stdzcode id="133710009.b.unit.176" description="name"/>
+<word id="133710009.b.unit.181">thanks</word>
+<word id="133710009.b.unit.182">a</word>
+<word id="133710009.b.unit.183">lot</word>
+<word id="133710009.b.unit.193">thanks</word>
+<word id="133710009.b.unit.194">a</word>
+<word id="133710009.b.unit.195">lot</word>
+<word id="133710009.b.unit.201">bye</word>
+<word id="133710009.b.unit.202">bye</word>
+</nite:root>

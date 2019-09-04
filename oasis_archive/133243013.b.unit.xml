@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="133243013.unit.b">
+<word id="133243013.b.unit.9">yes</word>
+<word id="133243013.b.unit.10">certainly</word>
+<word id="133243013.b.unit.11">it's</word>
+<num id="133243013.b.unit.12"/>
+<num id="133243013.b.unit.13"/>
+<num id="133243013.b.unit.14"/>
+<num id="133243013.b.unit.15"/>
+<num id="133243013.b.unit.16"/>
+<num id="133243013.b.unit.17"/>
+<word id="133243013.b.unit.29">it's</word>
+<num id="133243013.b.unit.30"/>
+<num id="133243013.b.unit.31"/>
+<num id="133243013.b.unit.32"/>
+<num id="133243013.b.unit.33"/>
+<num id="133243013.b.unit.34"/>
+<word id="133243013.b.unit.72">certainly</word>
+<word id="133243013.b.unit.73">it's</word>
+<word id="133243013.b.unit.74">mister</word>
+<stdzcode id="133243013.b.unit.75" description="name"/>
+<stdzcode id="133243013.b.unit.76" description="name"/>
+<num id="133243013.b.unit.77"/>
+<pncode type="road" id="133243013.b.unit.78"/>
+<pncode type="road" id="133243013.b.unit.79"/>
+<pncode type="town" id="133243013.b.unit.80"/>
+<pncode type="town" id="133243013.b.unit.81"/>
+<pncode type="town" id="133243013.b.unit.82"/>
+<pncode type="letter" id="133243013.b.unit.83"/>
+<pncode type="letter" id="133243013.b.unit.84"/>
+<num id="133243013.b.unit.85"/>
+<num id="133243013.b.unit.86"/>
+<pncode type="letter" id="133243013.b.unit.87"/>
+<pncode type="letter" id="133243013.b.unit.88"/>
+<word id="133243013.b.unit.96">right</word>
+<word id="133243013.b.unit.97">uh</word>
+<word id="133243013.b.unit.98">what</word>
+<word id="133243013.b.unit.99">it</word>
+<word id="133243013.b.unit.100">is</word>
+<word id="133243013.b.unit.101">uh</word>
+<word id="133243013.b.unit.102">on</word>
+<word id="133243013.b.unit.103">the</word>
+<word id="133243013.b.unit.104">sixteenth</word>
+<word id="133243013.b.unit.105">i</word>
+<word id="133243013.b.unit.106">signed</word>
+<word id="133243013.b.unit.107">up</word>
+<word id="133243013.b.unit.108">for</word>
+<word id="133243013.b.unit.109">you</word>
+<word id="133243013.b.unit.110">know</word>
+<word id="133243013.b.unit.111">the</word>
+<pncode type="business" id="133243013.b.unit.112"/>
+<word id="133243013.b.unit.113">unlimited</word>
+<word id="133243013.b.unit.114">time</word>
+<bcanchor id="133243013.bcanchorb.1"><nite:pointer href="133243013.a.lturn.xml#id(133243013.lturn.8.1)" role="bc"/></bcanchor>
+<word id="133243013.b.unit.116">yeah</word>
+<word id="133243013.b.unit.117">now</word>
+<word id="133243013.b.unit.118">i've</word>
+<word id="133243013.b.unit.119">been</word>
+<word id="133243013.b.unit.120">on</word>
+<word id="133243013.b.unit.121">it</word>
+<word id="133243013.b.unit.122">now</word>
+<word id="133243013.b.unit.123">for</word>
+<word id="133243013.b.unit.124">about</word>
+<word id="133243013.b.unit.125">a</word>
+<word id="133243013.b.unit.126">week</word>
+<word id="133243013.b.unit.127">or</word>
+<word id="133243013.b.unit.128">so</word>
+<word id="133243013.b.unit.129">now</word>
+<word id="133243013.b.unit.130">i</word>
+<word id="133243013.b.unit.131">have</word>
+<word id="133243013.b.unit.132">rang</word>
+<word id="133243013.b.unit.133">them</word>
+<partword id="133243013.b.unit.134">t</partword>
+<word id="133243013.b.unit.135">to</word>
+<word id="133243013.b.unit.136">ask</word>
+<word id="133243013.b.unit.137">them</word>
+<word id="133243013.b.unit.138">to</word>
+<word id="133243013.b.unit.139">confirm</word>
+<word id="133243013.b.unit.140">whether</word>
+<word id="133243013.b.unit.141">it</word>
+<word id="133243013.b.unit.142">is</word>
+<word id="133243013.b.unit.143">like</word>
+<word id="133243013.b.unit.144">unlimited</word>
+<word id="133243013.b.unit.145">so</word>
+<word id="133243013.b.unit.146">it</word>
+<word id="133243013.b.unit.147">doesn't</word>
+<word id="133243013.b.unit.148">cost</word>
+<word id="133243013.b.unit.149">nothing</word>
+<word id="133243013.b.unit.150">off</word>
+<word id="133243013.b.unit.151">yourself</word>
+<bcanchor id="133243013.bcanchorb.2"><nite:pointer href="133243013.a.lturn.xml#id(133243013.lturn.8.2)" role="bc"/></bcanchor>
+<word id="133243013.b.unit.153">now</word>
+<word id="133243013.b.unit.154">they've</word>
+<word id="133243013.b.unit.155">said</word>
+<word id="133243013.b.unit.156">it's</word>
+<word id="133243013.b.unit.157">right</word>
+<word id="133243013.b.unit.158">so</word>
+<word id="133243013.b.unit.159">i'm</word>
+<word id="133243013.b.unit.160">just</word>
+<word id="133243013.b.unit.161">ringing</word>
+<word id="133243013.b.unit.162">you</word>
+<word id="133243013.b.unit.163">to</word>
+<word id="133243013.b.unit.164">to</word>
+<word id="133243013.b.unit.165">to</word>
+<word id="133243013.b.unit.166">make</word>
+<word id="133243013.b.unit.167">sure</word>
+<word id="133243013.b.unit.168">really</word>
+<word id="133243013.b.unit.169">that's</word>
+<word id="133243013.b.unit.170">all</word>
+<word id="133243013.b.unit.179">yeah</word>
+<word id="133243013.b.unit.180">but</word>
+<word id="133243013.b.unit.181">it's</word>
+<word id="133243013.b.unit.182">not</word>
+<word id="133243013.b.unit.183">with</word>
+<word id="133243013.b.unit.184">it's</word>
+<word id="133243013.b.unit.185">not</word>
+<word id="133243013.b.unit.186">through</word>
+<word id="133243013.b.unit.187">yourself</word>
+<pncode type="business" id="133243013.b.unit.188"/>
+<pncode type="business" id="133243013.b.unit.189"/>
+<word id="133243013.b.unit.190">it's</word>
+<word id="133243013.b.unit.191">through</word>
+<pncode type="business" id="133243013.b.unit.192"/>
+<word id="133243013.b.unit.221">yeah</word>
+<word id="133243013.b.unit.227">i'm</word>
+<word id="133243013.b.unit.228">just</word>
+<word id="133243013.b.unit.229">making</word>
+<word id="133243013.b.unit.230">sure</word>
+<word id="133243013.b.unit.231">that</word>
+<word id="133243013.b.unit.232">it's</word>
+<word id="133243013.b.unit.233">not</word>
+<word id="133243013.b.unit.234">actually</word>
+<word id="133243013.b.unit.235">coming</word>
+<word id="133243013.b.unit.236">through</word>
+<word id="133243013.b.unit.237">you</word>
+<word id="133243013.b.unit.238">and</word>
+<word id="133243013.b.unit.239">you're</word>
+<word id="133243013.b.unit.240">gonna</word>
+<word id="133243013.b.unit.241">bill</word>
+<word id="133243013.b.unit.242">me</word>
+<word id="133243013.b.unit.243">for</word>
+<word id="133243013.b.unit.244">it</word>
+<word id="133243013.b.unit.258">right</word>
+</nite:root>

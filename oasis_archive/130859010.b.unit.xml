@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="130859010.unit.b">
+<word id="130859010.b.unit.2">hello</word>
+<word id="130859010.b.unit.5">um</word>
+<word id="130859010.b.unit.6">could</word>
+<word id="130859010.b.unit.7">could</word>
+<word id="130859010.b.unit.8">you</word>
+<word id="130859010.b.unit.9">put</word>
+<word id="130859010.b.unit.10">me</word>
+<word id="130859010.b.unit.11">through</word>
+<word id="130859010.b.unit.12">to</word>
+<word id="130859010.b.unit.13">the</word>
+<word id="130859010.b.unit.14">enquiries</word>
+<word id="130859010.b.unit.23">well</word>
+<word id="130859010.b.unit.24">i</word>
+<word id="130859010.b.unit.25">just</word>
+<word id="130859010.b.unit.26">want</word>
+<word id="130859010.b.unit.27">to</word>
+<word id="130859010.b.unit.28">find</word>
+<word id="130859010.b.unit.29">how</word>
+<word id="130859010.b.unit.30">much</word>
+<word id="130859010.b.unit.31">i</word>
+<word id="130859010.b.unit.32">owe</word>
+<word id="130859010.b.unit.33">on</word>
+<word id="130859010.b.unit.34">my</word>
+<word id="130859010.b.unit.35">bill</word>
+<word id="130859010.b.unit.36">please</word>
+<word id="130859010.b.unit.46">can</word>
+<word id="130859010.b.unit.47">you</word>
+<word id="130859010.b.unit.49">oh</word>
+<word id="130859010.b.unit.50">right</word>
+<word id="130859010.b.unit.61">yes</word>
+<word id="130859010.b.unit.62">lovey</word>
+<pncode type="letter" id="130859010.b.unit.65"/>
+<pncode type="letter" id="130859010.b.unit.66"/>
+<word id="130859010.b.unit.68">double</word>
+<num id="130859010.b.unit.69"/>
+<num id="130859010.b.unit.72"/>
+<num id="130859010.b.unit.73"/>
+<bcanchor id="130859010.bcanchorb.1"><nite:pointer href="130859010.a.lturn.xml#id(130859010.lturn.18.1)" role="bc"/></bcanchor>
+<num id="130859010.b.unit.75"/>
+<num id="130859010.b.unit.76"/>
+<num id="130859010.b.unit.77"/>
+<num id="130859010.b.unit.78"/>
+</nite:root>

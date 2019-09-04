@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="084902011.unit.a">
+<word id="084902011.a.unit.1">thank</word>
+<word id="084902011.a.unit.2">you</word>
+<word id="084902011.a.unit.3">for</word>
+<word id="084902011.a.unit.4">calling</word>
+<pncode type="business" id="084902011.a.unit.5"/>
+<pncode type="business" id="084902011.a.unit.6"/>
+<word id="084902011.a.unit.7">my</word>
+<word id="084902011.a.unit.8">name</word>
+<word id="084902011.a.unit.9">is</word>
+<stdzcode id="084902011.a.unit.10" description="name"/>
+<word id="084902011.a.unit.11">can</word>
+<word id="084902011.a.unit.12">i</word>
+<word id="084902011.a.unit.13">take</word>
+<word id="084902011.a.unit.14">your</word>
+<word id="084902011.a.unit.15">telephone</word>
+<word id="084902011.a.unit.16">number</word>
+<word id="084902011.a.unit.17">please</word>
+<num id="084902011.a.unit.23"/>
+<num id="084902011.a.unit.24"/>
+<num id="084902011.a.unit.25"/>
+<num id="084902011.a.unit.26"/>
+<num id="084902011.a.unit.30"/>
+<num id="084902011.a.unit.31"/>
+<num id="084902011.a.unit.32"/>
+<num id="084902011.a.unit.37"/>
+<num id="084902011.a.unit.38"/>
+<num id="084902011.a.unit.39"/>
+<num id="084902011.a.unit.40"/>
+<sil BTlength="" id="084902011.a.unit.41"/>
+<word id="084902011.a.unit.42">just</word>
+<word id="084902011.a.unit.43">one</word>
+<word id="084902011.a.unit.44">moment</word>
+<word id="084902011.a.unit.45">i'll</word>
+<word id="084902011.a.unit.46">get</word>
+<word id="084902011.a.unit.47">your</word>
+<word id="084902011.a.unit.48">details</word>
+<word id="084902011.a.unit.51">can</word>
+<word id="084902011.a.unit.52">i</word>
+<word id="084902011.a.unit.53">take</word>
+<word id="084902011.a.unit.54">your</word>
+<word id="084902011.a.unit.55">full</word>
+<word id="084902011.a.unit.56">name</word>
+<word id="084902011.a.unit.57">and</word>
+<word id="084902011.a.unit.58">address</word>
+<word id="084902011.a.unit.59">please</word>
+<word id="084902011.a.unit.68">right</word>
+<word id="084902011.a.unit.69">have</word>
+<word id="084902011.a.unit.70">you</word>
+<word id="084902011.a.unit.71">actually</word>
+<word id="084902011.a.unit.72">got</word>
+<word id="084902011.a.unit.73">your</word>
+<word id="084902011.a.unit.74">customer</word>
+<word id="084902011.a.unit.75">number</word>
+<word id="084902011.a.unit.76">with</word>
+<word id="084902011.a.unit.77">you</word>
+<sil BTlength="" id="084902011.a.unit.78"/>
+<word id="084902011.a.unit.79">we</word>
+<word id="084902011.a.unit.80">have</word>
+<word id="084902011.a.unit.81">a</word>
+<word id="084902011.a.unit.82">problem</word>
+<word id="084902011.a.unit.83">with</word>
+<word id="084902011.a.unit.84">our</word>
+<word id="084902011.a.unit.85">computer</word>
+<word id="084902011.a.unit.86">at</word>
+<word id="084902011.a.unit.87">the</word>
+<word id="084902011.a.unit.88">moment</word>
+<word id="084902011.a.unit.93">and</word>
+<word id="084902011.a.unit.94">we</word>
+<word id="084902011.a.unit.95">can't</word>
+<word id="084902011.a.unit.96">actually</word>
+<word id="084902011.a.unit.97">access</word>
+<sil BTlength="" id="084902011.a.unit.98"/>
+<bcanchor id="084902011.bcanchora.1"><nite:pointer href="084902011.b.lturn.xml#id(084902011.lturn.13.1)" role="bc"/></bcanchor>
+<word id="084902011.a.unit.101">uh</word>
+<word id="084902011.a.unit.102">with</word>
+<word id="084902011.a.unit.103">the</word>
+<word id="084902011.a.unit.104">telephone</word>
+<word id="084902011.a.unit.105">number</word>
+<word id="084902011.a.unit.106">have</word>
+<word id="084902011.a.unit.107">you</word>
+<word id="084902011.a.unit.108">got</word>
+<word id="084902011.a.unit.109">the</word>
+<word id="084902011.a.unit.110">customer</word>
+<word id="084902011.a.unit.111">number</word>
+<word id="084902011.a.unit.112">there</word>
+</nite:root>

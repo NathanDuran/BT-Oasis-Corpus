@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="095400010.unit.a">
+<comment text="children_in_background_throughout" id="095400010.a.unit.1"/>
+<stdzcode id="095400010.a.unit.2" description="name"/>
+<word id="095400010.a.unit.17">right</word>
+<word id="095400010.a.unit.32">oh</word>
+<word id="095400010.a.unit.42">oh</word>
+<word id="095400010.a.unit.46"/>
+<comment text="laughs" id="095400010.a.unit.47"/>
+<word id="095400010.a.unit.48"/>
+<word id="095400010.a.unit.62">that's</word>
+<word id="095400010.a.unit.63">no</word>
+<word id="095400010.a.unit.64">problem</word>
+<word id="095400010.a.unit.65">do</word>
+<word id="095400010.a.unit.66">you</word>
+<word id="095400010.a.unit.67">want</word>
+<word id="095400010.a.unit.68">to</word>
+<word id="095400010.a.unit.69">give</word>
+<word id="095400010.a.unit.70">um</word>
+<word id="095400010.a.unit.71">me</word>
+<word id="095400010.a.unit.72">the</word>
+<partword id="095400010.a.unit.73">tel</partword>
+<word id="095400010.a.unit.74">the</word>
+<word id="095400010.a.unit.75">address</word>
+<word id="095400010.a.unit.76">of</word>
+<word id="095400010.a.unit.77">the</word>
+<word id="095400010.a.unit.78">property</word>
+<word id="095400010.a.unit.79">and</word>
+<word id="095400010.a.unit.80">i'll</word>
+<word id="095400010.a.unit.81">see</word>
+<word id="095400010.a.unit.82">if</word>
+<word id="095400010.a.unit.83">there's</word>
+<word id="095400010.a.unit.84">been</word>
+<pncode type="business" id="095400010.a.unit.85"/>
+<pncode type="business" id="095400010.a.unit.86"/>
+<word id="095400010.a.unit.87">service</word>
+<word id="095400010.a.unit.88">there</word>
+<word id="095400010.a.unit.89">before</word>
+<word id="095400010.a.unit.97">yeah</word>
+<word id="095400010.a.unit.108">yeah</word>
+<pncode type="road" id="095400010.a.unit.111"/>
+<word id="095400010.a.unit.112">and</word>
+<word id="095400010.a.unit.113">the</word>
+<word id="095400010.a.unit.114">post</word>
+<word id="095400010.a.unit.115">code</word>
+<word id="095400010.a.unit.132">right</word>
+<word id="095400010.a.unit.133">let's</word>
+<word id="095400010.a.unit.134">have</word>
+<word id="095400010.a.unit.135">a</word>
+<word id="095400010.a.unit.136">look</word>
+<word id="095400010.a.unit.137">i</word>
+<word id="095400010.a.unit.138">really</word>
+<word id="095400010.a.unit.139">do</word>
+<word id="095400010.a.unit.140">need</word>
+<word id="095400010.a.unit.141">that</word>
+<word id="095400010.a.unit.142">hold</word>
+<word id="095400010.a.unit.143">on</word>
+<word id="095400010.a.unit.144">one</word>
+<word id="095400010.a.unit.145">second</word>
+<bcanchor id="095400010.bcanchora.5"><nite:pointer href="095400010.b.lturn.xml#id(095400010.lturn.11.1)" role="bc"/></bcanchor>
+<word id="095400010.a.unit.147">is</word>
+<word id="095400010.a.unit.148">it</word>
+<pncode type="town" id="095400010.a.unit.149"/>
+<pncode type="town" id="095400010.a.unit.150"/>
+<pncode type="town" id="095400010.a.unit.151"/>
+<pncode type="town" id="095400010.a.unit.152"/>
+<word id="095400010.a.unit.158">okay</word>
+<word id="095400010.a.unit.159">just</word>
+<word id="095400010.a.unit.160">bear</word>
+<word id="095400010.a.unit.161">with</word>
+<word id="095400010.a.unit.162">me</word>
+<word id="095400010.a.unit.163">it's</word>
+<num id="095400010.a.unit.164"/>
+<pncode type="letter" id="095400010.a.unit.165"/>
+<pncode type="letter" id="095400010.a.unit.166"/>
+<comment text="laughs" id="095400010.a.unit.167"/>
+<word id="095400010.a.unit.176">right</word>
+<word id="095400010.a.unit.177">yes</word>
+<word id="095400010.a.unit.178">there</word>
+<word id="095400010.a.unit.179">has</word>
+<word id="095400010.a.unit.180">been</word>
+<word id="095400010.a.unit.181">um</word>
+<word id="095400010.a.unit.182">a</word>
+<word id="095400010.a.unit.183">line</word>
+<word id="095400010.a.unit.184">at</word>
+<word id="095400010.a.unit.185">that</word>
+<word id="095400010.a.unit.186">property</word>
+<word id="095400010.a.unit.187">so</word>
+<word id="095400010.a.unit.188">just</word>
+<word id="095400010.a.unit.189">bear</word>
+<word id="095400010.a.unit.190">with</word>
+<word id="095400010.a.unit.191">me</word>
+<word id="095400010.a.unit.192">one</word>
+<word id="095400010.a.unit.193">moment</word>
+</nite:root>

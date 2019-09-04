@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="092000010.unit.b">
+<comment text="phone_handling_noise" id="092000010.b.unit.2"/>
+<word id="092000010.b.unit.3">ah</word>
+<word id="092000010.b.unit.4">yeah</word>
+<word id="092000010.b.unit.5">uh</word>
+<word id="092000010.b.unit.6">i</word>
+<word id="092000010.b.unit.7">don't</word>
+<word id="092000010.b.unit.8">know</word>
+<word id="092000010.b.unit.9">if</word>
+<word id="092000010.b.unit.10">it's</word>
+<word id="092000010.b.unit.11">the</word>
+<word id="092000010.b.unit.12">right</word>
+<word id="092000010.b.unit.13">department</word>
+<word id="092000010.b.unit.14">can</word>
+<word id="092000010.b.unit.15">i</word>
+<word id="092000010.b.unit.16">speak</word>
+<word id="092000010.b.unit.17">to</word>
+<word id="092000010.b.unit.18">somebody</word>
+<word id="092000010.b.unit.19">called</word>
+<stdzcode id="092000010.b.unit.20" description="name"/>
+<sil BTlength="" id="092000010.b.unit.21"/>
+<word id="092000010.b.unit.22">is</word>
+<word id="092000010.b.unit.23">he</word>
+<word id="092000010.b.unit.24">there</word>
+<word id="092000010.b.unit.31">no</word>
+<word id="092000010.b.unit.33">uh</word>
+<word id="092000010.b.unit.34">what</word>
+<word id="092000010.b.unit.35">what</word>
+<word id="092000010.b.unit.36">it</word>
+<word id="092000010.b.unit.37">was</word>
+<word id="092000010.b.unit.38">is</word>
+<word id="092000010.b.unit.39">he</word>
+<word id="092000010.b.unit.40">was</word>
+<word id="092000010.b.unit.41">dealing</word>
+<word id="092000010.b.unit.42">with</word>
+<word id="092000010.b.unit.43">an</word>
+<word id="092000010.b.unit.44">enquiry</word>
+<word id="092000010.b.unit.45">for</word>
+<word id="092000010.b.unit.46">me</word>
+<word id="092000010.b.unit.47">i</word>
+<word id="092000010.b.unit.48">rang</word>
+<word id="092000010.b.unit.49">a</word>
+<word id="092000010.b.unit.50">couple</word>
+<word id="092000010.b.unit.51">of</word>
+<word id="092000010.b.unit.52">times</word>
+<word id="092000010.b.unit.53">yesterday</word>
+<word id="092000010.b.unit.54">i'm</word>
+<partword id="092000010.b.unit.55">ch</partword>
+<word id="092000010.b.unit.56">i'm</word>
+<word id="092000010.b.unit.57">trying</word>
+<word id="092000010.b.unit.58">to</word>
+<word id="092000010.b.unit.59">have</word>
+<word id="092000010.b.unit.60">a</word>
+<word id="092000010.b.unit.61">gain</word>
+<word id="092000010.b.unit.62">put</word>
+<word id="092000010.b.unit.63">on</word>
+<word id="092000010.b.unit.64">my</word>
+<word id="092000010.b.unit.65">line</word>
+</nite:root>

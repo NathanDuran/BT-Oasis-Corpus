@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="093903010.unit.b">
+<word id="093903010.b.unit.2">oh</word>
+<word id="093903010.b.unit.3">hello</word>
+<stdzcode id="093903010.b.unit.4" description="name"/>
+<word id="093903010.b.unit.5">um</word>
+<word id="093903010.b.unit.6">my</word>
+<word id="093903010.b.unit.7">name's</word>
+<word id="093903010.b.unit.8">mister</word>
+<pncode type="surname" id="093903010.b.unit.9"/>
+<word id="093903010.b.unit.11">uh</word>
+<word id="093903010.b.unit.12">my</word>
+<word id="093903010.b.unit.13">number's</word>
+<num id="093903010.b.unit.14"/>
+<num id="093903010.b.unit.15"/>
+<num id="093903010.b.unit.16"/>
+<num id="093903010.b.unit.17"/>
+<word id="093903010.b.unit.24">ah</word>
+<word id="093903010.b.unit.29">oh</word>
+<word id="093903010.b.unit.30">um</word>
+<word id="093903010.b.unit.31">right</word>
+<word id="093903010.b.unit.32">i</word>
+<word id="093903010.b.unit.33">was</word>
+<word id="093903010.b.unit.34">sold</word>
+<word id="093903010.b.unit.35">um</word>
+<sil BTlength="" id="093903010.b.unit.36"/>
+<word id="093903010.b.unit.37">um</word>
+<word id="093903010.b.unit.38">a</word>
+<word id="093903010.b.unit.39">registration</word>
+<word id="093903010.b.unit.40">uh</word>
+<word id="093903010.b.unit.41">for</word>
+<word id="093903010.b.unit.42">Caller</word>
+<word id="093903010.b.unit.43">Display</word>
+</nite:root>

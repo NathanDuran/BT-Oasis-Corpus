@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="084029012.unit.b">
+<word id="084029012.b.unit.2">uh</word>
+<word id="084029012.b.unit.3">good</word>
+<word id="084029012.b.unit.4">morning</word>
+<gap id="084029012.b.unit.5"/>
+<word id="084029012.b.unit.6">my</word>
+<word id="084029012.b.unit.7">name</word>
+<word id="084029012.b.unit.8">is</word>
+<stdzcode id="084029012.b.unit.9" description="name"/>
+<pncode type="surname" id="084029012.b.unit.10"/>
+<word id="084029012.b.unit.11">i</word>
+<word id="084029012.b.unit.12">just</word>
+<word id="084029012.b.unit.13">would</word>
+<word id="084029012.b.unit.14">like</word>
+<word id="084029012.b.unit.15">to</word>
+<word id="084029012.b.unit.16">check</word>
+<word id="084029012.b.unit.17">my</word>
+<word id="084029012.b.unit.18">bill</word>
+<word id="084029012.b.unit.19">for</word>
+<word id="084029012.b.unit.20">telephone</word>
+<word id="084029012.b.unit.27">yeah</word>
+<word id="084029012.b.unit.34">it</word>
+<word id="084029012.b.unit.35">is</word>
+<pncode type="letter" id="084029012.b.unit.36"/>
+<pncode type="letter" id="084029012.b.unit.37"/>
+<bcanchor id="084029012.bcanchorb.1"><nite:pointer href="084029012.a.lturn.xml#id(084029012.lturn.6.1)" role="bc"/></bcanchor>
+<num id="084029012.b.unit.40"/>
+<num id="084029012.b.unit.41"/>
+<num id="084029012.b.unit.42"/>
+<num id="084029012.b.unit.43"/>
+<bcanchor id="084029012.bcanchorb.2"><nite:pointer href="084029012.a.lturn.xml#id(084029012.lturn.6.2)" role="bc"/></bcanchor>
+<num id="084029012.b.unit.45"/>
+<num id="084029012.b.unit.46"/>
+<sil BTlength="" id="084029012.b.unit.47"/>
+<num id="084029012.b.unit.48"/>
+<num id="084029012.b.unit.49"/>
+<word id="084029012.b.unit.69">my</word>
+<word id="084029012.b.unit.70">name</word>
+<word id="084029012.b.unit.71">is</word>
+<stdzcode id="084029012.b.unit.72" description="name"/>
+<pncode type="surname" id="084029012.b.unit.73"/>
+<pncode type="letter" id="084029012.b.unit.74"/>
+<pncode type="letter" id="084029012.b.unit.75"/>
+<pncode type="letter" id="084029012.b.unit.76"/>
+<pncode type="letter" id="084029012.b.unit.77"/>
+<pncode type="letter" id="084029012.b.unit.78"/>
+<pncode type="letter" id="084029012.b.unit.79"/>
+<pncode type="letter" id="084029012.b.unit.80"/>
+<bcanchor id="084029012.bcanchorb.3"><nite:pointer href="084029012.a.lturn.xml#id(084029012.lturn.8.1)" role="bc"/></bcanchor>
+<pncode type="letter" id="084029012.b.unit.83"/>
+<pncode type="letter" id="084029012.b.unit.84"/>
+<pncode type="letter" id="084029012.b.unit.85"/>
+<word id="084029012.b.unit.86">you</word>
+<word id="084029012.b.unit.87">can</word>
+<word id="084029012.b.unit.88">see</word>
+<word id="084029012.b.unit.89">it</word>
+<word id="084029012.b.unit.94">okay</word>
+<partword id="084029012.b.unit.95">twen</partword>
+<num id="084029012.b.unit.96"/>
+<pncode type="road" id="084029012.b.unit.97"/>
+<pncode type="road" id="084029012.b.unit.98"/>
+<word id="084029012.b.unit.99">uh</word>
+<pncode type="town" id="084029012.b.unit.100"/>
+<pncode type="town" id="084029012.b.unit.101"/>
+<word id="084029012.b.unit.110">it</word>
+<word id="084029012.b.unit.111">is</word>
+<pncode type="letter" id="084029012.b.unit.112"/>
+<pncode type="letter" id="084029012.b.unit.113"/>
+<num id="084029012.b.unit.114"/>
+<num id="084029012.b.unit.115"/>
+<pncode type="letter" id="084029012.b.unit.116"/>
+<pncode type="letter" id="084029012.b.unit.117"/>
+</nite:root>

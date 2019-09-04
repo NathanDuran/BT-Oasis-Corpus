@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="080255012.unit.b">
+<word id="080255012.b.unit.3">oh</word>
+<word id="080255012.b.unit.4">my</word>
+<word id="080255012.b.unit.5">god</word>
+<word id="080255012.b.unit.6">a</word>
+<word id="080255012.b.unit.7">person</word>
+<word id="080255012.b.unit.8">hello</word>
+<comment text="very_loud_embarrassed_laughing_woman" id="080255012.b.unit.10"/>
+<word id="080255012.b.unit.11">ooh</word>
+<word id="080255012.b.unit.12">i</word>
+<word id="080255012.b.unit.13">dunno</word>
+<word id="080255012.b.unit.14">what</word>
+<word id="080255012.b.unit.15">to</word>
+<word id="080255012.b.unit.16">say</word>
+<word id="080255012.b.unit.17">um</word>
+<word id="080255012.b.unit.18">i</word>
+<word id="080255012.b.unit.19">haven't</word>
+<word id="080255012.b.unit.20">got</word>
+<word id="080255012.b.unit.21">my</word>
+<word id="080255012.b.unit.22">account</word>
+<word id="080255012.b.unit.23">number</word>
+<word id="080255012.b.unit.24">bill</word>
+<word id="080255012.b.unit.25">on</word>
+<word id="080255012.b.unit.26">me</word>
+<word id="080255012.b.unit.27">but</word>
+<word id="080255012.b.unit.28">if</word>
+<word id="080255012.b.unit.29">i</word>
+<word id="080255012.b.unit.30">give</word>
+<word id="080255012.b.unit.31">you</word>
+<word id="080255012.b.unit.32">my</word>
+<word id="080255012.b.unit.33">phone</word>
+<word id="080255012.b.unit.34">number</word>
+<word id="080255012.b.unit.37">um</word>
+<word id="080255012.b.unit.38">it's</word>
+<num id="080255012.b.unit.39"/>
+<num id="080255012.b.unit.40"/>
+<num id="080255012.b.unit.41"/>
+<num id="080255012.b.unit.42"/>
+<num id="080255012.b.unit.43"/>
+<num id="080255012.b.unit.45"/>
+<num id="080255012.b.unit.46"/>
+<num id="080255012.b.unit.47"/>
+<num id="080255012.b.unit.50"/>
+<num id="080255012.b.unit.51"/>
+<num id="080255012.b.unit.52"/>
+<stdzcode id="080255012.b.unit.66" description="name"/>
+<pncode type="surname" id="080255012.b.unit.67"/>
+<num id="080255012.b.unit.68"/>
+<pncode type="road" id="080255012.b.unit.69"/>
+<pncode type="road" id="080255012.b.unit.70"/>
+<pncode type="road" id="080255012.b.unit.71"/>
+<pncode type="road" id="080255012.b.unit.72"/>
+<pncode type="road" id="080255012.b.unit.73"/>
+<pncode type="town" id="080255012.b.unit.74"/>
+<pncode type="letter" id="080255012.b.unit.83"/>
+<pncode type="letter" id="080255012.b.unit.84"/>
+<num id="080255012.b.unit.85"/>
+<num id="080255012.b.unit.86"/>
+<num id="080255012.b.unit.87"/>
+<pncode type="letter" id="080255012.b.unit.88"/>
+<pncode type="letter" id="080255012.b.unit.89"/>
+</nite:root>

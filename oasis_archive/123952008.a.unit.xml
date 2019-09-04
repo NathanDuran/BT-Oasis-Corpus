@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="123952008.unit.a">
+<stdzcode id="123952008.a.unit.1" description="name"/>
+<word id="123952008.a.unit.20">yes</word>
+<word id="123952008.a.unit.21">that's</word>
+<word id="123952008.a.unit.22">fine</word>
+<word id="123952008.a.unit.23">do</word>
+<word id="123952008.a.unit.24">you</word>
+<word id="123952008.a.unit.25">have</word>
+<word id="123952008.a.unit.26">your</word>
+<word id="123952008.a.unit.27">telephone</word>
+<word id="123952008.a.unit.28">number</word>
+<bcanchor id="123952008.bcanchora.1"><nite:pointer href="123952008.b.lturn.xml#id(123952008.lturn.3.1)" role="bc"/></bcanchor>
+<word id="123952008.a.unit.30">or</word>
+<word id="123952008.a.unit.31">your</word>
+<word id="123952008.a.unit.32">customer</word>
+<word id="123952008.a.unit.33">number</word>
+<word id="123952008.a.unit.40">customer</word>
+<word id="123952008.a.unit.41">number</word>
+<word id="123952008.a.unit.42">would</word>
+<word id="123952008.a.unit.43">be</word>
+<word id="123952008.a.unit.44">great</word>
+<word id="123952008.a.unit.48">yes</word>
+<word id="123952008.a.unit.53">yeah</word>
+<word id="123952008.a.unit.58">yeah</word>
+<word id="123952008.a.unit.63">that's</word>
+<word id="123952008.a.unit.64">lovely</word>
+<word id="123952008.a.unit.65">thank</word>
+<word id="123952008.a.unit.66">you</word>
+<word id="123952008.a.unit.70">that's</word>
+<word id="123952008.a.unit.71">great</word>
+<word id="123952008.a.unit.72">i</word>
+<word id="123952008.a.unit.73">have</word>
+<word id="123952008.a.unit.74">your</word>
+<word id="123952008.a.unit.75">details</word>
+<word id="123952008.a.unit.76">in</word>
+<word id="123952008.a.unit.77">front</word>
+<word id="123952008.a.unit.78">of</word>
+<word id="123952008.a.unit.79">me</word>
+<word id="123952008.a.unit.80">would</word>
+<word id="123952008.a.unit.81">you</word>
+<word id="123952008.a.unit.82">confirm</word>
+<word id="123952008.a.unit.83">the</word>
+<word id="123952008.a.unit.84">account</word>
+<word id="123952008.a.unit.85">holder's</word>
+<word id="123952008.a.unit.86">full</word>
+<word id="123952008.a.unit.87">name</word>
+<word id="123952008.a.unit.88">address</word>
+<word id="123952008.a.unit.89">and</word>
+<word id="123952008.a.unit.90">postcode</word>
+<word id="123952008.a.unit.91">please</word>
+</nite:root>

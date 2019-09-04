@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="082740011.unit.b">
+<word id="082740011.b.unit.2">um</word>
+<word id="082740011.b.unit.3">yes</word>
+<word id="082740011.b.unit.4">oh</word>
+<word id="082740011.b.unit.5">i</word>
+<word id="082740011.b.unit.6">want</word>
+<word id="082740011.b.unit.7">to</word>
+<word id="082740011.b.unit.8">know</word>
+<word id="082740011.b.unit.9">um</word>
+<partword id="082740011.b.unit.10">d</partword>
+<partword id="082740011.b.unit.11">i</partword>
+<word id="082740011.b.unit.12">my</word>
+<word id="082740011.b.unit.13">son</word>
+<word id="082740011.b.unit.14">paid</word>
+<word id="082740011.b.unit.15">his</word>
+<word id="082740011.b.unit.16">his</word>
+<word id="082740011.b.unit.17">phone</word>
+<word id="082740011.b.unit.18">bill</word>
+<word id="082740011.b.unit.19">late</word>
+<word id="082740011.b.unit.20">and</word>
+<word id="082740011.b.unit.21">so</word>
+<word id="082740011.b.unit.22">they</word>
+<word id="082740011.b.unit.23">disconnected</word>
+<word id="082740011.b.unit.24">him</word>
+<word id="082740011.b.unit.26">how</word>
+<word id="082740011.b.unit.27">much</word>
+<word id="082740011.b.unit.28">do</word>
+<word id="082740011.b.unit.29">they</word>
+<word id="082740011.b.unit.30">charge</word>
+<word id="082740011.b.unit.31">to</word>
+<word id="082740011.b.unit.32">reconnect</word>
+<partword id="082740011.b.unit.37">w</partword>
+<word id="082740011.b.unit.38">uh</word>
+<bcanchor id="082740011.bcanchorb.1"><nite:pointer href="082740011.a.lturn.xml#id(082740011.lturn.6.1)" role="bc"/></bcanchor>
+<word id="082740011.b.unit.42">well</word>
+<word id="082740011.b.unit.43">he's</word>
+<sil BTlength="" id="082740011.b.unit.44"/>
+<word id="082740011.b.unit.45">as</word>
+<word id="082740011.b.unit.46">far</word>
+<word id="082740011.b.unit.47">as</word>
+<word id="082740011.b.unit.48">i</word>
+<word id="082740011.b.unit.49">know</word>
+<word id="082740011.b.unit.64">oh</word>
+<word id="082740011.b.unit.65">no</word>
+<sil BTlength="" id="082740011.b.unit.66"/>
+<word id="082740011.b.unit.67">uh</word>
+<word id="082740011.b.unit.68">no</word>
+<word id="082740011.b.unit.69">thanks</word>
+<word id="082740011.b.unit.72">cheaper</word>
+<word id="082740011.b.unit.73">to</word>
+<word id="082740011.b.unit.74">go</word>
+<word id="082740011.b.unit.75">on</word>
+<word id="082740011.b.unit.76">cable</word>
+<word id="082740011.b.unit.77">right</word>
+<phonword id="082740011.b.unit.78">o</phonword>
+</nite:root>

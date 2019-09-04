@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="093922012.unit.b">
+<word id="093922012.b.unit.2">hello</word>
+<word id="093922012.b.unit.3">there</word>
+<word id="093922012.b.unit.4">it's</word>
+<pncode type="business" id="093922012.b.unit.5"/>
+<pncode type="business" id="093922012.b.unit.6"/>
+<pncode type="business" id="093922012.b.unit.7"/>
+<word id="093922012.b.unit.8">in</word>
+<pncode type="town" id="093922012.b.unit.9"/>
+<word id="093922012.b.unit.10">here</word>
+<word id="093922012.b.unit.12">hi</word>
+<word id="093922012.b.unit.13">i've</word>
+<word id="093922012.b.unit.14">got</word>
+<word id="093922012.b.unit.15">a</word>
+<word id="093922012.b.unit.16">job</word>
+<word id="093922012.b.unit.17">number</word>
+<word id="093922012.b.unit.18">customer</word>
+<word id="093922012.b.unit.19">ordered</word>
+<word id="093922012.b.unit.20">it's</word>
+<word id="093922012.b.unit.21">all</word>
+<word id="093922012.b.unit.22">up</word>
+<word id="093922012.b.unit.23">and</word>
+<word id="093922012.b.unit.24">running</word>
+<word id="093922012.b.unit.25">the</word>
+<word id="093922012.b.unit.26">order's</word>
+<word id="093922012.b.unit.27">there</word>
+<word id="093922012.b.unit.28">but</word>
+<word id="093922012.b.unit.29">they</word>
+<word id="093922012.b.unit.30">wanted</word>
+<word id="093922012.b.unit.31">to</word>
+<word id="093922012.b.unit.32">go</word>
+<word id="093922012.b.unit.33">ex</word>
+<word id="093922012.b.unit.34">directory</word>
+<word id="093922012.b.unit.35">and</word>
+<word id="093922012.b.unit.36">it</word>
+<word id="093922012.b.unit.37">doesn't</word>
+<word id="093922012.b.unit.38">appear</word>
+<word id="093922012.b.unit.39">that</word>
+<word id="093922012.b.unit.40">it's</word>
+<word id="093922012.b.unit.41">been</word>
+<word id="093922012.b.unit.42">logged</word>
+<word id="093922012.b.unit.43">on</word>
+<word id="093922012.b.unit.44">the</word>
+<word id="093922012.b.unit.45">system</word>
+<word id="093922012.b.unit.46">there</word>
+<num id="093922012.b.unit.58"/>
+<num id="093922012.b.unit.59"/>
+<num id="093922012.b.unit.60"/>
+<num id="093922012.b.unit.61"/>
+<num id="093922012.b.unit.62"/>
+<num id="093922012.b.unit.64"/>
+<num id="093922012.b.unit.65"/>
+<num id="093922012.b.unit.66"/>
+<num id="093922012.b.unit.67"/>
+<word id="093922012.b.unit.68">double</word>
+<num id="093922012.b.unit.69"/>
+<word id="093922012.b.unit.85">mister</word>
+<stdzcode id="093922012.b.unit.86" description="name"/>
+<pncode type="surname" id="093922012.b.unit.87"/>
+<word id="093922012.b.unit.88">and</word>
+<word id="093922012.b.unit.89">it's</word>
+<num id="093922012.b.unit.90"/>
+<sil BTlength="" id="093922012.b.unit.91"/>
+<pncode type="road" id="093922012.b.unit.92"/>
+<pncode type="road" id="093922012.b.unit.93"/>
+<pncode type="town" id="093922012.b.unit.94"/>
+<word id="093922012.b.unit.95">that's</word>
+<pncode type="letter" id="093922012.b.unit.96"/>
+<num id="093922012.b.unit.97"/>
+<sil BTlength="" id="093922012.b.unit.98"/>
+<num id="093922012.b.unit.99"/>
+<pncode type="letter" id="093922012.b.unit.100"/>
+<pncode type="letter" id="093922012.b.unit.101"/>
+<word id="093922012.b.unit.102">it's</word>
+<word id="093922012.b.unit.103">mister</word>
+<stdzcode id="093922012.b.unit.104" description="name"/>
+<pncode type="surname" id="093922012.b.unit.105"/>
+<word id="093922012.b.unit.115">it's</word>
+<word id="093922012.b.unit.116">um</word>
+<word id="093922012.b.unit.117">still</word>
+<word id="093922012.b.unit.118">you've</word>
+<word id="093922012.b.unit.119">probably</word>
+<word id="093922012.b.unit.120">got</word>
+<word id="093922012.b.unit.121">it</word>
+<word id="093922012.b.unit.122">still</word>
+<word id="093922012.b.unit.123">in</word>
+<word id="093922012.b.unit.124">the</word>
+<word id="093922012.b.unit.125">name</word>
+<word id="093922012.b.unit.126">of</word>
+<pncode type="surname" id="093922012.b.unit.127"/>
+<word id="093922012.b.unit.134">it's</word>
+<word id="093922012.b.unit.135">stopped</word>
+<word id="093922012.b.unit.136">no</word>
+<word id="093922012.b.unit.137">it's</word>
+<word id="093922012.b.unit.138">changing</word>
+<word id="093922012.b.unit.139">on</word>
+<word id="093922012.b.unit.140">the</word>
+<num id="093922012.b.unit.141"/>
+<word id="093922012.b.unit.142">there's</word>
+<word id="093922012.b.unit.143">stop</word>
+<word id="093922012.b.unit.144">on</word>
+<word id="093922012.b.unit.145">there's</word>
+<word id="093922012.b.unit.146">a</word>
+<word id="093922012.b.unit.147">start</word>
+<word id="093922012.b.unit.148">on</word>
+</nite:root>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="093525013.unit.b">
+<word id="093525013.b.unit.3">yeah</word>
+<word id="093525013.b.unit.4">hello</word>
+<word id="093525013.b.unit.5">um</word>
+<word id="093525013.b.unit.6">i've</word>
+<word id="093525013.b.unit.7">recently</word>
+<word id="093525013.b.unit.8">moved</word>
+<word id="093525013.b.unit.9">to</word>
+<pncode type="town" id="093525013.b.unit.10"/>
+<bcanchor id="093525013.bcanchorb.1"><nite:pointer href="093525013.a.lturn.xml#id(093525013.lturn.2.1)" role="bc"/></bcanchor>
+<word id="093525013.b.unit.12">uh</word>
+<sil BTlength="" id="093525013.b.unit.13"/>
+<word id="093525013.b.unit.14">the</word>
+<word id="093525013.b.unit.15">thing</word>
+<word id="093525013.b.unit.16">is</word>
+<word id="093525013.b.unit.17">i</word>
+<word id="093525013.b.unit.18">just</word>
+<word id="093525013.b.unit.19">want</word>
+<word id="093525013.b.unit.20">to</word>
+<word id="093525013.b.unit.21">check</word>
+<word id="093525013.b.unit.22">something</word>
+<word id="093525013.b.unit.23">about</word>
+<word id="093525013.b.unit.24">my</word>
+<word id="093525013.b.unit.25">old</word>
+<word id="093525013.b.unit.26">telephone</word>
+<word id="093525013.b.unit.52">yeah</word>
+<word id="093525013.b.unit.53">the</word>
+<word id="093525013.b.unit.54">customer</word>
+<word id="093525013.b.unit.55">telephone</word>
+<word id="093525013.b.unit.56">number</word>
+<word id="093525013.b.unit.57">from</word>
+<word id="093525013.b.unit.58">the</word>
+<word id="093525013.b.unit.59">old</word>
+<word id="093525013.b.unit.60">telephone</word>
+<word id="093525013.b.unit.61">bill</word>
+<word id="093525013.b.unit.70">the</word>
+<word id="093525013.b.unit.71">customer</word>
+<word id="093525013.b.unit.72">number</word>
+<word id="093525013.b.unit.77">right</word>
+<word id="093525013.b.unit.78">i'll</word>
+<comment text="someone_else_talking" id="093525013.b.unit.79"/>
+<word id="093525013.b.unit.80">yes</word>
+<word id="093525013.b.unit.81">please</word>
+<word id="093525013.b.unit.82">i</word>
+<word id="093525013.b.unit.83">did</word>
+<word id="093525013.b.unit.84">have</word>
+<word id="093525013.b.unit.85">a</word>
+<word id="093525013.b.unit.86">telephone</word>
+<word id="093525013.b.unit.87">bill</word>
+<word id="093525013.b.unit.88">here</word>
+<bcanchor id="093525013.bcanchorb.2"><nite:pointer href="093525013.a.lturn.xml#id(093525013.lturn.8.1)" role="bc"/></bcanchor>
+<word id="093525013.b.unit.94">and</word>
+<word id="093525013.b.unit.95">it's</word>
+<word id="093525013.b.unit.96">just</word>
+<word id="093525013.b.unit.97">gone</word>
+<word id="093525013.b.unit.98">missing</word>
+<comment text="other_person" id="093525013.b.unit.99"/>
+<word id="093525013.b.unit.100">i've</word>
+<word id="093525013.b.unit.101">got</word>
+<word id="093525013.b.unit.102">a</word>
+<partword id="093525013.b.unit.103">ne</partword>
+<word id="093525013.b.unit.104">i've</word>
+<word id="093525013.b.unit.105">got</word>
+<word id="093525013.b.unit.106">a</word>
+<word id="093525013.b.unit.107">new</word>
+<word id="093525013.b.unit.108">one</word>
+<word id="093525013.b.unit.109">here</word>
+<word id="093525013.b.unit.110">would</word>
+<word id="093525013.b.unit.111">that</word>
+<word id="093525013.b.unit.112">would</word>
+<word id="093525013.b.unit.113">you</word>
+<word id="093525013.b.unit.114">be</word>
+<word id="093525013.b.unit.115">able</word>
+<word id="093525013.b.unit.116">to</word>
+<word id="093525013.b.unit.117">get</word>
+<word id="093525013.b.unit.118">it</word>
+<word id="093525013.b.unit.119">from</word>
+<word id="093525013.b.unit.120">that</word>
+<word id="093525013.b.unit.135">the</word>
+<word id="093525013.b.unit.136">old</word>
+<word id="093525013.b.unit.137">telephone</word>
+<word id="093525013.b.unit.138">fnumber</word>
+<word id="093525013.b.unit.139">is</word>
+<bcanchor id="093525013.bcanchorb.3"><nite:pointer href="093525013.a.lturn.xml#id(093525013.lturn.10.1)" role="bc"/></bcanchor>
+<num id="093525013.b.unit.141"/>
+<num id="093525013.b.unit.142"/>
+<sil BTlength="" id="093525013.b.unit.143"/>
+<num id="093525013.b.unit.144"/>
+<num id="093525013.b.unit.145"/>
+<num id="093525013.b.unit.146"/>
+<num id="093525013.b.unit.148"/>
+<num id="093525013.b.unit.149"/>
+<num id="093525013.b.unit.150"/>
+<num id="093525013.b.unit.153"/>
+<num id="093525013.b.unit.154"/>
+<num id="093525013.b.unit.155"/>
+</nite:root>

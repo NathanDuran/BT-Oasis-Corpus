@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="085218009.unit.b">
+<word id="085218009.b.unit.2">hi</word>
+<word id="085218009.b.unit.3">love</word>
+<word id="085218009.b.unit.4">it's</word>
+<word id="085218009.b.unit.5">mister</word>
+<pncode type="surname" id="085218009.b.unit.6"/>
+<word id="085218009.b.unit.7">do</word>
+<word id="085218009.b.unit.8">you</word>
+<word id="085218009.b.unit.9">want</word>
+<word id="085218009.b.unit.10">me</word>
+<word id="085218009.b.unit.11">phone</word>
+<word id="085218009.b.unit.12">number</word>
+<partword id="085218009.b.unit.20">cu</partword>
+<word id="085218009.b.unit.21">hang</word>
+<word id="085218009.b.unit.22">on</word>
+<word id="085218009.b.unit.23">hang</word>
+<word id="085218009.b.unit.24">on</word>
+<word id="085218009.b.unit.25">where's</word>
+<word id="085218009.b.unit.26">your</word>
+<bcanchor id="085218009.bcanchorb.1"><nite:pointer href="085218009.a.lturn.xml#id(085218009.lturn.4.1)" role="bc"/></bcanchor>
+<word id="085218009.b.unit.28">customer</word>
+<word id="085218009.b.unit.29">number</word>
+<word id="085218009.b.unit.30">on</word>
+<word id="085218009.b.unit.31">your</word>
+<word id="085218009.b.unit.32">bill</word>
+<word id="085218009.b.unit.41">your</word>
+<partword id="085218009.b.unit.42">cus</partword>
+<word id="085218009.b.unit.43">oh</word>
+<word id="085218009.b.unit.44">yeah</word>
+<pncode type="letter" id="085218009.b.unit.48"/>
+<pncode type="letter" id="085218009.b.unit.49"/>
+<num id="085218009.b.unit.51"/>
+<num id="085218009.b.unit.52"/>
+<num id="085218009.b.unit.53"/>
+<num id="085218009.b.unit.54"/>
+<num id="085218009.b.unit.56"/>
+<num id="085218009.b.unit.57"/>
+<num id="085218009.b.unit.58"/>
+<sil BTlength="" id="085218009.b.unit.59"/>
+<num id="085218009.b.unit.60"/>
+<pncode type="letter" id="085218009.b.unit.61"/>
+<word id="085218009.b.unit.62">double</word>
+<num id="085218009.b.unit.63"/>
+<num id="085218009.b.unit.64"/>
+<pncode type="letter" id="085218009.b.unit.65"/>
+<pncode type="letter" id="085218009.b.unit.66"/>
+</nite:root>

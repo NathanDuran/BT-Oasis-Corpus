@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="085422011.unit.b">
+<word id="085422011.b.unit.2">um</word>
+<word id="085422011.b.unit.3">i've</word>
+<word id="085422011.b.unit.4">come</word>
+<word id="085422011.b.unit.5">home</word>
+<word id="085422011.b.unit.6">from</word>
+<word id="085422011.b.unit.7">abroad</word>
+<word id="085422011.b.unit.8">and</word>
+<word id="085422011.b.unit.9">i'm</word>
+<word id="085422011.b.unit.10">absolutely</word>
+<word id="085422011.b.unit.11">at</word>
+<word id="085422011.b.unit.12">sea</word>
+<word id="085422011.b.unit.13">and</word>
+<word id="085422011.b.unit.14">i</word>
+<word id="085422011.b.unit.15">wanted</word>
+<word id="085422011.b.unit.16">to</word>
+<word id="085422011.b.unit.17">know</word>
+<word id="085422011.b.unit.18">the</word>
+<word id="085422011.b.unit.19">price</word>
+<word id="085422011.b.unit.20">of</word>
+<word id="085422011.b.unit.21">calls</word>
+<word id="085422011.b.unit.22">to</word>
+<pncode type="region" id="085422011.b.unit.23"/>
+<word id="085422011.b.unit.24">and</word>
+<pncode type="country" id="085422011.b.unit.25"/>
+<word id="085422011.b.unit.26">and</word>
+<word id="085422011.b.unit.27">the</word>
+<word id="085422011.b.unit.28">times</word>
+<word id="085422011.b.unit.29">of</word>
+<word id="085422011.b.unit.30">days</word>
+<word id="085422011.b.unit.31">when</word>
+<word id="085422011.b.unit.32">they're</word>
+<word id="085422011.b.unit.33">a</word>
+<word id="085422011.b.unit.34">they're</word>
+<word id="085422011.b.unit.35">cheapest</word>
+<word id="085422011.b.unit.49">thank</word>
+<word id="085422011.b.unit.50">you</word>
+<word id="085422011.b.unit.64">that's</word>
+<word id="085422011.b.unit.65">alright</word>
+<word id="085422011.b.unit.87">eight</word>
+<word id="085422011.b.unit.88">a</word>
+<word id="085422011.b.unit.89">m</word>
+<bcanchor id="085422011.bcanchorb.1"><nite:pointer href="085422011.a.lturn.xml#id(085422011.lturn.8.1)" role="bc"/></bcanchor>
+<word id="085422011.b.unit.95">to</word>
+<word id="085422011.b.unit.96">six</word>
+<word id="085422011.b.unit.97">p</word>
+<word id="085422011.b.unit.98">m</word>
+<word id="085422011.b.unit.108">ah</word>
+<word id="085422011.b.unit.109">yes</word>
+<word id="085422011.b.unit.110">this</word>
+<word id="085422011.b.unit.111">is</word>
+<word id="085422011.b.unit.112">to</word>
+<pncode type="region" id="085422011.b.unit.113"/>
+<word id="085422011.b.unit.114">yes</word>
+<num id="085422011.b.unit.125"/>
+<word id="085422011.b.unit.126">will</word>
+<word id="085422011.b.unit.127">do</word>
+<bcanchor id="085422011.bcanchorb.2"><nite:pointer href="085422011.a.lturn.xml#id(085422011.lturn.12.1)" role="bc"/></bcanchor>
+<word id="085422011.b.unit.129">yes</word>
+<bcanchor id="085422011.bcanchorb.3"><nite:pointer href="085422011.a.lturn.xml#id(085422011.lturn.12.2)" role="bc"/></bcanchor>
+<word id="085422011.b.unit.131">per</word>
+<word id="085422011.b.unit.132">minute</word>
+</nite:root>

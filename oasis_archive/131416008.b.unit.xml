@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="131416008.unit.b">
+<word id="131416008.b.unit.2">uh</word>
+<word id="131416008.b.unit.3">have</word>
+<word id="131416008.b.unit.4">i</word>
+<word id="131416008.b.unit.5">done</word>
+<word id="131416008.b.unit.6">the</word>
+<word id="131416008.b.unit.7">right</word>
+<word id="131416008.b.unit.8">number</word>
+<word id="131416008.b.unit.9">uh</word>
+<word id="131416008.b.unit.10">to</word>
+<word id="131416008.b.unit.11">pay</word>
+<word id="131416008.b.unit.12">for</word>
+<word id="131416008.b.unit.13">my</word>
+<word id="131416008.b.unit.14">telephone</word>
+<word id="131416008.b.unit.15">bill</word>
+<word id="131416008.b.unit.24">yeah</word>
+<word id="131416008.b.unit.39">uh</word>
+<word id="131416008.b.unit.40">no</word>
+<word id="131416008.b.unit.41">i</word>
+<word id="131416008.b.unit.42">haven't</word>
+<word id="131416008.b.unit.43">usually</word>
+<word id="131416008.b.unit.44">i</word>
+<word id="131416008.b.unit.45">press</word>
+<word id="131416008.b.unit.46">all</word>
+<word id="131416008.b.unit.47">them</word>
+<word id="131416008.b.unit.48">buttons</word>
+<word id="131416008.b.unit.49">and</word>
+<word id="131416008.b.unit.50">usually</word>
+<bcanchor id="131416008.bcanchorb.1"><nite:pointer href="131416008.a.lturn.xml#id(131416008.lturn.6.1)" role="bc"/></bcanchor>
+<word id="131416008.b.unit.54">i</word>
+<word id="131416008.b.unit.55">get</word>
+<word id="131416008.b.unit.56">through</word>
+<word id="131416008.b.unit.57">to</word>
+<word id="131416008.b.unit.58">somebody</word>
+<word id="131416008.b.unit.70">no</word>
+<word id="131416008.b.unit.71">i</word>
+<word id="131416008.b.unit.72">haven't</word>
+<word id="131416008.b.unit.73">no</word>
+<word id="131416008.b.unit.81">it's</word>
+<num id="131416008.b.unit.82"/>
+<num id="131416008.b.unit.83"/>
+<num id="131416008.b.unit.84"/>
+<num id="131416008.b.unit.85"/>
+<num id="131416008.b.unit.86"/>
+<num id="131416008.b.unit.90"/>
+<word id="131416008.b.unit.91">double</word>
+<num id="131416008.b.unit.92"/>
+<sil BTlength="" id="131416008.b.unit.93"/>
+<num id="131416008.b.unit.94"/>
+<num id="131416008.b.unit.95"/>
+<num id="131416008.b.unit.96"/>
+<word id="131416008.b.unit.117">it's</word>
+<word id="131416008.b.unit.118">mister</word>
+<stdzcode id="131416008.b.unit.119" description="name"/>
+<pncode type="surname" id="131416008.b.unit.120"/>
+<num id="131416008.b.unit.121"/>
+<pncode type="road" id="131416008.b.unit.122"/>
+<pncode type="road" id="131416008.b.unit.123"/>
+<pncode type="town" id="131416008.b.unit.124"/>
+<word id="131416008.b.unit.134">it's</word>
+<word id="131416008.b.unit.135">missus</word>
+<pncode type="surname" id="131416008.b.unit.136"/>
+</nite:root>

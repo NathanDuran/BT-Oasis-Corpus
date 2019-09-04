@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='095747011.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='095747011.lturn.2'>
+
+
+<utt id='095747011.utt.2'>
+
+<segment type='frag' sp-act='greet' id='095747011.frag.2'>
+<nite:child href='095747011.b.unit.xml#id(095747011.b.unit.2)'/>
+</segment>
+
+</utt>
+
+<utt id='095747011.utt.3'>
+
+<segment type='frag' sp-act='greet' id='095747011.frag.3'>
+<nite:child href='095747011.b.unit.xml#id(095747011.b.unit.3)..id(095747011.b.unit.4)'/>
+</segment>
+
+</utt>
+
+<utt id='095747011.utt.4'>
+
+<segment type='decl' sp-act='inform' id='095747011.decl.1'>
+<nite:child href='095747011.b.unit.xml#id(095747011.b.unit.5)..id(095747011.b.unit.15)'/>
+</segment>
+
+</utt>
+
+<utt id='095747011.utt.5'>
+
+<segment type='decl' sp-act='inform' id='095747011.decl.2'>
+<nite:child href='095747011.b.unit.xml#id(095747011.b.unit.16)..id(095747011.b.unit.21)'/>
+</segment>
+
+</utt>
+
+<utt id='095747011.utt.6'>
+
+<segment type='yes' sp-act='ackn' id='095747011.yes.1'>
+<nite:child href='095747011.b.unit.xml#id(095747011.b.unit.22)'/>
+</segment>
+
+<segment type='frag' sp-act='correctSelf' id='095747011.frag.4'>
+<nite:child href='095747011.b.unit.xml#id(095747011.b.unit.24)..id(095747011.b.unit.26)'/>
+</segment>
+
+</utt>
+
+<utt id='095747011.utt.7'>
+
+<segment type='decl' sp-act='inform' id='095747011.decl.3'>
+<nite:child href='095747011.b.unit.xml#id(095747011.b.unit.27)..id(095747011.b.unit.30)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='095747011.lturn.4'>
+
+
+<utt id='095747011.utt.9'>
+
+<segment type='decl' sp-act='inform' id='095747011.decl.4'>
+<nite:child href='095747011.b.unit.xml#id(095747011.b.unit.32)..id(095747011.b.unit.43)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='095747011.lturn.6'>
+
+
+<utt id='095747011.utt.11'>
+
+<segment type='frag' sp-act='inform' id='095747011.frag.5'>
+<nite:child href='095747011.b.unit.xml#id(095747011.b.unit.46)..id(095747011.b.unit.53)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

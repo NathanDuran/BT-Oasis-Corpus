@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="091007009.unit.a">
+<stdzcode id="091007009.a.unit.1" description="name"/>
+<word id="091007009.a.unit.20">right</word>
+<word id="091007009.a.unit.21">okay</word>
+<sil BTlength="" id="091007009.a.unit.22"/>
+<comment text="1.5s" id="091007009.a.unit.23"/>
+<word id="091007009.a.unit.24">what</word>
+<word id="091007009.a.unit.25">what</word>
+<word id="091007009.a.unit.26">is</word>
+<word id="091007009.a.unit.27">it</word>
+<word id="091007009.a.unit.28">you're</word>
+<word id="091007009.a.unit.29">ringing</word>
+<word id="091007009.a.unit.30">about</word>
+<word id="091007009.a.unit.31">please</word>
+<word id="091007009.a.unit.54">it's</word>
+<word id="091007009.a.unit.55">still</word>
+<word id="091007009.a.unit.56">connected</word>
+<word id="091007009.a.unit.57">at</word>
+<word id="091007009.a.unit.58">your</word>
+<word id="091007009.a.unit.59">old</word>
+<word id="091007009.a.unit.60">address</word>
+<word id="091007009.a.unit.62">right</word>
+<word id="091007009.a.unit.63">what</word>
+<word id="091007009.a.unit.64">was</word>
+<word id="091007009.a.unit.65">your</word>
+<word id="091007009.a.unit.66">old</word>
+<word id="091007009.a.unit.67">telephone</word>
+<word id="091007009.a.unit.68">number</word>
+<word id="091007009.a.unit.69">please</word>
+<word id="091007009.a.unit.74">sorry</word>
+<word id="091007009.a.unit.75">with</word>
+<word id="091007009.a.unit.76">the</word>
+<word id="091007009.a.unit.77">dialling</word>
+<word id="091007009.a.unit.78">code</word>
+<num id="091007009.a.unit.85"/>
+<num id="091007009.a.unit.86"/>
+<num id="091007009.a.unit.87"/>
+<num id="091007009.a.unit.88"/>
+<word id="091007009.a.unit.92">yeah</word>
+<word id="091007009.a.unit.95">yeah</word>
+</nite:root>

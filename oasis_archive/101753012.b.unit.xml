@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="101753012.unit.b">
+<word id="101753012.b.unit.2">yes</word>
+<word id="101753012.b.unit.3">i</word>
+<word id="101753012.b.unit.4">just</word>
+<word id="101753012.b.unit.5">wanted</word>
+<word id="101753012.b.unit.6">to</word>
+<word id="101753012.b.unit.7">enquire</word>
+<word id="101753012.b.unit.8">um</word>
+<word id="101753012.b.unit.9">my</word>
+<word id="101753012.b.unit.10">um</word>
+<word id="101753012.b.unit.11">i</word>
+<word id="101753012.b.unit.12">have</word>
+<word id="101753012.b.unit.13">a</word>
+<word id="101753012.b.unit.14">residential</word>
+<word id="101753012.b.unit.15">line</word>
+<word id="101753012.b.unit.16">i</word>
+<word id="101753012.b.unit.17">have</word>
+<word id="101753012.b.unit.18">a</word>
+<word id="101753012.b.unit.19">direct</word>
+<word id="101753012.b.unit.20">debit</word>
+<word id="101753012.b.unit.21">i</word>
+<word id="101753012.b.unit.22">just</word>
+<word id="101753012.b.unit.23">wanted</word>
+<word id="101753012.b.unit.24">to</word>
+<word id="101753012.b.unit.25">check</word>
+<word id="101753012.b.unit.26">what</word>
+<word id="101753012.b.unit.27">the</word>
+<word id="101753012.b.unit.28">current</word>
+<word id="101753012.b.unit.29">bill</word>
+<word id="101753012.b.unit.30">stands</word>
+<word id="101753012.b.unit.31">at</word>
+<sil BTlength="" id="101753012.b.unit.32"/>
+<comment text="murmurs" id="101753012.b.unit.33"/>
+<num id="101753012.b.unit.42"/>
+<word id="101753012.b.unit.43">double</word>
+<num id="101753012.b.unit.44"/>
+<num id="101753012.b.unit.45"/>
+<num id="101753012.b.unit.46"/>
+<num id="101753012.b.unit.48"/>
+<word id="101753012.b.unit.49">double</word>
+<num id="101753012.b.unit.50"/>
+<num id="101753012.b.unit.52"/>
+<num id="101753012.b.unit.53"/>
+<num id="101753012.b.unit.54"/>
+<word id="101753012.b.unit.59">my</word>
+<word id="101753012.b.unit.60">name</word>
+<word id="101753012.b.unit.61">is</word>
+<pncode type="letter" id="101753012.b.unit.62"/>
+<pncode type="surname" id="101753012.b.unit.63"/>
+<num id="101753012.b.unit.83"/>
+<pncode type="road" id="101753012.b.unit.84"/>
+<pncode type="road" id="101753012.b.unit.85"/>
+<pncode type="town" id="101753012.b.unit.86"/>
+<pncode type="town" id="101753012.b.unit.87"/>
+<pncode type="region" id="101753012.b.unit.88"/>
+<pncode type="letter" id="101753012.b.unit.89"/>
+<pncode type="letter" id="101753012.b.unit.90"/>
+<num id="101753012.b.unit.91"/>
+<num id="101753012.b.unit.92"/>
+<pncode type="letter" id="101753012.b.unit.93"/>
+<pncode type="letter" id="101753012.b.unit.94"/>
+</nite:root>

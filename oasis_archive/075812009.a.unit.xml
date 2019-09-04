@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="075812009.unit.a">
+<comment text="crackling" id="075812009.a.unit.1"/>
+<stdzcode id="075812009.a.unit.2" description="name"/>
+<word id="075812009.a.unit.46">right</word>
+<word id="075812009.a.unit.47">um</word>
+<word id="075812009.a.unit.48">can</word>
+<word id="075812009.a.unit.49">you</word>
+<word id="075812009.a.unit.50">just</word>
+<word id="075812009.a.unit.51">bear</word>
+<word id="075812009.a.unit.52">with</word>
+<word id="075812009.a.unit.53">me</word>
+<word id="075812009.a.unit.54">cos</word>
+<word id="075812009.a.unit.55">my</word>
+<word id="075812009.a.unit.56">computer</word>
+<word id="075812009.a.unit.57">is</word>
+<word id="075812009.a.unit.58">not</word>
+<word id="075812009.a.unit.59">up</word>
+<word id="075812009.a.unit.60">and</word>
+<word id="075812009.a.unit.61">running</word>
+<word id="075812009.a.unit.62">at</word>
+<word id="075812009.a.unit.63">the</word>
+<word id="075812009.a.unit.64">moment</word>
+<bcanchor id="075812009.bcanchora.1"><nite:pointer href="075812009.b.lturn.xml#id(075812009.lturn.3.1)" role="bc"/></bcanchor>
+<word id="075812009.a.unit.66">have</word>
+<word id="075812009.a.unit.67">you</word>
+<word id="075812009.a.unit.68">got</word>
+<word id="075812009.a.unit.69">your</word>
+<word id="075812009.a.unit.70">customer</word>
+<word id="075812009.a.unit.71">number</word>
+<word id="075812009.a.unit.75">yeah</word>
+<word id="075812009.a.unit.76">you</word>
+<word id="075812009.a.unit.77">would</word>
+<word id="075812009.a.unit.78">need</word>
+<word id="075812009.a.unit.79">that</word>
+<word id="075812009.a.unit.80">i</word>
+<word id="075812009.a.unit.81">can't</word>
+<word id="075812009.a.unit.82">discuss</word>
+<word id="075812009.a.unit.83">any</word>
+<word id="075812009.a.unit.84">aspect</word>
+<word id="075812009.a.unit.85">of</word>
+<word id="075812009.a.unit.86">the</word>
+<word id="075812009.a.unit.87">bill</word>
+<word id="075812009.a.unit.88">unfortunately</word>
+<word id="075812009.a.unit.89">without</word>
+<word id="075812009.a.unit.90">the</word>
+<word id="075812009.a.unit.91">customer</word>
+<word id="075812009.a.unit.92">number</word>
+<word id="075812009.a.unit.98">um</word>
+<word id="075812009.a.unit.104">let</word>
+<word id="075812009.a.unit.105">me</word>
+<word id="075812009.a.unit.106">have</word>
+<word id="075812009.a.unit.107">a</word>
+<word id="075812009.a.unit.108">look</word>
+<comment text="buzzing" id="075812009.a.unit.109"/>
+<sil BTlength="13s" id="075812009.a.unit.110"/>
+<word id="075812009.a.unit.111">right</word>
+<word id="075812009.a.unit.112">just</word>
+<word id="075812009.a.unit.113">bear</word>
+<word id="075812009.a.unit.114">with</word>
+<word id="075812009.a.unit.115">me</word>
+<word id="075812009.a.unit.116">um</word>
+<word id="075812009.a.unit.117">what</word>
+<word id="075812009.a.unit.118">have</word>
+<word id="075812009.a.unit.119">you</word>
+<word id="075812009.a.unit.120">got</word>
+<word id="075812009.a.unit.121">on</word>
+<word id="075812009.a.unit.122">the</word>
+<word id="075812009.a.unit.123">card</word>
+<word id="075812009.a.unit.160">right</word>
+<word id="075812009.a.unit.161">let</word>
+<word id="075812009.a.unit.162">me</word>
+<word id="075812009.a.unit.163">have</word>
+<word id="075812009.a.unit.164">look</word>
+<word id="075812009.a.unit.181">sorry</word>
+<word id="075812009.a.unit.182">about</word>
+<word id="075812009.a.unit.183">this</word>
+<word id="075812009.a.unit.184">but</word>
+<word id="075812009.a.unit.185">um</word>
+<sil BTlength="" id="075812009.a.unit.186"/>
+<word id="075812009.a.unit.187">i</word>
+<word id="075812009.a.unit.188">can't</word>
+<word id="075812009.a.unit.189">even</word>
+<word id="075812009.a.unit.190">look</word>
+<word id="075812009.a.unit.191">at</word>
+<word id="075812009.a.unit.192">your</word>
+<word id="075812009.a.unit.193">details</word>
+<word id="075812009.a.unit.194">at</word>
+<word id="075812009.a.unit.195">the</word>
+<word id="075812009.a.unit.196">moment</word>
+<word id="075812009.a.unit.197">just</word>
+<word id="075812009.a.unit.198">trying</word>
+<word id="075812009.a.unit.199">to</word>
+<word id="075812009.a.unit.200">get</word>
+<word id="075812009.a.unit.201">it</word>
+<word id="075812009.a.unit.202">up</word>
+<word id="075812009.a.unit.203">and</word>
+<word id="075812009.a.unit.204">working</word>
+<word id="075812009.a.unit.205">it's</word>
+<sil BTlength="" id="075812009.a.unit.206"/>
+<word id="075812009.a.unit.207">i've</word>
+<word id="075812009.a.unit.208">had</word>
+<word id="075812009.a.unit.209">a</word>
+<word id="075812009.a.unit.210">problem</word>
+<word id="075812009.a.unit.211">with</word>
+<word id="075812009.a.unit.212">it</word>
+<word id="075812009.a.unit.213">this</word>
+<word id="075812009.a.unit.214">morning</word>
+<sil BTlength="5s" id="075812009.a.unit.215"/>
+<word id="075812009.a.unit.216">what</word>
+<word id="075812009.a.unit.217">is</word>
+<word id="075812009.a.unit.218">your</word>
+<word id="075812009.a.unit.219">telephone</word>
+<word id="075812009.a.unit.220">number</word>
+<word id="075812009.a.unit.221">anyway</word>
+<word id="075812009.a.unit.227">yeah</word>
+<word id="075812009.a.unit.231">yeah</word>
+</nite:root>

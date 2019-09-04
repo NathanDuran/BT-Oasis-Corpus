@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="083606009.unit.b">
+<word id="083606009.b.unit.2">well</word>
+<word id="083606009.b.unit.3">um</word>
+<word id="083606009.b.unit.4">i</word>
+<word id="083606009.b.unit.5">just</word>
+<word id="083606009.b.unit.6">got</word>
+<word id="083606009.b.unit.7">my</word>
+<word id="083606009.b.unit.8">account</word>
+<word id="083606009.b.unit.9">but</word>
+<word id="083606009.b.unit.10">it</word>
+<word id="083606009.b.unit.11">doesn't</word>
+<word id="083606009.b.unit.12">on</word>
+<word id="083606009.b.unit.13">i'm</word>
+<word id="083606009.b.unit.14">in</word>
+<pncode type="region" id="083606009.b.unit.15"/>
+<pncode type="region" id="083606009.b.unit.16"/>
+<pncode type="town" id="083606009.b.unit.17"/>
+<word id="083606009.b.unit.18">and</word>
+<word id="083606009.b.unit.19">it</word>
+<word id="083606009.b.unit.20">doesn't</word>
+<word id="083606009.b.unit.21">say</word>
+<word id="083606009.b.unit.22">the</word>
+<word id="083606009.b.unit.23">number</word>
+<word id="083606009.b.unit.24">and</word>
+<word id="083606009.b.unit.25">on</word>
+<word id="083606009.b.unit.26">on</word>
+<word id="083606009.b.unit.27">the</word>
+<word id="083606009.b.unit.28">envelope</word>
+<word id="083606009.b.unit.29">it's</word>
+<word id="083606009.b.unit.30">got</word>
+<word id="083606009.b.unit.31">try</word>
+<word id="083606009.b.unit.32">two</word>
+<word id="083606009.b.unit.33">which</word>
+<word id="083606009.b.unit.34">i</word>
+<word id="083606009.b.unit.35">am</word>
+<word id="083606009.b.unit.36">number</word>
+<word id="083606009.b.unit.37">two</word>
+<word id="083606009.b.unit.38">but</word>
+<word id="083606009.b.unit.39">i</word>
+<word id="083606009.b.unit.40">don't</word>
+<word id="083606009.b.unit.41">have</word>
+<word id="083606009.b.unit.42">any</word>
+<word id="083606009.b.unit.43">number</word>
+<word id="083606009.b.unit.44">you</word>
+<word id="083606009.b.unit.45">know</word>
+<word id="083606009.b.unit.46">there's</word>
+<partword id="083606009.b.unit.47">fif</partword>
+<word id="083606009.b.unit.48">fifteen</word>
+<word id="083606009.b.unit.49">flats</word>
+<word id="083606009.b.unit.50">in</word>
+<word id="083606009.b.unit.51">this</word>
+<word id="083606009.b.unit.52">block</word>
+<word id="083606009.b.unit.53">block</word>
+<word id="083606009.b.unit.54">and</word>
+<word id="083606009.b.unit.55">it</word>
+<word id="083606009.b.unit.56">could</word>
+<word id="083606009.b.unit.57">go</word>
+<word id="083606009.b.unit.58">anywhere</word>
+<word id="083606009.b.unit.59">just</word>
+<word id="083606009.b.unit.60">with</word>
+<word id="083606009.b.unit.61">my</word>
+<partword id="083606009.b.unit.62">na</partword>
+<word id="083606009.b.unit.63">my</word>
+<word id="083606009.b.unit.64">name</word>
+<word id="083606009.b.unit.65">on</word>
+<word id="083606009.b.unit.66">it</word>
+<word id="083606009.b.unit.67">so</word>
+<word id="083606009.b.unit.68">i</word>
+<word id="083606009.b.unit.69">want</word>
+<word id="083606009.b.unit.70">to</word>
+<word id="083606009.b.unit.71">make</word>
+<word id="083606009.b.unit.72">sure</word>
+<word id="083606009.b.unit.73">that</word>
+<partword id="083606009.b.unit.74">ne</partword>
+<word id="083606009.b.unit.75">the</word>
+<word id="083606009.b.unit.76">next</word>
+<word id="083606009.b.unit.77">bill</word>
+<word id="083606009.b.unit.78">has</word>
+<word id="083606009.b.unit.79">number</word>
+<word id="083606009.b.unit.80">two</word>
+<pncode type="region" id="083606009.b.unit.81"/>
+<pncode type="region" id="083606009.b.unit.82"/>
+<word id="083606009.b.unit.93">yes</word>
+<word id="083606009.b.unit.94">it's</word>
+<bcanchor id="083606009.bcanchorb.1"><nite:pointer href="083606009.a.lturn.xml#id(083606009.lturn.4.1)" role="bc"/></bcanchor>
+<pncode type="letter" id="083606009.b.unit.96"/>
+<pncode type="letter" id="083606009.b.unit.97"/>
+<bcanchor id="083606009.bcanchorb.2"><nite:pointer href="083606009.a.lturn.xml#id(083606009.lturn.4.2)" role="bc"/></bcanchor>
+<num id="083606009.b.unit.99"/>
+<num id="083606009.b.unit.100"/>
+<num id="083606009.b.unit.101"/>
+<num id="083606009.b.unit.102"/>
+<bcanchor id="083606009.bcanchorb.3"><nite:pointer href="083606009.a.lturn.xml#id(083606009.lturn.4.3)" role="bc"/></bcanchor>
+<num id="083606009.b.unit.104"/>
+<num id="083606009.b.unit.105"/>
+<num id="083606009.b.unit.106"/>
+<num id="083606009.b.unit.107"/>
+<sil BTlength="" id="083606009.b.unit.108"/>
+<pncode type="letter" id="083606009.b.unit.109"/>
+<num id="083606009.b.unit.110"/>
+<num id="083606009.b.unit.111"/>
+<num id="083606009.b.unit.112"/>
+<pncode type="letter" id="083606009.b.unit.113"/>
+<num id="083606009.b.unit.114"/>
+<word id="083606009.b.unit.126">yes</word>
+<word id="083606009.b.unit.127">it's</word>
+<stdzcode id="083606009.b.unit.128" description="name"/>
+<pncode type="letter" id="083606009.b.unit.129"/>
+<pncode type="letter" id="083606009.b.unit.130"/>
+<pncode type="surname" id="083606009.b.unit.131"/>
+<pncode type="letter" id="083606009.b.unit.132"/>
+<pncode type="letter" id="083606009.b.unit.133"/>
+<pncode type="letter" id="083606009.b.unit.134"/>
+<pncode type="letter" id="083606009.b.unit.135"/>
+<pncode type="letter" id="083606009.b.unit.136"/>
+<pncode type="letter" id="083606009.b.unit.137"/>
+<word id="083606009.b.unit.145">yes</word>
+<pncode type="letter" id="083606009.b.unit.146"/>
+<pncode type="letter" id="083606009.b.unit.147"/>
+<num id="083606009.b.unit.148"/>
+<num id="083606009.b.unit.149"/>
+<pncode type="letter" id="083606009.b.unit.150"/>
+<pncode type="letter" id="083606009.b.unit.151"/>
+<word id="083606009.b.unit.162">it's</word>
+<word id="083606009.b.unit.163">two</word>
+<pncode type="region" id="083606009.b.unit.164"/>
+<pncode type="region" id="083606009.b.unit.165"/>
+<word id="083606009.b.unit.166">i've</word>
+<word id="083606009.b.unit.167">been</word>
+<word id="083606009.b.unit.168">here</word>
+<word id="083606009.b.unit.169">fifteen</word>
+<word id="083606009.b.unit.170">years</word>
+<word id="083606009.b.unit.171">you</word>
+<word id="083606009.b.unit.172">know</word>
+<word id="083606009.b.unit.173">should</word>
+<word id="083606009.b.unit.174">know</word>
+<word id="083606009.b.unit.175">by</word>
+<word id="083606009.b.unit.176">now</word>
+<word id="083606009.b.unit.186">you</word>
+<word id="083606009.b.unit.187">have</word>
+<word id="083606009.b.unit.188">good</word>
+<word id="083606009.b.unit.189">thank</word>
+<word id="083606009.b.unit.190">you</word>
+<word id="083606009.b.unit.191">very</word>
+<word id="083606009.b.unit.192">much</word>
+<word id="083606009.b.unit.197">byebye</word>
+</nite:root>

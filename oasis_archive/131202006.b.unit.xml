@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="131202006.unit.b">
+<word id="131202006.b.unit.2">well</word>
+<word id="131202006.b.unit.3">i'm</word>
+<word id="131202006.b.unit.4">just</word>
+<word id="131202006.b.unit.5">querying</word>
+<word id="131202006.b.unit.6">me</word>
+<word id="131202006.b.unit.7">bill</word>
+<word id="131202006.b.unit.8">telephone</word>
+<word id="131202006.b.unit.9">bill</word>
+<bcanchor id="131202006.bcanchorb.1"><nite:pointer href="131202006.a.lturn.xml#id(131202006.lturn.2.1)" role="bc"/></bcanchor>
+<word id="131202006.b.unit.12">this</word>
+<word id="131202006.b.unit.13">is</word>
+<word id="131202006.b.unit.14">missus</word>
+<pncode type="surname" id="131202006.b.unit.15"/>
+<word id="131202006.b.unit.16">of</word>
+<num id="131202006.b.unit.17"/>
+<pncode type="road" id="131202006.b.unit.18"/>
+<pncode type="road" id="131202006.b.unit.19"/>
+<word id="131202006.b.unit.27">bill</word>
+<word id="131202006.b.unit.28">here</word>
+<word id="131202006.b.unit.42">oh</word>
+<word id="131202006.b.unit.43">you</word>
+<word id="131202006.b.unit.44">can</word>
+<word id="131202006.b.unit.45">have</word>
+<word id="131202006.b.unit.46">them</word>
+<word id="131202006.b.unit.47">both</word>
+<word id="131202006.b.unit.48">if</word>
+<word id="131202006.b.unit.49">you</word>
+<word id="131202006.b.unit.50">want</word>
+<sil BTlength="" id="131202006.b.unit.51"/>
+<word id="131202006.b.unit.52">account</word>
+<word id="131202006.b.unit.53">number</word>
+<word id="131202006.b.unit.57">is</word>
+<word id="131202006.b.unit.58">that</word>
+<word id="131202006.b.unit.59">a</word>
+<word id="131202006.b.unit.60">customer</word>
+<word id="131202006.b.unit.61">number</word>
+<pncode type="letter" id="131202006.b.unit.72"/>
+<pncode type="letter" id="131202006.b.unit.73"/>
+<num id="131202006.b.unit.75"/>
+<num id="131202006.b.unit.76"/>
+<num id="131202006.b.unit.78"/>
+<num id="131202006.b.unit.79"/>
+<num id="131202006.b.unit.82"/>
+<num id="131202006.b.unit.83"/>
+<num id="131202006.b.unit.86"/>
+<num id="131202006.b.unit.87"/>
+<pncode type="letter" id="131202006.b.unit.90"/>
+<sil BTlength="" id="131202006.b.unit.91"/>
+<num id="131202006.b.unit.92"/>
+<sil BTlength="" id="131202006.b.unit.93"/>
+<num id="131202006.b.unit.94"/>
+<num id="131202006.b.unit.95"/>
+<pncode type="letter" id="131202006.b.unit.97"/>
+<pncode type="letter" id="131202006.b.unit.98"/>
+</nite:root>

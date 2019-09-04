@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="093614007.unit.a">
+<stdzcode id="093614007.a.unit.1" description="name"/>
+<word id="093614007.a.unit.20">right</word>
+<word id="093614007.a.unit.21">okay</word>
+<word id="093614007.a.unit.38">no</word>
+<word id="093614007.a.unit.39">it</word>
+<word id="093614007.a.unit.40">won't</word>
+<word id="093614007.a.unit.41">you</word>
+<word id="093614007.a.unit.42">do</word>
+<word id="093614007.a.unit.43">need</word>
+<word id="093614007.a.unit.44">to</word>
+<word id="093614007.a.unit.45">actually</word>
+<word id="093614007.a.unit.46">have</word>
+<word id="093614007.a.unit.47">you</word>
+<word id="093614007.a.unit.48">need</word>
+<word id="093614007.a.unit.49">to</word>
+<word id="093614007.a.unit.50">subscribe</word>
+<word id="093614007.a.unit.51">to</word>
+<word id="093614007.a.unit.52">the</word>
+<word id="093614007.a.unit.53">facility</word>
+<word id="093614007.a.unit.54">otherwise</word>
+<word id="093614007.a.unit.55">the</word>
+<word id="093614007.a.unit.56">the</word>
+<word id="093614007.a.unit.57">unit</word>
+<word id="093614007.a.unit.58">won't</word>
+<word id="093614007.a.unit.59">actually</word>
+<word id="093614007.a.unit.60">display</word>
+<word id="093614007.a.unit.61">the</word>
+<word id="093614007.a.unit.62">numbers</word>
+<word id="093614007.a.unit.67">do</word>
+<partword id="093614007.a.unit.68">y</partword>
+<word id="093614007.a.unit.69"/>
+<word id="093614007.a.unit.75">the</word>
+<word id="093614007.a.unit.76">facility</word>
+<word id="093614007.a.unit.77">is</word>
+<num id="093614007.a.unit.78"/>
+<num id="093614007.a.unit.79"/>
+<word id="093614007.a.unit.80">every</word>
+<word id="093614007.a.unit.81">quarter</word>
+<word id="093614007.a.unit.82">every</word>
+<bcanchor id="093614007.bcanchora.2"><nite:pointer href="093614007.b.lturn.xml#id(093614007.lturn.7.1)" role="bc"/></bcanchor>
+<num id="093614007.a.unit.85"/>
+<word id="093614007.a.unit.86">every</word>
+<num id="093614007.a.unit.87"/>
+<word id="093614007.a.unit.88">months</word>
+<num id="093614007.a.unit.89"/>
+<num id="093614007.a.unit.90"/>
+<sil BTlength="" id="093614007.a.unit.116"/>
+<word id="093614007.a.unit.117">uh</word>
+<word id="093614007.a.unit.118">no</word>
+<word id="093614007.a.unit.119">not</word>
+<word id="093614007.a.unit.120">on</word>
+<word id="093614007.a.unit.121">the</word>
+<word id="093614007.a.unit.122">facility</word>
+<word id="093614007.a.unit.138">well</word>
+<word id="093614007.a.unit.139">you</word>
+<word id="093614007.a.unit.140">do</word>
+<word id="093614007.a.unit.141">need</word>
+<word id="093614007.a.unit.142">to</word>
+<word id="093614007.a.unit.143">subscribe</word>
+<word id="093614007.a.unit.144">to</word>
+<word id="093614007.a.unit.145">the</word>
+<word id="093614007.a.unit.146">facility</word>
+<bcanchor id="093614007.bcanchora.3"><nite:pointer href="093614007.b.lturn.xml#id(093614007.lturn.11.1)" role="bc"/></bcanchor>
+<word id="093614007.a.unit.148">yes</word>
+<partword id="093614007.a.unit.149">other</partword>
+<word id="093614007.a.unit.150">otherwise</word>
+<word id="093614007.a.unit.151">the</word>
+<word id="093614007.a.unit.152">unit</word>
+<word id="093614007.a.unit.153">won't</word>
+<word id="093614007.a.unit.154">actually</word>
+<word id="093614007.a.unit.155">display</word>
+<word id="093614007.a.unit.156">the</word>
+<word id="093614007.a.unit.157">numbers</word>
+<word id="093614007.a.unit.170">right</word>
+<word id="093614007.a.unit.171">okay</word>
+<word id="093614007.a.unit.172">what's</word>
+<word id="093614007.a.unit.173">your</word>
+<word id="093614007.a.unit.174">telephone</word>
+<word id="093614007.a.unit.175">number</word>
+<word id="093614007.a.unit.176">please</word>
+<word id="093614007.a.unit.184">uh</word>
+<word id="093614007.a.unit.185">hmm</word>
+</nite:root>

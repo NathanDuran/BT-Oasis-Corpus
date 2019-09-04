@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="082644013.unit.b">
+<word id="082644013.b.unit.2">oh</word>
+<word id="082644013.b.unit.3">good</word>
+<word id="082644013.b.unit.4">morning</word>
+<word id="082644013.b.unit.5">that</word>
+<word id="082644013.b.unit.6">was</word>
+<word id="082644013.b.unit.7">quick</word>
+<word id="082644013.b.unit.8">i</word>
+<word id="082644013.b.unit.9">was</word>
+<word id="082644013.b.unit.10">expecting</word>
+<word id="082644013.b.unit.11">a</word>
+<word id="082644013.b.unit.12">recorded</word>
+<bcanchor id="082644013.bcanchorb.1"><nite:pointer href="082644013.a.lturn.xml#id(082644013.lturn.2.1)" role="bc"/></bcanchor>
+<comment text="both_customer_and_agent_laugh_a_little" id="082644013.b.unit.15"/>
+<word id="082644013.b.unit.16">message</word>
+<word id="082644013.b.unit.17">then</word>
+<word id="082644013.b.unit.18">um</word>
+<word id="082644013.b.unit.44">ah</word>
+<word id="082644013.b.unit.45">you</word>
+<word id="082644013.b.unit.46">might</word>
+<word id="082644013.b.unit.47">not</word>
+<word id="082644013.b.unit.48">be</word>
+<word id="082644013.b.unit.49">able</word>
+<word id="082644013.b.unit.50">to</word>
+<word id="082644013.b.unit.51">help</word>
+<word id="082644013.b.unit.52">me</word>
+<word id="082644013.b.unit.53">then</word>
+<comment text="laugh" id="082644013.b.unit.54"/>
+<bcanchor id="082644013.bcanchorb.2"><nite:pointer href="082644013.a.lturn.xml#id(082644013.lturn.4.1)" role="bc"/></bcanchor>
+<word id="082644013.b.unit.56">but</word>
+<word id="082644013.b.unit.57">we'll</word>
+<word id="082644013.b.unit.58">try</word>
+<comment text="laugh" id="082644013.b.unit.59"/>
+<word id="082644013.b.unit.61">um</word>
+<word id="082644013.b.unit.62">what</word>
+<word id="082644013.b.unit.63">it</word>
+<word id="082644013.b.unit.64">is</word>
+<word id="082644013.b.unit.65">i</word>
+<word id="082644013.b.unit.66">received</word>
+<word id="082644013.b.unit.67">my</word>
+<word id="082644013.b.unit.68">phone</word>
+<word id="082644013.b.unit.69">bill</word>
+<word id="082644013.b.unit.70">this</word>
+<word id="082644013.b.unit.71">morning</word>
+<bcanchor id="082644013.bcanchorb.3"><nite:pointer href="082644013.a.lturn.xml#id(082644013.lturn.6.1)" role="bc"/></bcanchor>
+<word id="082644013.b.unit.73">um</word>
+<word id="082644013.b.unit.74">but</word>
+<word id="082644013.b.unit.75">i've</word>
+<word id="082644013.b.unit.76">been</word>
+<word id="082644013.b.unit.77">paying</word>
+<word id="082644013.b.unit.78">sort</word>
+<word id="082644013.b.unit.79">of</word>
+<num id="082644013.b.unit.80"/>
+<word id="082644013.b.unit.81">pound</word>
+<num id="082644013.b.unit.82"/>
+<word id="082644013.b.unit.83">pound</word>
+<word id="082644013.b.unit.84">off</word>
+<word id="082644013.b.unit.85">on</word>
+<word id="082644013.b.unit.86">the</word>
+<pncode type="business" id="082644013.b.unit.87"/>
+<pncode type="business" id="082644013.b.unit.88"/>
+<word id="082644013.b.unit.89">card</word>
+<bcanchor id="082644013.bcanchorb.4"><nite:pointer href="082644013.a.lturn.xml#id(082644013.lturn.6.2)" role="bc"/></bcanchor>
+<word id="082644013.b.unit.91">but</word>
+<word id="082644013.b.unit.92">it</word>
+<word id="082644013.b.unit.93">doesn't</word>
+<word id="082644013.b.unit.94">actually</word>
+<word id="082644013.b.unit.95">show</word>
+<word id="082644013.b.unit.96">how</word>
+<word id="082644013.b.unit.97">much</word>
+<word id="082644013.b.unit.98">i've</word>
+<word id="082644013.b.unit.99">paid</word>
+<word id="082644013.b.unit.100">on</word>
+<word id="082644013.b.unit.101">that</word>
+<word id="082644013.b.unit.102">card</word>
+<word id="082644013.b.unit.103">on</word>
+<word id="082644013.b.unit.104">my</word>
+<word id="082644013.b.unit.105">bill</word>
+<word id="082644013.b.unit.117">mm</word>
+<word id="082644013.b.unit.118">hmm</word>
+<word id="082644013.b.unit.134">okay</word>
+<word id="082644013.b.unit.136">yeah</word>
+<word id="082644013.b.unit.144">oh</word>
+<word id="082644013.b.unit.145">hang</word>
+<word id="082644013.b.unit.146">on</word>
+<word id="082644013.b.unit.147">a</word>
+<word id="082644013.b.unit.148">minute</word>
+<word id="082644013.b.unit.149">uh</word>
+<pncode type="letter" id="082644013.b.unit.150"/>
+<pncode type="letter" id="082644013.b.unit.151"/>
+<num id="082644013.b.unit.153"/>
+<num id="082644013.b.unit.154"/>
+<num id="082644013.b.unit.155"/>
+<num id="082644013.b.unit.156"/>
+<num id="082644013.b.unit.160"/>
+<num id="082644013.b.unit.161"/>
+<num id="082644013.b.unit.162"/>
+<num id="082644013.b.unit.163"/>
+</nite:root>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="093631011.unit.b">
+<word id="093631011.b.unit.2">oh</word>
+<word id="093631011.b.unit.3">hello</word>
+<stdzcode id="093631011.b.unit.4" description="name"/>
+<word id="093631011.b.unit.5">i</word>
+<word id="093631011.b.unit.6">got</word>
+<word id="093631011.b.unit.7">this</word>
+<word id="093631011.b.unit.8">letter</word>
+<word id="093631011.b.unit.9">through</word>
+<word id="093631011.b.unit.10">about</word>
+<word id="093631011.b.unit.11">B</word>
+<word id="093631011.b.unit.12">T</word>
+<word id="093631011.b.unit.13">Planet</word>
+<word id="093631011.b.unit.14">Talk</word>
+<word id="093631011.b.unit.18">B</word>
+<word id="093631011.b.unit.19">T</word>
+<sil BTlength="" id="093631011.b.unit.20"/>
+<bcanchor id="093631011.bcanchorb.1"><nite:pointer href="093631011.a.lturn.xml#id(093631011.lturn.4.1)" role="bc"/></bcanchor>
+<word id="093631011.b.unit.22">Planet</word>
+<word id="093631011.b.unit.23">Talk</word>
+<word id="093631011.b.unit.24">it's</word>
+<word id="093631011.b.unit.25">about</word>
+<word id="093631011.b.unit.26">long</word>
+<word id="093631011.b.unit.27">distance</word>
+<word id="093631011.b.unit.28">call</word>
+<word id="093631011.b.unit.29">cheaper</word>
+<word id="093631011.b.unit.30">rates</word>
+<word id="093631011.b.unit.32">well</word>
+<word id="093631011.b.unit.33">i've</word>
+<word id="093631011.b.unit.34">rang</word>
+<word id="093631011.b.unit.35">the</word>
+<word id="093631011.b.unit.36">number</word>
+<word id="093631011.b.unit.37">it</word>
+<word id="093631011.b.unit.38">says</word>
+<word id="093631011.b.unit.39">on</word>
+<word id="093631011.b.unit.40">here</word>
+<word id="093631011.b.unit.41">and</word>
+<word id="093631011.b.unit.42">it</word>
+<word id="093631011.b.unit.43">says</word>
+<word id="093631011.b.unit.44">press</word>
+<num id="093631011.b.unit.45"/>
+<word id="093631011.b.unit.46">for</word>
+<word id="093631011.b.unit.47">sales</word>
+<word id="093631011.b.unit.48">and</word>
+<num id="093631011.b.unit.49"/>
+<word id="093631011.b.unit.50">for</word>
+<word id="093631011.b.unit.51">something</word>
+<word id="093631011.b.unit.52">else</word>
+<word id="093631011.b.unit.53">well</word>
+<word id="093631011.b.unit.54">i</word>
+<word id="093631011.b.unit.55">pressed</word>
+<num id="093631011.b.unit.56"/>
+<word id="093631011.b.unit.57">for</word>
+<word id="093631011.b.unit.58">sales</word>
+<word id="093631011.b.unit.59">and</word>
+<word id="093631011.b.unit.60">then</word>
+<word id="093631011.b.unit.61">it</word>
+<word id="093631011.b.unit.62">just</word>
+<word id="093631011.b.unit.63">goes</word>
+<word id="093631011.b.unit.64">dead</word>
+</nite:root>

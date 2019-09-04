@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="134019008.unit.b">
+<word id="134019008.b.unit.2">hello</word>
+<stdzcode id="134019008.b.unit.3" description="name"/>
+<word id="134019008.b.unit.4">we</word>
+<word id="134019008.b.unit.5">we</word>
+<word id="134019008.b.unit.6">asked</word>
+<word id="134019008.b.unit.7">for</word>
+<word id="134019008.b.unit.8">an</word>
+<word id="134019008.b.unit.9">itemised</word>
+<word id="134019008.b.unit.10">bill</word>
+<word id="134019008.b.unit.11">on</word>
+<word id="134019008.b.unit.12">uh</word>
+<word id="134019008.b.unit.13">on</word>
+<word id="134019008.b.unit.14">the</word>
+<num id="134019008.b.unit.15"/>
+<word id="134019008.b.unit.16">of</word>
+<word id="134019008.b.unit.17">this</word>
+<word id="134019008.b.unit.18">month</word>
+<word id="134019008.b.unit.19">how</word>
+<word id="134019008.b.unit.20">long</word>
+<word id="134019008.b.unit.21">will</word>
+<word id="134019008.b.unit.22">it</word>
+<word id="134019008.b.unit.23">take</word>
+<word id="134019008.b.unit.24">to</word>
+<word id="134019008.b.unit.25">get</word>
+<word id="134019008.b.unit.26">here</word>
+<word id="134019008.b.unit.27">do</word>
+<word id="134019008.b.unit.28">you</word>
+<word id="134019008.b.unit.29">know</word>
+<word id="134019008.b.unit.36">it's</word>
+<num id="134019008.b.unit.37"/>
+<word id="134019008.b.unit.38">double</word>
+<num id="134019008.b.unit.39"/>
+<partword id="134019008.b.unit.44">fi</partword>
+<num id="134019008.b.unit.45"/>
+<num id="134019008.b.unit.46"/>
+<num id="134019008.b.unit.47"/>
+<num id="134019008.b.unit.48"/>
+<num id="134019008.b.unit.53"/>
+<word id="134019008.b.unit.54">double</word>
+<num id="134019008.b.unit.55"/>
+<num id="134019008.b.unit.59"/>
+<num id="134019008.b.unit.60"/>
+<num id="134019008.b.unit.61"/>
+<word id="134019008.b.unit.73">no</word>
+<word id="134019008.b.unit.74">it's</word>
+<word id="134019008.b.unit.75">not</word>
+<word id="134019008.b.unit.76">for</word>
+<word id="134019008.b.unit.77">a</word>
+<word id="134019008.b.unit.78">bill</word>
+<word id="134019008.b.unit.79">we</word>
+<word id="134019008.b.unit.80">wanted</word>
+<word id="134019008.b.unit.81">it</word>
+<word id="134019008.b.unit.82">because</word>
+<word id="134019008.b.unit.83">we</word>
+<word id="134019008.b.unit.84">want</word>
+<word id="134019008.b.unit.85">to</word>
+<word id="134019008.b.unit.86">find</word>
+<word id="134019008.b.unit.87">out</word>
+<word id="134019008.b.unit.88">a</word>
+<word id="134019008.b.unit.89">telephone</word>
+<word id="134019008.b.unit.90">number</word>
+<word id="134019008.b.unit.91">that</word>
+<word id="134019008.b.unit.92">someone</word>
+<word id="134019008.b.unit.93">dialled</word>
+<word id="134019008.b.unit.94">out</word>
+<word id="134019008.b.unit.95">of</word>
+<word id="134019008.b.unit.96">my</word>
+<word id="134019008.b.unit.97">house</word>
+<word id="134019008.b.unit.110">it's</word>
+<num id="134019008.b.unit.111"/>
+<word id="134019008.b.unit.112">double</word>
+<num id="134019008.b.unit.113"/>
+<num id="134019008.b.unit.115"/>
+<num id="134019008.b.unit.116"/>
+<num id="134019008.b.unit.117"/>
+<num id="134019008.b.unit.127"/>
+<num id="134019008.b.unit.128"/>
+<num id="134019008.b.unit.129"/>
+<num id="134019008.b.unit.130"/>
+<word id="134019008.b.unit.150">okay</word>
+<word id="134019008.b.unit.151">it's</word>
+<num id="134019008.b.unit.152"/>
+<pncode type="road" id="134019008.b.unit.153"/>
+<pncode type="road" id="134019008.b.unit.154"/>
+<word id="134019008.b.unit.157">and</word>
+<word id="134019008.b.unit.158">the</word>
+<word id="134019008.b.unit.159">postcode's</word>
+<pncode type="letter" id="134019008.b.unit.160"/>
+<pncode type="letter" id="134019008.b.unit.161"/>
+<num id="134019008.b.unit.162"/>
+<pncode type="letter" id="134019008.b.unit.163"/>
+<pncode type="letter" id="134019008.b.unit.164"/>
+<pncode type="letter" id="134019008.b.unit.165"/>
+<word id="134019008.b.unit.166">and</word>
+<word id="134019008.b.unit.167">the</word>
+<word id="134019008.b.unit.168">name's</word>
+<pncode type="surname" id="134019008.b.unit.169"/>
+</nite:root>

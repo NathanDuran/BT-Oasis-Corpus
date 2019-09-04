@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="081752013.unit.a">
+<stdzcode id="081752013.a.unit.1" description="name"/>
+<word id="081752013.a.unit.21">there</word>
+<word id="081752013.a.unit.22">you</word>
+<word id="081752013.a.unit.23">go</word>
+<word id="081752013.a.unit.24">then</word>
+<word id="081752013.a.unit.25">haven't</word>
+<word id="081752013.a.unit.26">we</word>
+<word id="081752013.a.unit.27">surprised</word>
+<word id="081752013.a.unit.28">you</word>
+<word id="081752013.a.unit.43">oh</word>
+<word id="081752013.a.unit.44">dear</word>
+<word id="081752013.a.unit.56">right</word>
+<word id="081752013.a.unit.57">have</word>
+<word id="081752013.a.unit.58">you</word>
+<partword id="081752013.a.unit.59">a</partword>
+<word id="081752013.a.unit.60"/>
+<word id="081752013.a.unit.93">have</word>
+<word id="081752013.a.unit.94">you</word>
+<word id="081752013.a.unit.95">received</word>
+<word id="081752013.a.unit.96">a</word>
+<word id="081752013.a.unit.97">C</word>
+<word id="081752013.a.unit.98">D</word>
+<word id="081752013.a.unit.99">rom</word>
+<word id="081752013.a.unit.100">or</word>
+<word id="081752013.a.unit.101">an</word>
+<word id="081752013.a.unit.102">email</word>
+<word id="081752013.a.unit.103">back</word>
+<word id="081752013.a.unit.104">yet</word>
+<word id="081752013.a.unit.120">right</word>
+<word id="081752013.a.unit.133">ah</word>
+<word id="081752013.a.unit.134">ha</word>
+<word id="081752013.a.unit.152">that's</word>
+<word id="081752013.a.unit.153">right</word>
+<word id="081752013.a.unit.154">and</word>
+<word id="081752013.a.unit.155">you</word>
+<word id="081752013.a.unit.156">registered</word>
+<word id="081752013.a.unit.157">with</word>
+<word id="081752013.a.unit.158">them</word>
+<word id="081752013.a.unit.188">ah</word>
+<word id="081752013.a.unit.189">ha</word>
+<word id="081752013.a.unit.194">oh</word>
+<word id="081752013.a.unit.195">dear</word>
+<word id="081752013.a.unit.219">oh</word>
+<word id="081752013.a.unit.220">goodness</word>
+<word id="081752013.a.unit.221">on</word>
+<word id="081752013.a.unit.222">the</word>
+<word id="081752013.a.unit.223">technical</word>
+<word id="081752013.a.unit.224">helpdesk</word>
+<word id="081752013.a.unit.241"/>
+<comment text="laugh" id="081752013.a.unit.242"/>
+<word id="081752013.a.unit.243"/>
+<word id="081752013.a.unit.257">right</word>
+<word id="081752013.a.unit.258">do</word>
+<word id="081752013.a.unit.259">you</word>
+<word id="081752013.a.unit.260">wanna</word>
+<word id="081752013.a.unit.261">give</word>
+<word id="081752013.a.unit.262">me</word>
+<word id="081752013.a.unit.263">your</word>
+<word id="081752013.a.unit.264">telephone</word>
+<word id="081752013.a.unit.265">number</word>
+<word id="081752013.a.unit.266">let's</word>
+<word id="081752013.a.unit.267">have</word>
+<word id="081752013.a.unit.268">a</word>
+<word id="081752013.a.unit.269">look</word>
+<word id="081752013.a.unit.270">at</word>
+<word id="081752013.a.unit.271">this</word>
+<bcanchor id="081752013.bcanchora.8"><nite:pointer href="081752013.b.lturn.xml#id(081752013.lturn.11.1)" role="bc"/></bcanchor>
+<word id="081752013.a.unit.273">because</word>
+<partword id="081752013.a.unit.274">somet</partword>
+<comment text="sometimes" id="081752013.a.unit.275"/>
+<word id="081752013.a.unit.276">there</word>
+<word id="081752013.a.unit.277">has</word>
+<word id="081752013.a.unit.278">been</word>
+<word id="081752013.a.unit.279">in</word>
+<word id="081752013.a.unit.280">some</word>
+<word id="081752013.a.unit.281">of</word>
+<word id="081752013.a.unit.282">the</word>
+<word id="081752013.a.unit.283">exchanges</word>
+<word id="081752013.a.unit.284">in</word>
+<word id="081752013.a.unit.285">some</word>
+<word id="081752013.a.unit.286">areas</word>
+<bcanchor id="081752013.bcanchora.9"><nite:pointer href="081752013.b.lturn.xml#id(081752013.lturn.11.2)" role="bc"/></bcanchor>
+<word id="081752013.a.unit.288">there's</word>
+<word id="081752013.a.unit.289">been</word>
+<word id="081752013.a.unit.290">the</word>
+<word id="081752013.a.unit.291">um</word>
+<word id="081752013.a.unit.292">exchanges</word>
+<word id="081752013.a.unit.293">haven't</word>
+<word id="081752013.a.unit.294">been</word>
+<word id="081752013.a.unit.295">groomed</word>
+<word id="081752013.a.unit.296">or</word>
+<bcanchor id="081752013.bcanchora.10"><nite:pointer href="081752013.b.lturn.xml#id(081752013.lturn.11.3)" role="bc"/></bcanchor>
+<word id="081752013.a.unit.298">blocks</word>
+<word id="081752013.a.unit.299">of</word>
+<word id="081752013.a.unit.300">numbers</word>
+<bcanchor id="081752013.bcanchora.11"><nite:pointer href="081752013.b.lturn.xml#id(081752013.lturn.11.4)" role="bc"/></bcanchor>
+<word id="081752013.a.unit.302">haven't</word>
+<word id="081752013.a.unit.303">been</word>
+<word id="081752013.a.unit.304">groomed</word>
+<bcanchor id="081752013.bcanchora.12"><nite:pointer href="081752013.b.lturn.xml#id(081752013.lturn.11.5)" role="bc"/></bcanchor>
+<word id="081752013.a.unit.306">and</word>
+<word id="081752013.a.unit.307">it</word>
+<word id="081752013.a.unit.308">could</word>
+<word id="081752013.a.unit.309">be</word>
+<word id="081752013.a.unit.310">that</word>
+<word id="081752013.a.unit.311">you're</word>
+<word id="081752013.a.unit.312">falling</word>
+<word id="081752013.a.unit.313">into</word>
+<word id="081752013.a.unit.314">that</word>
+<word id="081752013.a.unit.315">category</word>
+</nite:root>

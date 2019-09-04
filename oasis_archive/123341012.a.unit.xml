@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="123341012.unit.a">
+<stdzcode id="123341012.a.unit.1" description="name"/>
+<sil BTlength="4s" id="123341012.a.unit.16"/>
+<word id="123341012.a.unit.17">right</word>
+<word id="123341012.a.unit.18">is</word>
+<word id="123341012.a.unit.19">it</word>
+<word id="123341012.a.unit.20">something</word>
+<word id="123341012.a.unit.21">she'd</word>
+<word id="123341012.a.unit.22">dealing</word>
+<word id="123341012.a.unit.23">with</word>
+<word id="123341012.a.unit.24">for</word>
+<word id="123341012.a.unit.25">you</word>
+<word id="123341012.a.unit.26">or</word>
+<word id="123341012.a.unit.30">yeah</word>
+<word id="123341012.a.unit.31">okay</word>
+<word id="123341012.a.unit.32">just</word>
+<word id="123341012.a.unit.33">bear</word>
+<word id="123341012.a.unit.34">with</word>
+<word id="123341012.a.unit.35">me</word>
+<word id="123341012.a.unit.36">i'll</word>
+<word id="123341012.a.unit.37">put</word>
+<word id="123341012.a.unit.38">you</word>
+<word id="123341012.a.unit.39">through</word>
+<word id="123341012.a.unit.40">to</word>
+<word id="123341012.a.unit.41">the</word>
+<word id="123341012.a.unit.42">switchboard</word>
+<word id="123341012.a.unit.43">and</word>
+<word id="123341012.a.unit.44">they'll</word>
+<word id="123341012.a.unit.45">be</word>
+<word id="123341012.a.unit.46">able</word>
+<word id="123341012.a.unit.47">to</word>
+<word id="123341012.a.unit.48">transfer</word>
+<word id="123341012.a.unit.49">you</word>
+<sil BTlength="23s" id="123341012.a.unit.52"/>
+<comment text="connection_made" id="123341012.a.unit.53"/>
+</nite:root>

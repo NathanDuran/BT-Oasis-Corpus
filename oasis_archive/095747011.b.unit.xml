@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="095747011.unit.b">
+<word id="095747011.b.unit.2">hello</word>
+<word id="095747011.b.unit.3">good</word>
+<word id="095747011.b.unit.4">morning</word>
+<word id="095747011.b.unit.5">i've</word>
+<word id="095747011.b.unit.6">got</word>
+<word id="095747011.b.unit.7">um</word>
+<word id="095747011.b.unit.8">a</word>
+<sil BTlength="" id="095747011.b.unit.9"/>
+<word id="095747011.b.unit.10">telephone</word>
+<word id="095747011.b.unit.11">number</word>
+<sil BTlength="" id="095747011.b.unit.12"/>
+<word id="095747011.b.unit.13">in</word>
+<word id="095747011.b.unit.14">my</word>
+<word id="095747011.b.unit.15">house</word>
+<word id="095747011.b.unit.16">i've</word>
+<word id="095747011.b.unit.17">got</word>
+<num id="095747011.b.unit.18"/>
+<num id="095747011.b.unit.19"/>
+<word id="095747011.b.unit.20">uh</word>
+<word id="095747011.b.unit.21">extensions</word>
+<word id="095747011.b.unit.22">yeah</word>
+<bcanchor id="095747011.bcanchorb.1"><nite:pointer href="095747011.a.lturn.xml#id(095747011.lturn.2.1)" role="bc"/></bcanchor>
+<word id="095747011.b.unit.24">not</word>
+<word id="095747011.b.unit.25">an</word>
+<word id="095747011.b.unit.26">extension</word>
+<word id="095747011.b.unit.27">i've</word>
+<word id="095747011.b.unit.28">got</word>
+<num id="095747011.b.unit.29"/>
+<word id="095747011.b.unit.30">lines</word>
+<word id="095747011.b.unit.32">and</word>
+<word id="095747011.b.unit.33">the</word>
+<word id="095747011.b.unit.34">one</word>
+<word id="095747011.b.unit.35">i'm</word>
+<word id="095747011.b.unit.36">speaking</word>
+<word id="095747011.b.unit.37">from</word>
+<word id="095747011.b.unit.38">is</word>
+<num id="095747011.b.unit.39"/>
+<num id="095747011.b.unit.40"/>
+<num id="095747011.b.unit.41"/>
+<num id="095747011.b.unit.42"/>
+<num id="095747011.b.unit.43"/>
+<num id="095747011.b.unit.46"/>
+<num id="095747011.b.unit.47"/>
+<num id="095747011.b.unit.48"/>
+<num id="095747011.b.unit.49"/>
+<num id="095747011.b.unit.50"/>
+<num id="095747011.b.unit.51"/>
+<sil BTlength="2s" id="095747011.b.unit.52"/>
+<word id="095747011.b.unit.53">okay</word>
+</nite:root>

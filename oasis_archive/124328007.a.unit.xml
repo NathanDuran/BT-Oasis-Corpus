@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="124328007.unit.a">
+<stdzcode id="124328007.a.unit.1" description="name"/>
+<word id="124328007.a.unit.10">oh</word>
+<word id="124328007.a.unit.11">dear</word>
+<bcanchor id="124328007.bcanchora.1"><nite:pointer href="124328007.b.lturn.xml#id(124328007.lturn.3.1)" role="bc"/></bcanchor>
+<comment text="laugh" id="124328007.a.unit.15"/>
+<word id="124328007.a.unit.16">okay</word>
+<word id="124328007.a.unit.18">thank</word>
+<word id="124328007.a.unit.19">you</word>
+<word id="124328007.a.unit.20">byebye</word>
+<comment text="end-ok" id="124328007.a.unit.21"/>
+</nite:root>

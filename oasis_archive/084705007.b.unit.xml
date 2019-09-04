@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="084705007.unit.b">
+<word id="084705007.b.unit.2">hello</word>
+<word id="084705007.b.unit.3">can</word>
+<word id="084705007.b.unit.4">i</word>
+<word id="084705007.b.unit.5">give</word>
+<word id="084705007.b.unit.6">you</word>
+<word id="084705007.b.unit.7">uh</word>
+<word id="084705007.b.unit.8">my</word>
+<word id="084705007.b.unit.9">account</word>
+<word id="084705007.b.unit.10">number</word>
+<word id="084705007.b.unit.14">it's</word>
+<sil BTlength="" id="084705007.b.unit.15"/>
+<num id="084705007.b.unit.16"/>
+<num id="084705007.b.unit.17"/>
+<num id="084705007.b.unit.18"/>
+<num id="084705007.b.unit.19"/>
+<sil BTlength="" id="084705007.b.unit.20"/>
+<num id="084705007.b.unit.21"/>
+<num id="084705007.b.unit.22"/>
+<num id="084705007.b.unit.23"/>
+<num id="084705007.b.unit.24"/>
+<partword id="084705007.b.unit.45">m</partword>
+<word id="084705007.b.unit.46">mister</word>
+<pncode type="surname" id="084705007.b.unit.47"/>
+<num id="084705007.b.unit.48"/>
+<pncode type="road" id="084705007.b.unit.49"/>
+<pncode type="road" id="084705007.b.unit.50"/>
+<pncode type="town" id="084705007.b.unit.51"/>
+<pncode type="region" id="084705007.b.unit.52"/>
+<pncode type="letter" id="084705007.b.unit.59"/>
+<pncode type="letter" id="084705007.b.unit.60"/>
+<num id="084705007.b.unit.61"/>
+<num id="084705007.b.unit.62"/>
+<pncode type="letter" id="084705007.b.unit.63"/>
+<pncode type="letter" id="084705007.b.unit.64"/>
+<word id="084705007.b.unit.74">i</word>
+<word id="084705007.b.unit.75">think</word>
+<word id="084705007.b.unit.76">Bacardi</word>
+<word id="084705007.b.unit.77">Breezer</word>
+<word id="084705007.b.unit.78">i</word>
+<word id="084705007.b.unit.79">think</word>
+<stdzcode id="084705007.b.unit.80" description="name"/>
+<word id="084705007.b.unit.81">no</word>
+<word id="084705007.b.unit.82">it's</word>
+<stdzcode id="084705007.b.unit.83" description="name"/>
+<word id="084705007.b.unit.94">yeah</word>
+<word id="084705007.b.unit.95">well</word>
+<word id="084705007.b.unit.96">basically</word>
+<word id="084705007.b.unit.97">um</word>
+<word id="084705007.b.unit.98">i</word>
+<word id="084705007.b.unit.99">ordered</word>
+<word id="084705007.b.unit.100">some</word>
+<word id="084705007.b.unit.101">equipment</word>
+<word id="084705007.b.unit.102">but</word>
+<word id="084705007.b.unit.103">i</word>
+<word id="084705007.b.unit.104">phoned</word>
+<word id="084705007.b.unit.105">in</word>
+<word id="084705007.b.unit.106">cause</word>
+<word id="084705007.b.unit.107">i</word>
+<word id="084705007.b.unit.108">didn't</word>
+<word id="084705007.b.unit.109">receive</word>
+<word id="084705007.b.unit.110">it</word>
+</nite:root>

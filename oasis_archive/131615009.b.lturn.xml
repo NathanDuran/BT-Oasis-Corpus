@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='131615009.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='131615009.lturn.2'>
+
+
+<utt id='131615009.utt.4'>
+
+<segment type='yes' sp-act='answ' id='131615009.yes.1'>
+<nite:child href='131615009.b.unit.xml#id(131615009.b.unit.18)..id(131615009.b.unit.19)'/>
+</segment>
+
+</utt>
+
+<utt id='131615009.utt.5'>
+
+<segment type='decl' sp-act='answElab' id='131615009.decl.2'>
+<nite:child href='131615009.b.unit.xml#id(131615009.b.unit.20)..id(131615009.b.unit.25)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='131615009.lturn.4'>
+
+
+<utt id='131615009.utt.7'>
+
+<segment type='frag' sp-act='answElab' id='131615009.frag.3'>
+<nite:child href='131615009.b.unit.xml#id(131615009.b.unit.31)..id(131615009.b.unit.33)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='131615009.lturn.6'>
+
+
+<utt id='131615009.utt.9'>
+
+<segment type='frag' sp-act='answElab' id='131615009.frag.5'>
+<nite:child href='131615009.b.unit.xml#id(131615009.b.unit.37)..id(131615009.b.unit.39)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='131615009.lturn.8'>
+
+
+<utt id='131615009.utt.11'>
+
+<segment type='yes' sp-act='ackn' id='131615009.yes.2'>
+<nite:child href='131615009.b.unit.xml#id(131615009.b.unit.43)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='131615009.lturn.10'>
+
+
+<utt id='131615009.utt.15'>
+
+<segment type='yes' sp-act='answ' id='131615009.yes.3'>
+<nite:child href='131615009.b.unit.xml#id(131615009.b.unit.64)..id(131615009.b.unit.65)'/>
+</segment>
+
+</utt>
+
+<utt id='131615009.utt.16'>
+
+<segment type='decl' sp-act='answElab' id='131615009.decl.4'>
+<nite:child href='131615009.b.unit.xml#id(131615009.b.unit.66)..id(131615009.b.unit.73)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='131615009.lturn.12'>
+
+
+<utt id='131615009.utt.18'>
+
+<segment type='frag' sp-act='answElab' id='131615009.frag.9'>
+<nite:child href='131615009.b.unit.xml#id(131615009.b.unit.76)..id(131615009.b.unit.83)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

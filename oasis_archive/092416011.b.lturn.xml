@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='092416011.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='092416011.lturn.2'>
+
+
+<utt id='092416011.utt.2'>
+
+<segment type='frag' sp-act='thirdParty' id='092416011.frag.2'>
+<nite:child href='092416011.b.unit.xml#id(092416011.b.unit.2)..id(092416011.b.unit.4)'/>
+</segment>
+
+</utt>
+
+<utt id='092416011.utt.3'>
+
+<segment type='yes' sp-act='ackn' id='092416011.yes.1'>
+<nite:child href='092416011.b.unit.xml#id(092416011.b.unit.5)'/>
+</segment>
+
+<segment type='frag' sp-act='greet' id='092416011.frag.3'>
+<nite:child href='092416011.b.unit.xml#id(092416011.b.unit.6)..id(092416011.b.unit.7)'/>
+</segment>
+
+</utt>
+
+<utt id='092416011.utt.4'>
+
+<segment type='decl' sp-act='inform' id='092416011.decl.1'>
+<nite:child href='092416011.b.unit.xml#id(092416011.b.unit.8)..id(092416011.b.unit.14)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='092416011.lturn.4'>
+
+
+<utt id='092416011.utt.6'>
+
+<segment type='frag' sp-act='inform' id='092416011.frag.4'>
+<nite:child href='092416011.b.unit.xml#id(092416011.b.unit.17)..id(092416011.b.unit.21)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='092416011.lturn.6'>
+
+
+<utt id='092416011.utt.8'>
+
+<segment type='frag' sp-act='inform' id='092416011.frag.6'>
+<nite:child href='092416011.b.unit.xml#id(092416011.b.unit.27)..id(092416011.b.unit.29)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='092416011.lturn.8'>
+
+
+<utt id='092416011.utt.10'>
+
+<segment type='frag' sp-act='inform' id='092416011.frag.8'>
+<nite:child href='092416011.b.unit.xml#id(092416011.b.unit.33)..id(092416011.b.unit.35)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='092416011.lturn.10'>
+
+
+<utt id='092416011.utt.12'>
+
+<segment type='decl' sp-act='inform' id='092416011.decl.2'>
+<nite:child href='092416011.b.unit.xml#id(092416011.b.unit.39)..id(092416011.b.unit.47)'/>
+</segment>
+
+</utt>
+
+<utt id='092416011.utt.13'>
+
+<segment type='decl' sp-act='inform' id='092416011.decl.3'>
+<nite:child href='092416011.b.unit.xml#id(092416011.b.unit.48)..id(092416011.b.unit.53)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

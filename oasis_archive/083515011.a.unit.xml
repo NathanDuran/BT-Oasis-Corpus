@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="083515011.unit.a">
+<bcanchor id="083515011.bcanchora.1"><nite:pointer href="083515011.b.lturn.xml#id(083515011.lturn.1.1)" role="bc"/></bcanchor>
+<stdzcode id="083515011.a.unit.4" description="name"/>
+<word id="083515011.a.unit.28">right</word>
+<word id="083515011.a.unit.36">right</word>
+<word id="083515011.a.unit.37">okay</word>
+<word id="083515011.a.unit.38">did</word>
+<word id="083515011.a.unit.39">they</word>
+<word id="083515011.a.unit.40">give</word>
+<word id="083515011.a.unit.41">you</word>
+<word id="083515011.a.unit.42">an</word>
+<word id="083515011.a.unit.43">order</word>
+<word id="083515011.a.unit.44">number</word>
+<word id="083515011.a.unit.45">or</word>
+<word id="083515011.a.unit.51">no</word>
+<word id="083515011.a.unit.52">can</word>
+<word id="083515011.a.unit.53">i</word>
+<word id="083515011.a.unit.54">take</word>
+<word id="083515011.a.unit.55">your</word>
+<word id="083515011.a.unit.56">telephone</word>
+<word id="083515011.a.unit.57">then</word>
+<word id="083515011.a.unit.58">let's</word>
+<word id="083515011.a.unit.59">trace</word>
+<word id="083515011.a.unit.60">you</word>
+<word id="083515011.a.unit.61">from</word>
+<word id="083515011.a.unit.62">there</word>
+<word id="083515011.a.unit.66">or</word>
+<word id="083515011.a.unit.67">customer</word>
+<word id="083515011.a.unit.68">number</word>
+<word id="083515011.a.unit.82">no</word>
+<word id="083515011.a.unit.83">i'll</word>
+<word id="083515011.a.unit.84">take</word>
+<word id="083515011.a.unit.85">the</word>
+<word id="083515011.a.unit.86">old</word>
+<word id="083515011.a.unit.87">telephone</word>
+<word id="083515011.a.unit.88">number</word>
+<word id="083515011.a.unit.94">yeah</word>
+<word id="083515011.a.unit.98">yeah</word>
+<num id="083515011.a.unit.102"/>
+<num id="083515011.a.unit.103"/>
+<num id="083515011.a.unit.104"/>
+<word id="083515011.a.unit.105">thank</word>
+<word id="083515011.a.unit.106">you</word>
+<sil BTlength="" id="083515011.a.unit.107"/>
+<word id="083515011.a.unit.108">right</word>
+<word id="083515011.a.unit.109">i</word>
+<word id="083515011.a.unit.110">have</word>
+<word id="083515011.a.unit.111">your</word>
+<word id="083515011.a.unit.112">details</word>
+<word id="083515011.a.unit.113">in</word>
+<word id="083515011.a.unit.114">front</word>
+<word id="083515011.a.unit.115">of</word>
+<word id="083515011.a.unit.116">me</word>
+<word id="083515011.a.unit.117">would</word>
+<word id="083515011.a.unit.118">you</word>
+<word id="083515011.a.unit.119">just</word>
+<word id="083515011.a.unit.120">confirm</word>
+<word id="083515011.a.unit.121">the</word>
+<word id="083515011.a.unit.122">account</word>
+<word id="083515011.a.unit.123">holder's</word>
+<word id="083515011.a.unit.124">full</word>
+<word id="083515011.a.unit.125">name</word>
+<word id="083515011.a.unit.126">address</word>
+<word id="083515011.a.unit.127">and</word>
+<word id="083515011.a.unit.128">post</word>
+<word id="083515011.a.unit.129">code</word>
+<word id="083515011.a.unit.130">for</word>
+<word id="083515011.a.unit.131">me</word>
+<word id="083515011.a.unit.132">please</word>
+<word id="083515011.a.unit.150">that's</word>
+<word id="083515011.a.unit.151">lovely</word>
+<word id="083515011.a.unit.152">missus</word>
+<pncode type="surname" id="083515011.a.unit.153"/>
+<word id="083515011.a.unit.154">just</word>
+<word id="083515011.a.unit.155">bear</word>
+<word id="083515011.a.unit.156">with</word>
+<word id="083515011.a.unit.157">me</word>
+<word id="083515011.a.unit.158">one</word>
+<word id="083515011.a.unit.159">moment</word>
+<bcanchor id="083515011.bcanchora.4"><nite:pointer href="083515011.b.lturn.xml#id(083515011.lturn.15.1)" role="bc"/></bcanchor>
+<word id="083515011.a.unit.162">and</word>
+<word id="083515011.a.unit.163">i'll</word>
+<word id="083515011.a.unit.164">have</word>
+<word id="083515011.a.unit.165">a</word>
+<word id="083515011.a.unit.166">look</word>
+<word id="083515011.a.unit.167">at</word>
+<word id="083515011.a.unit.168">that</word>
+<word id="083515011.a.unit.169">order</word>
+<word id="083515011.a.unit.170">for</word>
+<word id="083515011.a.unit.171">you</word>
+<sil BTlength="" id="083515011.a.unit.172"/>
+</nite:root>

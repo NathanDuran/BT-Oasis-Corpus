@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="080255012.unit.a">
+<stdzcode id="080255012.a.unit.1" description="name"/>
+<comment text="whooping_noise_over_greet" id="080255012.a.unit.2"/>
+<word id="080255012.a.unit.9">hello</word>
+<word id="080255012.a.unit.35">right</word>
+<word id="080255012.a.unit.36">okay</word>
+<word id="080255012.a.unit.44">yeah</word>
+<word id="080255012.a.unit.48">mm</word>
+<word id="080255012.a.unit.49">mm</word>
+<word id="080255012.a.unit.53">okay</word>
+<word id="080255012.a.unit.54">and</word>
+<word id="080255012.a.unit.55">can</word>
+<word id="080255012.a.unit.56">you</word>
+<word id="080255012.a.unit.57">confirm</word>
+<word id="080255012.a.unit.58">your</word>
+<word id="080255012.a.unit.59">name</word>
+<word id="080255012.a.unit.60">and</word>
+<word id="080255012.a.unit.61">your</word>
+<word id="080255012.a.unit.62">address</word>
+<word id="080255012.a.unit.63">for</word>
+<word id="080255012.a.unit.64">me</word>
+<word id="080255012.a.unit.65">please</word>
+<word id="080255012.a.unit.75">lovely</word>
+<word id="080255012.a.unit.76">and</word>
+<word id="080255012.a.unit.77">do</word>
+<word id="080255012.a.unit.78">you</word>
+<word id="080255012.a.unit.79">know</word>
+<word id="080255012.a.unit.80">the</word>
+<word id="080255012.a.unit.81">post</word>
+<word id="080255012.a.unit.82">code</word>
+<word id="080255012.a.unit.90">lovely</word>
+<word id="080255012.a.unit.91">thank</word>
+<word id="080255012.a.unit.92">you</word>
+<word id="080255012.a.unit.93">how</word>
+<word id="080255012.a.unit.94">can</word>
+<word id="080255012.a.unit.95">i</word>
+<word id="080255012.a.unit.96">help</word>
+<word id="080255012.a.unit.97">you</word>
+<word id="080255012.a.unit.98">today</word>
+</nite:root>

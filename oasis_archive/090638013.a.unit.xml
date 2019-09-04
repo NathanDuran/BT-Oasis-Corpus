@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="090638013.unit.a">
+<stdzcode id="090638013.a.unit.1" description="name"/>
+<word id="090638013.a.unit.3">hello</word>
+<pncode type="business" id="090638013.a.unit.4"/>
+<pncode type="business" id="090638013.a.unit.5"/>
+<partword id="090638013.a.unit.6">un</partword>
+<word id="090638013.a.unit.7">customer</word>
+<word id="090638013.a.unit.8">services</word>
+<stdzcode id="090638013.a.unit.9" description="name"/>
+<word id="090638013.a.unit.10">speaking</word>
+<word id="090638013.a.unit.11">how</word>
+<word id="090638013.a.unit.12">can</word>
+<word id="090638013.a.unit.13">i</word>
+<word id="090638013.a.unit.14">help</word>
+<word id="090638013.a.unit.15">you</word>
+<word id="090638013.a.unit.28">what's</word>
+<word id="090638013.a.unit.29">your</word>
+<partword id="090638013.a.unit.30">wha</partword>
+<word id="090638013.a.unit.31">enquiry</word>
+<word id="090638013.a.unit.32">about</word>
+<word id="090638013.a.unit.47">right</word>
+<word id="090638013.a.unit.59">mm</word>
+<word id="090638013.a.unit.60">hmm</word>
+<word id="090638013.a.unit.72">mm</word>
+<word id="090638013.a.unit.73">hmm</word>
+<word id="090638013.a.unit.92">mm</word>
+<word id="090638013.a.unit.105">yeah</word>
+</nite:root>

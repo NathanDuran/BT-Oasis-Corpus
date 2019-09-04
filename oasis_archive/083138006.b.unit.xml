@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="083138006.unit.b">
+<word id="083138006.b.unit.2">hello</word>
+<word id="083138006.b.unit.3">could</word>
+<word id="083138006.b.unit.4">uh</word>
+<word id="083138006.b.unit.5">you</word>
+<word id="083138006.b.unit.6">send</word>
+<word id="083138006.b.unit.7">a</word>
+<word id="083138006.b.unit.8">duplicate</word>
+<word id="083138006.b.unit.9">of</word>
+<word id="083138006.b.unit.10">my</word>
+<word id="083138006.b.unit.11">uh</word>
+<word id="083138006.b.unit.12">of</word>
+<word id="083138006.b.unit.13">the</word>
+<word id="083138006.b.unit.14">phone</word>
+<word id="083138006.b.unit.15">bill</word>
+<word id="083138006.b.unit.16">please</word>
+<word id="083138006.b.unit.17">because</word>
+<word id="083138006.b.unit.18">what's</word>
+<word id="083138006.b.unit.19">happened</word>
+<word id="083138006.b.unit.20">i've</word>
+<word id="083138006.b.unit.21">lost</word>
+<word id="083138006.b.unit.22">part</word>
+<word id="083138006.b.unit.23">of</word>
+<word id="083138006.b.unit.24">it</word>
+<word id="083138006.b.unit.25">and</word>
+<word id="083138006.b.unit.26">i</word>
+<word id="083138006.b.unit.27">can't</word>
+<word id="083138006.b.unit.28">pay</word>
+<word id="083138006.b.unit.29">uh</word>
+<word id="083138006.b.unit.30">the</word>
+<word id="083138006.b.unit.31">rest</word>
+<word id="083138006.b.unit.32">in</word>
+<word id="083138006.b.unit.33">the</word>
+<word id="083138006.b.unit.34">post</word>
+<word id="083138006.b.unit.35">office</word>
+<word id="083138006.b.unit.36">they</word>
+<word id="083138006.b.unit.37">say</word>
+<word id="083138006.b.unit.38">they</word>
+<word id="083138006.b.unit.39">can't</word>
+<word id="083138006.b.unit.40">take</word>
+<word id="083138006.b.unit.41">that</word>
+<word id="083138006.b.unit.42">part</word>
+<word id="083138006.b.unit.43">of</word>
+<word id="083138006.b.unit.44">it</word>
+<num id="083138006.b.unit.57"/>
+<num id="083138006.b.unit.58"/>
+<sil BTlength="" id="083138006.b.unit.59"/>
+<num id="083138006.b.unit.60"/>
+<num id="083138006.b.unit.61"/>
+<bcanchor id="083138006.bcanchorb.1"><nite:pointer href="083138006.a.lturn.xml#id(083138006.lturn.4.1)" role="bc"/></bcanchor>
+<num id="083138006.b.unit.64"/>
+<num id="083138006.b.unit.65"/>
+<num id="083138006.b.unit.66"/>
+<sil BTlength="" id="083138006.b.unit.67"/>
+<num id="083138006.b.unit.68"/>
+<word id="083138006.b.unit.69">double</word>
+<num id="083138006.b.unit.70"/>
+<num id="083138006.b.unit.71"/>
+<word id="083138006.b.unit.89">uh</word>
+<word id="083138006.b.unit.90">it's</word>
+<word id="083138006.b.unit.91">a</word>
+<word id="083138006.b.unit.92">mister</word>
+<stdzcode id="083138006.b.unit.93" description="name"/>
+<pncode type="surname" id="083138006.b.unit.94"/>
+<sil BTlength="" id="083138006.b.unit.95"/>
+<num id="083138006.b.unit.96"/>
+<pncode type="letter" id="083138006.b.unit.97"/>
+<pncode type="road" id="083138006.b.unit.98"/>
+<pncode type="road" id="083138006.b.unit.99"/>
+<pncode type="town" id="083138006.b.unit.100"/>
+<pncode type="letter" id="083138006.b.unit.101"/>
+<pncode type="letter" id="083138006.b.unit.102"/>
+<sil BTlength="" id="083138006.b.unit.103"/>
+<pncode type="letter" id="083138006.b.unit.104"/>
+<sil BTlength="" id="083138006.b.unit.105"/>
+<word id="083138006.b.unit.106">uh</word>
+<pncode type="letter" id="083138006.b.unit.107"/>
+<pncode type="letter" id="083138006.b.unit.108"/>
+<num id="083138006.b.unit.109"/>
+<word id="083138006.b.unit.110">sorry</word>
+<bcanchor id="083138006.bcanchorb.2"><nite:pointer href="083138006.a.lturn.xml#id(083138006.lturn.6.1)" role="bc"/></bcanchor>
+<num id="083138006.b.unit.114"/>
+<pncode type="letter" id="083138006.b.unit.115"/>
+<pncode type="letter" id="083138006.b.unit.116"/>
+<word id="083138006.b.unit.126">yeah</word>
+<word id="083138006.b.unit.127">that's</word>
+<word id="083138006.b.unit.128">right</word>
+<word id="083138006.b.unit.140">yes</word>
+<word id="083138006.b.unit.165">oh</word>
+<word id="083138006.b.unit.166">right</word>
+<word id="083138006.b.unit.167">cheers</word>
+</nite:root>

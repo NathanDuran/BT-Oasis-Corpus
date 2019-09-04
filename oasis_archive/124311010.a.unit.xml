@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="124311010.unit.a">
+<stdzcode id="124311010.a.unit.1" description="name"/>
+<word id="124311010.a.unit.21">to</word>
+<word id="124311010.a.unit.22">On</word>
+<word id="124311010.a.unit.23">Digital</word>
+<bcanchor id="124311010.bcanchora.1"><nite:pointer href="124311010.b.lturn.xml#id(124311010.lturn.3.1)" role="bc"/></bcanchor>
+<word id="124311010.a.unit.25">yes</word>
+<word id="124311010.a.unit.26">just</word>
+<word id="124311010.a.unit.27">bear</word>
+<word id="124311010.a.unit.28">with</word>
+<word id="124311010.a.unit.29">me</word>
+<word id="124311010.a.unit.30">one</word>
+<word id="124311010.a.unit.31">moment</word>
+<word id="124311010.a.unit.32">and</word>
+<word id="124311010.a.unit.33">i'll</word>
+<word id="124311010.a.unit.34">get</word>
+<word id="124311010.a.unit.35">that</word>
+<word id="124311010.a.unit.36">number</word>
+<word id="124311010.a.unit.37">for</word>
+<word id="124311010.a.unit.38">you</word>
+<sil BTlength="7s" id="124311010.a.unit.42"/>
+<word id="124311010.a.unit.43">right</word>
+<word id="124311010.a.unit.44">just</word>
+<word id="124311010.a.unit.45">bear</word>
+<word id="124311010.a.unit.46">with</word>
+<word id="124311010.a.unit.47">me</word>
+<word id="124311010.a.unit.48">and</word>
+<word id="124311010.a.unit.49">i'll</word>
+<word id="124311010.a.unit.50">transfer</word>
+<word id="124311010.a.unit.51">you</word>
+<word id="124311010.a.unit.52">okay</word>
+</nite:root>

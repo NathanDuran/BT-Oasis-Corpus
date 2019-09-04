@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="083126009.unit.b">
+<word id="083126009.b.unit.2">hello</word>
+<word id="083126009.b.unit.3">uh</word>
+<word id="083126009.b.unit.4">this</word>
+<word id="083126009.b.unit.5">is</word>
+<word id="083126009.b.unit.6">a</word>
+<word id="083126009.b.unit.7">mister</word>
+<pncode type="surname" id="083126009.b.unit.8"/>
+<num id="083126009.b.unit.12"/>
+<gap id="083126009.b.unit.13"/>
+<gap id="083126009.b.unit.14"/>
+<pncode type="town" id="083126009.b.unit.15"/>
+<gap id="083126009.b.unit.22"/>
+<gap id="083126009.b.unit.23"/>
+<word id="083126009.b.unit.24">this</word>
+<word id="083126009.b.unit.25">is</word>
+<word id="083126009.b.unit.26">me</word>
+<word id="083126009.b.unit.27">first</word>
+<word id="083126009.b.unit.28">bill</word>
+<word id="083126009.b.unit.29">i've</word>
+<word id="083126009.b.unit.30">had</word>
+<word id="083126009.b.unit.31">in</word>
+<bcanchor id="083126009.bcanchorb.1"><nite:pointer href="083126009.a.lturn.xml#id(083126009.lturn.6.1)" role="bc"/></bcanchor>
+<stdzcode id="083126009.b.unit.33" description="name"/>
+<word id="083126009.b.unit.34">the</word>
+<word id="083126009.b.unit.35">salesman</word>
+<sil BTlength="" id="083126009.b.unit.36"/>
+<word id="083126009.b.unit.37">right</word>
+<word id="083126009.b.unit.38">that</word>
+<word id="083126009.b.unit.39">have</word>
+<word id="083126009.b.unit.40">done</word>
+<word id="083126009.b.unit.41">the</word>
+<word id="083126009.b.unit.42">agreement</word>
+<word id="083126009.b.unit.43">with</word>
+<word id="083126009.b.unit.44">you</word>
+<bcanchor id="083126009.bcanchorb.2"><nite:pointer href="083126009.a.lturn.xml#id(083126009.lturn.6.2)" role="bc"/></bcanchor>
+<word id="083126009.b.unit.46">told</word>
+<word id="083126009.b.unit.47">me</word>
+<word id="083126009.b.unit.48">there'd</word>
+<word id="083126009.b.unit.49">be</word>
+<word id="083126009.b.unit.50">no</word>
+<word id="083126009.b.unit.51">connection</word>
+<word id="083126009.b.unit.52">fee</word>
+<bcanchor id="083126009.bcanchorb.3"><nite:pointer href="083126009.a.lturn.xml#id(083126009.lturn.6.3)" role="bc"/></bcanchor>
+<word id="083126009.b.unit.54">i've</word>
+<word id="083126009.b.unit.55">received</word>
+<word id="083126009.b.unit.56">a</word>
+<word id="083126009.b.unit.57">bill</word>
+<word id="083126009.b.unit.58">in</word>
+<word id="083126009.b.unit.59">for</word>
+<num id="083126009.b.unit.60"/>
+<word id="083126009.b.unit.61">pound</word>
+<word id="083126009.b.unit.62">and</word>
+<word id="083126009.b.unit.63">only</word>
+<word id="083126009.b.unit.64">a</word>
+<word id="083126009.b.unit.65">pound</word>
+<word id="083126009.b.unit.66">of</word>
+<word id="083126009.b.unit.67">that</word>
+<word id="083126009.b.unit.68">is</word>
+<word id="083126009.b.unit.69">calls</word>
+<comment text="strong_Scottish_accent_impossible_to_work_out_what_he_says_in_places" id="083126009.b.unit.70"/>
+</nite:root>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='082740011.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='082740011.lturn.2'>
+
+
+<utt id='082740011.utt.2'>
+
+<segment type='yes' sp-act='ackn' id='082740011.yes.1'>
+<nite:child href='082740011.b.unit.xml#id(082740011.b.unit.2)..id(082740011.b.unit.3)'/>
+</segment>
+
+</utt>
+
+<utt id='082740011.utt.3'>
+
+<segment type='decl' sp-act='reqInfo' id='082740011.decl.1' secondary-act='abandon'>
+<nite:child href='082740011.b.unit.xml#id(082740011.b.unit.4)..id(082740011.b.unit.11)'/>
+</segment>
+
+</utt>
+
+<utt id='082740011.utt.4'>
+
+<segment type='decl' sp-act='inform' id='082740011.decl.2'>
+<nite:child href='082740011.b.unit.xml#id(082740011.b.unit.12)..id(082740011.b.unit.24)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='082740011.lturn.4'>
+
+
+<utt id='082740011.utt.6'>
+
+<segment type='q_wh' sp-act='reqInfo' id='082740011.q_wh.1'>
+<nite:child href='082740011.b.unit.xml#id(082740011.b.unit.26)..id(082740011.b.unit.32)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='082740011.lturn.6'>
+
+
+<utt id='082740011.utt.8'>
+
+<segment type='frag' sp-act='answ' id='082740011.frag.2' secondary-act='abandon'>
+<nite:child href='082740011.b.unit.xml#id(082740011.b.unit.37)..id(082740011.b.unit.44)'/>
+</segment>
+
+</utt>
+
+<utt id='082740011.utt.9'>
+
+<segment type='frag' sp-act='answElab' id='082740011.frag.3'>
+<nite:child href='082740011.b.unit.xml#id(082740011.b.unit.45)..id(082740011.b.unit.49)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='082740011.lturn.8'>
+
+
+<utt id='082740011.utt.13'>
+
+<segment type='no' sp-act='exclaim' id='082740011.no.1'>
+<nite:child href='082740011.b.unit.xml#id(082740011.b.unit.64)..id(082740011.b.unit.66)'/>
+</segment>
+
+<segment type='frag' sp-act='refuse' id='082740011.frag.4'>
+<nite:child href='082740011.b.unit.xml#id(082740011.b.unit.67)..id(082740011.b.unit.69)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='082740011.lturn.10'>
+
+
+<utt id='082740011.utt.15'>
+
+<segment type='frag' sp-act='unclassifiable' id='082740011.frag.5'>
+<nite:child href='082740011.b.unit.xml#id(082740011.b.unit.72)..id(082740011.b.unit.78)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="083244009.unit.b">
+<word id="083244009.b.unit.3">hello</word>
+<word id="083244009.b.unit.4">hi</word>
+<word id="083244009.b.unit.5">good</word>
+<word id="083244009.b.unit.6">morning</word>
+<word id="083244009.b.unit.7">um</word>
+<word id="083244009.b.unit.8">i'm</word>
+<word id="083244009.b.unit.9">uh</word>
+<pncode type="business" id="083244009.b.unit.10"/>
+<pncode type="business" id="083244009.b.unit.11"/>
+<word id="083244009.b.unit.12">um</word>
+<word id="083244009.b.unit.13">just</word>
+<word id="083244009.b.unit.14">having</word>
+<pncode type="business" id="083244009.b.unit.15"/>
+<pncode type="business" id="083244009.b.unit.16"/>
+<partword id="083244009.b.unit.17">res</partword>
+<word id="083244009.b.unit.18">official</word>
+<word id="083244009.b.unit.19">lines</word>
+<word id="083244009.b.unit.20">installed</word>
+<word id="083244009.b.unit.21">can</word>
+<bcanchor id="083244009.bcanchorb.1"><nite:pointer href="083244009.a.lturn.xml#id(083244009.lturn.2.1)" role="bc"/></bcanchor>
+<word id="083244009.b.unit.23">i</word>
+<word id="083244009.b.unit.24">quote</word>
+<word id="083244009.b.unit.25">you</word>
+<word id="083244009.b.unit.26">a</word>
+<word id="083244009.b.unit.27">job</word>
+<word id="083244009.b.unit.28">number</word>
+<pncode type="letter" id="083244009.b.unit.33"/>
+<pncode type="letter" id="083244009.b.unit.34"/>
+<pncode type="letter" id="083244009.b.unit.35"/>
+<pncode type="letter" id="083244009.b.unit.38"/>
+<word id="083244009.b.unit.39">for</word>
+<pncode type="alpha" id="083244009.b.unit.40"/>
+<pncode type="letter" id="083244009.b.unit.41"/>
+<word id="083244009.b.unit.42">for</word>
+<pncode type="alpha" id="083244009.b.unit.43"/>
+<pncode type="letter" id="083244009.b.unit.44"/>
+<word id="083244009.b.unit.45">for</word>
+<pncode type="alpha" id="083244009.b.unit.46"/>
+<num id="083244009.b.unit.49"/>
+<num id="083244009.b.unit.50"/>
+<num id="083244009.b.unit.51"/>
+<bcanchor id="083244009.bcanchorb.2"><nite:pointer href="083244009.a.lturn.xml#id(083244009.lturn.8.1)" role="bc"/></bcanchor>
+<word id="083244009.b.unit.53">on</word>
+<word id="083244009.b.unit.54">the</word>
+<pncode type="letter" id="083244009.b.unit.55"/>
+<pncode type="letter" id="083244009.b.unit.56"/>
+<word id="083244009.b.unit.57">database</word>
+<word id="083244009.b.unit.62">yeah</word>
+<word id="083244009.b.unit.63">i've</word>
+<word id="083244009.b.unit.64">got</word>
+<word id="083244009.b.unit.65">i've</word>
+<word id="083244009.b.unit.66">got</word>
+<word id="083244009.b.unit.67">the</word>
+<word id="083244009.b.unit.68">engineer</word>
+<word id="083244009.b.unit.69">standing</word>
+<word id="083244009.b.unit.70">here</word>
+<word id="083244009.b.unit.71">with</word>
+<word id="083244009.b.unit.72">me</word>
+<word id="083244009.b.unit.73">now</word>
+<bcanchor id="083244009.bcanchorb.3"><nite:pointer href="083244009.a.lturn.xml#id(083244009.lturn.10.1)" role="bc"/></bcanchor>
+<word id="083244009.b.unit.76">the</word>
+<word id="083244009.b.unit.77">problem</word>
+<word id="083244009.b.unit.78">is</word>
+<word id="083244009.b.unit.79">um</word>
+<word id="083244009.b.unit.80">a</word>
+<word id="083244009.b.unit.81">a</word>
+<word id="083244009.b.unit.82">i</word>
+<word id="083244009.b.unit.83">think</word>
+<word id="083244009.b.unit.84">the</word>
+<word id="083244009.b.unit.85">order</word>
+<word id="083244009.b.unit.86">should</word>
+<word id="083244009.b.unit.87">be</word>
+<word id="083244009.b.unit.88">for</word>
+<word id="083244009.b.unit.89">Home</word>
+<word id="083244009.b.unit.90">Highway</word>
+<word id="083244009.b.unit.91">or</word>
+<word id="083244009.b.unit.92">a</word>
+<word id="083244009.b.unit.93">Business</word>
+<word id="083244009.b.unit.94">Highway</word>
+<sil BTlength="" id="083244009.b.unit.95"/>
+<word id="083244009.b.unit.96">with</word>
+<word id="083244009.b.unit.97">an</word>
+<word id="083244009.b.unit.98">extension</word>
+<word id="083244009.b.unit.99">socket</word>
+<word id="083244009.b.unit.100">off</word>
+<word id="083244009.b.unit.101">the</word>
+<word id="083244009.b.unit.102">Highway</word>
+<word id="083244009.b.unit.103">but</word>
+<word id="083244009.b.unit.104">i</word>
+<word id="083244009.b.unit.105">think</word>
+<word id="083244009.b.unit.106">the</word>
+<word id="083244009.b.unit.107">engineer</word>
+<word id="083244009.b.unit.108">the</word>
+<word id="083244009.b.unit.109">way</word>
+<word id="083244009.b.unit.110">the</word>
+<word id="083244009.b.unit.111">jobs</word>
+<word id="083244009.b.unit.112">been</word>
+<word id="083244009.b.unit.113">issued</word>
+<word id="083244009.b.unit.114">believes</word>
+<word id="083244009.b.unit.115">this</word>
+<word id="083244009.b.unit.116">extension</word>
+<word id="083244009.b.unit.117">socket</word>
+<word id="083244009.b.unit.118">should</word>
+<word id="083244009.b.unit.119">be</word>
+<sil BTlength="" id="083244009.b.unit.120"/>
+<word id="083244009.b.unit.121">um</word>
+<word id="083244009.b.unit.122">off</word>
+<word id="083244009.b.unit.123">my</word>
+<phonword id="083244009.b.unit.124">res</phonword>
+<word id="083244009.b.unit.125">line</word>
+<word id="083244009.b.unit.126">that's</word>
+<word id="083244009.b.unit.127">not</word>
+<word id="083244009.b.unit.128">what</word>
+<word id="083244009.b.unit.129">we</word>
+<word id="083244009.b.unit.130">think</word>
+<word id="083244009.b.unit.131">we've</word>
+<word id="083244009.b.unit.132">ordered</word>
+<word id="083244009.b.unit.162">thank</word>
+<word id="083244009.b.unit.163">you</word>
+<comment text="talking_to_engineer" id="083244009.b.unit.164"/>
+<word id="083244009.b.unit.165">you</word>
+<word id="083244009.b.unit.166">know</word>
+<word id="083244009.b.unit.167">what</word>
+<word id="083244009.b.unit.168">i</word>
+<word id="083244009.b.unit.169">mean</word>
+<word id="083244009.b.unit.170">cos</word>
+<word id="083244009.b.unit.171">that's</word>
+<word id="083244009.b.unit.172">the</word>
+<word id="083244009.b.unit.173">idea</word>
+<word id="083244009.b.unit.174">so</word>
+<word id="083244009.b.unit.175">that</word>
+<word id="083244009.b.unit.176">if</word>
+<word id="083244009.b.unit.177">i'm</word>
+<word id="083244009.b.unit.178">working</word>
+<word id="083244009.b.unit.179">upstairs</word>
+<word id="083244009.b.unit.180">and</word>
+<word id="083244009.b.unit.181">i</word>
+<word id="083244009.b.unit.182">wanna</word>
+<word id="083244009.b.unit.183">plug</word>
+<word id="083244009.b.unit.184">the</word>
+<word id="083244009.b.unit.185">laptop</word>
+<word id="083244009.b.unit.186">in</word>
+<word id="083244009.b.unit.187">that's</word>
+<word id="083244009.b.unit.188">fine</word>
+<word id="083244009.b.unit.189">i'm</word>
+<word id="083244009.b.unit.190">gonna</word>
+<word id="083244009.b.unit.191">be</word>
+<word id="083244009.b.unit.192">in</word>
+<word id="083244009.b.unit.193">my</word>
+<word id="083244009.b.unit.194">office</word>
+<word id="083244009.b.unit.195">but</word>
+<word id="083244009.b.unit.196">let's</word>
+<word id="083244009.b.unit.197">say</word>
+<word id="083244009.b.unit.198">that</word>
+<word id="083244009.b.unit.199">something's</word>
+<word id="083244009.b.unit.200">going</word>
+<word id="083244009.b.unit.201">on</word>
+<word id="083244009.b.unit.202">and</word>
+<word id="083244009.b.unit.203">i</word>
+<word id="083244009.b.unit.204">need</word>
+<word id="083244009.b.unit.205">to</word>
+<word id="083244009.b.unit.206">sit</word>
+<word id="083244009.b.unit.207">in</word>
+<word id="083244009.b.unit.208">here</word>
+<word id="083244009.b.unit.209">or</word>
+<word id="083244009.b.unit.210">something</word>
+<comment text="engineer_replies_but_cannot_understand" id="083244009.b.unit.211"/>
+<word id="083244009.b.unit.243">right</word>
+<word id="083244009.b.unit.258">listen</word>
+<sil BTlength="" id="083244009.b.unit.259"/>
+<word id="083244009.b.unit.260">change</word>
+<word id="083244009.b.unit.261">of</word>
+<word id="083244009.b.unit.262">plan</word>
+<word id="083244009.b.unit.263">we've</word>
+<word id="083244009.b.unit.264">just</word>
+<word id="083244009.b.unit.265">changed</word>
+<word id="083244009.b.unit.266">our</word>
+<word id="083244009.b.unit.267">minds</word>
+<comment text="excess_laughter_from_agent" id="083244009.b.unit.268"/>
+<word id="083244009.b.unit.269">okay</word>
+<word id="083244009.b.unit.270">sorry</word>
+<word id="083244009.b.unit.271">to</word>
+<word id="083244009.b.unit.272">bother</word>
+<word id="083244009.b.unit.273">you</word>
+<word id="083244009.b.unit.274">we're</word>
+<word id="083244009.b.unit.275">gonna</word>
+<word id="083244009.b.unit.276">do</word>
+<word id="083244009.b.unit.277">something</word>
+<word id="083244009.b.unit.278">different</word>
+<word id="083244009.b.unit.279">now</word>
+</nite:root>

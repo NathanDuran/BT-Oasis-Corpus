@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="132203007.unit.a">
+<stdzcode id="132203007.a.unit.1" description="name"/>
+<word id="132203007.a.unit.75">have</word>
+<word id="132203007.a.unit.76">you</word>
+<word id="132203007.a.unit.77">got</word>
+<word id="132203007.a.unit.78">your</word>
+<word id="132203007.a.unit.79">account</word>
+<word id="132203007.a.unit.80">number</word>
+<word id="132203007.a.unit.81">on</word>
+<word id="132203007.a.unit.82">you</word>
+<word id="132203007.a.unit.89">without</word>
+<word id="132203007.a.unit.90">that</word>
+<word id="132203007.a.unit.91">i</word>
+<word id="132203007.a.unit.92">can't</word>
+<word id="132203007.a.unit.93">um</word>
+<sil BTlength="" id="132203007.a.unit.94"/>
+<word id="132203007.a.unit.95">i</word>
+<word id="132203007.a.unit.96">can't</word>
+<word id="132203007.a.unit.97">discuss</word>
+<word id="132203007.a.unit.98">that</word>
+<word id="132203007.a.unit.99">side</word>
+<word id="132203007.a.unit.100">of</word>
+<word id="132203007.a.unit.101">your</word>
+<word id="132203007.a.unit.102">um</word>
+<pncode type="business" id="132203007.a.unit.103"/>
+<pncode type="business" id="132203007.a.unit.104"/>
+<word id="132203007.a.unit.105">account</word>
+<word id="132203007.a.unit.106">is</word>
+<word id="132203007.a.unit.151">what</word>
+<word id="132203007.a.unit.152">was</word>
+<word id="132203007.a.unit.153">that</word>
+<word id="132203007.a.unit.154">number</word>
+<word id="132203007.a.unit.155">again</word>
+<word id="132203007.a.unit.156">sorry</word>
+<sil BTlength="" id="132203007.a.unit.169"/>
+<word id="132203007.a.unit.170">okay</word>
+<word id="132203007.a.unit.171">let's</word>
+<word id="132203007.a.unit.172">have</word>
+<word id="132203007.a.unit.173">a</word>
+<word id="132203007.a.unit.174">look</word>
+<comment text="12.49s" id="132203007.a.unit.175"/>
+<word id="132203007.a.unit.176">and</word>
+<word id="132203007.a.unit.177">uh</word>
+<word id="132203007.a.unit.178">have</word>
+<word id="132203007.a.unit.179">you</word>
+<word id="132203007.a.unit.180">got</word>
+<word id="132203007.a.unit.181">your</word>
+<word id="132203007.a.unit.182">details</word>
+<word id="132203007.a.unit.183">there</word>
+<word id="132203007.a.unit.184">please</word>
+<word id="132203007.a.unit.189">sorry</word>
+<word id="132203007.a.unit.190">your</word>
+<word id="132203007.a.unit.191">name</word>
+<word id="132203007.a.unit.192">and</word>
+<word id="132203007.a.unit.193">address</word>
+<word id="132203007.a.unit.199">yeah</word>
+<sil BTlength="" id="132203007.a.unit.218"/>
+<comment text="keyboard_typing" id="132203007.a.unit.219"/>
+<word id="132203007.a.unit.220">ok</word>
+<word id="132203007.a.unit.221">missus</word>
+<stdzcode id="132203007.a.unit.222" description="name"/>
+<word id="132203007.a.unit.223">the</word>
+<pncode type="letter" id="132203007.a.unit.224"/>
+<pncode type="letter" id="132203007.a.unit.225"/>
+<word id="132203007.a.unit.226">and</word>
+<word id="132203007.a.unit.227">the</word>
+<word id="132203007.a.unit.228">first</word>
+<word id="132203007.a.unit.229">eight</word>
+<word id="132203007.a.unit.230">digits</word>
+<bcanchor id="132203007.bcanchora.2"><nite:pointer href="132203007.b.lturn.xml#id(132203007.lturn.13.1)" role="bc"/></bcanchor>
+<word id="132203007.a.unit.232">that</word>
+<word id="132203007.a.unit.233">number</word>
+<word id="132203007.a.unit.234">you</word>
+<word id="132203007.a.unit.235">quoted</word>
+<word id="132203007.a.unit.236">me</word>
+<word id="132203007.a.unit.237">that's</word>
+<word id="132203007.a.unit.238">your</word>
+<word id="132203007.a.unit.239">customer</word>
+<word id="132203007.a.unit.240">account</word>
+<word id="132203007.a.unit.241">number</word>
+</nite:root>

@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='094604006.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='094604006.lturn.2'>
+
+
+<utt id='094604006.utt.2'>
+
+<segment type='frag' sp-act='greet' id='094604006.frag.2'>
+<nite:child href='094604006.b.unit.xml#id(094604006.b.unit.2)..id(094604006.b.unit.4)'/>
+</segment>
+
+</utt>
+
+<utt id='094604006.utt.3'>
+
+<segment type='decl' sp-act='uninterpretable' id='094604006.decl.1'>
+<nite:child href='094604006.b.unit.xml#id(094604006.b.unit.5)..id(094604006.b.unit.8)'/>
+</segment>
+
+</utt>
+
+<utt id='094604006.utt.4'>
+
+<segment type='decl' sp-act='inform' id='094604006.decl.2'>
+<nite:child href='094604006.b.unit.xml#id(094604006.b.unit.9)..id(094604006.b.unit.15)'/>
+</segment>
+
+</utt>
+
+<utt id='094604006.utt.5'>
+
+<segment type='decl' sp-act='inform' id='094604006.decl.3'>
+<nite:child href='094604006.b.unit.xml#id(094604006.b.unit.16)..id(094604006.b.unit.28)'/>
+</segment>
+
+</utt>
+
+<utt id='094604006.utt.6'>
+
+<segment type='decl' sp-act='inform' id='094604006.decl.4'>
+<nite:child href='094604006.b.unit.xml#id(094604006.b.unit.29)..id(094604006.b.unit.35)'/>
+</segment>
+
+</utt>
+
+<utt id='094604006.utt.7'>
+
+<segment type='decl' sp-act='inform' id='094604006.decl.5'>
+<nite:child href='094604006.b.unit.xml#id(094604006.b.unit.36)..id(094604006.b.unit.45)'/>
+</segment>
+
+</utt>
+
+<utt id='094604006.utt.8'>
+
+<segment type='decl' sp-act='inform' id='094604006.decl.6'>
+<nite:child href='094604006.b.unit.xml#id(094604006.b.unit.46)..id(094604006.b.unit.49)'/>
+</segment>
+
+</utt>
+
+<utt id='094604006.utt.9'>
+
+<segment type='dm' sp-act='init' id='094604006.dm.1'>
+<nite:child href='094604006.b.unit.xml#id(094604006.b.unit.50)'/>
+</segment>
+
+<segment type='q_yn' sp-act='direct' id='094604006.q_yn.1'>
+<nite:child href='094604006.b.unit.xml#id(094604006.b.unit.51)..id(094604006.b.unit.56)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='094604006.lturn.3.1' type='backchannel'>
+
+<utt id='094604006.utt.13.1'>
+<segment type='backch' sp-act='' id='094604006.backch.2'>
+<nite:child href='094604006.b.unit.xml#id(094604006.b.unit.79)'/>
+</segment>
+</utt>
+</lturn>
+<lturn id='094604006.lturn.4'>
+
+
+<utt id='094604006.utt.15'>
+
+<segment type='yes' sp-act='answ' id='094604006.yes.2'>
+<nite:child href='094604006.b.unit.xml#id(094604006.b.unit.111)..id(094604006.b.unit.112)'/>
+</segment>
+
+</utt>
+
+<utt id='094604006.utt.16'>
+
+<segment type='decl' sp-act='answElab' disc='yes' id='094604006.decl.9'>
+<nite:child href='094604006.b.unit.xml#id(094604006.b.unit.113)..id(094604006.b.unit.117)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='094604006.lturn.6'>
+
+
+<utt id='094604006.utt.18'>
+
+<segment type='frag' sp-act='answElab' cont='yes' id='094604006.frag.4'>
+<nite:child href='094604006.b.unit.xml#id(094604006.b.unit.131)..id(094604006.b.unit.134)'/>
+</segment>
+
+</utt>
+
+<utt id='094604006.utt.19'>
+
+<segment type='decl' sp-act='inform' id='094604006.decl.10'>
+<nite:child href='094604006.b.unit.xml#id(094604006.b.unit.135)..id(094604006.b.unit.154)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='094604006.lturn.8'>
+
+
+<utt id='094604006.utt.22'>
+
+<segment type='yes' sp-act='answ' id='094604006.yes.3'>
+<nite:child href='094604006.b.unit.xml#id(094604006.b.unit.163)'/>
+</segment>
+
+<segment type='frag' sp-act='answElab' id='094604006.frag.5'>
+<nite:child href='094604006.b.unit.xml#id(094604006.b.unit.164)..id(094604006.b.unit.168)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='094604006.lturn.10'>
+
+
+<utt id='094604006.utt.24'>
+
+<segment type='frag' sp-act='answElab' id='094604006.frag.6'>
+<nite:child href='094604006.b.unit.xml#id(094604006.b.unit.170)..id(094604006.b.unit.171)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='094604006.lturn.12'>
+
+
+<utt id='094604006.utt.26'>
+
+<segment type='frag' sp-act='answElab' id='094604006.frag.7'>
+<nite:child href='094604006.b.unit.xml#id(094604006.b.unit.173)..id(094604006.b.unit.177)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

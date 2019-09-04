@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- NXT METADATA FOR THE LANCS-OASIS CORPUS.
+     
+
+  Colin Matheson               26.11.04
+
+-->
+<corpus 
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:noNamespaceSchemaLocation="schema/meta-standoff.xsd" 
+   description="Lancs OASIS" 
+   id="lancsoasis"
+   links="ltxml1"
+   type="standoff">
+     <!--******************************************************************
+         GENERIC CORPUS INFORMATION 
+         names of attributes that are globally used in the corpus for
+         ID, start and end times. Note that the types and legal
+         appearance / non-appearance of all of these attributes is
+         set. IDs are free strings and start and end times are
+         numbers. Time-aligned elements must have all three
+         attributes; structural-layer elements must have ID and may
+         have start and end times; featural-layer elements must have
+         id but must not have start and end times. 
+    ******************************************************************-->
+    <reserved-attributes>
+        <identifier name="id"/>
+        <starttime name="starttime"/>
+        <endtime name="endtime"/>
+        <agentname name="who"/>
+        <observationname name="obs"/>
+    </reserved-attributes>
+    <reserved-elements>
+        <pointername name="nite:pointer"/>
+        <child name="nite:child"/>
+        <stream name="nite:root"/>
+    </reserved-elements>
+
+    <documents/>
+    <observation-variables/>
+    <signals/>
+
+   <!--*************************************************************
+       AGENTS - designating the speakers
+    *************************************************************-->
+   <agents>
+        <agent name="a" desc="operator"/> 
+        <agent name="b" desc="caller"/> 
+        <agent name="x" desc="third-party"/>
+   </agents>
+
+   <!--*************************************************************
+       CODINGS - transcription and annotation for each observation
+    *************************************************************-->
+    <codings path=".">
+
+         <!--*************************************************************
+              AGENT CODINGS - for each speaker separately
+          *************************************************************-->
+        <agent-codings>
+            <!-- BASE LEVEL ORTHOGRAPHY -->
+            <coding-file name="unit">
+                <structural-layer name="terminal-layer">
+                    <code name="sil">
+                        <attribute name="BTlength" value-type="string"/>
+                        <attribute name="uncertainty" value-type="enumerated">
+                            <value>yes</value>
+                            <value>no</value>
+                        </attribute>
+                    </code>
+                    <code name="noi">
+                        <attribute name="description" value-type="string"/>
+                        <attribute name="uncertainty" value-type="enumerated">
+                            <value>yes</value>
+                            <value>no</value>
+                        </attribute>
+                    </code>
+                    <code name="stdzcode">
+                        <attribute name="description" value-type="string"/>
+                    </code>
+                    <code name="gap">
+                        <attribute name="uncertainty" value-type="enumerated">
+                            <value>yes</value>
+                            <value>no</value>
+                        </attribute>
+                    </code>
+                    <code name="partword" text-content="true">
+                        <attribute name="uncertainty" value-type="enumerated">
+                            <value>yes</value>
+                            <value>no</value>
+                        </attribute>
+                        <attribute name="completion" value-type="string"/>
+                    </code>
+                    <code name="phonword" text-content="true"/>
+                    <code name="comment">
+                        <attribute name="uncertainty" value-type="enumerated">
+                            <value>yes</value>
+                            <value>no</value>
+                        </attribute>
+                        <attribute name="BTtype" value-type="enumerated">
+                            <value>in_line</value>
+                            <value>full_line</value>
+                        </attribute>
+                        <attribute name="BTlinenum" value-type="string"/>
+                        <attribute name="text" value-type="string"/>
+                    </code>
+                    <code name="word" text-content="true">
+                        <attribute name="uncertainty" value-type="enumerated">
+                            <value>yes</value>
+                            <value>no</value>
+                        </attribute>
+                    </code>
+                    <code name="pncode">
+                        <attribute name="type" value-type="enumerated">
+                            <value>business</value>
+                            <value>name</value>
+                            <value>surname</value>
+                            <value>letter</value>
+                            <value>time</value>
+                            <value>road</value>
+                            <value>town</value>
+                            <value>country</value>
+                            <value>other_place</value>
+                            <value>other</value>
+                            <value>unclassified</value>
+                            <value>none</value>
+                        </attribute>
+                    </code>
+                    <code name="lcode"/>
+                    <code name="num"/>
+                    <code name="bcanchor">
+                        <pointer number="1" role="bc" target="lturn-layer"/>
+                    </code>
+                </structural-layer>
+            </coding-file>
+            <!--******************************************************-->
+            <!-- INDEXING PROPER NOUNS AND DIGITS -->
+            <!-- Keys for replacing the orthographic proper noun
+                 and digit codes don't come with the public release,
+                 but for those who have them, these stand-off layers
+                 for finding the proper nouns and digits are useful.
+            -->
+            <!-- STAND-OFF PROPER NOUNS -->
+            <coding-file name="propernoun">
+                <structural-layer name="propernouns" points-to="terminal-layer">
+                    <code name="propernoun">
+                        <attribute name="type" value-type="enumerated">
+                            <value>business</value>
+                            <value>name</value>
+                            <value>surname</value>
+                            <value>letter</value>
+                            <value>time</value>
+                            <value>road</value>
+                            <value>town</value>
+                            <value>country</value>
+                            <value>other_place</value>
+                            <value>other</value>
+                            <value>unclassified</value>
+                            <value>none</value>
+                        </attribute>
+                        <attribute name="uncertainty" value-type="enumerated">
+                            <value>yes</value>
+                            <value>no</value>
+                        </attribute>
+                    </code>
+                </structural-layer>
+            </coding-file>
+            <!-- STAND-OFF DIGITS -->
+            <coding-file name="digit">
+                <structural-layer name="digits" points-to="terminal-layer">
+                    <code name="digit">
+                        <attribute name="representation" value-type="string"/>
+                    </code>
+                </structural-layer>
+            </coding-file>
+            <!--******************************************************-->
+            <!-- LANCASTER DIALOGUE STRUCTURE -->
+            <coding-file name="lturn">
+                <structural-layer name="lturn-layer" points-to="utt-layer">
+                    <code name="lturn">
+                        <attribute name="type" value-type="enumerated">
+                            <value>backchannel</value>
+                        </attribute>
+                    </code>
+                </structural-layer>
+                <structural-layer name="utt-layer" points-to="lmove-layer">
+                    <code name="utt"/>
+                 </structural-layer>
+                <structural-layer name="lmove-layer" points-to="terminal-layer">
+                    <code name="segment">                        
+                        <attribute name="secondary-act" value-type="enumerated">
+                            <value>hold</value>
+                            <value>abandon</value>
+                            <value>bye</value>
+                        </attribute>
+                        <attribute name="alternative" value-type="enumerated">
+                            <value>yes</value>
+                            <value>no</value>
+                        </attribute>
+                        <attribute name="disc" value-type="enumerated">
+                            <value>yes</value>
+                        </attribute>
+                        <attribute name="cont" value-type="enumerated">
+                            <value>yes</value>
+                        </attribute>
+                        <attribute name="type" value-type="enumerated">
+                            <value>frag</value>
+                            <value>dm</value>
+                            <value>decl</value>
+                            <value>q_yn</value>
+                            <value>q_wh</value>
+                            <value>yes</value>
+                            <value>no</value>
+                            <value>imp</value>
+                        </attribute>
+                        <attribute name="sp-act" value-type="enumerated">
+                            <value>accept</value>
+                            <value>ackn</value>
+                            <value>answ</value>
+                            <value>answElab</value>
+                            <value>appreciate</value>
+                            <value>bye</value>
+                            <value>complete</value>
+                            <value>confirm</value>
+                            <value>correct</value>
+                            <value>correctSelf</value>
+                            <value>direct</value>
+                            <value>directElab</value>
+                            <value>echo</value>
+                            <value>exclaim</value>
+                            <value>expressOpinion</value>
+                            <value>expressPossibility</value>
+                            <value>expressRegret</value>
+                            <value>expressWish</value>
+                            <value>greet</value>
+                            <value>hold</value>
+                            <value>identifySelf</value>
+                            <value>inform</value>
+                            <value>informIntent</value>
+                            <value>init</value>
+                            <value>negate</value>
+                            <value>offer</value>
+                            <value>pardon</value>
+                            <value>raiseIssue</value>
+                            <value>refer</value>
+                            <value>refuse</value>
+                            <value>reqDirect</value>
+                            <value>reqInfo</value>
+                            <value>reqModal</value>
+                            <value>selfTalk</value>
+                            <value>suggest</value>
+                            <value>thank</value>
+                            <value>thirdParty</value>
+                            <value>unclassifiable</value>
+                            <value>uninterpretable</value>
+                        </attribute>
+                    </code>
+                 </structural-layer>
+            </coding-file>
+        </agent-codings>
+    <!--*************************************************************
+         INTERACTION CODINGS - drawing from across the agents
+    *************************************************************-->
+        <interaction-codings>
+            <!-- DIAL STRUCTURE GIVING THE TURN ORDER -->
+            <coding-file name="ldial">
+               <structural-layer name="dialogue-layer" points-to="lturn-layer">
+                    <code name="turn_pointer"/>
+                </structural-layer>
+            </coding-file>
+            <!-- SPEAKER OVERLAPS -->
+            <coding-file name="overlap">
+                <structural-layer name="top-overlap" points-to="agent-overlap">
+                    <code name="overlap"/>
+                </structural-layer>
+                <structural-layer name="agent-overlap" points-to="terminal-layer">
+                    <code name="overlapa"/>
+                    <code name="overlapb"/>
+                    <code name="overlapx"/>
+                </structural-layer>
+            </coding-file>
+        </interaction-codings>
+
+    </codings>
+    <!--*************************************************************
+       CALLABLE PROGRAMS - a registry of programs that work on this corpus 
+    *************************************************************-->
+    <callable-programs>
+       <callable-program description="Tailored Viewer" name="OASISViewer">
+            <required-argument name="corpus" type="corpus"/>
+            <required-argument name="observation" type="observation"/>
+            <required-argument name="lancsda" default=""/>
+        </callable-program>
+    </callable-programs>
+
+    <!--*************************************************************
+       OBSERVATION LIST
+    *************************************************************-->
+    <observations>
+
+ <observation name="075812009"/>
+ <observation name="075836010"/>
+ <observation name="080012009"/>
+ <observation name="080106006"/>
+ <observation name="080255012"/>
+ <observation name="080408011"/>
+ <observation name="080434009"/>
+ <observation name="080452013"/>
+ <observation name="080517006"/>
+ <observation name="080659012"/>
+ <observation name="080858011"/>
+ <observation name="081018012"/>
+ <observation name="081110006"/>
+ <observation name="081126008"/>
+ <observation name="081301008"/>
+ <observation name="081408012"/>
+ <observation name="081456012"/>
+ <observation name="081745012"/>
+ <observation name="081752013"/>
+ <observation name="081810011"/>
+ <observation name="081925010"/>
+ <observation name="081946012"/>
+ <observation name="082029009"/>
+ <observation name="082310012"/>
+ <observation name="082338006"/>
+ <observation name="082357008"/>
+ <observation name="082434008"/>
+ <observation name="082510009"/>
+ <observation name="082534012"/>
+ <observation name="082534013"/>
+ <observation name="082551007"/>
+ <observation name="082644010"/>
+ <observation name="082644013"/>
+ <observation name="082740011"/>
+ <observation name="082818012"/>
+ <observation name="082824013"/>
+ <observation name="082910006"/>
+ <observation name="083126009"/>
+ <observation name="083138006"/>
+ <observation name="083244009"/>
+ <observation name="083509009"/>
+ <observation name="083515011"/>
+ <observation name="083606009"/>
+ <observation name="083650012"/>
+ <observation name="083726011"/>
+ <observation name="083809013"/>
+ <observation name="083847006"/>
+ <observation name="083929010"/>
+ <observation name="083952011"/>
+ <observation name="083953011"/>
+ <observation name="084020011"/>
+ <observation name="084029012"/>
+ <observation name="084109012"/>
+ <observation name="084150011"/>
+ <observation name="084337008"/>
+ <observation name="084403009"/>
+ <observation name="084434010"/>
+ <observation name="084504011"/>
+ <observation name="084543012"/>
+ <observation name="084545013"/>
+ <observation name="084623010"/>
+ <observation name="084628009"/>
+ <observation name="084705007"/>
+ <observation name="084737012"/>
+ <observation name="084743012"/>
+ <observation name="084749006"/>
+ <observation name="084902011"/>
+ <observation name="084920007"/>
+ <observation name="085013012"/>
+ <observation name="085147009"/>
+ <observation name="085218009"/>
+ <observation name="085237011"/>
+ <observation name="085258011"/>
+ <observation name="085422011"/>
+ <observation name="085441012"/>
+ <observation name="085551009"/>
+ <observation name="085825010"/>
+ <observation name="085843011"/>
+ <observation name="085900013"/>
+ <observation name="085936006"/>
+ <observation name="085945007"/>
+ <observation name="090009012"/>
+ <observation name="090040008"/>
+ <observation name="090208009"/>
+ <observation name="090456012"/>
+ <observation name="090638013"/>
+ <observation name="090724009"/>
+ <observation name="090849012"/>
+ <observation name="090902006"/>
+ <observation name="091007009"/>
+ <observation name="091017012"/>
+ <observation name="091113012"/>
+ <observation name="091220007"/>
+ <observation name="091320006"/>
+ <observation name="091415008"/>
+ <observation name="091541009"/>
+ <observation name="091553009"/>
+ <observation name="091555012"/>
+ <observation name="091733010"/>
+ <observation name="091752012"/>
+ <observation name="091857008"/>
+ <observation name="092000010"/>
+ <observation name="092344011"/>
+ <observation name="092416011"/>
+ <observation name="092444007"/>
+ <observation name="092511009"/>
+ <observation name="092559009"/>
+ <observation name="092628009"/>
+ <observation name="092715010"/>
+ <observation name="092739011"/>
+ <observation name="092807008"/>
+ <observation name="092912012"/>
+ <observation name="092922007"/>
+ <observation name="093047008"/>
+ <observation name="093141010"/>
+ <observation name="093308013"/>
+ <observation name="093324012"/>
+ <observation name="093325007"/>
+ <observation name="093339010"/>
+ <observation name="093525013"/>
+ <observation name="093614007"/>
+ <observation name="093631011"/>
+ <observation name="093839006"/>
+ <observation name="093853009"/>
+ <observation name="093903010"/>
+ <observation name="093914012"/>
+ <observation name="093922012"/>
+ <observation name="094055013"/>
+ <observation name="094128010"/>
+ <observation name="094206011"/>
+ <observation name="094247008"/>
+ <observation name="094400013"/>
+ <observation name="094449012"/>
+ <observation name="094542007"/>
+ <observation name="094604006"/>
+ <observation name="094614007"/>
+ <observation name="094627008"/>
+ <observation name="094704009"/>
+ <observation name="094714009"/>
+ <observation name="094910007"/>
+ <observation name="094943007"/>
+ <observation name="095137011"/>
+ <observation name="095209012"/>
+ <observation name="095245008"/>
+ <observation name="095400010"/>
+ <observation name="095423013"/>
+ <observation name="095433010"/>
+ <observation name="095500006"/>
+ <observation name="095654008"/>
+ <observation name="095743006"/>
+ <observation name="095747011"/>
+ <observation name="095803012"/>
+ <observation name="100010009"/>
+ <observation name="100221013"/>
+ <observation name="100333010"/>
+ <observation name="100535013"/>
+ <observation name="100632006"/>
+ <observation name="100752007"/>
+ <observation name="100913013"/>
+ <observation name="101024007"/>
+ <observation name="101157012"/>
+ <observation name="101433009"/>
+ <observation name="101440012"/>
+ <observation name="101525008"/>
+ <observation name="101545007"/>
+ <observation name="101707011"/>
+ <observation name="101729006"/>
+ <observation name="101753012"/>
+ <observation name="101821010"/>
+ <observation name="101902006"/>
+ <observation name="123335007"/>
+ <observation name="123339011"/>
+ <observation name="123341012"/>
+ <observation name="123409006"/>
+ <observation name="123410008"/>
+ <observation name="123450008"/>
+ <observation name="123548006"/>
+ <observation name="123617006"/>
+ <observation name="123659007"/>
+ <observation name="123726009"/>
+ <observation name="123753013"/>
+ <observation name="123802007"/>
+ <observation name="123849008"/>
+ <observation name="123900007"/>
+ <observation name="123900011"/>
+ <observation name="123952008"/>
+ <observation name="124000009"/>
+ <observation name="124000012"/>
+ <observation name="124020012"/>
+ <observation name="124105013"/>
+ <observation name="124122006"/>
+ <observation name="124131011"/>
+ <observation name="124233013"/>
+ <observation name="124246008"/>
+ <observation name="124311010"/>
+ <observation name="124328007"/>
+ <observation name="124414013"/>
+ <observation name="124419006"/>
+ <observation name="124427011"/>
+ <observation name="124557007"/>
+ <observation name="124616009"/>
+ <observation name="124622008"/>
+ <observation name="124635007"/>
+ <observation name="124635013"/>
+ <observation name="124706008"/>
+ <observation name="124710008"/>
+ <observation name="124714009"/>
+ <observation name="124717010"/>
+ <observation name="124753007"/>
+ <observation name="124802012"/>
+ <observation name="124821006"/>
+ <observation name="124851013"/>
+ <observation name="124852012"/>
+ <observation name="124933006"/>
+ <observation name="124940012"/>
+ <observation name="125015011"/>
+ <observation name="125028006"/>
+ <observation name="125111009"/>
+ <observation name="125116007"/>
+ <observation name="125119007"/>
+ <observation name="125206011"/>
+ <observation name="125235013"/>
+ <observation name="125247008"/>
+ <observation name="125259009"/>
+ <observation name="125427011"/>
+ <observation name="125452009"/>
+ <observation name="125502013"/>
+ <observation name="125529013"/>
+ <observation name="125555006"/>
+ <observation name="125600007"/>
+ <observation name="125612008"/>
+ <observation name="125621009"/>
+ <observation name="125713010"/>
+ <observation name="125719008"/>
+ <observation name="125722009"/>
+ <observation name="125923012"/>
+ <observation name="125941013"/>
+ <observation name="125943012"/>
+ <observation name="130005013"/>
+ <observation name="130040006"/>
+ <observation name="130043009"/>
+ <observation name="130051010"/>
+ <observation name="130220009"/>
+ <observation name="130234011"/>
+ <observation name="130236009"/>
+ <observation name="130254010"/>
+ <observation name="130348007"/>
+ <observation name="130659013"/>
+ <observation name="130724007"/>
+ <observation name="130823009"/>
+ <observation name="130859010"/>
+ <observation name="131012012"/>
+ <observation name="131014010"/>
+ <observation name="131038012"/>
+ <observation name="131116013"/>
+ <observation name="131202006"/>
+ <observation name="131242009"/>
+ <observation name="131255007"/>
+ <observation name="131312012"/>
+ <observation name="131350013"/>
+ <observation name="131416008"/>
+ <observation name="131446008"/>
+ <observation name="131511008"/>
+ <observation name="131549013"/>
+ <observation name="131551007"/>
+ <observation name="131615006"/>
+ <observation name="131615009"/>
+ <observation name="131824009"/>
+ <observation name="131829010"/>
+ <observation name="131844011"/>
+ <observation name="132008012"/>
+ <observation name="132041006"/>
+ <observation name="132057006"/>
+ <observation name="132158009"/>
+ <observation name="132203007"/>
+ <observation name="132251008"/>
+ <observation name="132343009"/>
+ <observation name="132344010"/>
+ <observation name="132407012"/>
+ <observation name="132633006"/>
+ <observation name="132642007"/>
+ <observation name="132656013"/>
+ <observation name="132718007"/>
+ <observation name="132742010"/>
+ <observation name="132943011"/>
+ <observation name="132950010"/>
+ <observation name="133028012"/>
+ <observation name="133044013"/>
+ <observation name="133119010"/>
+ <observation name="133144010"/>
+ <observation name="133215012"/>
+ <observation name="133234010"/>
+ <observation name="133243013"/>
+ <observation name="133353006"/>
+ <observation name="133412008"/>
+ <observation name="133526009"/>
+ <observation name="133605007"/>
+ <observation name="133607010"/>
+ <observation name="133645012"/>
+ <observation name="133649011"/>
+ <observation name="133705012"/>
+ <observation name="133710009"/>
+ <observation name="133746007"/>
+ <observation name="133853011"/>
+ <observation name="133948009"/>
+ <observation name="133950009"/>
+ <observation name="133953007"/>
+ <observation name="134019008"/>
+ <observation name="134153009"/>
+ <observation name="134212011"/>
+ <observation name="134235011"/>
+
+    </observations>
+</corpus>

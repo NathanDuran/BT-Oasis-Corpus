@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="134212011.unit.a">
+<stdzcode id="134212011.a.unit.1" description="name"/>
+<word id="134212011.a.unit.3">hello</word>
+<word id="134212011.a.unit.4">how</word>
+<word id="134212011.a.unit.5">can</word>
+<word id="134212011.a.unit.6">i</word>
+<word id="134212011.a.unit.7">help</word>
+<pncode type="business" id="134212011.a.unit.14"/>
+<pncode type="business" id="134212011.a.unit.15"/>
+</nite:root>

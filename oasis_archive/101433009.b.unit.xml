@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="101433009.unit.b">
+<word id="101433009.b.unit.2">hello</word>
+<word id="101433009.b.unit.3">it's</word>
+<word id="101433009.b.unit.4">a</word>
+<word id="101433009.b.unit.5">mister</word>
+<stdzcode id="101433009.b.unit.6" description="name"/>
+<word id="101433009.b.unit.7">here</word>
+<partword id="101433009.b.unit.9">h</partword>
+<word id="101433009.b.unit.10">hello</word>
+<word id="101433009.b.unit.11">it's</word>
+<word id="101433009.b.unit.12">mister</word>
+<stdzcode id="101433009.b.unit.13" description="name"/>
+<word id="101433009.b.unit.14">here</word>
+<word id="101433009.b.unit.21">uh</word>
+<word id="101433009.b.unit.22">it's</word>
+<word id="101433009.b.unit.23">you</word>
+<word id="101433009.b.unit.24">sent</word>
+<word id="101433009.b.unit.25">me</word>
+<word id="101433009.b.unit.26">a</word>
+<word id="101433009.b.unit.27">red</word>
+<word id="101433009.b.unit.28">bill</word>
+<word id="101433009.b.unit.29">of</word>
+<word id="101433009.b.unit.30">uh</word>
+<word id="101433009.b.unit.31">five</word>
+<word id="101433009.b.unit.32">pound</word>
+<sil BTlength="" id="101433009.b.unit.33"/>
+<word id="101433009.b.unit.34">you</word>
+<word id="101433009.b.unit.35">say</word>
+<word id="101433009.b.unit.36">i've</word>
+<word id="101433009.b.unit.37">not</word>
+<word id="101433009.b.unit.38">paid</word>
+<word id="101433009.b.unit.39">it</word>
+<sil BTlength="" id="101433009.b.unit.40"/>
+<word id="101433009.b.unit.41">we</word>
+<word id="101433009.b.unit.42">paid</word>
+<word id="101433009.b.unit.43">it</word>
+<word id="101433009.b.unit.44">last</word>
+<word id="101433009.b.unit.45">week</word>
+</nite:root>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="123341012.unit.b">
+<word id="123341012.b.unit.2">hello</word>
+<word id="123341012.b.unit.3">can</word>
+<word id="123341012.b.unit.4">i</word>
+<word id="123341012.b.unit.5">possibly</word>
+<word id="123341012.b.unit.6">speak</word>
+<word id="123341012.b.unit.7">to</word>
+<stdzcode id="123341012.b.unit.8" description="name"/>
+<pncode type="surname" id="123341012.b.unit.9"/>
+<word id="123341012.b.unit.10">in</word>
+<word id="123341012.b.unit.11">the</word>
+<pncode type="town" id="123341012.b.unit.12"/>
+<word id="123341012.b.unit.13">sales</word>
+<word id="123341012.b.unit.14">office</word>
+<word id="123341012.b.unit.15">please</word>
+<word id="123341012.b.unit.27">uh</word>
+<word id="123341012.b.unit.28">yes</word>
+<word id="123341012.b.unit.29">yeah</word>
+<word id="123341012.b.unit.50">thank</word>
+<word id="123341012.b.unit.51">you</word>
+</nite:root>

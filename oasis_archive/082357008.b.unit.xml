@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="082357008.unit.b">
+<word id="082357008.b.unit.2">hello</word>
+<word id="082357008.b.unit.3">good</word>
+<word id="082357008.b.unit.4">morning</word>
+<word id="082357008.b.unit.5">i</word>
+<word id="082357008.b.unit.6">was</word>
+<word id="082357008.b.unit.7">supposed</word>
+<word id="082357008.b.unit.8">to</word>
+<word id="082357008.b.unit.9">have</word>
+<word id="082357008.b.unit.10">a</word>
+<word id="082357008.b.unit.11">number</word>
+<word id="082357008.b.unit.12">transferred</word>
+<word id="082357008.b.unit.13">to</word>
+<word id="082357008.b.unit.14">my</word>
+<word id="082357008.b.unit.15">new</word>
+<word id="082357008.b.unit.16">address</word>
+<partword id="082357008.b.unit.17">a</partword>
+<word id="082357008.b.unit.18">at</word>
+<num id="082357008.b.unit.19"/>
+<word id="082357008.b.unit.20">o'clock</word>
+<word id="082357008.b.unit.21">this</word>
+<word id="082357008.b.unit.22">morning</word>
+<word id="082357008.b.unit.23">and</word>
+<word id="082357008.b.unit.24">it's</word>
+<word id="082357008.b.unit.25">not</word>
+<word id="082357008.b.unit.26">happened</word>
+<word id="082357008.b.unit.27">and</word>
+<word id="082357008.b.unit.28">i'm</word>
+<word id="082357008.b.unit.29">getting</word>
+<word id="082357008.b.unit.30">unobtainable</word>
+<word id="082357008.b.unit.53">uh</word>
+<num id="082357008.b.unit.54"/>
+<num id="082357008.b.unit.55"/>
+<num id="082357008.b.unit.56"/>
+<num id="082357008.b.unit.57"/>
+<num id="082357008.b.unit.58"/>
+<bcanchor id="082357008.bcanchorb.1"><nite:pointer href="082357008.a.lturn.xml#id(082357008.lturn.4.1)" role="bc"/></bcanchor>
+<num id="082357008.b.unit.60"/>
+<num id="082357008.b.unit.61"/>
+<num id="082357008.b.unit.62"/>
+<num id="082357008.b.unit.63"/>
+<num id="082357008.b.unit.64"/>
+<num id="082357008.b.unit.65"/>
+<word id="082357008.b.unit.79">number</word>
+<num id="082357008.b.unit.80"/>
+<pncode type="town" id="082357008.b.unit.81"/>
+<pncode type="road" id="082357008.b.unit.82"/>
+<sil BTlength="" id="082357008.b.unit.83"/>
+<word id="082357008.b.unit.104">oh</word>
+<word id="082357008.b.unit.105">that's</word>
+<word id="082357008.b.unit.106">wonderful</word>
+<word id="082357008.b.unit.107">now</word>
+<word id="082357008.b.unit.108">the</word>
+<word id="082357008.b.unit.109">other</word>
+<word id="082357008.b.unit.110">thing</word>
+<word id="082357008.b.unit.111">whilst</word>
+<word id="082357008.b.unit.112">i'm</word>
+<word id="082357008.b.unit.113">on</word>
+<word id="082357008.b.unit.114">uh</word>
+<word id="082357008.b.unit.116">um</word>
+<word id="082357008.b.unit.117">i'm</word>
+<word id="082357008.b.unit.118">due</word>
+<word id="082357008.b.unit.119">to</word>
+<word id="082357008.b.unit.120">have</word>
+<word id="082357008.b.unit.121">a</word>
+<word id="082357008.b.unit.122">new</word>
+<word id="082357008.b.unit.123">line</word>
+<word id="082357008.b.unit.124">installed</word>
+<word id="082357008.b.unit.125">next</word>
+<word id="082357008.b.unit.126">Monday</word>
+<word id="082357008.b.unit.127">the</word>
+<num id="082357008.b.unit.128"/>
+<word id="082357008.b.unit.129">is</word>
+<word id="082357008.b.unit.130">it</word>
+<word id="082357008.b.unit.153">really</word>
+<word id="082357008.b.unit.154">the</word>
+<num id="082357008.b.unit.155"/>
+<comment text="shocked_gasp_of_astoundment" id="082357008.b.unit.157"/>
+<word id="082357008.b.unit.158">well</word>
+<word id="082357008.b.unit.159">at</word>
+<word id="082357008.b.unit.160">least</word>
+<word id="082357008.b.unit.161">it</word>
+<word id="082357008.b.unit.162">might</word>
+<word id="082357008.b.unit.163">be</word>
+<word id="082357008.b.unit.164">third</word>
+<word id="082357008.b.unit.165">time</word>
+<word id="082357008.b.unit.166">lucky</word>
+<word id="082357008.b.unit.167">then</word>
+</nite:root>

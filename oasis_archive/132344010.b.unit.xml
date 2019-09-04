@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="132344010.unit.b">
+<word id="132344010.b.unit.2">yeah</word>
+<word id="132344010.b.unit.3">tell</word>
+<word id="132344010.b.unit.4">you</word>
+<word id="132344010.b.unit.5">what</word>
+<word id="132344010.b.unit.6">it</word>
+<word id="132344010.b.unit.7">is</word>
+<stdzcode id="132344010.b.unit.8" description="name"/>
+<word id="132344010.b.unit.9">i</word>
+<word id="132344010.b.unit.10">want</word>
+<word id="132344010.b.unit.11">to</word>
+<word id="132344010.b.unit.12">uh</word>
+<word id="132344010.b.unit.13">basically</word>
+<word id="132344010.b.unit.14">get</word>
+<word id="132344010.b.unit.15">reconnected</word>
+<word id="132344010.b.unit.16">i</word>
+<word id="132344010.b.unit.17">just</word>
+<word id="132344010.b.unit.18">er</word>
+<word id="132344010.b.unit.19">i</word>
+<word id="132344010.b.unit.20">just</word>
+<word id="132344010.b.unit.21">moved</word>
+<word id="132344010.b.unit.22">to</word>
+<pncode type="town" id="132344010.b.unit.23"/>
+<word id="132344010.b.unit.24">from</word>
+<word id="132344010.b.unit.25">uh</word>
+<pncode type="town" id="132344010.b.unit.26"/>
+<pncode type="region" id="132344010.b.unit.27"/>
+<pncode type="region" id="132344010.b.unit.28"/>
+<word id="132344010.b.unit.29">you</word>
+<word id="132344010.b.unit.30">know</word>
+<bcanchor id="132344010.bcanchorb.1"><nite:pointer href="132344010.a.lturn.xml#id(132344010.lturn.2.1)" role="bc"/></bcanchor>
+<word id="132344010.b.unit.32">so</word>
+<word id="132344010.b.unit.33">we</word>
+<word id="132344010.b.unit.34">we</word>
+<word id="132344010.b.unit.35">sort</word>
+<word id="132344010.b.unit.36">of</word>
+<word id="132344010.b.unit.37">disconnected</word>
+<word id="132344010.b.unit.38">the</word>
+<word id="132344010.b.unit.39">phone</word>
+<word id="132344010.b.unit.40">when</word>
+<word id="132344010.b.unit.41">we</word>
+<word id="132344010.b.unit.42">left</word>
+<word id="132344010.b.unit.43">we</word>
+<word id="132344010.b.unit.44">just</word>
+<word id="132344010.b.unit.45">want</word>
+<word id="132344010.b.unit.46">to</word>
+<word id="132344010.b.unit.47">reconnect</word>
+<word id="132344010.b.unit.48">here</word>
+<word id="132344010.b.unit.49">in</word>
+<pncode type="town" id="132344010.b.unit.50"/>
+<word id="132344010.b.unit.51">can</word>
+<word id="132344010.b.unit.52">i</word>
+<word id="132344010.b.unit.56">how</word>
+<word id="132344010.b.unit.57">does</word>
+<word id="132344010.b.unit.58">that</word>
+<word id="132344010.b.unit.59">work</word>
+<word id="132344010.b.unit.71">yes</word>
+<word id="132344010.b.unit.76">yes</word>
+<word id="132344010.b.unit.94">okay</word>
+<bcanchor id="132344010.bcanchorb.4"><nite:pointer href="132344010.a.lturn.xml#id(132344010.lturn.6.1)" role="bc"/></bcanchor>
+<word id="132344010.b.unit.96">it's</word>
+<num id="132344010.b.unit.97"/>
+<bcanchor id="132344010.bcanchorb.5"><nite:pointer href="132344010.a.lturn.xml#id(132344010.lturn.6.2)" role="bc"/></bcanchor>
+<pncode type="road" id="132344010.b.unit.99"/>
+<pncode type="road" id="132344010.b.unit.100"/>
+<word id="132344010.b.unit.101">that's</word>
+<word id="132344010.b.unit.102">as</word>
+<word id="132344010.b.unit.103">in</word>
+<stdzcode id="132344010.b.unit.104" description="name"/>
+<pncode type="road" id="132344010.b.unit.105"/>
+<word id="132344010.b.unit.108">yes</word>
+<word id="132344010.b.unit.116">it's</word>
+<word id="132344010.b.unit.117">uh</word>
+<comment text="clear_throat" id="132344010.b.unit.118"/>
+<pncode type="letter" id="132344010.b.unit.119"/>
+<num id="132344010.b.unit.120"/>
+<num id="132344010.b.unit.121"/>
+<pncode type="letter" id="132344010.b.unit.122"/>
+<pncode type="letter" id="132344010.b.unit.123"/>
+<word id="132344010.b.unit.132">okay</word>
+<stdzcode id="132344010.b.unit.141" description="name"/>
+<pncode type="letter" id="132344010.b.unit.145"/>
+<word id="132344010.b.unit.146">for</word>
+<stdzcode id="132344010.b.unit.147" description="name"/>
+<word id="132344010.b.unit.159">yeah</word>
+</nite:root>

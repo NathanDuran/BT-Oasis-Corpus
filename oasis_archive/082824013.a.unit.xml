@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="082824013.unit.a">
+<stdzcode id="082824013.a.unit.1" description="name"/>
+<word id="082824013.a.unit.17">mm</word>
+<word id="082824013.a.unit.26">right</word>
+<word id="082824013.a.unit.27">this</word>
+<word id="082824013.a.unit.28">is</word>
+<pncode type="business" id="082824013.a.unit.29"/>
+<pncode type="business" id="082824013.a.unit.30"/>
+<comment text="customer_makes_noise" id="082824013.a.unit.31"/>
+<word id="082824013.a.unit.32">the</word>
+<partword id="082824013.a.unit.33">tele</partword>
+<word id="082824013.a.unit.34">telephone</word>
+<word id="082824013.a.unit.35">you</word>
+<word id="082824013.a.unit.36">said</word>
+<word id="082824013.a.unit.37">your</word>
+<word id="082824013.a.unit.38">T</word>
+<word id="082824013.a.unit.39">V</word>
+<word id="082824013.a.unit.40">cable</word>
+<word id="082824013.a.unit.50">yeah</word>
+<word id="082824013.a.unit.51">but</word>
+<partword id="082824013.a.unit.52">th</partword>
+<word id="082824013.a.unit.53">that's</word>
+<word id="082824013.a.unit.54">nothing</word>
+<word id="082824013.a.unit.55">to</word>
+<word id="082824013.a.unit.56">do</word>
+<word id="082824013.a.unit.57">with</word>
+<pncode type="business" id="082824013.a.unit.58"/>
+<pncode type="business" id="082824013.a.unit.59"/>
+<word id="082824013.a.unit.67">this</word>
+<word id="082824013.a.unit.68">is</word>
+<pncode type="business" id="082824013.a.unit.69"/>
+<pncode type="business" id="082824013.a.unit.70"/>
+<word id="082824013.a.unit.71">yes</word>
+<word id="082824013.a.unit.89">oh</word>
+<word id="082824013.a.unit.90">dear</word>
+<word id="082824013.a.unit.91">that's</word>
+<word id="082824013.a.unit.92">alright</word>
+<word id="082824013.a.unit.93">oh</word>
+<word id="082824013.a.unit.94">dear</word>
+<word id="082824013.a.unit.96">that's</word>
+<word id="082824013.a.unit.97">alright</word>
+<word id="082824013.a.unit.99">okay</word>
+<comment text="hang_up_noise" id="082824013.a.unit.100"/>
+<comment text="end-ok" id="082824013.a.unit.101"/>
+</nite:root>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="123802007.unit.b">
+<word id="123802007.b.unit.2">oh</word>
+<word id="123802007.b.unit.3">hi</word>
+<word id="123802007.b.unit.4">can</word>
+<word id="123802007.b.unit.5">i</word>
+<word id="123802007.b.unit.6">speak</word>
+<word id="123802007.b.unit.7">to</word>
+<word id="123802007.b.unit.8">somebody</word>
+<word id="123802007.b.unit.9">with</word>
+<word id="123802007.b.unit.10">regard</word>
+<word id="123802007.b.unit.11">to</word>
+<word id="123802007.b.unit.12">um</word>
+<word id="123802007.b.unit.13">an</word>
+<word id="123802007.b.unit.14">outstanding</word>
+<word id="123802007.b.unit.15">bill</word>
+<word id="123802007.b.unit.16">we've</word>
+<word id="123802007.b.unit.17">been</word>
+<word id="123802007.b.unit.18">sent</word>
+<word id="123802007.b.unit.19">a</word>
+<word id="123802007.b.unit.20">reminder</word>
+<word id="123802007.b.unit.21">yet</word>
+<word id="123802007.b.unit.22">we</word>
+<word id="123802007.b.unit.23">didn't</word>
+<word id="123802007.b.unit.24">get</word>
+<word id="123802007.b.unit.25">the</word>
+<word id="123802007.b.unit.26">original</word>
+<word id="123802007.b.unit.27">bill</word>
+<word id="123802007.b.unit.28">to</word>
+<word id="123802007.b.unit.29">start</word>
+<word id="123802007.b.unit.30">with</word>
+<word id="123802007.b.unit.38">it's</word>
+<word id="123802007.b.unit.39">uh</word>
+<num id="123802007.b.unit.40"/>
+<num id="123802007.b.unit.41"/>
+<num id="123802007.b.unit.42"/>
+<num id="123802007.b.unit.43"/>
+<num id="123802007.b.unit.44"/>
+<num id="123802007.b.unit.50"/>
+<num id="123802007.b.unit.51"/>
+<num id="123802007.b.unit.52"/>
+<num id="123802007.b.unit.56"/>
+<num id="123802007.b.unit.57"/>
+<num id="123802007.b.unit.58"/>
+<word id="123802007.b.unit.76">uh</word>
+<word id="123802007.b.unit.77">yes</word>
+<word id="123802007.b.unit.78">it's</word>
+<word id="123802007.b.unit.79">my</word>
+<word id="123802007.b.unit.80">mum's</word>
+<word id="123802007.b.unit.81">a</word>
+<word id="123802007.b.unit.82">uh</word>
+<word id="123802007.b.unit.83">name</word>
+<word id="123802007.b.unit.84">and</word>
+<word id="123802007.b.unit.85">address</word>
+<word id="123802007.b.unit.86">it's</word>
+<word id="123802007.b.unit.87">miss</word>
+<stdzcode id="123802007.b.unit.88" description="name"/>
+<stdzcode id="123802007.b.unit.89" description="name"/>
+<pncode type="surname" id="123802007.b.unit.90"/>
+<word id="123802007.b.unit.93">it's</word>
+<num id="123802007.b.unit.94"/>
+<pncode type="road" id="123802007.b.unit.95"/>
+<pncode type="town" id="123802007.b.unit.96"/>
+<pncode type="town" id="123802007.b.unit.97"/>
+<comment text="other" id="123802007.b.unit.98"/>
+<word id="123802007.b.unit.99">place}</word>
+<pncode type="letter" id="123802007.b.unit.100"/>
+<pncode type="letter" id="123802007.b.unit.101"/>
+<num id="123802007.b.unit.102"/>
+<num id="123802007.b.unit.103"/>
+<num id="123802007.b.unit.104"/>
+<pncode type="letter" id="123802007.b.unit.105"/>
+<pncode type="letter" id="123802007.b.unit.106"/>
+<comment text="end-ok" id="123802007.b.unit.107"/>
+</nite:root>

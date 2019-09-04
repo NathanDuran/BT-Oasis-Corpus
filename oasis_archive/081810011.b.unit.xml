@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="081810011.unit.b">
+<word id="081810011.b.unit.2">hi</word>
+<word id="081810011.b.unit.3">it's</word>
+<pncode type="business" id="081810011.b.unit.4"/>
+<pncode type="business" id="081810011.b.unit.5"/>
+<word id="081810011.b.unit.6">at</word>
+<pncode type="town" id="081810011.b.unit.7"/>
+<word id="081810011.b.unit.8">in</word>
+<pncode type="town" id="081810011.b.unit.9"/>
+<word id="081810011.b.unit.12">um</word>
+<word id="081810011.b.unit.13">i've</word>
+<word id="081810011.b.unit.14">just</word>
+<word id="081810011.b.unit.15">had</word>
+<word id="081810011.b.unit.16">exactly</word>
+<num id="081810011.b.unit.17"/>
+<word id="081810011.b.unit.18">calls</word>
+<word id="081810011.b.unit.19">um</word>
+<word id="081810011.b.unit.20">to</word>
+<word id="081810011.b.unit.21">a</word>
+<word id="081810011.b.unit.22">female</word>
+<word id="081810011.b.unit.23">member</word>
+<word id="081810011.b.unit.24">of</word>
+<word id="081810011.b.unit.25">staff</word>
+<partword id="081810011.b.unit.26">i</partword>
+<word id="081810011.b.unit.27">in</word>
+<word id="081810011.b.unit.28">the</word>
+<word id="081810011.b.unit.29">office</word>
+<bcanchor id="081810011.bcanchorb.1"><nite:pointer href="081810011.a.lturn.xml#id(081810011.lturn.4.1)" role="bc"/></bcanchor>
+<word id="081810011.b.unit.31">and</word>
+<word id="081810011.b.unit.32">somebody</word>
+<word id="081810011.b.unit.33">seems</word>
+<word id="081810011.b.unit.34">to</word>
+<word id="081810011.b.unit.35">be</word>
+<word id="081810011.b.unit.36">heavy</word>
+<word id="081810011.b.unit.37">breathing</word>
+<bcanchor id="081810011.bcanchorb.2"><nite:pointer href="081810011.a.lturn.xml#id(081810011.lturn.4.2)" role="bc"/></bcanchor>
+<word id="081810011.b.unit.40">now</word>
+<word id="081810011.b.unit.41">they're</word>
+<word id="081810011.b.unit.42">all</word>
+<word id="081810011.b.unit.43">in</word>
+<word id="081810011.b.unit.44">um</word>
+<word id="081810011.b.unit.45">within</word>
+<word id="081810011.b.unit.46">a</word>
+<word id="081810011.b.unit.47">space</word>
+<word id="081810011.b.unit.48">of</word>
+<word id="081810011.b.unit.49">a</word>
+<word id="081810011.b.unit.50">minute</word>
+<word id="081810011.b.unit.51">with</word>
+<word id="081810011.b.unit.52">each</word>
+<word id="081810011.b.unit.53">one</word>
+<sil BTlength="" id="081810011.b.unit.54"/>
+<word id="081810011.b.unit.55">but</word>
+<word id="081810011.b.unit.56">um</word>
+<sil BTlength="" id="081810011.b.unit.57"/>
+<word id="081810011.b.unit.58">when</word>
+<word id="081810011.b.unit.59">i've</word>
+<word id="081810011.b.unit.60">tried</word>
+<word id="081810011.b.unit.61">to</word>
+<word id="081810011.b.unit.62">do</word>
+<num id="081810011.b.unit.63"/>
+<num id="081810011.b.unit.64"/>
+<num id="081810011.b.unit.65"/>
+<num id="081810011.b.unit.66"/>
+<word id="081810011.b.unit.67">it's</word>
+<word id="081810011.b.unit.68">saying</word>
+<word id="081810011.b.unit.69">number</word>
+<word id="081810011.b.unit.70">withheld</word>
+<bcanchor id="081810011.bcanchorb.3"><nite:pointer href="081810011.a.lturn.xml#id(081810011.lturn.4.3)" role="bc"/></bcanchor>
+<word id="081810011.b.unit.72">is</word>
+<word id="081810011.b.unit.73">there</word>
+<word id="081810011.b.unit.74">any</word>
+<word id="081810011.b.unit.75">way</word>
+<word id="081810011.b.unit.76">we</word>
+<word id="081810011.b.unit.77">can</word>
+<word id="081810011.b.unit.78">trace</word>
+<word id="081810011.b.unit.79">that</word>
+<word id="081810011.b.unit.80">caller</word>
+<word id="081810011.b.unit.106">right</word>
+<word id="081810011.b.unit.137">right</word>
+<word id="081810011.b.unit.154">yeah</word>
+<word id="081810011.b.unit.155">it</word>
+<word id="081810011.b.unit.156">it's</word>
+<word id="081810011.b.unit.157">the</word>
+<word id="081810011.b.unit.158">main</word>
+<word id="081810011.b.unit.159">number</word>
+<word id="081810011.b.unit.160">that</word>
+<word id="081810011.b.unit.161">comes</word>
+<word id="081810011.b.unit.162">in</word>
+<word id="081810011.b.unit.163">but</word>
+<word id="081810011.b.unit.164">uh</word>
+<word id="081810011.b.unit.165">the</word>
+<word id="081810011.b.unit.166">female</word>
+<partword id="081810011.b.unit.167">of</partword>
+<word id="081810011.b.unit.168">officers</word>
+<word id="081810011.b.unit.169">they</word>
+<word id="081810011.b.unit.170">answer</word>
+<word id="081810011.b.unit.171">it</word>
+<word id="081810011.b.unit.172">first</word>
+<bcanchor id="081810011.bcanchorb.5"><nite:pointer href="081810011.a.lturn.xml#id(081810011.lturn.8.1)" role="bc"/></bcanchor>
+<word id="081810011.b.unit.174">and</word>
+<word id="081810011.b.unit.175">then</word>
+<word id="081810011.b.unit.176">they'll</word>
+<word id="081810011.b.unit.177">divert</word>
+<word id="081810011.b.unit.178">it</word>
+<word id="081810011.b.unit.179">through</word>
+<word id="081810011.b.unit.180">to</word>
+<word id="081810011.b.unit.181">us</word>
+<word id="081810011.b.unit.196">it</word>
+<word id="081810011.b.unit.197">is</word>
+<word id="081810011.b.unit.198">yeah</word>
+<word id="081810011.b.unit.210">right</word>
+<word id="081810011.b.unit.256">yeah</word>
+<word id="081810011.b.unit.273">okay</word>
+<word id="081810011.b.unit.274">then</word>
+<sil BTlength="" id="081810011.b.unit.275"/>
+<word id="081810011.b.unit.276">thanks</word>
+<word id="081810011.b.unit.277">very</word>
+<word id="081810011.b.unit.278">much</word>
+<word id="081810011.b.unit.280">thanks</word>
+<word id="081810011.b.unit.281">bye</word>
+</nite:root>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="124557007.unit.b">
+<word id="124557007.b.unit.3">hello</word>
+<word id="124557007.b.unit.9">uh</word>
+<word id="124557007.b.unit.10">what</word>
+<word id="124557007.b.unit.11">it</word>
+<word id="124557007.b.unit.12">is</word>
+<word id="124557007.b.unit.13">love</word>
+<word id="124557007.b.unit.14">uh</word>
+<word id="124557007.b.unit.15">i'm</word>
+<word id="124557007.b.unit.16">just</word>
+<word id="124557007.b.unit.17">enquiring</word>
+<word id="124557007.b.unit.18">um</word>
+<word id="124557007.b.unit.19">me</word>
+<word id="124557007.b.unit.20">mum's</word>
+<word id="124557007.b.unit.21">telephone</word>
+<word id="124557007.b.unit.22">has</word>
+<word id="124557007.b.unit.23">been</word>
+<word id="124557007.b.unit.24">switched</word>
+<word id="124557007.b.unit.25">off</word>
+<word id="124557007.b.unit.26">uh</word>
+<word id="124557007.b.unit.27">and</word>
+<word id="124557007.b.unit.28">it's</word>
+<word id="124557007.b.unit.29">been</word>
+<word id="124557007.b.unit.30">switched</word>
+<word id="124557007.b.unit.31">off</word>
+<word id="124557007.b.unit.32">since</word>
+<word id="124557007.b.unit.33">yesterday</word>
+<sil BTlength="" id="124557007.b.unit.34"/>
+<word id="124557007.b.unit.35">now</word>
+<word id="124557007.b.unit.36">they</word>
+<word id="124557007.b.unit.37">did</word>
+<word id="124557007.b.unit.38">say</word>
+<word id="124557007.b.unit.39">i</word>
+<phonword id="124557007.b.unit.40">dunnee</phonword>
+<word id="124557007.b.unit.41">you</word>
+<word id="124557007.b.unit.42">know</word>
+<word id="124557007.b.unit.43">like</word>
+<word id="124557007.b.unit.44">through</word>
+<word id="124557007.b.unit.45">the</word>
+<word id="124557007.b.unit.46">message</word>
+<word id="124557007.b.unit.61">yeah</word>
+<word id="124557007.b.unit.62">that</word>
+<word id="124557007.b.unit.63">was</word>
+<word id="124557007.b.unit.64">yesterday</word>
+<bcanchor id="124557007.bcanchorb.1"><nite:pointer href="124557007.a.lturn.xml#id(124557007.lturn.6.1)" role="bc"/></bcanchor>
+<word id="124557007.b.unit.66">and</word>
+<word id="124557007.b.unit.67">they</word>
+<word id="124557007.b.unit.68">said</word>
+<word id="124557007.b.unit.69">if</word>
+<word id="124557007.b.unit.70">they</word>
+<word id="124557007.b.unit.71">sound</word>
+<word id="124557007.b.unit.72">to</word>
+<word id="124557007.b.unit.73">get</word>
+<word id="124557007.b.unit.74">fixed</word>
+<word id="124557007.b.unit.75">today</word>
+<word id="124557007.b.unit.76">but</word>
+<word id="124557007.b.unit.77">the</word>
+<word id="124557007.b.unit.78">thing</word>
+<word id="124557007.b.unit.79">is</word>
+<word id="124557007.b.unit.80">it</word>
+<word id="124557007.b.unit.81">hasn't</word>
+<word id="124557007.b.unit.82">been</word>
+<word id="124557007.b.unit.83">fixed</word>
+<word id="124557007.b.unit.84">yet</word>
+<sil BTlength="" id="124557007.b.unit.85"/>
+<word id="124557007.b.unit.86">and</word>
+<word id="124557007.b.unit.87">she's</word>
+<word id="124557007.b.unit.88">disabled</word>
+<word id="124557007.b.unit.89">and</word>
+<word id="124557007.b.unit.90">needs</word>
+<bcanchor id="124557007.bcanchorb.2"><nite:pointer href="124557007.a.lturn.xml#id(124557007.lturn.6.2)" role="bc"/></bcanchor>
+<word id="124557007.b.unit.93">she's</word>
+<word id="124557007.b.unit.94">on</word>
+<comment text="other" id="124557007.b.unit.95"/>
+<word id="124557007.b.unit.96">Mobility</word>
+<word id="124557007.b.unit.97">she</word>
+<word id="124557007.b.unit.98">needs</word>
+<bcanchor id="124557007.bcanchorb.3"><nite:pointer href="124557007.a.lturn.xml#id(124557007.lturn.6.3)" role="bc"/></bcanchor>
+<word id="124557007.b.unit.100">the</word>
+<word id="124557007.b.unit.101">phone</word>
+<word id="124557007.b.unit.102">it's</word>
+<word id="124557007.b.unit.103">my</word>
+<word id="124557007.b.unit.104">contact</word>
+<word id="124557007.b.unit.105">you</word>
+<word id="124557007.b.unit.106">see</word>
+<word id="124557007.b.unit.107">with</word>
+<word id="124557007.b.unit.108">her</word>
+<bcanchor id="124557007.bcanchorb.4"><nite:pointer href="124557007.a.lturn.xml#id(124557007.lturn.6.4)" role="bc"/></bcanchor>
+<word id="124557007.b.unit.110">now</word>
+<word id="124557007.b.unit.111">i've</word>
+<word id="124557007.b.unit.112">had</word>
+<word id="124557007.b.unit.113">to</word>
+<word id="124557007.b.unit.114">go</word>
+<word id="124557007.b.unit.115">to</word>
+<word id="124557007.b.unit.116">her</word>
+<word id="124557007.b.unit.117">house</word>
+<word id="124557007.b.unit.118">this</word>
+<word id="124557007.b.unit.119">morning</word>
+<word id="124557007.b.unit.120">to</word>
+<word id="124557007.b.unit.121">see</word>
+<word id="124557007.b.unit.122">if</word>
+<word id="124557007.b.unit.123">she's</word>
+<word id="124557007.b.unit.124">alright</word>
+<word id="124557007.b.unit.141">yeah</word>
+<word id="124557007.b.unit.151">right</word>
+<word id="124557007.b.unit.153">right</word>
+<word id="124557007.b.unit.166">i</word>
+<word id="124557007.b.unit.167">see</word>
+<word id="124557007.b.unit.174">right</word>
+<word id="124557007.b.unit.175">thanks</word>
+<word id="124557007.b.unit.176">very</word>
+<word id="124557007.b.unit.177">much</word>
+<sil BTlength="" id="124557007.b.unit.178"/>
+<word id="124557007.b.unit.179">okay</word>
+<sil BTlength="" id="124557007.b.unit.180"/>
+</nite:root>

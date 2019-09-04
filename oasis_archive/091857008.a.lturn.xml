@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='091857008.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='091857008.lturn.1'>
+
+
+<utt id='091857008.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='091857008.frag.1'>
+<nite:child href='091857008.a.unit.xml#id(091857008.a.unit.1)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='091857008.lturn.3'>
+
+
+<utt id='091857008.utt.4'>
+
+<segment type='dm' sp-act='ackn' id='091857008.dm.1'>
+<nite:child href='091857008.a.unit.xml#id(091857008.a.unit.13)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='091857008.lturn.5'>
+
+
+<utt id='091857008.utt.6'>
+
+<segment type='dm' sp-act='ackn' id='091857008.dm.2'>
+<nite:child href='091857008.a.unit.xml#id(091857008.a.unit.32)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

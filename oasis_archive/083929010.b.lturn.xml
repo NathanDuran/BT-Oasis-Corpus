@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='083929010.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='083929010.lturn.2'>
+
+
+<utt id='083929010.utt.2'>
+
+<segment type='yes' sp-act='ackn' id='083929010.yes.1'>
+<nite:child href='083929010.b.unit.xml#id(083929010.b.unit.2)..id(083929010.b.unit.3)'/>
+</segment>
+
+</utt>
+
+<utt id='083929010.utt.3'>
+
+<segment type='decl' sp-act='informIntent' id='083929010.decl.1'>
+<nite:child href='083929010.b.unit.xml#id(083929010.b.unit.4)..id(083929010.b.unit.13)'/>
+</segment>
+
+</utt>
+
+<utt id='083929010.utt.4'>
+
+<segment type='decl' sp-act='inform' id='083929010.decl.2'>
+<nite:child href='083929010.b.unit.xml#id(083929010.b.unit.14)..id(083929010.b.unit.17)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='083929010.lturn.4'>
+
+
+<utt id='083929010.utt.8'>
+
+<segment type='decl' sp-act='inform' id='083929010.decl.4' secondary-act='abandon'>
+<nite:child href='083929010.b.unit.xml#id(083929010.b.unit.44)..id(083929010.b.unit.52)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='083929010.lturn.6'>
+
+
+<utt id='083929010.utt.10'>
+
+<segment type='yes' sp-act='ackn' id='083929010.yes.3'>
+<nite:child href='083929010.b.unit.xml#id(083929010.b.unit.59)'/>
+</segment>
+
+</utt>
+
+<utt id='083929010.utt.11'>
+
+<segment type='decl' sp-act='echo' id='083929010.decl.6'>
+<nite:child href='083929010.b.unit.xml#id(083929010.b.unit.61)..id(083929010.b.unit.63)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='083929010.lturn.8'>
+
+
+<utt id='083929010.utt.17'>
+
+<segment type='dm' sp-act='ackn' id='083929010.dm.1'>
+<nite:child href='083929010.b.unit.xml#id(083929010.b.unit.109)..id(083929010.b.unit.110)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='083929010.lturn.10'>
+
+
+<utt id='083929010.utt.19'>
+
+<segment type='yes' sp-act='ackn' id='083929010.yes.5'>
+<nite:child href='083929010.b.unit.xml#id(083929010.b.unit.126)'/>
+</segment>
+
+</utt>
+
+<utt id='083929010.utt.20'>
+
+<segment type='decl' sp-act='expressOpinion' id='083929010.decl.12'>
+<nite:child href='083929010.b.unit.xml#id(083929010.b.unit.127)..id(083929010.b.unit.135)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

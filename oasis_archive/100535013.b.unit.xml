@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="100535013.unit.b">
+<word id="100535013.b.unit.2">hello</word>
+<word id="100535013.b.unit.3">there</word>
+<word id="100535013.b.unit.4">i</word>
+<word id="100535013.b.unit.5">wonder</word>
+<word id="100535013.b.unit.6">if</word>
+<word id="100535013.b.unit.7">you</word>
+<word id="100535013.b.unit.8">could</word>
+<word id="100535013.b.unit.9">help</word>
+<word id="100535013.b.unit.10">me</word>
+<word id="100535013.b.unit.11">um</word>
+<word id="100535013.b.unit.12">i've</word>
+<word id="100535013.b.unit.13">actually</word>
+<word id="100535013.b.unit.14">received</word>
+<word id="100535013.b.unit.15">a</word>
+<word id="100535013.b.unit.16">letter</word>
+<word id="100535013.b.unit.17">from</word>
+<stdzcode id="100535013.b.unit.18" description="name"/>
+<pncode type="surname" id="100535013.b.unit.19"/>
+<pncode type="surname" id="100535013.b.unit.20"/>
+<word id="100535013.b.unit.21">about</word>
+<word id="100535013.b.unit.22">my</word>
+<phonword id="100535013.b.unit.23">dum</phonword>
+<partword id="100535013.b.unit.24">re</partword>
+<word id="100535013.b.unit.25">my</word>
+<word id="100535013.b.unit.26">arrears</word>
+<word id="100535013.b.unit.27">on</word>
+<word id="100535013.b.unit.28">the</word>
+<partword id="100535013.b.unit.29">pa</partword>
+<word id="100535013.b.unit.30">my</word>
+<word id="100535013.b.unit.31">um</word>
+<word id="100535013.b.unit.32">account</word>
+<word id="100535013.b.unit.42">it</word>
+<word id="100535013.b.unit.43">is</word>
+<word id="100535013.b.unit.44">yes</word>
+<word id="100535013.b.unit.59">okay</word>
+<word id="100535013.b.unit.60">lovely</word>
+<word id="100535013.b.unit.61">thank</word>
+<word id="100535013.b.unit.62">you</word>
+</nite:root>

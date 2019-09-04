@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="084504011.unit.b">
+<word id="084504011.b.unit.2">hi</word>
+<word id="084504011.b.unit.3">love</word>
+<word id="084504011.b.unit.4">yeah</word>
+<word id="084504011.b.unit.5">um</word>
+<word id="084504011.b.unit.6">i'm</word>
+<word id="084504011.b.unit.7">just</word>
+<word id="084504011.b.unit.8">phoning</word>
+<word id="084504011.b.unit.9">up</word>
+<word id="084504011.b.unit.10">to</word>
+<word id="084504011.b.unit.11">see</word>
+<word id="084504011.b.unit.12">if</word>
+<word id="084504011.b.unit.13">i've</word>
+<word id="084504011.b.unit.14">got</word>
+<word id="084504011.b.unit.15">the</word>
+<word id="084504011.b.unit.16">right</word>
+<word id="084504011.b.unit.17">phone</word>
+<word id="084504011.b.unit.18">bill</word>
+<partword id="084504011.b.unit.19">g</partword>
+<partword id="084504011.b.unit.20">i</partword>
+<word id="084504011.b.unit.21">if</word>
+<word id="084504011.b.unit.22">you</word>
+<word id="084504011.b.unit.23">could</word>
+<word id="084504011.b.unit.24">tell</word>
+<word id="084504011.b.unit.25">us</word>
+<word id="084504011.b.unit.26">as</word>
+<word id="084504011.b.unit.27">i've</word>
+<word id="084504011.b.unit.28">got</word>
+<word id="084504011.b.unit.29">to</word>
+<word id="084504011.b.unit.30">pay</word>
+<word id="084504011.b.unit.31">today</word>
+<word id="084504011.b.unit.35">uh</word>
+<word id="084504011.b.unit.44">um</word>
+<word id="084504011.b.unit.45">the</word>
+<word id="084504011.b.unit.46">account</word>
+<word id="084504011.b.unit.47">lets</word>
+<word id="084504011.b.unit.48">see</word>
+<word id="084504011.b.unit.49">uh</word>
+<bcanchor id="084504011.bcanchorb.2"><nite:pointer href="084504011.a.lturn.xml#id(084504011.lturn.4.1)" role="bc"/></bcanchor>
+<pncode type="letter" id="084504011.b.unit.52"/>
+<sil BTlength="" id="084504011.b.unit.53"/>
+<pncode type="letter" id="084504011.b.unit.54"/>
+<pncode type="letter" id="084504011.b.unit.55"/>
+<word id="084504011.b.unit.56">uh</word>
+<word id="084504011.b.unit.57">double</word>
+<word id="084504011.b.unit.58">uh</word>
+<word id="084504011.b.unit.59">double</word>
+<num id="084504011.b.unit.60"/>
+<num id="084504011.b.unit.61"/>
+<num id="084504011.b.unit.62"/>
+<word id="084504011.b.unit.67">yeah</word>
+<num id="084504011.b.unit.68"/>
+<num id="084504011.b.unit.69"/>
+<num id="084504011.b.unit.70"/>
+<num id="084504011.b.unit.71"/>
+<word id="084504011.b.unit.76">yeah</word>
+<word id="084504011.b.unit.79">uh</word>
+<sil BTlength="" id="084504011.b.unit.80"/>
+<word id="084504011.b.unit.81">uh</word>
+<word id="084504011.b.unit.82">do</word>
+<word id="084504011.b.unit.83">do</word>
+<word id="084504011.b.unit.84">i</word>
+<word id="084504011.b.unit.85">need</word>
+<word id="084504011.b.unit.86">the</word>
+<word id="084504011.b.unit.87">rest</word>
+<word id="084504011.b.unit.88">now</word>
+<word id="084504011.b.unit.93">okay</word>
+<word id="084504011.b.unit.94">thanks</word>
+<word id="084504011.b.unit.109">uh</word>
+<word id="084504011.b.unit.110">double</word>
+<num id="084504011.b.unit.111"/>
+<num id="084504011.b.unit.112"/>
+<num id="084504011.b.unit.113"/>
+<partword id="084504011.b.unit.114">si</partword>
+<word id="084504011.b.unit.115">uh</word>
+<num id="084504011.b.unit.116"/>
+<num id="084504011.b.unit.117"/>
+<num id="084504011.b.unit.118"/>
+<num id="084504011.b.unit.119"/>
+<word id="084504011.b.unit.124">sorry</word>
+<word id="084504011.b.unit.125">love</word>
+</nite:root>

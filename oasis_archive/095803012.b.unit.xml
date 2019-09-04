@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="095803012.unit.b">
+<word id="095803012.b.unit.2">oh</word>
+<word id="095803012.b.unit.3">yes</word>
+<word id="095803012.b.unit.4">good</word>
+<word id="095803012.b.unit.5">day</word>
+<word id="095803012.b.unit.6">um</word>
+<word id="095803012.b.unit.7">can</word>
+<word id="095803012.b.unit.8">i</word>
+<word id="095803012.b.unit.9">give</word>
+<word id="095803012.b.unit.10">you</word>
+<word id="095803012.b.unit.11">the</word>
+<word id="095803012.b.unit.12">telephone</word>
+<word id="095803012.b.unit.13">number</word>
+<word id="095803012.b.unit.16">i'm</word>
+<word id="095803012.b.unit.17">querying</word>
+<bcanchor id="095803012.bcanchorb.1"><nite:pointer href="095803012.a.lturn.xml#id(095803012.lturn.4.1)" role="bc"/></bcanchor>
+<word id="095803012.b.unit.20">uh</word>
+<word id="095803012.b.unit.21">it's</word>
+<num id="095803012.b.unit.22"/>
+<num id="095803012.b.unit.23"/>
+<num id="095803012.b.unit.24"/>
+<num id="095803012.b.unit.25"/>
+<num id="095803012.b.unit.26"/>
+<num id="095803012.b.unit.32"/>
+<num id="095803012.b.unit.33"/>
+<num id="095803012.b.unit.36"/>
+<num id="095803012.b.unit.37"/>
+<num id="095803012.b.unit.40"/>
+<num id="095803012.b.unit.41"/>
+<word id="095803012.b.unit.59">yes</word>
+<word id="095803012.b.unit.60">it's</word>
+<word id="095803012.b.unit.61">missus</word>
+<stdzcode id="095803012.b.unit.62" description="name"/>
+<pncode type="surname" id="095803012.b.unit.63"/>
+<num id="095803012.b.unit.64"/>
+<pncode type="road" id="095803012.b.unit.65"/>
+<word id="095803012.b.unit.66">in</word>
+<pncode type="town" id="095803012.b.unit.67"/>
+<word id="095803012.b.unit.68">and</word>
+<word id="095803012.b.unit.69">it's</word>
+<pncode type="letter" id="095803012.b.unit.70"/>
+<pncode type="letter" id="095803012.b.unit.71"/>
+<num id="095803012.b.unit.72"/>
+<num id="095803012.b.unit.73"/>
+<num id="095803012.b.unit.74"/>
+<pncode type="letter" id="095803012.b.unit.75"/>
+<pncode type="letter" id="095803012.b.unit.76"/>
+<word id="095803012.b.unit.86">okay</word>
+<word id="095803012.b.unit.87">i</word>
+<word id="095803012.b.unit.88">phoned</word>
+<word id="095803012.b.unit.89">a</word>
+<word id="095803012.b.unit.90">few</word>
+<word id="095803012.b.unit.91">days</word>
+<word id="095803012.b.unit.92">uh</word>
+<word id="095803012.b.unit.93">well</word>
+<word id="095803012.b.unit.94">it</word>
+<word id="095803012.b.unit.95">was</word>
+<word id="095803012.b.unit.96">last</word>
+<word id="095803012.b.unit.97">week</word>
+<word id="095803012.b.unit.98">to</word>
+<word id="095803012.b.unit.99">ask</word>
+<word id="095803012.b.unit.100">you</word>
+<word id="095803012.b.unit.101">to</word>
+<word id="095803012.b.unit.102">disconnect</word>
+<word id="095803012.b.unit.103">that</word>
+<word id="095803012.b.unit.104">phone</word>
+<sil BTlength="" id="095803012.b.unit.105"/>
+<word id="095803012.b.unit.106">and</word>
+<word id="095803012.b.unit.107">it</word>
+<word id="095803012.b.unit.108">still</word>
+<word id="095803012.b.unit.109">has</word>
+<word id="095803012.b.unit.110">not</word>
+<word id="095803012.b.unit.111">been</word>
+<word id="095803012.b.unit.112">done</word>
+</nite:root>

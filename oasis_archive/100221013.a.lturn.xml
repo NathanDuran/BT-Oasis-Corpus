@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='100221013.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='100221013.lturn.1'>
+
+
+<utt id='100221013.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='100221013.frag.1'>
+<nite:child href='100221013.a.unit.xml#id(100221013.a.unit.1)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='100221013.lturn.3'>
+
+
+<utt id='100221013.utt.3'>
+
+<segment type='decl' sp-act='answ' id='100221013.decl.2'>
+<nite:child href='100221013.a.unit.xml#id(100221013.a.unit.10)..id(100221013.a.unit.11)'/>
+</segment>
+
+<segment type='yes' sp-act='answElab' id='100221013.yes.1'>
+<nite:child href='100221013.a.unit.xml#id(100221013.a.unit.12)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='100221013.lturn.5'>
+
+
+<utt id='100221013.utt.6'>
+
+<segment type='dm' sp-act='ackn' id='100221013.dm.1'>
+<nite:child href='100221013.a.unit.xml#id(100221013.a.unit.35)'/>
+</segment>
+
+<segment type='yes' sp-act='ackn' id='100221013.yes.2'>
+<nite:child href='100221013.a.unit.xml#id(100221013.a.unit.36)'/>
+</segment>
+
+</utt>
+
+<utt id='100221013.utt.7'>
+
+<segment type='decl' sp-act='expressRegret' id='100221013.decl.5'>
+<nite:child href='100221013.a.unit.xml#id(100221013.a.unit.37)..id(100221013.a.unit.38)'/>
+</segment>
+
+</utt>
+
+<utt id='100221013.utt.8'>
+
+<segment type='decl' sp-act='inform' id='100221013.decl.6'>
+<nite:child href='100221013.a.unit.xml#id(100221013.a.unit.39)..id(100221013.a.unit.49)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='100221013.lturn.7'>
+
+
+<utt id='100221013.utt.10'>
+
+<segment type='frag' sp-act='uninterpretable' id='100221013.frag.2'>
+<nite:child href='100221013.a.unit.xml#id(100221013.a.unit.53)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='100221013.lturn.9'>
+
+
+<utt id='100221013.utt.12'>
+
+<segment type='dm' sp-act='init' id='100221013.dm.3'>
+<nite:child href='100221013.a.unit.xml#id(100221013.a.unit.55)'/>
+</segment>
+
+</utt>
+
+<utt id='100221013.utt.13'>
+
+<segment type='q_wh' sp-act='reqInfo' id='100221013.q_wh.1'>
+<nite:child href='100221013.a.unit.xml#id(100221013.a.unit.56)..id(100221013.a.unit.60)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="124710008.unit.b">
+<word id="124710008.b.unit.2">uh</word>
+<word id="124710008.b.unit.3">it's</word>
+<word id="124710008.b.unit.4">a</word>
+<word id="124710008.b.unit.5">query</word>
+<word id="124710008.b.unit.6">about</word>
+<word id="124710008.b.unit.7">the</word>
+<word id="124710008.b.unit.8">bill</word>
+<word id="124710008.b.unit.9">i've</word>
+<word id="124710008.b.unit.10">just</word>
+<word id="124710008.b.unit.11">received</word>
+<word id="124710008.b.unit.22">yes</word>
+<word id="124710008.b.unit.23">it's</word>
+<num id="124710008.b.unit.24"/>
+<num id="124710008.b.unit.25"/>
+<num id="124710008.b.unit.26"/>
+<num id="124710008.b.unit.27"/>
+<num id="124710008.b.unit.28"/>
+<bcanchor id="124710008.bcanchorb.1"><nite:pointer href="124710008.a.lturn.xml#id(124710008.lturn.4.1)" role="bc"/></bcanchor>
+<num id="124710008.b.unit.32"/>
+<num id="124710008.b.unit.33"/>
+<num id="124710008.b.unit.34"/>
+<num id="124710008.b.unit.35"/>
+<num id="124710008.b.unit.36"/>
+<num id="124710008.b.unit.37"/>
+<word id="124710008.b.unit.61">yes</word>
+<word id="124710008.b.unit.62">it's</word>
+<word id="124710008.b.unit.63">mister</word>
+<pncode type="letter" id="124710008.b.unit.64"/>
+<pncode type="surname" id="124710008.b.unit.65"/>
+<num id="124710008.b.unit.66"/>
+<pncode type="road" id="124710008.b.unit.67"/>
+<pncode type="road" id="124710008.b.unit.68"/>
+<pncode type="road" id="124710008.b.unit.69"/>
+<pncode type="town" id="124710008.b.unit.70"/>
+<sil BTlength="" id="124710008.b.unit.71"/>
+<word id="124710008.b.unit.72">and</word>
+<word id="124710008.b.unit.73">it's</word>
+<pncode type="letter" id="124710008.b.unit.74"/>
+<pncode type="letter" id="124710008.b.unit.75"/>
+<num id="124710008.b.unit.76"/>
+<num id="124710008.b.unit.77"/>
+<pncode type="letter" id="124710008.b.unit.78"/>
+<pncode type="letter" id="124710008.b.unit.79"/>
+<word id="124710008.b.unit.92">uh</word>
+<word id="124710008.b.unit.93">it's</word>
+<word id="124710008.b.unit.94">just</word>
+<word id="124710008.b.unit.95">it's</word>
+<word id="124710008.b.unit.96">it's</word>
+<word id="124710008.b.unit.97">one</word>
+<word id="124710008.b.unit.98">part</word>
+<word id="124710008.b.unit.99">of</word>
+<word id="124710008.b.unit.100">my</word>
+<word id="124710008.b.unit.101">bill</word>
+<word id="124710008.b.unit.102">where</word>
+<word id="124710008.b.unit.103">it</word>
+<word id="124710008.b.unit.104">says</word>
+<word id="124710008.b.unit.105">other</word>
+<word id="124710008.b.unit.106">calls</word>
+<num id="124710008.b.unit.107"/>
+<word id="124710008.b.unit.108">pounds</word>
+<num id="124710008.b.unit.109"/>
+<word id="124710008.b.unit.115">this</word>
+<word id="124710008.b.unit.116">is</word>
+<word id="124710008.b.unit.117">i</word>
+<word id="124710008.b.unit.118">on</word>
+<word id="124710008.b.unit.119">page</word>
+<num id="124710008.b.unit.120"/>
+<word id="124710008.b.unit.131">yeah</word>
+<word id="124710008.b.unit.132">i</word>
+<word id="124710008.b.unit.133">wonder</word>
+<word id="124710008.b.unit.134">if</word>
+<word id="124710008.b.unit.135">i</word>
+<word id="124710008.b.unit.136">if</word>
+<word id="124710008.b.unit.137">i</word>
+<word id="124710008.b.unit.138">could</word>
+<word id="124710008.b.unit.139">a</word>
+<word id="124710008.b.unit.140">possibly</word>
+<word id="124710008.b.unit.141">have</word>
+<word id="124710008.b.unit.142">a</word>
+<word id="124710008.b.unit.143">breakdown</word>
+<word id="124710008.b.unit.144">of</word>
+<word id="124710008.b.unit.145">just</word>
+<word id="124710008.b.unit.146">that</word>
+<sil BTlength="" id="124710008.b.unit.147"/>
+<word id="124710008.b.unit.148">cos</word>
+<word id="124710008.b.unit.149">i</word>
+<word id="124710008.b.unit.150">don't</word>
+<word id="124710008.b.unit.151">know</word>
+<word id="124710008.b.unit.152">how</word>
+<word id="124710008.b.unit.153">they</word>
+<word id="124710008.b.unit.154">arrived</word>
+<word id="124710008.b.unit.155">at</word>
+<word id="124710008.b.unit.156">that</word>
+<word id="124710008.b.unit.157">amount</word>
+<word id="124710008.b.unit.182">yes</word>
+<word id="124710008.b.unit.183">please</word>
+<word id="124710008.b.unit.184">yeah</word>
+<sil BTlength="20s" id="124710008.b.unit.185"/>
+</nite:root>

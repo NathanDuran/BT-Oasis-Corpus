@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="090208009.unit.b">
+<word id="090208009.b.unit.2">oh</word>
+<word id="090208009.b.unit.3">good</word>
+<word id="090208009.b.unit.4">morning</word>
+<word id="090208009.b.unit.5">um</word>
+<word id="090208009.b.unit.6">my</word>
+<word id="090208009.b.unit.7">lady</word>
+<word id="090208009.b.unit.8">friend</word>
+<word id="090208009.b.unit.9">um</word>
+<word id="090208009.b.unit.10">had</word>
+<word id="090208009.b.unit.11">one</word>
+<word id="090208009.b.unit.12">of</word>
+<word id="090208009.b.unit.13">these</word>
+<partword id="090208009.b.unit.14">frees</partword>
+<word id="090208009.b.unit.15">Freespell</word>
+<word id="090208009.b.unit.16">phones</word>
+<bcanchor id="090208009.bcanchorb.1"><nite:pointer href="090208009.a.lturn.xml#id(090208009.lturn.2.1)" role="bc"/></bcanchor>
+<word id="090208009.b.unit.18">um</word>
+<word id="090208009.b.unit.19">Freedline</word>
+<word id="090208009.b.unit.20">uh</word>
+<num id="090208009.b.unit.21"/>
+<word id="090208009.b.unit.22">i</word>
+<word id="090208009.b.unit.23">think</word>
+<word id="090208009.b.unit.24">it</word>
+<word id="090208009.b.unit.25">is</word>
+<sil BTlength="" id="090208009.b.unit.26"/>
+<word id="090208009.b.unit.27">uh</word>
+<word id="090208009.b.unit.28">she's</word>
+<word id="090208009.b.unit.29">having</word>
+<word id="090208009.b.unit.32">pardon</word>
+<word id="090208009.b.unit.36">yeah</word>
+<word id="090208009.b.unit.37">yeah</word>
+</nite:root>

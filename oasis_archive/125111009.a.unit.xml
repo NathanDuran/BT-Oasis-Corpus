@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="125111009.unit.a">
+<stdzcode id="125111009.a.unit.1" description="name"/>
+<word id="125111009.a.unit.21">yes</word>
+<word id="125111009.a.unit.22">that's</word>
+<word id="125111009.a.unit.23">no</word>
+<word id="125111009.a.unit.24">problem</word>
+<word id="125111009.a.unit.25">missus</word>
+<pncode type="surname" id="125111009.a.unit.26"/>
+<word id="125111009.a.unit.27">can</word>
+<word id="125111009.a.unit.28">i</word>
+<word id="125111009.a.unit.29">take</word>
+<word id="125111009.a.unit.30">your</word>
+<word id="125111009.a.unit.31">um</word>
+<word id="125111009.a.unit.32">telephone</word>
+<word id="125111009.a.unit.33">number</word>
+<word id="125111009.a.unit.34">or</word>
+<word id="125111009.a.unit.35">your</word>
+<word id="125111009.a.unit.36">customer</word>
+<word id="125111009.a.unit.37">number</word>
+<partword id="125111009.a.unit.38">wh..</partword>
+<word id="125111009.a.unit.39">whichever</word>
+<word id="125111009.a.unit.40">you've</word>
+<word id="125111009.a.unit.41">got</word>
+<word id="125111009.a.unit.42">to</word>
+<word id="125111009.a.unit.43">hand</word>
+<word id="125111009.a.unit.49">oh</word>
+<word id="125111009.a.unit.50">well</word>
+<word id="125111009.a.unit.51">let's</word>
+<word id="125111009.a.unit.52">have</word>
+<word id="125111009.a.unit.53">the</word>
+<word id="125111009.a.unit.54">customer</word>
+<word id="125111009.a.unit.55">number</word>
+<word id="125111009.a.unit.56">then</word>
+<word id="125111009.a.unit.59">yes</word>
+<word id="125111009.a.unit.62">yes</word>
+<word id="125111009.a.unit.65">yes</word>
+<word id="125111009.a.unit.67">yes</word>
+<word id="125111009.a.unit.69">hang</word>
+<word id="125111009.a.unit.70">on</word>
+<num id="125111009.a.unit.71"/>
+<num id="125111009.a.unit.72"/>
+<num id="125111009.a.unit.73"/>
+<num id="125111009.a.unit.74"/>
+<num id="125111009.a.unit.75"/>
+<num id="125111009.a.unit.76"/>
+<num id="125111009.a.unit.77"/>
+<num id="125111009.a.unit.89"/>
+<num id="125111009.a.unit.90"/>
+<num id="125111009.a.unit.91"/>
+<comment text="laugh" id="125111009.a.unit.92"/>
+<word id="125111009.a.unit.103">sorry</word>
+<pncode type="letter" id="125111009.a.unit.104"/>
+<pncode type="letter" id="125111009.a.unit.105"/>
+<num id="125111009.a.unit.106"/>
+<num id="125111009.a.unit.107"/>
+<num id="125111009.a.unit.108"/>
+<num id="125111009.a.unit.109"/>
+<word id="125111009.a.unit.114">that's</word>
+<word id="125111009.a.unit.115">lovely</word>
+<word id="125111009.a.unit.116">thank</word>
+<word id="125111009.a.unit.117">you</word>
+<word id="125111009.a.unit.118">sorry</word>
+<word id="125111009.a.unit.119">to</word>
+<word id="125111009.a.unit.120">keep</word>
+<word id="125111009.a.unit.121">you</word>
+<word id="125111009.a.unit.122">waiting</word>
+<bcanchor id="125111009.bcanchora.5"><nite:pointer href="125111009.b.lturn.xml#id(125111009.lturn.13.1)" role="bc"/></bcanchor>
+<word id="125111009.a.unit.125">right</word>
+<word id="125111009.a.unit.126">i've</word>
+<word id="125111009.a.unit.127">got</word>
+<word id="125111009.a.unit.128">your</word>
+<word id="125111009.a.unit.129">details</word>
+<word id="125111009.a.unit.130">in</word>
+<word id="125111009.a.unit.131">front</word>
+<word id="125111009.a.unit.132">of</word>
+<word id="125111009.a.unit.133">me</word>
+<word id="125111009.a.unit.134">missus</word>
+<pncode type="surname" id="125111009.a.unit.135"/>
+<word id="125111009.a.unit.136">would</word>
+<word id="125111009.a.unit.137">you</word>
+<word id="125111009.a.unit.138">confirm</word>
+<word id="125111009.a.unit.139">your</word>
+<word id="125111009.a.unit.140">name</word>
+<word id="125111009.a.unit.141">address</word>
+<word id="125111009.a.unit.142">and</word>
+<word id="125111009.a.unit.143">post</word>
+<word id="125111009.a.unit.144">code</word>
+<word id="125111009.a.unit.145">for</word>
+<word id="125111009.a.unit.146">me</word>
+<word id="125111009.a.unit.147">and</word>
+<word id="125111009.a.unit.148">your</word>
+<word id="125111009.a.unit.149">initial</word>
+<word id="125111009.a.unit.155">uh</word>
+<word id="125111009.a.unit.156">huh</word>
+<word id="125111009.a.unit.164">lovely</word>
+<word id="125111009.a.unit.165">and</word>
+<word id="125111009.a.unit.166">your</word>
+<word id="125111009.a.unit.167">initials</word>
+</nite:root>

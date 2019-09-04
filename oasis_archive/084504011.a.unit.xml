@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="084504011.unit.a">
+<stdzcode id="084504011.a.unit.1" description="name"/>
+<word id="084504011.a.unit.32">oh</word>
+<word id="084504011.a.unit.33">right</word>
+<word id="084504011.a.unit.34">okay</word>
+<bcanchor id="084504011.bcanchora.1"><nite:pointer href="084504011.b.lturn.xml#id(084504011.lturn.3.1)" role="bc"/></bcanchor>
+<word id="084504011.a.unit.36">have</word>
+<word id="084504011.a.unit.37">you</word>
+<word id="084504011.a.unit.38">got</word>
+<word id="084504011.a.unit.39">your</word>
+<word id="084504011.a.unit.40">account</word>
+<word id="084504011.a.unit.41">number</word>
+<word id="084504011.a.unit.42">there</word>
+<word id="084504011.a.unit.43">please</word>
+<partword id="084504011.a.unit.50">cus</partword>
+<word id="084504011.a.unit.51"/>
+<word id="084504011.a.unit.63">double</word>
+<num id="084504011.a.unit.64"/>
+<num id="084504011.a.unit.65"/>
+<num id="084504011.a.unit.66"/>
+<num id="084504011.a.unit.72"/>
+<num id="084504011.a.unit.73"/>
+<num id="084504011.a.unit.74"/>
+<num id="084504011.a.unit.75"/>
+<word id="084504011.a.unit.77">thank</word>
+<word id="084504011.a.unit.78">you</word>
+<word id="084504011.a.unit.89">uh</word>
+<word id="084504011.a.unit.90">no</word>
+<word id="084504011.a.unit.91">that's</word>
+<word id="084504011.a.unit.92">fine</word>
+<bcanchor id="084504011.bcanchora.3"><nite:pointer href="084504011.b.lturn.xml#id(084504011.lturn.11.1)" role="bc"/></bcanchor>
+<word id="084504011.a.unit.95">could</word>
+<word id="084504011.a.unit.96">you</word>
+<word id="084504011.a.unit.97">just</word>
+<word id="084504011.a.unit.98">confirm</word>
+<word id="084504011.a.unit.99">o</word>
+<sil BTlength="" id="084504011.a.unit.100"/>
+<word id="084504011.a.unit.101">double</word>
+<num id="084504011.a.unit.102"/>
+<num id="084504011.a.unit.103"/>
+<num id="084504011.a.unit.104"/>
+<num id="084504011.a.unit.105"/>
+<num id="084504011.a.unit.106"/>
+<num id="084504011.a.unit.107"/>
+<num id="084504011.a.unit.108"/>
+<num id="084504011.a.unit.120"/>
+<num id="084504011.a.unit.121"/>
+<num id="084504011.a.unit.122"/>
+<num id="084504011.a.unit.123"/>
+</nite:root>

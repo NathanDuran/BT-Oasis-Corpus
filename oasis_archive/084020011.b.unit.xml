@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="084020011.unit.b">
+<word id="084020011.b.unit.2">sorry</word>
+<word id="084020011.b.unit.3">i</word>
+<word id="084020011.b.unit.4">i</word>
+<word id="084020011.b.unit.5">that</word>
+<word id="084020011.b.unit.6">was</word>
+<word id="084020011.b.unit.7">quick</word>
+<word id="084020011.b.unit.13">yeah</word>
+<word id="084020011.b.unit.14">is</word>
+<word id="084020011.b.unit.15">it</word>
+<partword id="084020011.b.unit.16">wh</partword>
+<word id="084020011.b.unit.17">who</word>
+<word id="084020011.b.unit.18">am</word>
+<word id="084020011.b.unit.19">i</word>
+<word id="084020011.b.unit.20">speaking</word>
+<word id="084020011.b.unit.21">to</word>
+<word id="084020011.b.unit.28">what</word>
+<pncode type="business" id="084020011.b.unit.29"/>
+<pncode type="business" id="084020011.b.unit.30"/>
+<word id="084020011.b.unit.34">oh</word>
+<word id="084020011.b.unit.35">right</word>
+<sil BTlength="" id="084020011.b.unit.36"/>
+<word id="084020011.b.unit.37">uh</word>
+<word id="084020011.b.unit.38">bill</word>
+<word id="084020011.b.unit.39">payments</word>
+<word id="084020011.b.unit.41">um</word>
+<sil BTlength="" id="084020011.b.unit.42"/>
+<word id="084020011.b.unit.43">who</word>
+<word id="084020011.b.unit.44">do</word>
+<word id="084020011.b.unit.45">i</word>
+<word id="084020011.b.unit.46">speak</word>
+<word id="084020011.b.unit.47">to</word>
+<word id="084020011.b.unit.56">right</word>
+<sil BTlength="" id="084020011.b.unit.57"/>
+<word id="084020011.b.unit.58">uh</word>
+<word id="084020011.b.unit.59">a</word>
+<word id="084020011.b.unit.60">i've</word>
+<word id="084020011.b.unit.61">got</word>
+<word id="084020011.b.unit.62">a</word>
+<word id="084020011.b.unit.63">direct</word>
+<word id="084020011.b.unit.64">debit</word>
+<word id="084020011.b.unit.65">set</word>
+<word id="084020011.b.unit.66">up</word>
+<word id="084020011.b.unit.67">for</word>
+<pncode type="business" id="084020011.b.unit.68"/>
+<pncode type="business" id="084020011.b.unit.69"/>
+<bcanchor id="084020011.bcanchorb.1"><nite:pointer href="084020011.a.lturn.xml#id(084020011.lturn.12.1)" role="bc"/></bcanchor>
+<word id="084020011.b.unit.72">my</word>
+<word id="084020011.b.unit.73">phone</word>
+<word id="084020011.b.unit.74">bill</word>
+<word id="084020011.b.unit.75">and</word>
+<sil BTlength="" id="084020011.b.unit.76"/>
+<word id="084020011.b.unit.77">i've</word>
+<phonword id="084020011.b.unit.78">gotta</phonword>
+<word id="084020011.b.unit.79">be</word>
+<word id="084020011.b.unit.80">honest</word>
+<word id="084020011.b.unit.81">it's</word>
+<word id="084020011.b.unit.82">costing</word>
+<word id="084020011.b.unit.83">me</word>
+<word id="084020011.b.unit.84">a</word>
+<word id="084020011.b.unit.85">heck</word>
+<word id="084020011.b.unit.86">of</word>
+<word id="084020011.b.unit.87">a</word>
+<phonword id="084020011.b.unit.88">lotta</phonword>
+<word id="084020011.b.unit.89">money</word>
+<word id="084020011.b.unit.90">cos</word>
+<word id="084020011.b.unit.91">now</word>
+<word id="084020011.b.unit.92">the</word>
+<word id="084020011.b.unit.93">bank</word>
+<word id="084020011.b.unit.94">cos</word>
+<word id="084020011.b.unit.95">now</word>
+<word id="084020011.b.unit.96">if</word>
+<word id="084020011.b.unit.97">i'm</word>
+<word id="084020011.b.unit.98">just</word>
+<num id="084020011.b.unit.99"/>
+<word id="084020011.b.unit.100">pound</word>
+<word id="084020011.b.unit.101">you</word>
+<word id="084020011.b.unit.102">know</word>
+<word id="084020011.b.unit.103">if</word>
+<word id="084020011.b.unit.104">i'm</word>
+<word id="084020011.b.unit.105">a</word>
+<word id="084020011.b.unit.106">couple</word>
+<word id="084020011.b.unit.107">a</word>
+<word id="084020011.b.unit.108">quid</word>
+<word id="084020011.b.unit.109">short</word>
+<word id="084020011.b.unit.110">the</word>
+<word id="084020011.b.unit.111">bank</word>
+<word id="084020011.b.unit.112">bank</word>
+<word id="084020011.b.unit.113">charge</word>
+<word id="084020011.b.unit.114">me</word>
+<num id="084020011.b.unit.115"/>
+<word id="084020011.b.unit.116">pound</word>
+<word id="084020011.b.unit.117">for</word>
+<word id="084020011.b.unit.118">each</word>
+<word id="084020011.b.unit.119">direct</word>
+<word id="084020011.b.unit.120">debit</word>
+<word id="084020011.b.unit.121">that</word>
+<word id="084020011.b.unit.122">i've</word>
+<word id="084020011.b.unit.123">got</word>
+<word id="084020011.b.unit.124">a</word>
+<word id="084020011.b.unit.125">problem</word>
+<word id="084020011.b.unit.126">with</word>
+<word id="084020011.b.unit.128">can</word>
+<word id="084020011.b.unit.129">i</word>
+<word id="084020011.b.unit.130">go</word>
+<word id="084020011.b.unit.131">bill</word>
+<word id="084020011.b.unit.132">payment</word>
+</nite:root>

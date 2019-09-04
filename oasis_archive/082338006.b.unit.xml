@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="082338006.unit.b">
+<word id="082338006.b.unit.2">oh</word>
+<word id="082338006.b.unit.3">hi</word>
+<word id="082338006.b.unit.4">um</word>
+<word id="082338006.b.unit.5">i</word>
+<word id="082338006.b.unit.6">phoned</word>
+<word id="082338006.b.unit.7">up</word>
+<word id="082338006.b.unit.8">yesterday</word>
+<word id="082338006.b.unit.9">and</word>
+<word id="082338006.b.unit.10">asked</word>
+<word id="082338006.b.unit.11">for</word>
+<word id="082338006.b.unit.12">my</word>
+<word id="082338006.b.unit.13">phone</word>
+<word id="082338006.b.unit.14">to</word>
+<word id="082338006.b.unit.15">be</word>
+<word id="082338006.b.unit.16">disconnected</word>
+<word id="082338006.b.unit.17">is</word>
+<word id="082338006.b.unit.18">it</word>
+<word id="082338006.b.unit.19">too</word>
+<word id="082338006.b.unit.20">late</word>
+<word id="082338006.b.unit.21">to</word>
+<word id="082338006.b.unit.22">change</word>
+<word id="082338006.b.unit.23">my</word>
+<word id="082338006.b.unit.24">mind</word>
+<word id="082338006.b.unit.36">um</word>
+<word id="082338006.b.unit.37">well</word>
+<word id="082338006.b.unit.38">they</word>
+<word id="082338006.b.unit.39">said</word>
+<word id="082338006.b.unit.40">it</word>
+<word id="082338006.b.unit.41">would</word>
+<word id="082338006.b.unit.42">be</word>
+<num id="082338006.b.unit.43"/>
+<word id="082338006.b.unit.44">days</word>
+<bcanchor id="082338006.bcanchorb.1"><nite:pointer href="082338006.a.lturn.xml#id(082338006.lturn.4.1)" role="bc"/></bcanchor>
+<word id="082338006.b.unit.47">from</word>
+<word id="082338006.b.unit.48">when</word>
+<word id="082338006.b.unit.49">i</word>
+<word id="082338006.b.unit.50">asked</word>
+<word id="082338006.b.unit.60">it's</word>
+<num id="082338006.b.unit.61"/>
+<num id="082338006.b.unit.62"/>
+<num id="082338006.b.unit.63"/>
+<num id="082338006.b.unit.64"/>
+<num id="082338006.b.unit.65"/>
+<bcanchor id="082338006.bcanchorb.2"><nite:pointer href="082338006.a.lturn.xml#id(082338006.lturn.6.1)" role="bc"/></bcanchor>
+<num id="082338006.b.unit.67"/>
+<num id="082338006.b.unit.68"/>
+<num id="082338006.b.unit.69"/>
+<bcanchor id="082338006.bcanchorb.3"><nite:pointer href="082338006.a.lturn.xml#id(082338006.lturn.6.2)" role="bc"/></bcanchor>
+<num id="082338006.b.unit.71"/>
+<num id="082338006.b.unit.72"/>
+<num id="082338006.b.unit.73"/>
+<stdzcode id="082338006.b.unit.86" description="name"/>
+<pncode type="surname" id="082338006.b.unit.87"/>
+<num id="082338006.b.unit.88"/>
+<pncode type="letter" id="082338006.b.unit.89"/>
+<pncode type="road" id="082338006.b.unit.90"/>
+<pncode type="road" id="082338006.b.unit.91"/>
+<pncode type="town" id="082338006.b.unit.92"/>
+<pncode type="region" id="082338006.b.unit.93"/>
+<pncode type="region" id="082338006.b.unit.94"/>
+<pncode type="letter" id="082338006.b.unit.95"/>
+<pncode type="letter" id="082338006.b.unit.96"/>
+<num id="082338006.b.unit.97"/>
+<num id="082338006.b.unit.98"/>
+<pncode type="letter" id="082338006.b.unit.99"/>
+<pncode type="letter" id="082338006.b.unit.100"/>
+<word id="082338006.b.unit.114">thank</word>
+<word id="082338006.b.unit.115">you</word>
+<word id="082338006.b.unit.127">thanks</word>
+<comment text="on_hold_0m78s" id="082338006.b.unit.128"/>
+<word id="082338006.b.unit.131">hello</word>
+</nite:root>

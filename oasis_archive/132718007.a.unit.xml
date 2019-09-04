@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="132718007.unit.a">
+<stdzcode id="132718007.a.unit.1" description="name"/>
+<sil BTlength="" id="132718007.a.unit.2"/>
+<word id="132718007.a.unit.3">hello</word>
+<sil BTlength="" id="132718007.a.unit.4"/>
+<word id="132718007.a.unit.5">hello</word>
+<word id="132718007.a.unit.7">hello</word>
+<word id="132718007.a.unit.22">okay</word>
+<partword id="132718007.a.unit.23">ha</partword>
+<partword id="132718007.a.unit.24">y</partword>
+<partword id="132718007.a.unit.25">h</partword>
+<word id="132718007.a.unit.26">have</word>
+<word id="132718007.a.unit.27">you</word>
+<word id="132718007.a.unit.28">had</word>
+<word id="132718007.a.unit.29">a</word>
+<pncode type="business" id="132718007.a.unit.30"/>
+<pncode type="business" id="132718007.a.unit.31"/>
+<word id="132718007.a.unit.32">line</word>
+<word id="132718007.a.unit.33">before</word>
+<word id="132718007.a.unit.35">no</word>
+<word id="132718007.a.unit.36">okay</word>
+</nite:root>

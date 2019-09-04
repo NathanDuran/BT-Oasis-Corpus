@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="132343009.unit.b">
+<word id="132343009.b.unit.2">uh</word>
+<word id="132343009.b.unit.3">you</word>
+<word id="132343009.b.unit.4">do</word>
+<word id="132343009.b.unit.5">want</word>
+<word id="132343009.b.unit.6">me</word>
+<word id="132343009.b.unit.7">uh</word>
+<word id="132343009.b.unit.8">customer</word>
+<word id="132343009.b.unit.9">number</word>
+<word id="132343009.b.unit.14">it's</word>
+<pncode type="letter" id="132343009.b.unit.15"/>
+<pncode type="letter" id="132343009.b.unit.16"/>
+<bcanchor id="132343009.bcanchorb.1"><nite:pointer href="132343009.a.lturn.xml#id(132343009.lturn.4.1)" role="bc"/></bcanchor>
+<num id="132343009.b.unit.18"/>
+<num id="132343009.b.unit.19"/>
+<num id="132343009.b.unit.20"/>
+<num id="132343009.b.unit.21"/>
+<bcanchor id="132343009.bcanchorb.2"><nite:pointer href="132343009.a.lturn.xml#id(132343009.lturn.4.2)" role="bc"/></bcanchor>
+<num id="132343009.b.unit.23"/>
+<num id="132343009.b.unit.24"/>
+<num id="132343009.b.unit.25"/>
+<num id="132343009.b.unit.26"/>
+<word id="132343009.b.unit.49">it's</word>
+<word id="132343009.b.unit.50">miss</word>
+<stdzcode id="132343009.b.unit.51" description="name"/>
+<stdzcode id="132343009.b.unit.52" description="name"/>
+<num id="132343009.b.unit.53"/>
+<pncode type="region" id="132343009.b.unit.54"/>
+<pncode type="region" id="132343009.b.unit.55"/>
+<pncode type="region" id="132343009.b.unit.56"/>
+<pncode type="road" id="132343009.b.unit.57"/>
+<pncode type="town" id="132343009.b.unit.58"/>
+<pncode type="region" id="132343009.b.unit.59"/>
+<pncode type="letter" id="132343009.b.unit.60"/>
+<pncode type="letter" id="132343009.b.unit.61"/>
+<num id="132343009.b.unit.62"/>
+<num id="132343009.b.unit.63"/>
+<num id="132343009.b.unit.64"/>
+<pncode type="letter" id="132343009.b.unit.65"/>
+<pncode type="letter" id="132343009.b.unit.66"/>
+<word id="132343009.b.unit.77">what</word>
+<word id="132343009.b.unit.78">it</word>
+<word id="132343009.b.unit.79">is</word>
+<word id="132343009.b.unit.80">um</word>
+<word id="132343009.b.unit.81">i've</word>
+<word id="132343009.b.unit.82">got</word>
+<word id="132343009.b.unit.83">me</word>
+<word id="132343009.b.unit.84">reminder</word>
+<word id="132343009.b.unit.85">here</word>
+<word id="132343009.b.unit.86">right</word>
+<bcanchor id="132343009.bcanchorb.3"><nite:pointer href="132343009.a.lturn.xml#id(132343009.lturn.8.1)" role="bc"/></bcanchor>
+<word id="132343009.b.unit.88">would</word>
+<word id="132343009.b.unit.89">it</word>
+<word id="132343009.b.unit.90">be</word>
+<word id="132343009.b.unit.91">possible</word>
+<word id="132343009.b.unit.92">if</word>
+<word id="132343009.b.unit.93">i</word>
+<word id="132343009.b.unit.94">could</word>
+<word id="132343009.b.unit.95">pay</word>
+<word id="132343009.b.unit.96">this</word>
+<word id="132343009.b.unit.97">on</word>
+<word id="132343009.b.unit.98">the</word>
+<word id="132343009.b.unit.99">twenty</word>
+<word id="132343009.b.unit.100">seventh</word>
+<word id="132343009.b.unit.101">of</word>
+<word id="132343009.b.unit.102">this</word>
+<word id="132343009.b.unit.103">month</word>
+<word id="132343009.b.unit.128">yes</word>
+<word id="132343009.b.unit.138">i</word>
+<word id="132343009.b.unit.139">know</word>
+<word id="132343009.b.unit.140">what</word>
+<word id="132343009.b.unit.141">it</word>
+<word id="132343009.b.unit.142">is</word>
+<word id="132343009.b.unit.143">me</word>
+<word id="132343009.b.unit.144">money</word>
+<word id="132343009.b.unit.145">'s</word>
+<word id="132343009.b.unit.146">all</word>
+<word id="132343009.b.unit.147">going</word>
+<word id="132343009.b.unit.148">i'm</word>
+<word id="132343009.b.unit.149">on</word>
+<word id="132343009.b.unit.150">family</word>
+<word id="132343009.b.unit.151">credit</word>
+<word id="132343009.b.unit.152">and</word>
+<word id="132343009.b.unit.153">it's</word>
+<word id="132343009.b.unit.154">all</word>
+<word id="132343009.b.unit.155">going</word>
+<word id="132343009.b.unit.156">into</word>
+<word id="132343009.b.unit.157">the</word>
+<word id="132343009.b.unit.158">bank</word>
+<word id="132343009.b.unit.159">with</word>
+<word id="132343009.b.unit.160">me</word>
+<word id="132343009.b.unit.161">wages</word>
+<word id="132343009.b.unit.162">at</word>
+<word id="132343009.b.unit.163">the</word>
+<word id="132343009.b.unit.164">end</word>
+<word id="132343009.b.unit.165">of</word>
+<word id="132343009.b.unit.166">the</word>
+<word id="132343009.b.unit.167">month</word>
+<sil BTlength="" id="132343009.b.unit.168"/>
+<word id="132343009.b.unit.169">so</word>
+<word id="132343009.b.unit.170">it's</word>
+<word id="132343009.b.unit.171">knocked</word>
+<word id="132343009.b.unit.172">me</word>
+<word id="132343009.b.unit.173">all</word>
+<word id="132343009.b.unit.174">out</word>
+<word id="132343009.b.unit.175">now</word>
+<word id="132343009.b.unit.199">mm</word>
+<word id="132343009.b.unit.206">okay</word>
+<word id="132343009.b.unit.212">i</word>
+<word id="132343009.b.unit.213">know</word>
+<word id="132343009.b.unit.226">i</word>
+<word id="132343009.b.unit.227">know</word>
+<word id="132343009.b.unit.228">yeah</word>
+<word id="132343009.b.unit.234">mm</word>
+<word id="132343009.b.unit.237">okay</word>
+</nite:root>

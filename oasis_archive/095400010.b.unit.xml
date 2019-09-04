@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="095400010.unit.b">
+<word id="095400010.b.unit.3">i</word>
+<word id="095400010.b.unit.4">wonder</word>
+<word id="095400010.b.unit.5">if</word>
+<word id="095400010.b.unit.6">you</word>
+<word id="095400010.b.unit.7">can</word>
+<word id="095400010.b.unit.8">i'm</word>
+<word id="095400010.b.unit.9">about</word>
+<word id="095400010.b.unit.10">to</word>
+<word id="095400010.b.unit.11">move</word>
+<word id="095400010.b.unit.12">into</word>
+<word id="095400010.b.unit.13">a</word>
+<word id="095400010.b.unit.14">room</word>
+<word id="095400010.b.unit.15">rented</word>
+<word id="095400010.b.unit.16">premises</word>
+<word id="095400010.b.unit.18">and</word>
+<word id="095400010.b.unit.19">there's</word>
+<word id="095400010.b.unit.20">a</word>
+<word id="095400010.b.unit.21">phone</word>
+<word id="095400010.b.unit.22">socket</word>
+<word id="095400010.b.unit.23">there</word>
+<word id="095400010.b.unit.24">but</word>
+<word id="095400010.b.unit.25">they</word>
+<word id="095400010.b.unit.26">just</word>
+<word id="095400010.b.unit.27">told</word>
+<word id="095400010.b.unit.28">me</word>
+<word id="095400010.b.unit.29">there's</word>
+<word id="095400010.b.unit.30">no</word>
+<word id="095400010.b.unit.31">line</word>
+<bcanchor id="095400010.bcanchorb.1"><nite:pointer href="095400010.a.lturn.xml#id(095400010.lturn.4.1)" role="bc"/></bcanchor>
+<word id="095400010.b.unit.33">i</word>
+<word id="095400010.b.unit.34">need</word>
+<word id="095400010.b.unit.35">to</word>
+<word id="095400010.b.unit.36">get</word>
+<word id="095400010.b.unit.37">one</word>
+<word id="095400010.b.unit.38">oh</word>
+<word id="095400010.b.unit.39">or</word>
+<word id="095400010.b.unit.40">i'm</word>
+<word id="095400010.b.unit.41">i'm</word>
+<bcanchor id="095400010.bcanchorb.2"><nite:pointer href="095400010.a.lturn.xml#id(095400010.lturn.4.2)" role="bc"/></bcanchor>
+<word id="095400010.b.unit.43">not</word>
+<word id="095400010.b.unit.44">quite</word>
+<word id="095400010.b.unit.45">sure</word>
+<bcanchor id="095400010.bcanchorb.3"><nite:pointer href="095400010.a.lturn.xml#id(095400010.lturn.4.3)" role="bc"/></bcanchor>
+<word id="095400010.b.unit.49">what</word>
+<word id="095400010.b.unit.50">it</word>
+<word id="095400010.b.unit.51">is</word>
+<word id="095400010.b.unit.52">you</word>
+<word id="095400010.b.unit.53">see</word>
+<word id="095400010.b.unit.54">i've</word>
+<word id="095400010.b.unit.55">got</word>
+<word id="095400010.b.unit.56">the</word>
+<word id="095400010.b.unit.57">address</word>
+<word id="095400010.b.unit.58">but</word>
+<word id="095400010.b.unit.59">there's</word>
+<word id="095400010.b.unit.60">no</word>
+<word id="095400010.b.unit.61">number</word>
+<word id="095400010.b.unit.90">right</word>
+<partword id="095400010.b.unit.91">th</partword>
+<word id="095400010.b.unit.92">the</word>
+<word id="095400010.b.unit.93">address</word>
+<word id="095400010.b.unit.94">is</word>
+<word id="095400010.b.unit.95">number</word>
+<num id="095400010.b.unit.96"/>
+<bcanchor id="095400010.bcanchorb.4"><nite:pointer href="095400010.a.lturn.xml#id(095400010.lturn.6.1)" role="bc"/></bcanchor>
+<pncode type="road" id="095400010.b.unit.98"/>
+<pncode type="road" id="095400010.b.unit.99"/>
+<word id="095400010.b.unit.100">which</word>
+<word id="095400010.b.unit.101">is</word>
+<pncode type="letter" id="095400010.b.unit.102"/>
+<pncode type="letter" id="095400010.b.unit.103"/>
+<pncode type="letter" id="095400010.b.unit.104"/>
+<pncode type="letter" id="095400010.b.unit.105"/>
+<pncode type="letter" id="095400010.b.unit.106"/>
+<pncode type="letter" id="095400010.b.unit.107"/>
+<pncode type="road" id="095400010.b.unit.109"/>
+<pncode type="town" id="095400010.b.unit.110"/>
+<word id="095400010.b.unit.116">um</word>
+<word id="095400010.b.unit.117">oh</word>
+<word id="095400010.b.unit.118">i</word>
+<word id="095400010.b.unit.119">don't</word>
+<word id="095400010.b.unit.120">know</word>
+<pncode type="letter" id="095400010.b.unit.121"/>
+<pncode type="letter" id="095400010.b.unit.122"/>
+<num id="095400010.b.unit.123"/>
+<word id="095400010.b.unit.124">goodness</word>
+<sil BTlength="" id="095400010.b.unit.125"/>
+<word id="095400010.b.unit.126">don't</word>
+<word id="095400010.b.unit.127">know</word>
+<word id="095400010.b.unit.128">haven't</word>
+<word id="095400010.b.unit.129">got</word>
+<word id="095400010.b.unit.130">that</word>
+<word id="095400010.b.unit.131">yet</word>
+<word id="095400010.b.unit.146">okay</word>
+<word id="095400010.b.unit.153">yes</word>
+<word id="095400010.b.unit.154">it</word>
+<word id="095400010.b.unit.155">is</word>
+<word id="095400010.b.unit.156">f</word>
+<word id="095400010.b.unit.157">yes</word>
+<word id="095400010.b.unit.168">that's</word>
+<word id="095400010.b.unit.169">it</word>
+<word id="095400010.b.unit.170">lovely</word>
+<word id="095400010.b.unit.171">thank</word>
+<word id="095400010.b.unit.172">you</word>
+<word id="095400010.b.unit.173">now</word>
+<word id="095400010.b.unit.174">i</word>
+<word id="095400010.b.unit.175">remember</word>
+<word id="095400010.b.unit.194">right</word>
+</nite:root>

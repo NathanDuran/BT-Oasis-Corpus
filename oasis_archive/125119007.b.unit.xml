@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="125119007.unit.b">
+<word id="125119007.b.unit.2">uh</word>
+<word id="125119007.b.unit.3">hello</word>
+<word id="125119007.b.unit.4">there</word>
+<word id="125119007.b.unit.5">um</word>
+<word id="125119007.b.unit.6">my</word>
+<word id="125119007.b.unit.7">name's</word>
+<word id="125119007.b.unit.8">mister</word>
+<pncode type="surname" id="125119007.b.unit.9"/>
+<sil BTlength="" id="125119007.b.unit.10"/>
+<word id="125119007.b.unit.11">my</word>
+<word id="125119007.b.unit.12">telephone</word>
+<word id="125119007.b.unit.13">number's</word>
+<num id="125119007.b.unit.14"/>
+<num id="125119007.b.unit.15"/>
+<num id="125119007.b.unit.16"/>
+<num id="125119007.b.unit.17"/>
+<num id="125119007.b.unit.18"/>
+<bcanchor id="125119007.bcanchorb.1"><nite:pointer href="125119007.a.lturn.xml#id(125119007.lturn.2.1)" role="bc"/></bcanchor>
+<num id="125119007.b.unit.20"/>
+<num id="125119007.b.unit.21"/>
+<num id="125119007.b.unit.22"/>
+<num id="125119007.b.unit.23"/>
+<num id="125119007.b.unit.24"/>
+<num id="125119007.b.unit.25"/>
+<word id="125119007.b.unit.28">uh</word>
+<word id="125119007.b.unit.29">i've</word>
+<word id="125119007.b.unit.30">just</word>
+<word id="125119007.b.unit.31">received</word>
+<word id="125119007.b.unit.32">my</word>
+<word id="125119007.b.unit.33">my</word>
+<word id="125119007.b.unit.34">bill</word>
+<word id="125119007.b.unit.36">my</word>
+<word id="125119007.b.unit.37">account</word>
+<word id="125119007.b.unit.39">and</word>
+<word id="125119007.b.unit.40">um</word>
+<word id="125119007.b.unit.41">i'd</word>
+<word id="125119007.b.unit.42">like</word>
+<word id="125119007.b.unit.43">to</word>
+<word id="125119007.b.unit.44">well</word>
+<word id="125119007.b.unit.45">the</word>
+<word id="125119007.b.unit.46">the</word>
+<word id="125119007.b.unit.47">payment</word>
+<word id="125119007.b.unit.48">should</word>
+<word id="125119007.b.unit.49">be</word>
+<word id="125119007.b.unit.50">able</word>
+<word id="125119007.b.unit.51">to</word>
+<word id="125119007.b.unit.52">be</word>
+<word id="125119007.b.unit.53">reduced</word>
+<word id="125119007.b.unit.54">now</word>
+<word id="125119007.b.unit.55">on</word>
+<word id="125119007.b.unit.56">my</word>
+<word id="125119007.b.unit.66">yeah</word>
+<word id="125119007.b.unit.67">i</word>
+<word id="125119007.b.unit.68">do</word>
+<word id="125119007.b.unit.69">yeah</word>
+<word id="125119007.b.unit.81">it's</word>
+<num id="125119007.b.unit.82"/>
+<pncode type="road" id="125119007.b.unit.83"/>
+<pncode type="road" id="125119007.b.unit.84"/>
+<pncode type="road" id="125119007.b.unit.85"/>
+<bcanchor id="125119007.bcanchorb.2"><nite:pointer href="125119007.a.lturn.xml#id(125119007.lturn.12.1)" role="bc"/></bcanchor>
+<comment text="other" id="125119007.b.unit.87"/>
+<word id="125119007.b.unit.88">place}</word>
+<pncode type="town" id="125119007.b.unit.89"/>
+<comment text="other" id="125119007.b.unit.90"/>
+<word id="125119007.b.unit.91">place}</word>
+<bcanchor id="125119007.bcanchorb.3"><nite:pointer href="125119007.a.lturn.xml#id(125119007.lturn.12.2)" role="bc"/></bcanchor>
+<pncode type="letter" id="125119007.b.unit.93"/>
+<pncode type="letter" id="125119007.b.unit.94"/>
+<num id="125119007.b.unit.95"/>
+<num id="125119007.b.unit.96"/>
+<pncode type="letter" id="125119007.b.unit.97"/>
+<pncode type="letter" id="125119007.b.unit.98"/>
+</nite:root>

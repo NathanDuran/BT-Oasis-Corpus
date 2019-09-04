@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="080434009.unit.b">
+<word id="080434009.b.unit.2">good</word>
+<word id="080434009.b.unit.3">morning</word>
+<word id="080434009.b.unit.6">how</word>
+<word id="080434009.b.unit.7">nice</word>
+<word id="080434009.b.unit.8">to</word>
+<word id="080434009.b.unit.9">phone</word>
+<word id="080434009.b.unit.10">early</word>
+<word id="080434009.b.unit.11">and</word>
+<word id="080434009.b.unit.12">to</word>
+<word id="080434009.b.unit.13">get</word>
+<word id="080434009.b.unit.14">through</word>
+<word id="080434009.b.unit.15">straight</word>
+<word id="080434009.b.unit.16">away</word>
+<comment text="laugh" id="080434009.b.unit.17"/>
+<word id="080434009.b.unit.18">um</word>
+<bcanchor id="080434009.bcanchorb.1"><nite:pointer href="080434009.a.lturn.xml#id(080434009.lturn.6.1)" role="bc"/></bcanchor>
+<word id="080434009.b.unit.29">yeah</word>
+<word id="080434009.b.unit.30">i</word>
+<word id="080434009.b.unit.31">know</word>
+<word id="080434009.b.unit.32">i'm</word>
+<word id="080434009.b.unit.33">moving</word>
+<word id="080434009.b.unit.34">my</word>
+<word id="080434009.b.unit.35">dear</word>
+<word id="080434009.b.unit.36">and</word>
+<word id="080434009.b.unit.37">i</word>
+<word id="080434009.b.unit.38">want</word>
+<word id="080434009.b.unit.39">to</word>
+<word id="080434009.b.unit.40">give</word>
+<word id="080434009.b.unit.41">you</word>
+<word id="080434009.b.unit.42">some</word>
+<word id="080434009.b.unit.43">particulars</word>
+</nite:root>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="132633006.unit.b">
+<word id="132633006.b.unit.4">um</word>
+<word id="132633006.b.unit.5">well</word>
+<word id="132633006.b.unit.6">i</word>
+<word id="132633006.b.unit.7">hope</word>
+<word id="132633006.b.unit.8">you</word>
+<word id="132633006.b.unit.9">can</word>
+<word id="132633006.b.unit.10">i</word>
+<word id="132633006.b.unit.11">moved</word>
+<word id="132633006.b.unit.12">into</word>
+<word id="132633006.b.unit.13">this</word>
+<word id="132633006.b.unit.14">property</word>
+<word id="132633006.b.unit.15">in</word>
+<word id="132633006.b.unit.16">April</word>
+<word id="132633006.b.unit.17">i</word>
+<word id="132633006.b.unit.18">paid</word>
+<word id="132633006.b.unit.19">the</word>
+<word id="132633006.b.unit.20">first</word>
+<word id="132633006.b.unit.21">bill</word>
+<word id="132633006.b.unit.22">like</word>
+<word id="132633006.b.unit.23">a</word>
+<word id="132633006.b.unit.24">couple</word>
+<word id="132633006.b.unit.25">of</word>
+<word id="132633006.b.unit.26">weeks</word>
+<word id="132633006.b.unit.27">after</word>
+<word id="132633006.b.unit.28">i</word>
+<word id="132633006.b.unit.29">moved</word>
+<word id="132633006.b.unit.30">in</word>
+<word id="132633006.b.unit.31">but</word>
+<word id="132633006.b.unit.32">i</word>
+<word id="132633006.b.unit.33">haven't</word>
+<word id="132633006.b.unit.34">received</word>
+<word id="132633006.b.unit.35">one</word>
+<word id="132633006.b.unit.36">since</word>
+<word id="132633006.b.unit.37">i</word>
+<word id="132633006.b.unit.38">wondered</word>
+<word id="132633006.b.unit.39">when</word>
+<bcanchor id="132633006.bcanchorb.1"><nite:pointer href="132633006.a.lturn.xml#id(132633006.lturn.2.1)" role="bc"/></bcanchor>
+<word id="132633006.b.unit.45">i</word>
+<word id="132633006.b.unit.46">would</word>
+<word id="132633006.b.unit.47">be</word>
+<word id="132633006.b.unit.48">due</word>
+<word id="132633006.b.unit.63">um</word>
+<num id="132633006.b.unit.64"/>
+<num id="132633006.b.unit.65"/>
+<num id="132633006.b.unit.66"/>
+<num id="132633006.b.unit.67"/>
+<num id="132633006.b.unit.68"/>
+<num id="132633006.b.unit.74"/>
+<num id="132633006.b.unit.75"/>
+<num id="132633006.b.unit.78"/>
+<num id="132633006.b.unit.79"/>
+<num id="132633006.b.unit.82"/>
+<num id="132633006.b.unit.83"/>
+<word id="132633006.b.unit.106">yes</word>
+<word id="132633006.b.unit.107">missus</word>
+<pncode type="surname" id="132633006.b.unit.108"/>
+<num id="132633006.b.unit.111"/>
+<pncode type="road" id="132633006.b.unit.112"/>
+<pncode type="road" id="132633006.b.unit.113"/>
+<bcanchor id="132633006.bcanchorb.2"><nite:pointer href="132633006.a.lturn.xml#id(132633006.lturn.14.1)" role="bc"/></bcanchor>
+<pncode type="letter" id="132633006.b.unit.115"/>
+<pncode type="letter" id="132633006.b.unit.116"/>
+<word id="132633006.b.unit.117">double</word>
+<num id="132633006.b.unit.118"/>
+<num id="132633006.b.unit.119"/>
+<pncode type="letter" id="132633006.b.unit.120"/>
+<pncode type="letter" id="132633006.b.unit.121"/>
+</nite:root>

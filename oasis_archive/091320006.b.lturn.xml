@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='091320006.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='091320006.lturn.2'>
+
+
+<utt id='091320006.utt.2'>
+
+<segment type='frag' sp-act='greet' id='091320006.frag.2'>
+<nite:child href='091320006.b.unit.xml#id(091320006.b.unit.2)..id(091320006.b.unit.3)'/>
+</segment>
+
+</utt>
+
+<utt id='091320006.utt.3'>
+
+<segment type='decl' sp-act='inform' id='091320006.decl.1'>
+<nite:child href='091320006.b.unit.xml#id(091320006.b.unit.4)..id(091320006.b.unit.13)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='091320006.lturn.4'>
+
+
+<utt id='091320006.utt.5'>
+
+<segment type='frag' sp-act='refer' id='091320006.frag.3'>
+<nite:child href='091320006.b.unit.xml#id(091320006.b.unit.15)..id(091320006.b.unit.17)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='091320006.lturn.6'>
+
+
+<utt id='091320006.utt.7'>
+
+<segment type='decl' sp-act='expressWish' id='091320006.decl.2'>
+<nite:child href='091320006.b.unit.xml#id(091320006.b.unit.20)..id(091320006.b.unit.27)'/>
+</segment>
+
+</utt>
+
+<utt id='091320006.utt.8'>
+
+<segment type='q_yn' sp-act='reqInfo' id='091320006.q_yn.1'>
+<nite:child href='091320006.b.unit.xml#id(091320006.b.unit.28)..id(091320006.b.unit.33)'/>
+</segment>
+
+</utt>
+
+<utt id='091320006.utt.9'>
+
+<segment type='decl' sp-act='expressWish' id='091320006.decl.3'>
+<nite:child href='091320006.b.unit.xml#id(091320006.b.unit.34)..id(091320006.b.unit.38)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

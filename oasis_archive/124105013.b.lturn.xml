@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='124105013.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='124105013.lturn.2'>
+
+
+<utt id='124105013.utt.2'>
+
+<segment type='yes' sp-act='ackn' id='124105013.yes.1'>
+<nite:child href='124105013.b.unit.xml#id(124105013.b.unit.2)'/>
+</segment>
+
+</utt>
+
+<utt id='124105013.utt.3'>
+
+<segment type='frag' sp-act='greet' id='124105013.frag.2'>
+<nite:child href='124105013.b.unit.xml#id(124105013.b.unit.3)..id(124105013.b.unit.4)'/>
+</segment>
+
+</utt>
+
+<utt id='124105013.utt.4'>
+
+<segment type='q_yn' sp-act='reqModal' id='124105013.q_yn.1'>
+<nite:child href='124105013.b.unit.xml#id(124105013.b.unit.5)..id(124105013.b.unit.18)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='124105013.lturn.4'>
+
+
+<utt id='124105013.utt.6'>
+
+<segment type='yes' sp-act='ackn' id='124105013.yes.2'>
+<nite:child href='124105013.b.unit.xml#id(124105013.b.unit.23)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='124105013.lturn.6'>
+
+
+<utt id='124105013.utt.10'>
+
+<segment type='yes' sp-act='ackn' id='124105013.yes.4'>
+<nite:child href='124105013.b.unit.xml#id(124105013.b.unit.48)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='124105013.lturn.8'>
+
+
+<utt id='124105013.utt.12'>
+
+<segment type='decl' sp-act='answ' id='124105013.decl.2'>
+<nite:child href='124105013.b.unit.xml#id(124105013.b.unit.55)..id(124105013.b.unit.56)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='124105013.lturn.10'>
+
+
+<utt id='124105013.utt.15'>
+
+<segment type='yes' sp-act='ackn' id='124105013.yes.5'>
+<nite:child href='124105013.b.unit.xml#id(124105013.b.unit.62)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='124105013.lturn.12'>
+
+
+<utt id='124105013.utt.17'>
+
+<segment type='yes' sp-act='ackn' id='124105013.yes.6'>
+<nite:child href='124105013.b.unit.xml#id(124105013.b.unit.64)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='124105013.lturn.14'>
+
+
+<utt id='124105013.utt.19'>
+
+<segment type='yes' sp-act='ackn' id='124105013.yes.7'>
+<nite:child href='124105013.b.unit.xml#id(124105013.b.unit.68)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

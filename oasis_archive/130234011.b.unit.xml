@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="130234011.unit.b">
+<word id="130234011.b.unit.2">um</word>
+<num id="130234011.b.unit.3"/>
+<num id="130234011.b.unit.4"/>
+<num id="130234011.b.unit.5"/>
+<num id="130234011.b.unit.6"/>
+<num id="130234011.b.unit.7"/>
+<num id="130234011.b.unit.8"/>
+<num id="130234011.b.unit.9"/>
+<num id="130234011.b.unit.10"/>
+<num id="130234011.b.unit.11"/>
+<num id="130234011.b.unit.12"/>
+<num id="130234011.b.unit.13"/>
+<num id="130234011.b.unit.17"/>
+<num id="130234011.b.unit.18"/>
+<num id="130234011.b.unit.19"/>
+<num id="130234011.b.unit.21"/>
+<num id="130234011.b.unit.22"/>
+<num id="130234011.b.unit.23"/>
+<num id="130234011.b.unit.25"/>
+<num id="130234011.b.unit.26"/>
+<num id="130234011.b.unit.27"/>
+<word id="130234011.b.unit.35">uh</word>
+<stdzcode id="130234011.b.unit.36" description="name"/>
+<pncode type="surname" id="130234011.b.unit.37"/>
+<num id="130234011.b.unit.38"/>
+<pncode type="road" id="130234011.b.unit.39"/>
+<pncode type="road" id="130234011.b.unit.40"/>
+<word id="130234011.b.unit.50">probably</word>
+<word id="130234011.b.unit.51">in</word>
+<pncode type="surname" id="130234011.b.unit.52"/>
+<word id="130234011.b.unit.54">not</word>
+<word id="130234011.b.unit.55">so</word>
+<word id="130234011.b.unit.56">long</word>
+<word id="130234011.b.unit.57">ago</word>
+</nite:root>

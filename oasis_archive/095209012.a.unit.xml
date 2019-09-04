@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="095209012.unit.a">
+<stdzcode id="095209012.a.unit.1" description="name"/>
+<word id="095209012.a.unit.3">hello</word>
+<word id="095209012.a.unit.4">there</word>
+<sil BTlength="" id="095209012.a.unit.15"/>
+<word id="095209012.a.unit.16">oh</word>
+<word id="095209012.a.unit.17">right</word>
+<word id="095209012.a.unit.18">missus</word>
+<pncode type="surname" id="095209012.a.unit.19"/>
+<word id="095209012.a.unit.24">right</word>
+<word id="095209012.a.unit.62">right</word>
+<word id="095209012.a.unit.63">so</word>
+<word id="095209012.a.unit.64">you</word>
+<word id="095209012.a.unit.65">pay</word>
+<num id="095209012.a.unit.66"/>
+<word id="095209012.a.unit.67">pound</word>
+<word id="095209012.a.unit.68">a</word>
+<word id="095209012.a.unit.69">quarter</word>
+<word id="095209012.a.unit.70">for</word>
+<word id="095209012.a.unit.94">oh</word>
+<word id="095209012.a.unit.95">Caller</word>
+<word id="095209012.a.unit.96">Display</word>
+<word id="095209012.a.unit.103">yes</word>
+<word id="095209012.a.unit.104">you</word>
+<partword id="095209012.a.unit.105">c</partword>
+<word id="095209012.a.unit.106">i</word>
+<word id="095209012.a.unit.107">what's</word>
+<word id="095209012.a.unit.108">your</word>
+<word id="095209012.a.unit.109">telephone</word>
+<word id="095209012.a.unit.110">number</word>
+<word id="095209012.a.unit.111">first</word>
+<word id="095209012.a.unit.112">of</word>
+<word id="095209012.a.unit.113">all</word>
+<num id="095209012.a.unit.117"/>
+<num id="095209012.a.unit.118"/>
+<num id="095209012.a.unit.119"/>
+<num id="095209012.a.unit.124"/>
+<num id="095209012.a.unit.125"/>
+<num id="095209012.a.unit.126"/>
+<num id="095209012.a.unit.127"/>
+</nite:root>
