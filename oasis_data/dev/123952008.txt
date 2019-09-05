@@ -1,0 +1,20 @@
+b|uh yes|ackn
+b|hello|greet
+b|wonder if you can|direct
+b|it's just to inform you of a change of address please|informIntent
+a|yes|ackn
+a|that's fine|accept
+a|do you have your telephone number or your customer number|reqInfo
+b|yes|
+b|uh which would you prefer|reqDirect
+a|customer number would be great|reqInfo
+b|okay|ackn
+a|yes|ackn
+b|double double right|answElab
+a|yeah|ackn
+a|yeah|ackn
+a|that's lovely|appreciate
+a|thank you|thank
+a|that's great|appreciate
+a|i have your details in front of me|inform
+a|would you confirm the account holder's full name address and postcode please|reqInfo

@@ -1,253 +1,163 @@
-b|oh hello|greet
-b|i'm awfully sorry|expressRegret
-b|i rang up yesterday|inform
-b|wonder if you can help me really|direct
-a|hello|
-a|right|ackn
-b|um and i ordered a phone|inform
-b|i wanted to send this answer phone back|inform
-a|oh yeah|ackn
-b|um and i ordered a phone with call display call waiting|inform
-b|and i've got incoming calls only|inform
-b|so|init
-b|i wanted outgoing calls as well um cos me boyfriend's moving in here next week he forgot to tell me last night he told me he'd got the phone and i've paid for it on me card yesterday sorry i paid pounds yesterday yeah|inform
-b|um cos me boyfriend's moving in here next week|inform
-a|uh hmm|
-a|oh right|ackn
-a|yeah|ackn
-b|he forgot to tell me|inform
-b|last night he told me he'd got the phone|inform
-a|right|ackn
-b|and i've paid for it on me card yesterday|inform
-a|so|init
-a|you've paid for these services|confirm
-a|so|init
-a|you might as well have them on your line|unclassifiable
-b|sorry|pardon
-a|you've paid for the services with the phone haven't you like the call waiting and display|confirm
-b|i paid pounds yesterday|inform
-a|that's right yeah|ackn
-a|and if you've only got um incoming calls|confirm
-b|yeah|ackn
-a|oh no|exclaim
-a|that isn't a problem|inform
-b|i wonder if you could tell me um|direct
-b|i'm just going to be moving into a new house shortly|inform
-b|and at the moment there's no phone line at all in the house uh how much does it cost to get to come and install a line it's a brand new house just been built yeah yeah yeah okay that's great okay and how how quickly can you arrange that yeah so when i contact you can we actually specify day that it's done and can you book it as a m or p m|inform
-b|uh how much does it cost to get to come and install a line|reqInfo
-a|right|ackn
-a|do you know whether there has been service in the past or|reqInfo
-b|just been built|answElab
-a|oh it's brand new|confirm
-a|right okay well|init
-a|there's two options|inform
-a|um either way it's an installation fee|inform
-a|for a standard line to be installed|inform
-a|it's actually pounds|inform
-b|yeah|ackn
-a|okay|ackn
-a|and that's with normal line rental which is every quarter|inform
-a|the other option is to actually install under the B T Together discount plan which is um to install|inform
-b|yeah|
-b|yeah|ackn
-a|uh but it's actually per quarter|inform
-a|but then on that package you do actually get all your calls discounted|inform
-a|um plus you get a call allowance as well|inform
-a|so|init
-a|you get free calls worth six pounds every quarter too|inform
-b|okay|ackn
-b|that's great|appreciate
-a|alright|ackn
-b|okay|ackn
-b|and how how quickly can you arrange that|reqInfo
-a|because we need to send out an engineer|inform
-a|i mean you are looking at anything between and working days for the earliest appointment from when you actually contact us|answ
-b|yeah|ackn
-b|so|init
-b|when i contact you|refer
-b|can we actually specify day that it's done|reqInfo
-a|yes yeah|answ
-a|we can book you an appointment in|answElab
-b|and can you book it as a m or p m|reqInfo
-b|uh i'd like another telephone line please if that's possible|direct
-a|yeah certainly|accept
-a|could you give me the number that you're on at the moment|reqInfo
-b|double uh|answElab
-a|double and which which area are you in came right have you got a bill in front of you|echo
-a|and which which area are you in|reqInfo
-b|uh|answ
-a|came|uninterpretable
-a|right|ackn
-a|have you got a bill in front of you|reqInfo
-b|hello|greet
-b|um i've just changed over from to|inform
-b|and uh my lines were installed yesterday and they're working|inform
-b|i can ring out um|inform
-b|but when somebody tries to ring in|refer
-b|the phone doesn't ring|inform
-b|it rings from their end|inform
-b|but the phone doesn't ring in the house|inform
-a|mm hmm|
-a|right|ackn
-a|okay|init
-b|um sorry and i've there's another number at the house as well uh no yeah yeah is that why okay well the chances are that with the other number it's probably similar to be honest with the other number it's attached to my computer so i haven't put the phone on it so i don't know whether it rings right but i'd asked for that one to be i'd asked for my old number to be ported on that number as well|answ
-a|yeah|ackn
-b|and i've there's another number at the house as well|inform
-a|mm mm|
-a|right|ackn
-a|let me just the details right so neither of them actually ring in the property no right now i am actually showing that that first number the engineers haven't actually finished the work on it yet um the exchange do you you were bringing that number back weren't you from your other company yeah yes there looks to be some sort of hold up i'll need to go through to our number portability department for you to find out what the problem is there ah right that one i'm showing that everything is done um yeah that was the is that right|selfTalk
-a|right so|ackn
-a|neither of them actually ring in the property|confirm
-a|no|confirm
-b|uh no|ackn
-a|now|init
-a|i am actually showing that that first number the engineers haven't actually finished the work on it yet um the exchange do you you were bringing that number back weren't you from your other company yeah yes there looks to be some sort of hold up i'll need to go through to our number portability department for you to find out what the problem is there ah right that one i'm showing that everything is done um yeah that was the is that right|inform
-a|the engineers haven't actually finished the work on it yet um the exchange|inform
-a|do you you were bringing that number back weren't you from your other company|reqInfo
-a|yeah|answ
-b|yeah yeah is that why okay well the chances are that with the other number it's probably similar to be honest with the other number it's attached to my computer so i haven't put the phone on it so i don't know whether it rings right but i'd asked for that one to be i'd asked for my old number to be ported on that number as well|ackn
-b|is that why|reqInfo
-a|yes|answ
-a|there looks to be some sort of hold up|answElab
-a|i'll need to go through to our number portability department for you to find out what the problem is there|inform
-b|okay|ackn
-b|well|init
-b|the chances are that with the other number it's probably similar|expressPossibility
-b|to be honest with the other number it's attached to my computer so i haven't put the phone on it|inform
-b|so|init
-b|i don't know whether it rings|inform
-a|ah right|ackn
-a|that one i'm showing that everything is done um|inform
-b|right|ackn
-b|but i'd asked for that one to be i'd asked for my old number to be ported on that number as well|inform
-a|yeah|ackn
-a|that was the is that right|inform
-a|is that right|reqInfo
-b|i hope i've come through to the right line|expressWish
-b|i need to speak to somebody about my bill|inform
-a|right|ackn
-a|yeah|ackn
-a|no|negate
-a|i can help you on that|inform
-b|right|ackn
-b|um i haven't got my customer reference number cos i'm silly|inform
-b|i hope and i don't keep my|uninterpretable
-a|right|ackn
-a|what's your what's your phone number|reqInfo
-b|it's yeah it's missus um place} um well i was supposed to make a payment of pound on on Monday i just wanna say i've been in a hospital and i've just paid it this morning|answ
-a|yeah|ackn
-a|yep|ackn
-a|right can you just confirm the name and address for me please that's lovely how can i help right oh dear right okay|ackn
-a|can you just confirm the name and address for me please|reqInfo
-b|yeah|answ
-b|it's missus um place} um well i was supposed to make a payment of pound on on Monday i just wanna say i've been in a hospital and i've just paid it this morning|answElab
-a|that's lovely|appreciate
-a|how can i help|offer
-b|um well|init
-b|i was supposed to make a payment of pound on on Monday|inform
-b|i just wanna say i've been in a hospital|inform
-b|and i've just paid it this morning|inform
-a|right|
-a|oh dear|exclaim
-a|right okay|ackn
 b|yes|ackn
-b|hello|greet
-b|i'd like to know what my account's up to at the moment my phone bill|reqInfo
-a|right|ackn
-a|what's your customer number please|reqInfo
-b|my customer number is yeah my name's missus on double no is that that one yeah that lets me know what my phone bill is after it's been after it's been sent out i wanna know what i've actually got left on me old bill i've been paying some off but i don't know|answ
-a|mm hmm|
-a|an that's fine|ackn
-a|that's all i need|inform
-a|thank you|thank
-a|and if you can confirm your full name and address with your postcode|reqInfo
-b|yeah|accept
-b|my name's missus on double no is that that one yeah that lets me know what my phone bill is after it's been after it's been sent out i wanna know what i've actually got left on me old bill i've been paying some off but i don't know|identifySelf
-a|okay|ackn
-a|let me just get the details missus i won't keep you a second have you got the freephone number that you can call or right do you do you have a pen handy and i yeah oh i see right okay so|informIntent
-a|i won't keep you a second|hold
-a|have you got the freephone number that you can call or|reqInfo
-b|no|answ
-a|right|ackn
-a|do you do you have a pen handy|reqInfo
-a|and i|uninterpretable
-b|is that that one|reqInfo
-a|yeah|answ
-b|yeah|ackn
-b|that lets me know what my phone bill is after it's been after it's been sent out|confirm
-b|i wanna know what i've actually got left on me old bill|reqInfo
-b|i've been paying some off|inform
-b|but i don't know|inform
-a|oh i see|ackn
-a|right|ackn
-a|okay|ackn
-a|so|init
-b|hello|greet
-b|could uh you send a duplicate of my uh of the phone bill please|direct
-b|because what's happened i've lost part of it|inform
-b|and i can't pay uh the rest in the post office|inform
-b|they say they can't take that part of it|inform
-a|right|ackn
-a|no problem|accept
-a|yeah|ackn
+b|do you want my phone number|reqDirect
 a|that's fine|accept
-a|uh huh|
-a|lovely|appreciate
+a|yes|direct
+b|it's well i've got telephone bill off you this morning and i've only just noticed there's a charge for um a double socket and a telephone i've actually paid for this off my credit card it's a long story i ordered i originally ordered the telephone and gave a credit card number and my card was declined when i rang up um when i rang to find out why she said oh well your card's been declined i rang and she said oh gave us the wrong expiry date so i ordered another yes they did i was very annoyed brand new card i only had it a fortnight i was gonna tell them where to stick it but i thought anyone can make a mistake so it doesn't matter so i rings up orders another phone paid for it with my credit card um got the phone and everything then i gets a letter off yourself saying please re-order your phone so i rang up and i said i've got one i said and actually the first order was cancelled so she went through and i went can you make sure i'm not going to be charged for phones she said yeah that's fine um got me second card it's paid for and everything on my credit card and now i've just got it deducted out me telephone bill the same phone|inform
+a|yeah|
+a|yeah|
 a|thank you|thank
-a|can you confirm your name and the address on the bill for me please|reqInfo
-b|uh it's a mister uh sorry yeah that's right yes oh right cheers|answ
-a|lovely|appreciate
-a|thank you and are you missus and it's just the the last bill is it missus yeah that's no problem at all i have that requested today so it should be with you within the next two or days|thank
-a|and are you missus and it's just the the last bill is it missus yeah that's no problem at all i have that requested today so it should be with you within the next two or days|reqInfo
-b|yeah|answ
-b|that's right|answElab
-a|and it's just the the last bill is it missus yeah that's no problem at all i have that requested today so it should be with you within the next two or days|confirm
-b|yes|ackn
-a|yeah|ackn
-a|that's no problem at all|accept
-a|i have that requested today|informIntent
+a|how can i help you|offer
+b|well|init
+b|i've got telephone bill off you this morning|inform
+b|and i've only just noticed there's a charge for um a double socket and a telephone|inform
+b|i've actually paid for this off my credit card|inform
+b|it's a long story|inform
+b|i ordered i originally ordered the telephone and gave a credit card number|inform
+b|and my card was declined|inform
+b|when i rang up um when i rang to find out why she said oh well your card's been declined|inform
+b|i rang and she said oh gave us the wrong expiry date|inform
+b|so|init
+b|i ordered another|inform
+a|mm mm|
 a|so|init
-a|it should be with you within the next two or days|inform
-b|oh right|ackn
-b|cheers|thank
-b|hello|greet
-b|it's Miss um uh what it is i've been on a budget account to pay my bill off i'm paying the last payment today i think it's and is it possible you could give me um calls again pardon yeah so when i pay it today on me card will it ledge in straight away so it will be on before the weekend's out then alright then thanks alright bye|identifySelf
-b|uh what it is i've been on a budget account to pay my bill off|inform
-b|i'm paying the last payment today|inform
-b|i think it's|inform
-b|and is it possible you could give me um calls again|direct
-a|right|
-a|yeah|answ
-a|as soon as the payment ledgers|answElab
-a|the then the calls will be you you will|uninterpretable
-a|um what have you got|reqInfo
-a|just incoming at the moment or|reqInfo
-b|pardon|pardon
-a|have you got just incoming calls at the moment|reqInfo
-b|yeah|answ
+a|they declined it for that mm|confirm
+b|yes|ackn
+b|they did|inform
+b|i was very annoyed|inform
+b|brand new card|inform
+b|i only had it a fortnight|inform
+b|i was gonna tell them where to stick it but i thought anyone can make a mistake so it doesn't matter|expressOpinion
+b|so|init
+b|i rings up|inform
+b|orders another phone|inform
+b|paid for it with my credit card um|inform
+b|got the phone and everything|inform
+b|then i gets a letter off yourself saying please re-order your phone|inform
+b|so|init
+b|i rang up and i said|inform
+a|mm|
+a|i've got one|complete
+b|i've got one i said and actually the first order was cancelled|inform
+b|so|init
+b|she went through and i went can you make sure i'm not going to be charged for phones|inform
+b|she said yeah that's fine um|inform
+b|got me second card it's paid for and everything on my credit card|inform
+b|and now|refer
+b|i've just got it deducted out me telephone bill the same phone|inform
+a|oh right|ackn
+a|just bear with me|hold
+a|right|init
+a|i've got your details in front of me|inform
+a|would you just confirm your full name address and post code|reqInfo
+a|thank you for calling my name is may i take your telephone number please oh right could you just give me uh the um the address please the name and address yeah yeah right and what's happening she's moving out today yeah|thank
+a|my name is may i take your telephone number please oh right could you just give me uh the um the address please the name and address yeah yeah right and what's happening she's moving out today yeah|identifySelf
+a|may i take your telephone number please|reqInfo
+b|um it's uh now i'm phoning on behalf of me mother she's uh leaving this place today it was rather sudden she's going back to her house um it's uh it's missus and it's ah now she's moving out today um|answ
+b|now|init
+b|i'm phoning on behalf of me mother|inform
+b|she's uh leaving this place today|inform
+b|it was rather sudden|expressOpinion
+b|she's going back to her house|inform
+a|oh right|ackn
+a|could you just give me uh the um the address please the name and address|reqInfo
+b|um it's uh|uninterpretable
+b|it's missus and it's ah now she's moving out today um|answ
+a|yeah|
+a|yeah|
+a|right|ackn
+a|and what's happening|reqInfo
+b|now|init
+b|she's moving out today um|inform
+a|she's moving out today|echo
 a|yeah|ackn
-a|as soon the the money ledgers|refer
-a|it will be made both way working again|inform
-b|so|init
-b|when i pay it today on me card|refer
-b|will it ledge in straight away|reqInfo
-a|it normally takes about twenty four to forty eight hours to ledger|answ
-a|and then as i say the calls will be made both way working again|answElab
-b|so|init
-b|it will be on before the weekend's out then|confirm
-a|yes|ackn
-a|oh yes|ackn
-a|i mean uh i mean if it's not|inform
-a|if you pay it today|inform
-a|and it's not on say um by sort of i don't four o'clock tomorrow|inform
-a|if you come through|inform
-a|we'll check to see if it's ledgered for you|inform
-b|alright then|ackn
-b|thanks|thank
-a|thank you|thank
-b|alright|ackn
-b|bye|bye
-a|byebye|bye
+b|yes|ackn
+b|good morning|greet
+b|um we're looking to install please a new socket|direct
+b|because we're linking up to the internet in a few weeks' time|inform
+a|right|ackn
+a|and you you wanted sort of a new an extension socket in another room|confirm
+b|yes|ackn
+a|okay|ackn
+a|now|init
+a|you do realise that if you put another extension socket in when you're using the internet|inform
+a|nobody can get through on the telephone|inform
+b|right|ackn
+a|yeah|ackn
+a|so|init
+a|you could have a second line if you're under the for a half price installation|inform
+b|and how much is that|reqInfo
+a|that would be pounds to install a completely new second line which you can sort of dedicate for the internet|answ
+b|right|ackn
+a|um or we can supply you with a socket um|offer
+a|we do charge quite a lot of money for an extension socket|inform
+a|it's a it comes to hundred and pounds um if you just wanted the extension socket done i suggest that you um call a local electrician they'd be far much cheaper if it's just an extension you wanted mm well it just means that if you use the internet quite a lot then um you're restricting your phone service you see so people can't get through yeah mm but i mean it's no problem take take uh sort of to days to get an engineer out there and we'll install that for pounds|inform
+a|um if you just wanted the extension socket done|inform
+a|i suggest that you um call a local electrician|suggest
+a|they'd be far much cheaper if it's just an extension you wanted|inform
+b|i mean obviously we're going for the cheaper option|inform
+b|i mean if that means a new line for the internet then fine|accept
+a|mm well|init
+a|it just means that if you use the internet quite a lot|inform
+a|then um you're restricting your phone service you see|inform
+a|so people can't get through|inform
+b|that's right yes|
+b|yeah sorry didn't realise that yes|
+b|people are trying to get through and they can't|confirm
+b|oh right|ackn
+b|didn't realise that|inform
+b|right okay|ackn
+a|yeah|
+a|mm|
+a|but i mean it's no problem|inform
+a|take take uh sort of to days to get an engineer out there|inform
+a|and we'll install that for pounds|confirm
+b|yes|
+b|oh good morning|greet
+b|that was quick|expressOpinion
+b|i was expecting a recorded message then um|inform
+a|ah right|
+a|unfortunately at the moment though i don't have a computer system|expressRegret-inform
+a|so|init
+a|everything i'm doing is taking down sorta and being done later this morning|inform
+b|ah you might not be able to help me then|expressPossibility
+b|but we'll try um what it is i received my phone bill this morning um but i've been paying sort of pound pound off on the card but it doesn't actually show how much i've paid on that card on my bill mm hmm okay yeah oh hang on a minute uh|informIntent
+a|right|
+a|yeah|ackn
+b|um what it is i received my phone bill this morning um|inform
+b|but i've been paying sort of pound pound off on the card|inform
+b|but it doesn't actually show how much i've paid on that card on my bill|inform
+a|yeah|
+a|yeah|
+a|right|ackn
+a|can't actually look at your bill|confirm
+a|that's the only thing|unclassifiable
+a|i can take the details down and um get someone to call you back later|offer
+b|mm hmm|
+b|okay|accept
+a|yeah|ackn
+a|what's your customer number on there please|reqInfo
+b|yeah|
+b|oh hang on a minute|hold
+b|uh|answ
+a|yeah|ackn
+a|thank you for calling my name is can i take your telephone number please just one moment i'll get your details can i take your full name and address please right have you actually got your customer number with you we have a problem with our computer at the moment and we can't actually access uh with the telephone number have you got the customer number there|thank
+a|my name is can i take your telephone number please just one moment i'll get your details can i take your full name and address please right have you actually got your customer number with you we have a problem with our computer at the moment and we can't actually access uh with the telephone number have you got the customer number there|identifySelf
+a|can i take your telephone number please|reqInfo
+b|yeah|answ
+a|just one moment|hold
+a|i'll get your details|informIntent
+b|okay|ackn
+b|like|uninterpretable
+a|can i take your full name and address please|reqInfo
+b|yeah|answ
+a|right|ackn
+a|have you actually got your customer number with you we have a problem with our computer at the moment and we can't actually access uh with the telephone number have you got the customer number there|reqInfo
+a|we have a problem with our computer at the moment|inform
+a|and we can't actually access uh with the telephone number|inform
+a|have you got the customer number there|reqInfo
+b|oh right|
+b|if you hang on|hold
+b|i'll get a bill|informIntent
 b|um can i ask you|reqInfo
 b|is this number a free number or does it get uh charged for|reqInfo
 a|no|answ
@@ -257,174 +167,295 @@ b|thank you very much|thank
 a|okay|init
 b|b'bye|bye
 a|b'bye|bye
-b|oh hello|greet
-b|good morning|greet
-b|can i give you my customer number|reqModal
-a|good morning|
-a|yes please|accept
-b|double yeah|inform
-a|double yeah yeah and there should be letters on the front could you give me those please|echo
-b|yeah|ackn
+b|hi love|greet
+b|it's mister do you want me phone number hang on hang on where's your customer number on your bill your oh yeah double|identifySelf
+b|do you want me phone number|offer
+a|i need your customer number i'm afraid|reqInfo
+b|where's your customer number on your bill|reqInfo
 a|yeah|
-a|yeah|ackn
-a|and there should be letters on the front|inform
-a|could you give me those please|reqInfo
-b|oh hi|greet
-b|i've just um had a new phone line put on this morning|inform
-b|and my number's um and it hasn't got um the Call Back on it|inform
-a|mm hmm|
-b|um and it hasn't got um the Call Back on it|inform
-a|mm hm|ackn
-a|yeah|ackn
-b|and it hasn't got um the Call Back on it|inform
-b|oh can you give me the number i ring for um home mover service|reqInfo
-a|i'm sorry|pardon
-b|the home mover service when i want a line|reqInfo
-a|oh right f|ackn
-a|i can help you with that|offer
-a|is it for a residential line|reqInfo
-b|it is|answ
-b|yes|answElab
-a|yeah|ackn
-a|no|negate
-a|i can help you with that|inform
-a|that's no problem|inform
-b|i'm actually already talking to one of your colleagues it's um thanks|inform
-b|it's um thanks|inform
+a|it's on the top right on the top|answ
+b|your|selfTalk
+b|oh yeah|ackn
+a|that's the one|inform
 a|yeah|ackn
 a|yeah|ackn
+b|yes|ackn
+b|um i want to notify you that i'm um moving out of my house next Wednesday|inform
+b|so|init
+b|i want to discontinue the phone line|direct
 a|right|ackn
-a|let me just get the details for you|informIntent
-a|i won't keep you a second|hold
-b|thanks|thank
-b|hiya|greet
-b|um i'd like to change me Friends And Family|direct
-a|yes|accept
 a|that's fine|accept
-a|that's no problem|accept
-a|can i take your telephone number|reqInfo
-b|yeah|answ
-b|it's uh hmm yep|answElab
-a|aha|ackn
+a|could i take your telephone number please|reqInfo
 a|yeah|ackn
-b|uh hmm|ackn
-b|yep|ackn
 a|thank you|thank
-b|oh hello i got this letter through about B T Planet Talk B T Planet Talk it's about long distance call cheaper rates well i've rang the number it says on here and it says press for sales and for something else well i pressed for sales and then it just goes dead|greet
-b|i got this letter through about B T Planet Talk|inform
-a|about what|reqInfo
-a|sorry|pardon
-b|B T Planet Talk|answ
-b|it's about long distance call cheaper rates|inform
-a|yeah|
+b|and terminate on the nineteenth of July|direct
+a|have you got your customer number as well|reqInfo
+b|i don't have|answ
+b|no|answElab
+b|i'm sorry|expressRegret
+b|um it's uh uh it's i used to live in um i've just moved into number and um me phone's it's still connected up in um yeah um oh sorry|identifySelf
+b|i used to live in um i've just moved into number and um me phone's it's still connected up in um yeah um oh sorry|inform
+a|right okay what what is it you're ringing about please it's still connected at your old address right what was your old telephone number please sorry with the dialling code yeah yeah|ackn
+a|what what is it you're ringing about please|reqInfo
+b|um i've just moved into number and um me phone's it's still connected up in um yeah um oh sorry|answ
+b|and um me phone's it's still connected up in um yeah um oh sorry|answElab
+a|it's still connected at your old address|confirm
+b|yeah|ackn
 a|right|ackn
-b|well|init
-b|i've rang the number it says on here|inform
-b|and it says press for sales and for something else|inform
-b|well|init
-b|i pressed for sales|inform
-b|and then it just goes dead|inform
-b|hello there|greet
-b|it's in here|identifySelf
-a|hiya|greet
+a|what was your old telephone number please|reqInfo
+b|um oh sorry|answ
+a|sorry|expressRegret
+a|with the dialling code|refer
+b|oh sorry|expressRegret
+a|yeah|ackn
+a|yeah|ackn
 b|hi|greet
-b|i've got a job number customer ordered|inform
-b|it's all up and running|inform
-b|the order's there|inform
-b|but they wanted to go ex directory|inform
-b|and it doesn't appear that it's been logged on the system there|inform
-a|oh right|ackn
-a|what was the phone number|reqInfo
-a|have you got that|reqInfo
-a|yeah|ackn
-a|lovely|ackn
-a|thank you can you confirm the customer's name and the address please i haven't got this in the name of so it's changing today is it oh right i've got it here mister does he know the last bit of the the postal code i know it wasn't quite correct|thank
-b|mister and it's that's it's mister it's um still you've probably got it still in the name of it's stopped no it's changing on the there's stop on there's a start on|answ
-b|and it's that's it's mister it's um still you've probably got it still in the name of it's stopped no it's changing on the there's stop on there's a start on|answElab
-b|that's it's mister it's um still you've probably got it still in the name of it's stopped no it's changing on the there's stop on there's a start on|answElab
-b|it's mister it's um still you've probably got it still in the name of it's stopped no it's changing on the there's stop on there's a start on|inform
-a|i haven't got this in the name of so it's changing today is it oh right i've got it here mister does he know the last bit of the the postal code i know it wasn't quite correct|inform
-b|it's um still you've probably got it still in the name of it's stopped no it's changing on the there's stop on there's a start on|inform
-a|so|init
-a|it's changing today is it|confirm
-b|it's stopped|confirm
-b|no|negate
-b|it's changing on the there's stop on there's a start on|inform
-b|there's stop on|inform
-b|there's a start on|inform
-a|oh right|ackn
-a|i've got it here|inform
-a|mister does he know the last bit of the the postal code i know it wasn't quite correct|confirm
-a|does he know the last bit of the the postal code|reqInfo
-a|i know it wasn't quite correct|expressOpinion
-b|oh hello there do you want my name pardon i want to just add another international call on my list for for reduced cost|greet
-a|uh could i just ask what it's regarding please|reqInfo
-b|pardon|pardon
-a|can i just ask what your call's regarding please|reqInfo
-b|i want to just add another international call on my list for for reduced cost|answ
-b|oh hello|greet
-b|could i make arrangements to pay my telephone bill|reqModal
-b|i should have paid it yesterday|inform
-b|but could i have a little bit more time|reqModal
-a|okay|accept
-a|let's have a look for you|informIntent
-a|please what's your phone number please|reqInfo
-a|uh hm|ackn
-a|uh hm|ackn
-a|thank you|thank
-a|can you confirm your full name and address with the postal code please|reqInfo
-b|yes|answ
-b|it's missus noey that's it uh a fortnight's time|answElab
-a|thank you|thank
-a|can you just confirm the initial for me|reqInfo
-b|noey|uninterpretable
-a|thank you right okay it's for pounds yeah when did you want to actually repay that thank you|thank
-a|right okay|ackn
-a|it's for pounds|confirm
-a|yeah|ackn
-a|when did you want to actually repay that|reqInfo
-b|that's it|
-b|uh a fortnight's time|answ
-a|thank you|thank
-b|well|init
-b|yes|init
-b|if you could please|direct
-b|um i'm calling from uh we are in fact moving and have uh made all the arrangements for change uh stopping this number and diverting everything else|inform
-a|mm hm|ackn
-a|mm hm|ackn
-b|uh we are in fact moving and have uh made all the arrangements for change uh stopping this number and diverting everything else|inform
-b|uh right|init
-b|i've um there's a bill from December that i've paid|inform
-b|and i think i've overpaid it|expressOpinion
-b|yeah|ackn
-a|um|
-a|from last December|confirm
-b|yeah|ackn
-a|and what was your telephone number please|reqInfo
-b|it's it'll be in and it's|answ
-a|yeah|ackn
-a|yeah|ackn
-a|lovely|appreciate
-a|i'll just get that on the screen and could you confirm the full name and the address including the postal code for me please yeah and the postal code please uh hmm|informIntent
-a|and could you confirm the full name and the address including the postal code for me please|reqInfo
-b|it'll be in and it's|answ
-a|yeah|ackn
-a|and the postal code please|reqInfo
-b|and it's|answ
+b|could i speak to someone with a query on my Friends And Family please|direct
+a|um yes|accept
+a|uh what's your telephone number|reqInfo
+b|uh breaths out okay okay okay yep it's|answ
+a|hng* i'm afraid i can't do anything on my oh computer's just locked me out hold on righty ho if you just bear with me a moment i'll have to transfer you i'm afraid through to a colleague because i can't dial anything on my on my um keypad if you just bear with me a moment|unclassifiable
+a|i'm afraid i can't do anything on my|inform
+a|oh computer's just locked me out|inform
+a|hold on righty ho if you just bear with me a moment i'll have to transfer you i'm afraid through to a colleague because i can't dial anything on my on my um keypad if you just bear with me a moment|hold
+a|righty ho|ackn
+a|if you just bear with me a moment|hold
+a|i'll have to transfer you i'm afraid through to a colleague|expressRegret
+a|because i can't dial anything on my on my um keypad|inform
+a|if you just bear with me a moment|hold
+b|breaths out|
+b|okay|
+b|okay|
+b|okay|
+b|yep|ackn
+b|it's|inform
+b|good morning|greet
+b|i hope you can um|expressWish
+b|i've moved into a property on the um of this month|inform
+b|now|init
+b|the previous occupiers um were serviced by cable|inform
+b|um i would like to actually go onto i wonder if you can help me regarding this okay it's number right uh to be honest i'm not there at the moment i'd need to sort of have a scout round the house just to check whether there has been yeah|inform
+b|i wonder if you can help me regarding this|direct
 a|uh hmm|
-b|oh hi|greet
-b|can i speak to somebody with regard to um an outstanding bill|direct
-b|we've been sent a reminder yet we didn't get the original bill to start with|inform
-a|oh right|ackn
-a|what's your telephone number please|reqInfo
-b|it's uh uh yes it's my mum's a uh name and address it's miss it's place}|answ
-a|thank you could you just confirm your full name address and postcode please ah ha|thank
-a|could you just confirm your full name address and postcode please|reqInfo
-b|uh yes|answ
-b|it's my mum's a uh name and address|answElab
-b|it's miss it's place}|answElab
-a|ah ha|ackn
-b|it's place}|answElab
+a|right|
+a|yes certainly|accept
+a|no problem at all|accept
+a|right|init
+a|what i'll do is take the address of the property|informIntent
+a|and um we'll see what um whether there's sort of been service from there in the past|inform
+b|okay|ackn
+a|right|init
+a|what's the address of the property|reqInfo
+b|it's number right uh to be honest i'm not there at the moment i'd need to sort of have a scout round the house just to check whether there has been yeah|answ
+a|mm m|
+a|sorry|pardon
+a|thank you yes there has been service there in the past um have can you notice any box at all or do you think cable have gone over the top right because there's been service there in the past um we will arrange for um a engineer to call and survey because it could be that cable have gone over the top of the wiring|thank
+a|yes|ackn
+a|there has been service there in the past|inform
+a|um have can you notice any box at all or do you think cable have gone over the top|reqInfo
+b|right|
+b|uh to be honest i'm not there at the moment|inform
+b|i'd need to sort of have a scout round the house just to check whether there has been|inform
+a|right|ackn
+a|because there's been service there in the past|inform
+b|yeah|ackn
+a|um we will arrange for um a engineer to call and survey|informIntent
+a|because it could be that cable have gone over the top of the wiring|expressPossibility
+b|uh i don't know if it's the right department|raiseIssue
+b|can i speak to somebody called is he there no uh what what it was is he was dealing with an enquiry for me i rang a couple of times yesterday i'm i'm trying to have a gain put on my line|direct
+b|is he there|reqInfo
+a|unfortunately yeah|answ
+a|not in this department|answElab
+b|no|ackn
+a|no|answElab
+b|uh what what it was is he was dealing with an enquiry for me|inform
+b|i rang a couple of times yesterday|inform
+b|i'm i'm trying to have a gain put on my line|inform
+b|hello|greet
+a|hello|greet
+b|sorry|pardon
+b|who's that|reqInfo
+b|oh|exclaim
+b|i got right through to to somebody to speak to me|confirm
+b|i don't get a menu|confirm
+b|um it's accounts department actually|inform
+a|yes|
+b|hiya|greet
+b|i'm on income uh s not incoming calls at the minute|inform
+a|right|ackn
+b|and i's just wondering|inform
+b|could i swap over to outgoing as well but have like a limit put on um yeah more like a call level where as if it gets to that go over that level it will go back to incoming right yeah it's double|reqModal
+a|um or a barring you mean you know where you can bar the outgoing calls or do you mean like a call level right i don't believe there is such as service um but you can put a barring on yourself oh do you have your telephone number yeah yeah okay|reqInfo
+a|you know where you can bar the outgoing calls|reqInfo
+a|or do you mean like a call level|reqInfo
+b|um|
+b|yeah|answ
+b|more like a call level where as if it gets to that go over that level it will go back to incoming|answElab
+a|right|ackn
+a|i don't believe there is such as service um|expressOpinion
+a|but you can put a barring on yourself|inform
+b|right|ackn
+a|oh do you have your telephone number|reqInfo
+b|yeah|answ
+b|it's double|answElab
+a|yeah|ackn
+a|yeah|ackn
+b|double|answElab
+a|okay|ackn
+b|oh hello|greet
+b|could i report a fault on a line please|direct
+a|yep|accept
+a|you need to ring that's it thank you bye|inform
+a|that's it|ackn
+b|thank you|thank
+a|thank you|thank
+a|bye|bye
+b|oh good morning|greet
+b|will we've um|uninterpretable
+b|we a previous address we had a amplifier for the phone|inform
+b|and we can't plug it in here|inform
+b|because the the plug is so close to the radiator|inform
+b|it won't plug in|inform
+b|so|init
+b|can you help us can you|direct
+a|yeah|
+a|oh dear f|expressRegret
+a|yes certainly|accept
+a|that's no problem at all|inform
+a|what we can do is we can organise an engineer for you um a that you know a community engineer can come out for you|offer
+a|and um did you have what you know sort of a sort of a socket doubler was it|reqInfo
+b|yes|
+b|yeah yeah|answ
+b|it had a had a|answElab
+a|or is it or is it the little amplifier that fitted it|reqInfo
+b|two way socket f|answElab
+b|and it was so the the phone plug is so close to the radiator we can't plug it in|inform
+a|that's fine|ackn
+a|can i take you telephone number|reqInfo
+b|yes|answ
+a|yes|ackn
+a|yeah|ackn
+a|yeah|
+b|i wonder if you can|direct
+b|i'm about to move into a room rented premises|inform
+a|right|ackn
+b|and there's a phone socket there|inform
+b|but they just told me there's no line|inform
+b|i need to get one oh or|inform
+b|i'm i'm not quite sure what it is you see|inform
+b|i've got the address|inform
+b|but there's no number|inform
+a|oh|
+a|oh|
+a|that's no problem|accept
+a|do you want to give um me the the address of the property|reqInfo
+a|and i'll see if there's been service there before|offer
+b|right|ackn
+a|yeah|
+a|yeah|ackn
+a|and the post code|reqInfo
+b|um oh i don't know|inform
+b|goodness don't know haven't got that yet okay yes it is f yes that's it lovely thank you now i remember right|exclaim
+b|don't know|inform
+b|haven't got that yet|inform
+a|right|ackn
+a|let's have a look|informIntent
+a|i really do need that|inform
+a|hold on one second|hold
+a|is it okay just bear with me it's right yes there has been um a line at that property so just bear with me one moment|reqInfo
+b|okay|
+b|yes|answ
+b|it is f|answElab
+b|yes|answElab
+a|okay|ackn
+a|just bear with me|hold
+a|it's right yes there has been um a line at that property so just bear with me one moment|inform
+b|that's it|ackn
+b|lovely|appreciate
+b|thank you|thank
+b|now i remember|inform
+a|right|ackn
+a|yes|ackn
+a|there has been um a line at that property|inform
+a|so|init
+a|just bear with me one moment|hold
+b|right|ackn
+b|um actually this is a missus phoning i got a phone bill in uh it's for pound um my phone had been outta order and i've got a list here on my own mobile phone numbers you had transferred the calls because i couldn't get any calls in onto a mobile phone i got and i've got the bill for i don't understand it at all|identifySelf
+b|i got a phone bill in uh it's for pound um my phone had been outta order and i've got a list here on my own mobile phone numbers you had transferred the calls because i couldn't get any calls in onto a mobile phone i got and i've got the bill for i don't understand it at all|inform
+b|uh it's for pound um my phone had been outta order and i've got a list here on my own mobile phone numbers you had transferred the calls because i couldn't get any calls in onto a mobile phone i got and i've got the bill for i don't understand it at all|inform
+a|yes|ackn
+b|um my phone had been outta order and i've got a list here on my own mobile phone numbers you had transferred the calls because i couldn't get any calls in onto a mobile phone i got and i've got the bill for i don't understand it at all|inform
+b|and i've got a list here on my own mobile phone numbers you had transferred the calls because i couldn't get any calls in onto a mobile phone i got and i've got the bill for i don't understand it at all|inform
+b|you had transferred the calls|informDisc
+b|because i couldn't get any calls in|inform
+a|right|ackn
+b|onto a mobile phone i got|informCont
+b|and i've got the bill for|inform
+b|i don't understand it at all|inform
+a|right|
+b|yes|ackn
+b|i'd like to um request a couple of services please|direct
+b|i'd like to um update my family and friends list|directElab
+a|right okay|accept
+a|no problem|accept
+a|and uh what's your phone your home phone number please|reqInfo
+b|it's yes it's missus yes i would yes right um right let me get it on here um the one that one off and right the ones have automatically been changed haven't they|answ
+a|yeah|
+a|lovely|appreciate
+a|thank you|thank
+a|and can you confirm your full name and address with your postal code please|reqInfo
+b|yes|answ
+b|it's missus yes i would yes right um right let me get it on here um the one that one off and right the ones have automatically been changed haven't they|answElab
+a|that's lovely|appreciate
+a|thank you|thank
+a|right|init
+a|so|init
+a|you'd like to change a couple of the numbers would you on the friends and family|confirm
+b|yes|ackn
+b|i would yes|ackn
+a|yeah|ackn
+a|okay|accept
+a|do you know which ones you want to take off or|reqDirect
+b|right um right let me get it on here um the one that one off and right the ones have automatically been changed haven't they|ackn
+b|right|ackn
+b|let me get it on here|informIntent
+b|um the one that one off and right the ones have automatically been changed haven't they|inform
+a|yep|ackn
+a|so|init
+a|that wants to come off|confirm
+b|that one off|inform
+a|yeah|ackn
+a|right|ackn
+b|and right|ackn
+b|the ones have automatically been changed haven't they|confirm
+a|they have|ackn
+a|yeah|ackn
+b|hello|greet
+b|i wonder if you could keep an eye on me phonecalls|direct
+b|cause i just got a heavy breather on it|inform
+a|right|ackn
+a|you're getting um some nuisance calls from somebody um there are well there are a few things that we can do um one is called Choose To Refuse whereby um you can dial a code into your phone and that will allow you to have that number barred from ringing you again even if you even if you don't know what who what the number is even if they've withheld the number it will still bar that number from ringing you again um and i can arrange for you to have that for a month for free if if you would like and that may go some way towards um preventing these calls from happening again uh the other number is we have a nuisance call bureau as well um which can advise you in more detail about some of the things that can be done and what to do um i don't know what you would|confirm
+a|um there are well there are a few things that we can do um|inform
+a|one is called Choose To Refuse whereby um you can dial a code into your phone|inform
+b|yeah|
+b|yeah|ackn
+a|and that will allow you to have that number barred from ringing you again|inform
+a|even if you even if you don't know what who what the number is|inform
+a|even if they've withheld the number|inform
+b|mm hmm|
+b|i don't|
+b|mm hmm|ackn
+a|it will still bar that number from ringing you again|inform
+b|yeah|ackn
+a|um and i can arrange for you to have that for a month for free|offer
+b|mm hmm|ackn
+a|if if you would like|offer
+a|and that may go some way towards um preventing these calls from happening again uh|expressPossibility
+a|the other number is we have a nuisance call bureau as well|inform
+b|yeah|ackn
+a|um which can advise you in more detail about some of the things that can be done and what to do|inform
+b|right|ackn
+a|um i don't know what you would|reqDirect
 b|oh sorry|expressRegret
 b|i think i've rang the wrong number|expressOpinion
 b|i'm wanting um international directory enquiries|expressWish
@@ -442,240 +473,246 @@ b|thanks|thank
 b|bye|bye
 a|thank you|thank
 a|bye|bye
-b|hello|greet
-b|my name's um|identifySelf
-b|i i want i wanna make an enquiry about getting a new handset|direct
-b|cause i've got one that's i thinks come out of the ark yeah it's it was uh i think this one was in the house when we moved in right it's uh uh yeah well the one i've got i think there's two here cause there's and there's an extension upstairs and there was one downstairs|expressOpinion
-a|oh right okay|accept
-a|is it one you rent from us do you know or|reqInfo
-b|yeah|answ
-b|it's it was uh i think this one was in the house when we moved in|expressOpinion
+b|hi|greet
+b|uh i've got to pay my bill today|inform
+b|or i get cut off apparently|inform
 a|oh right|ackn
-a|what what's your telephone number|reqInfo
-a|and i'll just get your rental details|informIntent
+b|um now|init
+b|unfortunately i don't have the money|inform
+b|so|init
+b|my mum's gonna lend me the money|inform
+a|mm|ackn
+b|um but she lives down in on and i live in um now|inform
+b|what she's proposing is that she actually goes into the herself and pays it|inform
+b|but she doesn't have a paying paying in slip|inform
+b|is there anything that can be done about this|reqInfo
+a|right|ackn
+a|i don't know if you'll be able to get a paying in slip at the they might be able to furnish her with a paying in slip for you and if she just puts your account number name and amount on it hopefully they will take it on that have you not got the bill there then what's what's your telephone number sir and i'll have a look|inform
+a|they might be able to furnish her with a paying in slip for you|expressPossibility
 b|right|ackn
-b|it's uh uh yeah well the one i've got i think there's two here cause there's and there's an extension upstairs and there was one downstairs|answ
-a|yeah|ackn
-b|uh yeah well the one i've got i think there's two here cause there's and there's an extension upstairs and there was one downstairs|answElab
-a|can you just confirm the address for me mister and do you know the postcode lovely thank you uh right yeah it's actually one we don't make that one anymore ah right we've only got one on your rental details so only one of them actually belongs to us|reqInfo
-b|yeah|answ
-a|and do you know the postcode|reqInfo
-a|lovely|appreciate
-a|thank you uh|thank
-a|right yeah|ackn
-a|it's actually one|inform
-a|we don't make that one anymore ah right we've only got one on your rental details so only one of them actually belongs to us|inform
-b|well|init
-b|the one i've got|refer
-b|i think there's two here|expressOpinion
-b|cause there's and there's an extension upstairs and there was one downstairs|inform
-a|ah right|ackn
-a|we've only got one on your rental details|inform
-a|so only one of them actually belongs to us|inform
-b|it's it's miss place} um do you know my customer service number well do you know the one i've got on my bill have you got double|inform
+a|and if she just puts your account number name and amount on it|inform
+a|hopefully they will take it on that|inform
+b|okay now|ackn
+b|um yeah|ackn
+b|i don't actually know what my account number is for a start|inform
+a|have you not got the bill there then|reqInfo
+b|um i'm not|uninterpretable
+b|um uh also the thing is it's gone gone so late that it's actually gone over to the next one now|inform
+b|i believe that i owe seventy eight on the last bill|expressOpinion
+b|or to stop it|uninterpretable
+a|what's what's your telephone number sir|reqInfo
+a|and i'll have a look|informIntent
+b|it's|
+b|hello|greet
+b|who am i speaking to|reqInfo
+a|hello|answ
+b|is that okay this is mister double|reqInfo
+a|yes|answ
+a|it is|answElab
+b|okay|ackn
+b|this is mister double|inform
+b|hello|greet
+b|i wonder if you could just um investigate to see whether our telephone's been turned back on yet please|direct
+a|okay sir|accept
+a|what's your telephone number|reqInfo
+b|it's double yeah uh i'm sorry i've not no it has been put back on|answ
 a|thank you|thank
 a|i have your details in front of me|inform
-a|could you please confirm your full name address and postcode|reqInfo
-b|it's miss place} um do you know my customer service number well do you know the one i've got on my bill have you got double|answ
-a|thanks very much miss how can i help your yes your customer service number yes i've got in on the screen here yes no|thank
-a|how can i help|reqDirect
-b|um do you know my customer service number|reqInfo
-a|your yes your customer service number|confirm
-a|yes|answ
-b|well|init
-b|do you know the one i've got on my bill|reqInfo
-a|i've got in on the screen here|answ
-a|yes|answElab
-b|have you got double|reqInfo
-a|no|answ
-b|hello|greet
-b|i wonder if you can help me|direct
-b|uh i wanna make a complaint|informIntent
-a|yes sure|
-a|what regarding sir|reqInfo
-b|what fis it love yeah|unclassifiable
-b|there's i've just come out of prison yeah|inform
-a|you've got you've what|reqInfo
-a|sorry|pardon
-a|yeah|ackn
-b|and what it is|refer
-b|where i used to live yeah at the address|refer
-b|there's a girl got a phone put on right in my name|inform
-a|yes|
-a|and what's the telephone number there sir|reqInfo
-b|it's oh it's it's in a mister it is|answ
-a|yeah|ackn
-a|yes|
-a|right|ackn
-a|i'll just get the details up ok|informIntent
-b|oh it's it's in a mister it is|inform
-a|and did you know the person who's there then|reqInfo
-a|did you know her|reqInfo
-b|hi|greet
-b|um i'm just ringing to check uh whether i've paid my bill or not|reqInfo
-b|i it it was so long ago i can't remember|inform
-b|and i'm not sure whether i've had any reminders or anything|inform
-a|have you got the account number for that please|reqInfo
-b|oh i haven't|answ
-b|no|answElab
-b|that's the thing|inform
-b|i've lost the bill|inform
-b|that's why i'm not too sure if i've paid it or not|inform
-a|um what was the telephone number then please|reqInfo
-b|it's it's um it has been paid excellent okay that's that's all i wanted to know thanks very much cheers bye|answ
-a|mm hmm|
-a|mm hmm|
-b|it's um it has been paid excellent okay that's that's all i wanted to know thanks very much cheers bye|answ
-a|mm|
-a|mm|
-a|right|ackn
-a|thank you your last bill was in May and that has been paid so we yeah there's no outstanding balance at the moment yeah we received that alright then okay then thanks bye bye|thank
-a|your last bill was in May|inform
-a|and that has been paid|inform
-a|so|init
-a|we|uninterpretable
-b|it has been paid|confirm
-a|yeah|ackn
-a|there's no outstanding balance at the moment|inform
-b|excellent|ackn
-a|yeah|ackn
-a|we received that|inform
-b|okay|ackn
-b|that's that's all i wanted to know|inform
-b|thanks very much|thank
-a|alright then|
-a|okay then|init
-b|cheers|thank
-b|bye|bye
-a|thanks|thank
-a|bye bye|bye
-b|basically i've had uh i've gotta pay me phone bill yeah|inform
-b|and what happened was I got a letter through|inform
-b|and i mean it's only been a couple of weeks|inform
-b|and they basically made it so it was incoming calls only which is fine|inform
-b|and then i rang up|inform
-b|and we basically said we arranged like you know a payment plan|inform
-b|and i've been cut off this morning|inform
-b|and now|init
-b|they know what what i'm waiting for|inform
-b|i've got a loan coming through on Friday|inform
-b|and i said basically it'll get paid off instantly then or so much per week|inform
-b|and they seemed happy with it|inform
-b|and i just thought that'd be fine|inform
-b|and all of a sudden i've been cut off|confirm
-b|and this is the second time now|inform
-a|right|
-a|right|
-a|what's your customer number|reqInfo
-b|uh oh god|exclaim
-b|you mean my phone number or my|reqInfo
-a|what's your telephone number|reqInfo
-a|okay|ackn
-a|could your confirm your name and address including postcode please sir|reqInfo
+a|can i just confirm your name address and post code sir|reqInfo
 b|yeah|answ
-b|it's and the address is|answElab
-b|and the address is|answElab
-b|uh yeah|ackn
-b|i just been through been put through to somebody um about|inform
-b|i've just paid the telephone bill um and i've been put on to i was on incoming calls|inform
-b|no|direct
-b|i i'm we've just come back from|inform
-b|and i had we had to wait to be paid|inform
-b|so|init
-b|i|informDisc
-a|yes|
-a|oh i see|ackn
-b|paid the bill|informCont
-b|and yeah and i just been speaking to somebody and all of a sudden i got cut off|inform
-b|i don't know why|inform
-a|oh right|ackn
-a|were you speaking to accounts at all|reqInfo
-b|i think so|answ
-a|yeah|ackn
-a|i need to put you through there and then they'll arrange to get the line put back on for you|informIntent
-b|okay then|accept
-a|okay|ackn
-a|good|thirdParty
-a|uh the next one was due okay have you got um your uh could i have your telephone number please thank you um right i've got your details in front of me can i confirm your name and postcode please mm hm um|identifySelf
-b|um well|init
-b|i hope you can|expressWish
-b|i moved into this property in April|inform
-b|i paid the first bill like a couple of weeks after i moved in|inform
-b|but i haven't received one since|inform
-b|i wondered when i would be due|reqInfo
-a|the next one was due|
-a|okay|ackn
-a|have you got um your uh could i have your telephone number please|reqInfo
-b|um yes missus double|answ
+a|and um do you have your customer number with you as well sir|reqInfo
+b|i'm sorry|expressRegret
+b|i've not|answ
+b|no|answElab
+a|right okay uh yes it looks as if it has been sir as far as i can tell from my um screen yes er the line should be working|accept
+a|it looks as if it has been sir|inform
+b|it has been put back on|confirm
+a|as far as i can tell from my um screen|inform
+a|yes|init
+a|er the line should be working|inform
+b|oh hello love|greet
+b|i just want to know if you if you charge uh for um when somebody's been ringing you and you want to know whose rang and you press it's free i i beg your pardon pardon no no no i no but i've just rung one for one call do you charge for that okay then bye bye|reqInfo
+a|no no|answ
+a|that's a free service|answElab
+b|it's free|confirm
+a|it's free|answElab
+a|but there is a chargeable version of that|answElab
+a|it's uh Advanced|answElab
+a|and basically that gives you a list of the last ten callers|answElab
+a|that's|answElab
+b|pardon|pardon
+a|and that and not only tells you the last caller but the last ten callers|answElab
+b|no no no|negate
+b|i no but i've just rung one for one call|inform
+b|do you charge for that|reqInfo
+a|no no|answ
+a|that's free|answElab
+b|okay then|ackn
+a|okay then|init
+a|bye bye|bye
+b|bye bye|bye
+a|thank you for calling my name's uh can i have your telephone number please thank you um i have your details in front of me can i confirm your name address and postcode please uh um|thank-identifySelf
+a|my name's uh can i have your telephone number please thank you um i have your details in front of me can i confirm your name address and postcode please uh um|identifySelf
+a|uh can i have your telephone number please|reqInfo
+b|oh yes|answ
+b|it's yep uh yes it's for a missus uh|answElab
+b|yep|ackn
 a|thank you|thank
-a|um right|ackn
-a|i've got your details in front of me|inform
-a|can i confirm your name and postcode please|reqInfo
-b|yes|answ
-b|missus double|answElab
-a|mm hm|ackn
-a|um|
-a|hello hello|greet
-b|hello|greet
-a|hello|greet
-b|um i wanna uh um put in a new phone for my new address|direct
-a|okay|accept
-b|no|answ
-b|i've just moved from me parents|answElab
-b|so|init
-a|no okay|
-a|thank|thirdParty
-a|uh|thirdParty
-a|how can i help you|offer
-b|yes|ackn
-b|i've got a fault on the line|inform
-b|could you check into it for us please|direct
-a|you've got a a fault on the line sir|confirm
-b|yeah|ackn
-b|the phone is doesn't appear to be working all that all that good|inform
-a|okay sir|accept
-a|um you really need to ring faults department|suggest
-b|okay|accept
-a|sorry|expressRegret
-a|i beg your pardon|expressRegret
-b|cheers now|thank
-a|okay|ackn
-a|byebye|bye
-b|bye|bye
-b|uh hello|greet
-b|can i speak to someone um about um cards that you can have um|direct
-b|my three children have got a card and they can phone home|inform
-a|oh right yeah|ackn
-a|Contact Cards yeah|reqInfo
-b|yeah|
-b|a Contact Card|answ
-b|now|init
-b|um my son 's got a Contact Card|inform
-b|but he can use it for other phone calls|inform
-b|now|init
-b|what happened|refer
-b|i had a lot um i phoned up|inform
-b|and i i asked for um how i could put a lock on my phone|inform
-a|right|
+a|um i have your details in front of me|inform
+a|can i confirm your name address and postcode please|reqInfo
+b|uh yes|answ
+b|it's for a missus uh|answElab
+a|uh um|ackn
+b|uh|answElab
+b|oh hello|greet
+b|um i phoned up this morning uh to say i had problems with my Easycom One Thousand|inform
+b|and i wanted a a jiffy bag to send it back|inform
+a|oh yes|
 a|right|ackn
-b|but i didn't realise that when uh you could use you could still use your phone card when you have a lock|inform
-a|yes|ackn
-a|you can|accept
+b|but anyway the young man i spoke to gave me a helpline number for um phones that were still under guarantee|inform
+b|you know mine's only a few days old|inform
+a|right|ackn
+b|uh uh because i didn't want to pay a minute to find out if the phone was faulty or not if you understand me well that's what it says if when i've just spolled this number right and it says this number is changed it's and calls are charged at per minute yes thank you|inform
+a|right|ackn
+b|uh because i didn't want to pay a minute to find out if the phone was faulty or not if you understand me|inform
+a|why would you be saying that then|reqInfo
 b|well|init
-b|the result of that is i've just got a pound phone bill|inform
+b|that's what it says if|answ
+b|when i've just spolled this number|answElab
+a|yeah|ackn
+b|right|ackn
+b|and it says this number is changed|answElab
+b|it's and calls are charged at per minute|answElab
 a|right|ackn
-a|let me just have a look for you|offer
-a|have you got your customer number there please|reqInfo
-b|um just hold on|hold
+a|what i'll do is um|informIntent
+a|i've got a number somewhere|inform
+a|can you hold on a second|hold
+b|yes|accept
+b|thank you|thank
+a|hold on|hold
+b|yeah|ackn
+b|hi|greet
+b|i wonder if you can um|direct
+b|i'm interested in getting a second phone line put in for internet access|inform
+a|right okay|
+a|yes|ackn
+b|uh just want to know what i have to do basically|reqInfo
+a|right|ackn
+a|not a problem um|accept
+a|can i just take your telephone number please|reqInfo
+b|yep|answ
+b|it's double it's miss and the address is|answElab
+a|okay then|ackn
+a|i've got your details in front of me|inform
+a|can you confirm your full name and address including postcode please|reqInfo
+b|it's miss and the address is|answ
+a|mm hm|ackn
+b|and the address is|answElab
+a|uh um|
+b|who is that|reqInfo
+a|it's from customer services|answ
+b|oh sorry|expressRegret
+b|i don't know how i got you|inform
+b|because it's not what i wanted|inform
+b|i'm awfully sorry|expressRegret
+a|that's okay|accept
+b|i just redialled you know did the redial to somebody who'd just been on|inform
+b|sorry about that|expressRegret
+a|not a problem|accept
+b|bye|bye
+b|bye|bye
+a|okay|init
+a|byebye|bye
+b|oh i phoned earlier about um the purchase of some tickets|inform
+b|and i've been given several numbers um|inform
+b|could you speak to your or could you put me through to your um you know the people who deal with it|direct
+a|i wasn't aware that we were actually issuing tickets from here to be honest|inform
+b|um|unclassifiable
+a|is it a number you've been you've read somewhere or|reqInfo
+b|yes|answ
+b|and i was given um double and they've given me another number and they have given me another number and i've so i've come back to square one to see where i you know if i it's the marketing department at i need to speak to it's it's mm hmm it's a special offer that uh are promoting at the moment|answElab
 a|yeah|ackn
-a|yeah|ackn
-b|um my sister at was supposed to have um her phone put on yesterday|inform
-a|right okay|ackn
-b|um it's got one of the old fashion bakerlite type one|inform
-b|she's got to have a new socket put on|inform
+b|and they've given me another number|answElab
+b|and they have given me another number|answElab
+b|and i've|uninterpretable
+b|so|init
+b|i've come back to square one to see where i you know if i|inform
+b|it's the marketing department at i need to speak to|inform
 a|oh right|ackn
-a|okay|ackn
-a|what's the|reqInfo
-b|but has she got to pay for it|reqInfo
-b|or you do you have to make the do it|uninterpretable
-b|cos this is um an old age pensioner's house|inform
+a|i'll get onto them for you then|informIntent
+a|and what's your name please|reqInfo
+b|it's it's mm hmm it's a special offer that uh are promoting at the moment|answ
+b|mm hmm|ackn
+a|thank you very much|thank
+a|i'll just get through to marketing|informIntent
+a|and was it a special offer or just to actually order the tickets|reqInfo
+b|it's a special offer that uh are promoting at the moment|answ
+b|um i'd like to stop the um call minder please|direct
+b|is that possible|reqInfo
+a|that's fine|accept
+a|can i just take your uh customer number please|reqInfo
+b|yes|answ
+b|oh hang on|hold
+b|i haven't got it available|inform
+b|i've got my telephone number|inform
+b|is that no help|reqInfo
+a|that's fine|answ
+a|yep|answElab
+b|are you sure|reqInfo
+b|it's double sorry the postcode sorry sorry double no no it's all right lovee it just that it's not used so it's pointless isn't it really yes yes it's um missus do you want postcode for thanks a lot thanks a lot bye bye|inform
+b|sorry|expressRegret
+b|the postcode|unclassifiable
+b|sorry|expressRegret
+a|bear with me|hold
+b|sorry|expressRegret
+a|yeah|
+a|i mean i can remove your call minder|inform
+a|but i can't remove it today without your customer number|inform
+a|i can only move it in three days|inform
+b|no no|
+b|it's all right lovee|accept
+b|it just that it's not used|inform
+b|so|init
+b|it's pointless isn't it really|expressOpinion
+a|that's fine|
+a|that's that's fine|
+a|can you just confirm your full name address including postcode yes|reqInfo
+b|yes yes|answ
+b|it's um missus|answElab
+b|do you want postcode|reqDirect
+a|mm|
+a|mm|
+a|thats fine|accept
+a|that's okay|accept
+b|thanks a lot|thank
+a|i'll get that stopped in three days for you|informIntent
+b|thanks a lot|thank
+a|okay then|init
+a|not a problem|accept
+b|bye bye|bye
+b|hello we we asked for an itemised bill on uh on the of this month how long will it take to get here do you know it's double double no it's not for a bill we wanted it because we want to find out a telephone number that someone dialled out of my house it's double okay it's and the postcode's and the name's|greet
+b|we we asked for an itemised bill on uh on the of this month|inform
+b|how long will it take to get here do you know|reqInfo
+a|right|ackn
+a|what's your telephone number please|reqInfo
+b|it's double double no it's not for a bill we wanted it because we want to find out a telephone number that someone dialled out of my house it's double okay it's and the postcode's and the name's|answ
+a|so|init
+a|it's double thank you have you already received a bill oh i see i see sorry can i take the number again yeah and the code is thank you and can you just confirm your full name address and postcode please mm hm|confirm
+a|thank you|thank
+a|have you already received a bill|reqInfo
+b|no|answ
+b|it's not for a bill|inform
+b|we wanted it because we want to find out a telephone number that someone dialled out of my house|inform
+a|oh i see i see|ackn
+a|sorry|expressRegret
+a|can i take the number again|reqInfo
+b|it's double okay it's and the postcode's and the name's|answ
+a|yeah|ackn
+a|and the code is thank you and can you just confirm your full name address and postcode please mm hm|confirm
+a|thank you|thank
+a|and can you just confirm your full name address and postcode please|reqInfo
+b|okay|accept
+b|it's and the postcode's and the name's|answ
+a|mm hm|ackn
+b|and the postcode's and the name's|answElab
+b|and the name's|answElab

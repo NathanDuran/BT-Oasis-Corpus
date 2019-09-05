@@ -1,0 +1,34 @@
+b|hello|greet
+b|um i'm just enquiring about uh another line put in|inform
+a|right|ackn
+a|to have|uninterpretable
+a|uh you've got the one line in at the moment have you|reqInfo
+b|i have|answ
+b|yeah yeah|answ
+a|okay|ackn
+a|to have a second line put in would cost including VAT if you do it|inform
+b|is is that just the cost to get it put in|reqInfo
+a|that's just your installation charge|answ
+a|that's if you do it on the B T Together|answElab
+a|if you have it on the same account as your your initial line under a seperate telephone number|answElab
+a|your line rental would be including VAT a month for the extra line|answElab
+b|yeah uh|ackn
+b|see all i want i mean i'm not really bothered about numbers or anything like that just that|inform
+b|i need a second line in one for like me me calls and one for me computer you know|inform
+a|right|ackn
+a|yeah|ackn
+a|it would be an extra a month including VAT line rental on the second line so you would be paying the two amounts of line rental|inform
+b|right|ackn
+b|so|init
+b|it'd be um so it's basically say a tenner extra on the so it's like a month so is that including the pound for the actual installation is it right|confirm
+b|so|init
+b|it's like a month|uninterpretable
+a|a month|complete
+a|that's correct|accept
+b|so|init
+b|is that including the pound for the actual installation is it|reqInfo
+a|no|answ
+a|your your including VAT is an initial one off charge on the B T Together discount package|answElab
+a|that's for your installation|answElab
+a|your line rental the extra amount you're going to be paying each month after that's paid is|answElab
+b|right|

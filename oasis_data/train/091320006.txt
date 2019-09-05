@@ -1,8 +1,0 @@
-b|good morning|greet
-b|it's uh well we're getting a new phone put in|inform
-a|right|ackn
-b|uh on Wednesday|refer
-a|uh huh|ackn
-b|and we just wanted the outgoing calls|expressWish
-b|is it incoming calls just now|reqInfo
-b|if i could change it|expressWish

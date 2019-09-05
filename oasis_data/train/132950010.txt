@@ -1,0 +1,18 @@
+a|thank|thirdParty
+a|uh|thirdParty
+a|how can i help you|offer
+b|yes|ackn
+b|i've got a fault on the line|inform
+b|could you check into it for us please|direct
+a|you've got a a fault on the line sir|confirm
+b|yeah|ackn
+b|the phone is doesn't appear to be working all that all that good|inform
+a|okay sir|accept
+a|um you really need to ring faults department|suggest
+b|okay|accept
+a|sorry|expressRegret
+a|i beg your pardon|expressRegret
+b|cheers now|thank
+a|okay|ackn
+a|byebye|bye
+b|bye|bye

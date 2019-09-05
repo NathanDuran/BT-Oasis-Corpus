@@ -1,0 +1,38 @@
+b|i wonder if you could tell me um|direct
+b|i'm just going to be moving into a new house shortly|inform
+b|and at the moment there's no phone line at all in the house uh how much does it cost to get to come and install a line it's a brand new house just been built yeah yeah yeah okay that's great okay and how how quickly can you arrange that yeah so when i contact you can we actually specify day that it's done and can you book it as a m or p m|inform
+b|uh how much does it cost to get to come and install a line|reqInfo
+a|right|ackn
+a|do you know whether there has been service in the past or|reqInfo
+b|just been built|answElab
+a|oh it's brand new|confirm
+a|right okay well|init
+a|there's two options|inform
+a|um either way it's an installation fee|inform
+a|for a standard line to be installed|inform
+a|it's actually pounds|inform
+b|yeah|ackn
+a|okay|ackn
+a|and that's with normal line rental which is every quarter|inform
+a|the other option is to actually install under the B T Together discount plan which is um to install|inform
+b|yeah|
+b|yeah|ackn
+a|uh but it's actually per quarter|inform
+a|but then on that package you do actually get all your calls discounted|inform
+a|um plus you get a call allowance as well|inform
+a|so|init
+a|you get free calls worth six pounds every quarter too|inform
+b|okay|ackn
+b|that's great|appreciate
+a|alright|ackn
+b|okay|ackn
+b|and how how quickly can you arrange that|reqInfo
+a|because we need to send out an engineer|inform
+a|i mean you are looking at anything between and working days for the earliest appointment from when you actually contact us|answ
+b|yeah|ackn
+b|so|init
+b|when i contact you|refer
+b|can we actually specify day that it's done|reqInfo
+a|yes yeah|answ
+a|we can book you an appointment in|answElab
+b|and can you book it as a m or p m|reqInfo

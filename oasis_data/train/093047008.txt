@@ -1,0 +1,13 @@
+b|hiya|greet
+b|um i'd like to change me Friends And Family|direct
+a|yes|accept
+a|that's fine|accept
+a|that's no problem|accept
+a|can i take your telephone number|reqInfo
+b|yeah|answ
+b|it's uh hmm yep|answElab
+a|aha|ackn
+a|yeah|ackn
+b|uh hmm|ackn
+b|yep|ackn
+a|thank you|thank

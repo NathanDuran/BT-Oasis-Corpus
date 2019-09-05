@@ -1,0 +1,55 @@
+b|listen|init
+b|i was just speaking to somebody um a minute ago|inform
+b|and i got cut off um|inform
+b|dunno quite what happened there um it's regarding um i'm closing down the line for this house at the moment cause i'm moving tomorrow yes okay it's yeah yes it's mister that's yes it was um the thing was cause he was gonna put an urgent request to get it stopped within seven days cause i'm actually moving tomorrow and um and he was just in the process of doing that and he says to me he's just arranged it to be um closed down within the seven days and then the line went dead and i was gonna tell him that um on the twenty seventh i'm moving into uh my new permanent property and i wanted to um take up a line there too it's tomorrow yes i do yeah it's right|expressOpinion
+b|cause i'm moving tomorrow|inform
+a|okay|ackn
+a|do you want to give me the phone number there first|reqInfo
+a|sorry to interrupt you there|expressRegret
+a|i'll just get the details up yeah|informIntent
+b|yes|
+b|okay|
+b|it's yeah yes it's mister that's yes it was um the thing was cause he was gonna put an urgent request to get it stopped within seven days cause i'm actually moving tomorrow and um and he was just in the process of doing that and he says to me he's just arranged it to be um closed down within the seven days and then the line went dead and i was gonna tell him that um on the twenty seventh i'm moving into uh my new permanent property and i wanted to um take up a line there too it's tomorrow yes i do yeah it's right|answ
+a|yep|
+a|yep|
+a|thank you|thank
+a|just quickly confirm the name and address there for me|reqInfo
+b|yeah|
+b|yes|ackn
+b|it's mister|answ
+b|that's yes it was um the thing was cause he was gonna put an urgent request to get it stopped within seven days cause i'm actually moving tomorrow and um and he was just in the process of doing that and he says to me he's just arranged it to be um closed down within the seven days and then the line went dead and i was gonna tell him that um on the twenty seventh i'm moving into uh my new permanent property and i wanted to um take up a line there too it's tomorrow yes i do yeah it's right|answElab
+a|yes|
+a|okay|ackn
+a|so|init
+a|just to get the line stopped for whenever or what|reqInfo
+b|yes|answ
+b|it was um the thing was|refer
+b|cause he was gonna put an urgent request to get it stopped within seven days|inform
+b|cause i'm actually moving tomorrow|inform
+b|and um and he was just in the process of doing that|inform
+b|and he says to me he's just arranged it to be um closed down within the seven days|inform
+b|and then the line went dead|inform
+b|and i was gonna tell him that um on the twenty seventh i'm moving into uh my new permanent property|informIntent
+b|and i wanted to um take up a line there too|informIntent
+a|right|
+a|mm|
+a|okay|ackn
+a|so|init
+a|when do you want to get this one stopped first of all|reqDirect
+b|it's tomorrow|direct
+a|so|init
+a|have you actually got the account number with you|reqInfo
+b|yes|answ
+b|i do|answElab
+a|yeah|ackn
+a|can i just take that yeah|reqInfo
+b|yeah|answ
+b|it's right|answElab
+a|yes|
+a|mm|
+a|that's fine|appreciate
+a|that's all i need there|inform
+a|so|init
+a|if i stop that tomorrow say midday|suggest
+a|is that alright do you think|reqInfo
+b|right|

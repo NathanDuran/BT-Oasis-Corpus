@@ -1,0 +1,16 @@
+b|oh my god a person|exclaim
+b|hello|greet
+a|hello|greet
+b|i haven't got my account number bill on me|inform
+b|but if i give you my phone number|informIntent
+a|right okay|ackn
+b|um it's|inform
+a|yeah|ackn
+a|mm mm|ackn
+a|okay|ackn
+a|and can you confirm your name and your address for me please|reqInfo
+a|lovely|appreciate
+a|and do you know the post code|reqInfo
+a|lovely|appreciate
+a|thank you|thank
+a|how can i help you today|offer

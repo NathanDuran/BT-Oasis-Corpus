@@ -1,0 +1,24 @@
+b|oh yes|ackn
+b|on my friends and family|refer
+b|i wanted to change it|expressWish
+b|for my best friend|refer
+b|i wanted to put somebody else instead|expressWish
+a|right|accept
+a|have you got your uh customer number there please|reqInfo
+a|yeah|
+a|right|ackn
+a|can you just confirm your name and address for me|reqInfo
+b|miss um yes please|answ
+a|right|ackn
+a|and the postal code please|reqInfo
+a|that's lovely|appreciate
+a|just bear with me|hold
+a|and i'll get your details do the er the one what's on best friend do you want that just as just an ordinary number now right just bear with me and we'll right what would you like as your new best friend number then|informIntent
+a|do the er the one what's on best friend|refer
+a|do you want that just as just an ordinary number now|reqDirect
+b|um yes please|direct
+a|right|accept
+a|just bear with me|hold
+a|and we'll right what would you like as your new best friend number then|uninterpretable
+a|right|init
+a|what would you like as your new best friend number then|reqDirect

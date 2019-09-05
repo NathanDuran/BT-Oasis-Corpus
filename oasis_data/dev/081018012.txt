@@ -1,0 +1,29 @@
+b|hi|greet
+b|i hope you can every time i get an engaged tone on my phone i'm getting one of your recorded messages telling me about Ringback can we get rid of it no thank you double the name's the address is place} that's fine thanks a lot bye|uninterpretable
+b|every time i get an engaged tone on my phone|inform
+b|i'm getting one of your recorded messages telling me about Ringback|inform
+b|can we get rid of it|reqModal
+a|you don't want the prompt on there|confirm
+a|no|confirm
+b|no|ackn
+b|thank you|thank
+a|right|ackn
+a|yeah|ackn
+a|yeah|ackn
+a|okay|ackn
+a|and can you confirm your name and your address for me please|direct
+b|the name's the address is place} that's fine thanks a lot bye|identifySelf
+b|the address is place} that's fine thanks a lot bye|inform
+a|lovely|ackn
+a|thank you|thank
+a|bear with me just a second just see how quickly we could do that for you right okay thats' fine that will actually come sort of within the next couple of hours okay alright thank you byebye|hold
+a|just see how quickly we could do that for you right okay thats' fine that will actually come sort of within the next couple of hours okay alright thank you byebye|inform
+a|right okay|ackn
+a|thats' fine|inform
+a|that will actually come sort of within the next couple of hours okay|inform
+b|that's fine|accept
+a|alright|ackn
+b|thanks a lot|thank
+a|thank you|thank
+a|byebye|bye
+b|bye|bye

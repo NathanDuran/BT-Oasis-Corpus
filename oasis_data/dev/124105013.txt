@@ -1,0 +1,22 @@
+b|yes|ackn
+b|hello there|greet
+b|could i possibly speak to you about um um internet uh service charges please|reqModal
+a|the internet|confirm
+b|yeah|ackn
+a|right okay|accept
+a|yeah|init
+a|there is actually another number i can give you to ring uh to actually speak to somebody in the internet department|offer
+b|yeah|ackn
+a|have you got a pen handy|reqInfo
+b|i have|answ
+a|right|ackn
+a|it's freephone double and uh for billing and enquiries you need to uh when you get through to the menu just press number and that'll take you through to a a sales advisor there|inform
+b|yeah|ackn
+b|yeah|ackn
+a|double and uh for billing and enquiries you need to uh when you get through to the menu just press number and that'll take you through to a a sales advisor there|inform
+b|yeah|ackn
+a|and uh for billing and enquiries|refer
+a|you need to uh|inform
+a|when you get through to the menu|inform
+a|just press number and that'll take you through to a a sales advisor there|suggest
+a|and that'll take you through to a a sales advisor there|inform

@@ -1,0 +1,11 @@
+b|um uh probably in not so long ago|inform
+a|sorry|pardon
+a|yeah|ackn
+a|yeah|ackn
+b|uh probably in not so long ago|answ
+a|right|ackn
+a|um it's not actually in that name|inform
+a|it|uninterpretable
+b|probably in not so long ago|expressPossibility
+a|right|ackn
+b|not so long ago|refer

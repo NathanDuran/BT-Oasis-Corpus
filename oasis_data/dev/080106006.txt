@@ -1,0 +1,48 @@
+a|good morning|greet
+a|how can i help|offer
+b|oh good|
+b|oh good morning dear|greet
+b|um i've had a phone bill this morning from you charging me for um an outright sale for an additional handset and charger that was delivered to me um on on Friday|inform
+b|now|init
+b|the thing is that um i spoke to someone on Monday because the lad who said this would do wonders and what's it miracles didn't explain that i needed a base for this and i haven't got a base|inform
+a|right|
+a|mm hmm|
+a|oh dear|exclaim
+b|so|init
+b|i spoke to somebody on Monday and i said well look i'm going to return this and they said yeah no problem at all we'll send you um an envelope to put it back in to just take it up the post office and that will be credited to your account|inform
+a|right|
+a|that's right|ackn
+a|it will|confirm
+b|well now|init
+b|um that was Monday|confirm
+b|this morning i've got the bill for this um|inform
+b|but i still haven't received the parcel the the envelopes to send this back in|inform
+a|yeah|ackn
+a|that's alright|ackn
+a|don't worry|direct
+a|as soon as um it takes two or three days for the bag to get to you|inform
+b|oh does it|
+b|right|ackn
+b|only i was gonna say i've still got the black bag it came in|inform
+b|i could tart that up and send it back no|expressPossibility
+a|no no no|negate
+b|right right fine|ackn
+b|so so|init
+b|that's what will happen|confirm
+b|now|init
+b|when i get it|refer
+b|do i put this bill in with it|reqInfo
+a|and um|
+a|um no no|answ
+a|if you keep the bill alright|direct
+a|and then what we will do|informIntent
+a|we can credit that as soon as that comes back as soon as we receive the phone|inform
+a|then we will credit back|informIntent
+a|now|init
+a|is is that included with your normal bill|reqInfo
+b|mm|
+b|yeah|
+b|now|
+b|no no|answ
+b|my normal bill's not due yet|inform
+b|this is just|uninterpretable
