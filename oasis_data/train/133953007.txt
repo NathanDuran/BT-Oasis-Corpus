@@ -1,0 +1,9 @@
+b|oh my goodness|exclaim
+b|that was a surprise|exclaim
+b|i never had to press the star button or nothing|inform
+b|uh i've just put a telephone in for my neighbour|inform
+b|it's a missus number but i noticed on the parcel that her flat number's wrong|inform
+a|yeah|ackn
+b|number but i noticed on the parcel that her flat number's wrong|inform
+a|right|ackn
+b|but i noticed on the parcel that her flat number's wrong|inform

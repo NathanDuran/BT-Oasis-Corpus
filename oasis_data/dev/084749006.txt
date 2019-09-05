@@ -1,0 +1,19 @@
+b|oh hello|greet
+b|um i've just spoken to someone called and she was going to transfer me to another uh um department and i was cut off i have it's uh um i want to cancel a line um we've gone mobile|inform
+b|and she was going to transfer me to another uh um department|inform
+b|and i was cut off i have it's uh um i want to cancel a line um we've gone mobile|inform
+a|oh i am sorry|expressRegret
+a|have you got your customer number there at all please|reqInfo
+b|i have|answ
+b|it's uh um i want to cancel a line um we've gone mobile|answElab
+a|thank you|thank
+a|and could you just confirm your name and address with me please|reqInfo
+b|uh um i want to cancel a line um we've gone mobile|answ
+a|and your postcode missus|reqInfo
+a|thank you missus what was it regarding do you right okay uh are you actually moving or are you going to another|thank
+a|what was it regarding|reqInfo
+a|do you|reqInfo
+b|um i want to cancel a line|answ
+a|right okay uh are you actually moving or are you going to another|accept
+a|uh are you actually moving or are you going to another|reqInfo
+b|um we've gone mobile|inform

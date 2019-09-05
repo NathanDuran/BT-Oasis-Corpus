@@ -1,0 +1,23 @@
+b|uh hello miss|greet
+b|i'm trying to get a number|informIntent
+b|i've rang this number oh for thousands of times over the years|inform
+b|and this this voice you know the robot you've again again|refer
+a|what's the dialling code for that number|reqInfo
+b|pardon|pardon
+a|what's the dialling code for that number|reqInfo
+b|uh it's yeah it's the  what's that love yes no in other words it it it's alright now i'm i'm dialling the right number am i|answ
+b|yeah|ackn
+a|it's still a working number|inform
+a|that's all that i can really say|inform
+b|it's the  what's that love yes no in other words it it it's alright now i'm i'm dialling the right number am i|inform
+a|yeah|ackn
+a|it's still a working number|inform
+a|that's all the information i can give though|inform
+a|because|inform
+a|yeah|ackn
+a|all i can give you is that it's a working number|inform
+a|but i'm afraid i couldn't tell you much more about that number|expressRegret
+b|yes|
+b|no|ackn
+b|in other words it it it's alright now|confirm
+b|i'm i'm dialling the right number am i|confirm

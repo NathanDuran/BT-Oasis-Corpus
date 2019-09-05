@@ -1,0 +1,26 @@
+b|yeah|ackn
+b|i i just rung you once|inform
+b|and me phone went dead|inform
+a|oh really|ackn
+b|um well|init
+b|actually i live on|inform
+b|and across road from where i am uh|inform
+b|there's a telegraph pole you know with the wires uh coming to people's arses|inform
+b|well|init
+b|one on em's hanging off|inform
+b|and it's it looks as if it's snapped and caught on the tree|inform
+a|uh hmm|
+a|uh hmm|
+a|okay right|ackn
+a|let's we'll get this sorted for you|informIntent
+a|if you can just hold the line a moment|hold
+a|i'm i'm going to um get uh the number for someone to speak to about this|informIntent
+b|yeah|
+b|right|ackn
+a|if you can just bear with me a moment madam|hold
+b|yeah|accept
+b|hello|greet
+a|yep|ackn
+a|hi|greet
+a|um what's the uh name of the street that the pole is on|reqInfo
+b|yeah|ackn

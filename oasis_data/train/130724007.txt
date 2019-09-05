@@ -1,0 +1,45 @@
+b|hello|greet
+b|um i've just rang um|inform
+b|and they've give me er ask me to ring this number|inform
+b|cause the situation uh as it stands is mister whose account it is now works in|inform
+b|and i'm going out there to join him on the Thirtieth of July|inform
+b|so|init
+b|that means the i want the phone to be taken off um|expressWish
+b|but we've got a bill of six hundred and sixty five pounds to pay|inform
+b|now|init
+b|i was told a couple of weeks ago by somebody on that i could have this bill um i don't i really can't explain myself um in other words like a debt collecting option right if you um so what we wanted to do was to pay this so much a month if we could because we're no longer you know living here like yes it's uh double right my name's miss but it's in mister telephone|inform
+b|i don't i really can't explain myself um in other words|unclassifiable
+b|like a debt collecting option|inform
+b|right|ackn
+b|if you um|uninterpretable
+a|mm|
+a|mm|
+a|right|
+a|right|
+a|mm|
+a|mm|
+a|oh i see|
+a|right|
+a|just so you can have it spread over|expressPossibility
+a|is that what you're saying|reqInfo
+b|so|init
+b|what we wanted to do was to pay this so much a month|inform
+b|if we could|inform
+b|because we're no longer you know|informDisc
+a|right|
+a|right|
+a|you're no|confirm
+b|living here like|informCont
+a|right okay|ackn
+a|can i take your telephone number|reqInfo
+b|yes|answ
+b|it's uh double right my name's miss but it's in mister telephone|answElab
+a|thank you i have your details in front of me can you confirm your full name and address including post code please mm lovely miss right and uh what's your telephone number the one you're calling from|thank
+a|i have your details in front of me|inform
+a|can you confirm your full name and address including post code please|reqInfo
+b|right|ackn
+b|my name's miss but it's in mister telephone|inform
+b|but it's in mister telephone|inform
+a|mm|
+a|lovely miss right and uh what's your telephone number the one you're calling from|appreciate
+a|and uh what's your telephone number the one you're calling from|reqInfo

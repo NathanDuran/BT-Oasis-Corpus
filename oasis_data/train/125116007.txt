@@ -1,0 +1,13 @@
+b|hello hello hello hello hello|greet
+b|can you hear me|reqInfo
+a|hello|
+a|yeah|answ
+a|i can hear you sir|answElab
+b|uh loud and clear|confirm
+a|only well not not very loud but|inform
+b|oh uh|exclaim
+b|i haven't gotta shout dead loud have i|reqInfo
+a|no|answ
+a|i can hear you sir|answElab
+a|what's what's how can i help you|reqDirect
+b|i'd like to get a phone line on mate|direct

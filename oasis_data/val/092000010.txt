@@ -1,0 +1,10 @@
+b|uh i don't know if it's the right department|raiseIssue
+b|can i speak to somebody called is he there no uh what what it was is he was dealing with an enquiry for me i rang a couple of times yesterday i'm i'm trying to have a gain put on my line|direct
+b|is he there|reqInfo
+a|unfortunately yeah|answ
+a|not in this department|answElab
+b|no|ackn
+a|no|answElab
+b|uh what what it was is he was dealing with an enquiry for me|inform
+b|i rang a couple of times yesterday|inform
+b|i'm i'm trying to have a gain put on my line|inform

@@ -1,0 +1,22 @@
+b|hi|greet
+b|can i have a telephone line put in my house please|direct
+a|you want line put in your house|confirm
+a|okay|accept
+b|yes please|directElab
+a|um have you had service before|reqInfo
+b|no|answ
+a|okay|ackn
+a|what's um what's your name please|reqInfo
+b|my name is it's miss no it's flat ten|answ
+a|is that miss or missus|reqInfo
+b|it's miss|answ
+a|was that okay and uh what's your address there please flat ten yeah can you spell that for me yep yep yeah|reqInfo
+b|no|answ
+a|okay and uh what's your address there please flat ten yeah can you spell that for me yep yep yeah|ackn
+a|and uh what's your address there please|reqInfo
+b|it's flat ten|answ
+a|flat ten|echo
+a|yeah|ackn
+a|can you spell that for me|reqInfo
+a|yep|
+a|yep|

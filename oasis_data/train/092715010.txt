@@ -1,0 +1,29 @@
+b|oh morning|greet
+b|i've got um a B T Freestyle thousand um telephone um with the um answerphone thing uh in the base which is not working|inform
+b|right|ackn
+a|uh hmm|
+a|right|
+a|right|ackn
+a|have you had it some time or|reqInfo
+b|uh well|init
+a|oh oh right|ackn
+a|i see|ackn
+a|right|ackn
+a|i mean we do have a group who can sort of do you know repairs on the phone|inform
+a|they could maybe sort of tell you you know whether they'd be able to do it and how much it might be|expressPossibility
+b|uh hmm|
+b|yeah|ackn
+a|yeah|ackn
+a|just bear with me|hold
+a|and i'll get the number for you|informIntent
+b|thank you|thank
+a|yep|init
+a|the number for them|refer
+a|they're called hello yep their number's double double|inform
+a|hello|greet
+b|hello|greet
+a|yep|ackn
+a|their number's double double|inform
+b|uh yes|echo
+b|yes|ackn
+a|double double|inform

@@ -1,0 +1,7 @@
+b|who've i got through to|reqInfo
+a|sorry|pardon
+b|who have i got through to|reqInfo
+a|this is yeah|answ
+a|yeah|ackn
+b|yeah um|ackn
+b|i want to talk to someone about paying my bill|direct

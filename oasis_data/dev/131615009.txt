@@ -1,0 +1,13 @@
+a|thank you for calling my name's uh can i have your telephone number please thank you um i have your details in front of me can i confirm your name address and postcode please uh um|thank-identifySelf
+a|my name's uh can i have your telephone number please thank you um i have your details in front of me can i confirm your name address and postcode please uh um|identifySelf
+a|uh can i have your telephone number please|reqInfo
+b|oh yes|answ
+b|it's yep uh yes it's for a missus uh|answElab
+b|yep|ackn
+a|thank you|thank
+a|um i have your details in front of me|inform
+a|can i confirm your name address and postcode please|reqInfo
+b|uh yes|answ
+b|it's for a missus uh|answElab
+a|uh um|ackn
+b|uh|answElab

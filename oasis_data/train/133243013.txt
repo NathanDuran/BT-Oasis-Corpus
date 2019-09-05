@@ -1,0 +1,48 @@
+a|can i take your telephone number please|reqInfo
+b|yes certainly|answ
+b|it's it's certainly it's mister right uh what it is uh on the sixteenth i signed up for you know the unlimited time yeah now i've been on it now for about a week or so now i have rang them to ask them to confirm whether it is like unlimited so it doesn't cost nothing off yourself now they've said it's right so i'm just ringing you to to to make sure really that's all yeah but it's not with it's not through yourself it's through yeah i'm just making sure that it's not actually coming through you and you're gonna bill me for it right|answElab
+a|and the area dialling code as well|reqInfo
+b|it's certainly it's mister right uh what it is uh on the sixteenth i signed up for you know the unlimited time yeah now i've been on it now for about a week or so now i have rang them to ask them to confirm whether it is like unlimited so it doesn't cost nothing off yourself now they've said it's right so i'm just ringing you to to to make sure really that's all yeah but it's not with it's not through yourself it's through yeah i'm just making sure that it's not actually coming through you and you're gonna bill me for it right|answ
+a|sorry|expressRegret
+a|thank you sir|thank
+a|i've got your details in front of me|inform
+a|can you confirm your full name and address including postcode please|reqInfo
+b|certainly|answ
+b|it's mister right uh what it is uh on the sixteenth i signed up for you know the unlimited time yeah now i've been on it now for about a week or so now i have rang them to ask them to confirm whether it is like unlimited so it doesn't cost nothing off yourself now they've said it's right so i'm just ringing you to to to make sure really that's all yeah but it's not with it's not through yourself it's through yeah i'm just making sure that it's not actually coming through you and you're gonna bill me for it right|answElab
+a|lovely mister how can i help right mm you mean on this line you've ordered Surftime oh right yeah well we do offer Surftime here but um Surftime is a registered i mean i know Surftime are doing their own um one but i mean no it's not it's on the it's not being charged on your bill so i mean it'd be up therefore if any calls um appear on your bill for it's not that's not our responsibility it's up to to make sure that no none of these calls appear on our bills|appreciate
+a|how can i help|offer
+b|right|accept
+b|uh what it is uh|refer
+b|on the sixteenth|refer
+b|i signed up for you know the unlimited time yeah|inform
+b|now|init
+b|i've been on it now for about a week or so|inform
+b|now|init
+b|i have rang them to ask them to confirm whether it is like unlimited so it doesn't cost nothing off yourself|inform
+b|now|init
+b|they've said it's right|inform
+b|so|init
+b|i'm just ringing you to to to make sure really that's all|reqInfo
+a|right|
+a|mm|
+a|you mean on this line you've ordered Surftime|confirm
+b|yeah|ackn
+b|but it's not with it's not through yourself it's through yeah i'm just making sure that it's not actually coming through you and you're gonna bill me for it right|inform
+b|it's through yeah i'm just making sure that it's not actually coming through you and you're gonna bill me for it right|inform
+a|oh right yeah|ackn
+a|well|init
+a|we do offer Surftime here|inform
+a|but um Surftime is a registered|inform
+a|i mean i know Surftime are doing their own um one|inform
+a|but i mean|inform
+b|yeah|
+b|i'm just making sure that it's not actually coming through you and you're gonna bill me for it|reqInfo
+a|no|answ
+a|it's not it's on the it's not being charged on your bill|answElab
+a|so|init
+a|i mean it'd be up|uninterpretable
+a|therefore|init
+a|if any calls um appear on your bill for it's not that's not our responsibility it's up to to make sure that no none of these calls appear on our bills|inform
+a|it's not that's not our responsibility|inform
+a|it's up to to make sure that no none of these calls appear on our bills|inform
+b|right|

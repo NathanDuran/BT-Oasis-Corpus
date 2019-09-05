@@ -1,0 +1,9 @@
+b|hello|greet
+b|uh this is a mister this is me first bill i've had in the salesman right that have done the agreement with you told me there'd be no connection fee i've received a bill in for pound and only a pound of that is calls|identifySelf
+a|yes mister and how can i help you right yes right|ackn
+a|and how can i help you|offer
+b|the salesman right that have done the agreement with you told me there'd be no connection fee|inform
+b|i've received a bill in for pound and only a pound of that is calls|inform
+a|right|
+a|yes|
+a|right|

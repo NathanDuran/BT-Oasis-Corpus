@@ -1,0 +1,28 @@
+b|oh hello|greet
+b|um about many years ago maybe years ago we got a little magneto bell from you|inform
+b|you know my sister was deaf|inform
+a|oh right|ackn
+b|and just we had a tiny like um like a little square thing that plugs in|inform
+a|oh yeah|ackn
+b|yeah um|ackn
+b|now|init
+b|we've had it i would say about years|inform
+b|um but uh we're transferring to cable um in uh um in August|inform
+b|i've just had your rep on the line um|inform
+b|mainly because all my relatives are cable and um i'm the only one they're not ringing cause i'm the only one they don't get free calls with you know|inform
+a|oh right yeah|ackn
+b|yeah|ackn
+b|um so|init
+b|uh i've been under pressure for a sort of a long time anyway|inform
+b|um what i was going to say the little magnetic bell|refer
+b|they were saying that they'd have to send somebody to sort of pick it up with a bag|inform
+b|but it's so old that that you may allow me to sort of purchase it|inform
+a|yeah okay|ackn
+a|what's|reqInfo
+b|would it be very expensive|reqInfo
+a|i wouldn't have thought so|answ
+a|d'you|reqInfo
+b|so|init
+b|she's deaf|inform
+b|and it's just a tiny light|inform
+b|she sees it you see|inform

@@ -1,0 +1,46 @@
+b|yeah|ackn
+b|i want to try and change my Friends And Family numbers and um a|expressWish
+b|because i can't find anything with my actual full account number on|inform
+b|i tried this the other week and i couldn't i couldn't find anything|inform
+a|ah|
+a|right|ackn
+a|okay|ackn
+a|so|init
+a|you don't have one of the bills at all no|confirm
+b|no|ackn
+b|not handy|ackn
+a|right|ackn
+a|okay|init
+a|what what's your telephone number please|reqInfo
+b|it's it's missus and it's which is and it's place} yes it was for pounds and about pence i believe cause it was paid on Saturday yeah i want to change the the most important one is my best friends number because i've been ringing her for ages and we've just twigged on that neither of us have changed it and she's moved|answ
+a|mm hmm|
+a|right|ackn
+a|okay|ackn
+a|can you confirm your full name and address with your postal code please|reqInfo
+b|it's missus|answ
+b|and it's which is|answElab
+b|and it's place} yes it was for pounds and about pence i believe cause it was paid on Saturday yeah i want to change the the most important one is my best friends number because i've been ringing her for ages and we've just twigged on that neither of us have changed it and she's moved|inform
+a|mm hmm|
+a|mm hmm|
+a|lovely|appreciate
+a|that's great|appreciate
+a|do you know roughly how much your last bill was for missus that's lovely thank you right oh right okay no problem and so it's uh a couple of numbers you want to change on Friends And Family is it right okay right|reqInfo
+b|yes|answ
+b|it was for pounds and about pence i believe|answElab
+a|that's lovely|appreciate
+a|thank you|thank
+a|right|ackn
+b|cause it was paid on Saturday yeah i want to change the the most important one is my best friends number because i've been ringing her for ages and we've just twigged on that neither of us have changed it and she's moved|inform
+a|oh right|ackn
+a|okay|ackn
+a|no problem|accept
+a|and so|init
+a|it's uh a couple of numbers you want to change on Friends And Family is it|confirm
+b|yeah i want to change the the most important one is my best friends number because i've been ringing her for ages and we've just twigged on that neither of us have changed it and she's moved|ackn
+b|i want to change the the most important one is my best friends number|direct
+a|right|accept
+a|okay|accept
+b|because i've been ringing her for ages|inform
+b|and we've just twigged on that neither of us have changed it|inform
+b|and she's moved|inform
+a|right|

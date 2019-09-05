@@ -1,0 +1,56 @@
+b|oh hi|greet
+b|um i was just speaking to someone from sales|inform
+b|and um my line got cut off|inform
+a|oh right|ackn
+a|i'm sorry about that|expressRegret
+a|how what was the enquiry|reqInfo
+b|basically uh well um it's it's billing issues|answ
+b|so|init
+b|i called billing and they passed me on to faults and they and they we're passing me on to sales|inform
+a|oh dear|expressRegret
+a|so|init
+a|you've been passed around a bit|confirm
+b|well|init
+b|basically the person answered and he just got cut off after i paid|inform
+a|oh right|ackn
+a|could you give me your telephone number please|reqInfo
+b|well|init
+b|i've got two um|inform
+b|shall i tell you what the issue is|offer
+a|yes please|accept
+b|okay|ackn
+b|basically what happened is i'm a i'm a landlord of the property|inform
+b|um when the tenant moved in|refer
+b|he gave my name uh|inform
+b|but it was spelt wrong um as the um billing um address|inform
+b|um so|init
+b|what i did was i um|inform
+b|he told me to change it to his name so i did that but instead of making a name change what did was um they cancelled the line altogether okay so what happened was when you restarted it you restarted it under his name um and then sent him a bill for pounds something which he paid but the outstanding bill for starting a line that was for the um the exchange line that was for pounds um you sent it back under the old name um and because that bill was then paid into the old um name he cut the line off again last week um so basically he's being irate now because he doesn't understand what's going on and he just wants me to sort it out and basically i reported that to the billing department and they said they'd send him the outstanding bill under his name so he could pay it and uh ai um the passing on to the faults department to for to regarding compensation for the last three weeks he's been cut off and they were going to pass me on to sales before i got cut off there|inform
+b|so|init
+b|i did that|inform
+b|but instead of making a name change what did was um|inform
+b|they cancelled the line altogether|inform
+a|yeah|
+a|yeah|answ
+a|we do that|inform
+a|we we stop the line and restart it in another name|inform
+a|we we can't just change names|inform
+b|okay so|ackn
+b|what happened was when you restarted it you restarted it under his name|inform
+a|that's right|ackn
+a|yeah|ackn
+b|um and then sent him a bill for pounds something which he paid|inform
+b|but the outstanding bill for starting a line that was for the um the exchange line that was for pounds um|inform
+b|you sent it back under the old name um|inform
+b|and because that bill was then paid into the old um name|inform
+b|he cut the line off again last week|inform
+b|um so|init
+b|basically he's being irate now|inform
+b|because he doesn't understand what's going on|inform
+b|and he just wants me to sort it out|inform
+b|and basically i reported that to the billing department|inform
+b|and they said they'd send him the outstanding bill under his name so he could pay it|inform
+b|and uh ai um the passing on to the faults department to for to regarding compensation for the last three weeks he's been cut off|inform
+b|and they were going to pass me on to sales before i got cut off there|inform
+a|mm mm|
+a|yes|

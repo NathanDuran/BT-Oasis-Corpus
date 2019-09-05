@@ -1,0 +1,32 @@
+b|hi|greet
+b|excuse me|greet
+b|i've rented a phone before|inform
+b|uh it's not me for my friend|inform
+b|and they were supposed were supposed to suppose to send me a box to send them to send the phone back to them and|inform
+a|uh hmm|
+a|you want to return the phone do you|confirm
+a|right okay|ackn
+b|yeah|
+b|yeah|
+b|but they didn't send anything yet|inform
+a|let me just see whether it's been requested|informIntent
+a|what's your phone number please|reqInfo
+b|it's it's already been disconnected and i've already received the bill it's just the phone i didn't get here yeah oh right|answ
+a|yep|ackn
+a|uh hm|ackn
+b|it's already been disconnected|inform
+b|and i've already received the bill|inform
+b|it's just the phone i didn't get here|inform
+a|okay|ackn
+a|let me just have a look for you ah right i can't actually see um a request for that packaging how many phones did you actually have just the one yeah no i do apologise about that it hasn't actually been requested i'll request that for you now and that should be with you in a few days|informIntent-hold
+a|ah right|init
+a|i can't actually see um a request for that packaging how many phones did you actually have just the one yeah no i do apologise about that it hasn't actually been requested i'll request that for you now and that should be with you in a few days|inform
+a|how many phones did you actually have|reqInfo
+a|just the one|reqInfo
+b|yeah|answ
+a|no|negate
+a|i do apologise about that|expressRegret
+a|it hasn't actually been requested|inform
+a|i'll request that for you now|informIntent
+a|and that should be with you in a few days|inform
+b|oh right|

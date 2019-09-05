@@ -1,0 +1,18 @@
+a|thank you for calling my name is can i take your telephone number please just one moment i'll get your details can i take your full name and address please right have you actually got your customer number with you we have a problem with our computer at the moment and we can't actually access uh with the telephone number have you got the customer number there|thank
+a|my name is can i take your telephone number please just one moment i'll get your details can i take your full name and address please right have you actually got your customer number with you we have a problem with our computer at the moment and we can't actually access uh with the telephone number have you got the customer number there|identifySelf
+a|can i take your telephone number please|reqInfo
+b|yeah|answ
+a|just one moment|hold
+a|i'll get your details|informIntent
+b|okay|ackn
+b|like|uninterpretable
+a|can i take your full name and address please|reqInfo
+b|yeah|answ
+a|right|ackn
+a|have you actually got your customer number with you we have a problem with our computer at the moment and we can't actually access uh with the telephone number have you got the customer number there|reqInfo
+a|we have a problem with our computer at the moment|inform
+a|and we can't actually access uh with the telephone number|inform
+a|have you got the customer number there|reqInfo
+b|oh right|
+b|if you hang on|hold
+b|i'll get a bill|informIntent

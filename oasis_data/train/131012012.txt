@@ -1,0 +1,19 @@
+b|hello|greet
+b|i've i've been trying for quite some time to change uh some of the family and friends numbers|informIntent
+b|you know by the automated kind of|inform
+a|yeah|ackn
+a|on the automated system|confirm
+b|system yeah um|confirm
+b|and it's eventually it runs through the list of numbers and said press two if you wanna alter etcetera etcetera|inform
+b|so|init
+b|i was doing that|inform
+b|and it just uh just ignored me totally|inform
+a|yeah|
+a|ah right sorry about that|expressRegret
+b|and then it in the end it said please wait while i transfer you to a customer service operator|inform
+b|and then it rung out|inform
+b|and it said uh uh this number is not recognised|inform
+b|so|init
+b|i dialled again|inform
+a|so|init
+a|you've started again|confirm

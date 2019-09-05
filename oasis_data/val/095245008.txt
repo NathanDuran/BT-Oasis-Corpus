@@ -1,0 +1,24 @@
+b|hello|greet
+b|i asked for a statement last Friday|inform
+b|and somebody said they were putting it in the first class post|inform
+a|oh right|ackn
+b|but i haven't had it since|inform
+b|i want it very badly|expressWish
+a|let's have a look for you|informIntent
+a|what's your telephone number please|reqInfo
+a|yeah|ackn
+a|yeah|ackn
+a|is it a copy of a previous bill d'you mean or|reqInfo
+b|uh yeah|answ
+b|i mean this last bill|answElab
+b|because i mark and i mark for an exam board|inform
+b|and i need to put in all the calls that i took for them|inform
+a|yeah|
+a|oh right|
+a|oh i understand|ackn
+a|right okay|ackn
+a|let's look for you|informIntent
+a|just confirm your name and address for me please|reqInfo
+b|uh missus uh|answ
+a|yes|ackn
+a|right|ackn

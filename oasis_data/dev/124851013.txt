@@ -1,0 +1,8 @@
+b|that was quick i'm glad i didn't have to go through all those menu things um i'm wanting a couple of leaflets please have i rung the right number|unclassifiable
+a|ever so sorry yeah that's right oh right|unclassifiable
+b|i'm glad i didn't have to go through all those menu things|unclassifiable
+a|yeah|ackn
+a|that's right|ackn
+b|um i'm wanting a couple of leaflets please|direct
+b|have i rung the right number|reqInfo
+a|oh right|

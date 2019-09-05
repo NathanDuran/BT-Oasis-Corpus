@@ -1,0 +1,14 @@
+b|yes|ackn
+b|um i want to notify you that i'm um moving out of my house next Wednesday|inform
+b|so|init
+b|i want to discontinue the phone line|direct
+a|right|ackn
+a|that's fine|accept
+a|could i take your telephone number please|reqInfo
+a|yeah|ackn
+a|thank you|thank
+b|and terminate on the nineteenth of July|direct
+a|have you got your customer number as well|reqInfo
+b|i don't have|answ
+b|no|answElab
+b|i'm sorry|expressRegret

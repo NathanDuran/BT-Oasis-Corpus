@@ -1,0 +1,14 @@
+b|hello|greet
+b|my name is if i give you my customer number is that uh thank you yes uh it's it's|identifySelf
+b|if i give you my customer number|offer
+b|is that|uninterpretable
+a|yes please|accept
+b|uh thank you yes uh it's it's|refer
+a|ah ha|ackn
+a|ah ha|ackn
+a|thank you|thank
+b|thank you|thank
+a|and could you just confirm your your full address and postcode please|reqInfo
+b|yes uh|answ
+b|it's it's|answElab
+a|ah ha|

@@ -1,0 +1,24 @@
+b|hi|greet
+b|um my name's i was just wondering if it's possible to have my bill changed from a monthly one to a um quarterly one yeah it's right it's miss flat place} yeah it is|identifySelf
+b|i was just wondering if it's possible to have my bill changed from a monthly one to a um quarterly one|reqInfo
+a|yes|answ
+a|you certainly can|answElab
+a|that's no problem at all|accept
+a|could i just take your uh telephone number|reqInfo
+b|yeah|answ
+b|it's right it's miss flat place} yeah it is|answElab
+a|yeah|ackn
+a|yeah|ackn
+a|thank you right i've got your details in front of me just confirm your full name address and postcode for me please that's lovely right just bear with me right and i'll just take your customer number yes|thank
+a|right|init
+a|i've got your details in front of me|inform
+a|just confirm your full name address and postcode for me please|reqInfo
+b|right|ackn
+b|it's miss flat place} yeah it is|answ
+a|that's lovely|appreciate
+a|right|init
+a|just bear with me|hold
+b|yeah|ackn
+a|and i'll just take your customer number|reqInfo
+b|it is|answ
+a|yes|ackn

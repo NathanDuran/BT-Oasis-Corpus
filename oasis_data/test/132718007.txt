@@ -1,0 +1,9 @@
+a|hello hello|greet
+b|hello|greet
+a|hello|greet
+b|um i wanna uh um put in a new phone for my new address|direct
+a|okay|accept
+b|no|answ
+b|i've just moved from me parents|answElab
+b|so|init
+a|no okay|

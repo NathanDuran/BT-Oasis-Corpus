@@ -1,0 +1,17 @@
+b|uh hello|greet
+b|um i would like to have a phone in my house please|direct
+b|i just moved in|inform
+a|okay|accept
+a|have you had a line in your name before|reqInfo
+b|sorry|pardon
+a|have you had a line in your name before|reqInfo
+b|uh no sir|answ
+a|okay|ackn
+a|and what's the address then please|reqInfo
+b|uh address is uh number yeah um yeah uh uh on|answ
+a|one yeah|confirm
+b|yeah|ackn
+b|um yeah|correct
+a|yeah|ackn
+b|uh uh on|answElab
+b|uh on|answElab

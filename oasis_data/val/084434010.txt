@@ -1,0 +1,21 @@
+b|ah yeah um|ackn
+b|i just wanted to check how much was outstanding on my bill|direct
+b|because what i asked the post office to pay last week|inform
+b|i've looked at my receipt just and it says pound|inform
+b|i asked them to take i haven't got it with uh hang in hang on it's it's on the back of me on the back of me strip on the phone yeah it's miss|inform
+a|right|
+a|oh right okay|ackn
+a|have you got your account number there please|reqInfo
+b|i haven't got it with uh|answ
+b|hang in hang on|hold
+b|it's it's on the back of me on the back of me strip on the phone yeah it's miss|inform
+a|i can't i can't give you any details if you haven't|inform
+a|yeah|ackn
+a|lovely|appreciate
+b|it's on the back of me on the back of me strip on the phone|inform
+a|oh right just confirm your name and address for me please that's lovely okay|ackn
+a|just confirm your name and address for me please|reqInfo
+b|yeah|ackn
+b|it's miss|answ
+a|that's lovely|appreciate
+a|okay|ackn

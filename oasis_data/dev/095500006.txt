@@ -1,0 +1,19 @@
+b|oh hello|greet
+b|i'm trying to um change one of my Friends And Family numbers|informIntent
+b|and i've been i can't seem to do it with all the automated service|inform
+a|with the|
+a|oh right|ackn
+a|and what's your phone number please|reqInfo
+b|um it's yeah it's missus and it's thanks|answ
+a|yeah|ackn
+a|yeah|
+a|thank you and could you just confirm your full name and the address including the post code please uh hm yeah thank you missus i'll just get your lists on here okay|thank
+a|and could you just confirm your full name and the address including the post code please|reqInfo
+b|yeah|answ
+b|it's missus and it's thanks|answElab
+a|uh hm|ackn
+a|yeah|ackn
+a|thank you missus i'll just get your lists on here okay|thank
+a|i'll just get your lists on here|informIntent
+a|okay|ackn
+b|thanks|thank

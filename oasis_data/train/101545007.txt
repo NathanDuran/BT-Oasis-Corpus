@@ -1,0 +1,36 @@
+b|hi|greet
+b|uh what it is i phoned up um uh i think it was Wednesday last week that i'm receiving phone calls um|inform
+b|and they expected that it was a mislaid phone number that someone's faxing|inform
+b|so|init
+b|they were trying to um trace the phone the number that's been phoning|inform
+a|right|
+a|right|ackn
+a|was this the nuisance call bureau or our engineers department|reqInfo
+b|uh i phoned the engineers part|answ
+a|right|ackn
+a|that's fine|ackn
+a|right|ackn
+a|what you'll need to do is to get straight through to the engineers and|suggest
+a|cause what they normally do is they run a trace on that number for you to try and try and find out what it is|inform
+a|and then we contact them and sort of tell them don't keep ringing this number|inform
+a|you know sometimes you get caught into a loop you know someones miskeyed a number in and then you sort of get get caught into a loop|inform
+b|yeah|
+b|yeah|
+b|yeah|ackn
+b|cause it's still happening|inform
+b|it's happened at three o'clock every morning and|inform
+a|ah it's ridiculous|expressOpinion
+a|yeah|ackn
+b|it's i all this morning it's happening as well|inform
+a|that's no problem|inform
+a|just have your telephone number ready for them|suggest
+b|okay|ackn
+a|all you have to do is dial yeah and you'll go straight through to the engineers department alright thank you byebye|suggest
+a|yeah|ackn
+a|and you'll go straight through to the engineers department|inform
+b|okay then|ackn
+a|alright|init
+b|thanks|thank
+a|thank you|thank
+a|byebye|bye
+b|bye|bye

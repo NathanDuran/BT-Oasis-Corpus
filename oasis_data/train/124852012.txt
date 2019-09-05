@@ -1,0 +1,31 @@
+b|hello|greet
+b|i don't know if i've come through to the right|unclassifiable
+b|i'm interested in getting an additional line run to my property|inform
+a|right okay|ackn
+a|what would that be for|reqInfo
+b|well|init
+b|it's just mainly for my husband to use|answ
+a|was it gonna for a an actual telephone or P C fax|reqInfo
+b|oh no|answ
+b|just an actual telephone line|answElab
+a|right|ackn
+a|um would it be actually under his name then or|reqInfo
+b|uh a just as a oh well|init
+b|yes|answ
+b|actually it probably it will be best to put it under his name|expressOpinion
+a|right do you actually have a line under your name at the same address do you so you're looking for an extra line for your husband okay um right right what's your address and i'll have a look|ackn
+a|do you actually have a line under your name at the same address do you|reqInfo
+b|yes|answ
+b|we do|answElab
+a|so|init
+a|you're looking for an extra line for your husband|confirm
+b|yes|ackn
+a|okay um right right what's your address and i'll have a look|ackn
+b|i do actually have i i know the previous owner of this house did actually work from home|inform
+b|so|init
+b|in one of the rooms|refer
+b|we do have two other phone points it appears|inform
+a|right|
+a|right|ackn
+a|what's your address|reqInfo
+a|and i'll have a look|informIntent

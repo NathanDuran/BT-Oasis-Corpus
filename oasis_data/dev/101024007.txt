@@ -1,0 +1,16 @@
+b|hello|greet
+b|uh my phone was ex directory|inform
+b|but now it's not|inform
+a|oh yeah|
+a|it isn't now|confirm
+b|no|ackn
+b|cause i don't know what's happened|inform
+b|but can you put it back on please|direct
+a|right certainly|accept
+a|if you just give me|reqInfo
+a|could you give me your telephone number please|reqInfo
+b|yeah|answ
+a|and what code is that please|reqInfo
+b|oh sorry|expressRegret
+a|yes|ackn
+b|yeah|ackn

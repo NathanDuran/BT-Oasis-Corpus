@@ -1,0 +1,25 @@
+b|yes please|ackn
+b|i dunno if you wanna reference number|reqInfo
+a|uh yes please|answ
+a|yeah|ackn
+a|right|ackn
+a|i'll just get the details|informIntent
+a|if you could just bear with me a second|hold
+b|that's alright|accept
+b|oh it's cold|unclassifiable
+a|it's very cold isn't it i'm based in right okay got your account just here can you just confirm your name and the address for me right let's have a look for you it possibly is let me just have a look for you|unclassifiable
+b|where are you|reqInfo
+a|i'm based in right okay got your account just here can you just confirm your name and the address for me right let's have a look for you it possibly is let me just have a look for you|answ
+a|got your account just here|inform
+a|can you just confirm your name and the address for me|reqInfo
+b|well|init
+b|mine's i've taken over only the phone's not working this morning it was first thing and all of a sudden i've got a long noise and it's temporarily out of service i wonder if it's to do with the change over|answ
+b|i've taken over only the phone's not working this morning it was first thing and all of a sudden i've got a long noise and it's temporarily out of service i wonder if it's to do with the change over|answElab
+b|only the phone's not working this morning|inform
+b|it was first thing|inform
+b|and all of a sudden i've got a long noise and it's temporarily out of service|inform
+b|i wonder if it's to do with the change over|reqInfo
+a|right|ackn
+a|let's have a look for you|informIntent
+a|it possibly is|answ
+a|let me just have a look for you|informIntent

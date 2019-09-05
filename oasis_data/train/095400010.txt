@@ -1,0 +1,44 @@
+b|i wonder if you can|direct
+b|i'm about to move into a room rented premises|inform
+a|right|ackn
+b|and there's a phone socket there|inform
+b|but they just told me there's no line|inform
+b|i need to get one oh or|inform
+b|i'm i'm not quite sure what it is you see|inform
+b|i've got the address|inform
+b|but there's no number|inform
+a|oh|
+a|oh|
+a|that's no problem|accept
+a|do you want to give um me the the address of the property|reqInfo
+a|and i'll see if there's been service there before|offer
+b|right|ackn
+a|yeah|
+a|yeah|ackn
+a|and the post code|reqInfo
+b|um oh i don't know|inform
+b|goodness don't know haven't got that yet okay yes it is f yes that's it lovely thank you now i remember right|exclaim
+b|don't know|inform
+b|haven't got that yet|inform
+a|right|ackn
+a|let's have a look|informIntent
+a|i really do need that|inform
+a|hold on one second|hold
+a|is it okay just bear with me it's right yes there has been um a line at that property so just bear with me one moment|reqInfo
+b|okay|
+b|yes|answ
+b|it is f|answElab
+b|yes|answElab
+a|okay|ackn
+a|just bear with me|hold
+a|it's right yes there has been um a line at that property so just bear with me one moment|inform
+b|that's it|ackn
+b|lovely|appreciate
+b|thank you|thank
+b|now i remember|inform
+a|right|ackn
+a|yes|ackn
+a|there has been um a line at that property|inform
+a|so|init
+a|just bear with me one moment|hold
+b|right|ackn

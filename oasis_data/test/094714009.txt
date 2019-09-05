@@ -1,0 +1,19 @@
+b|uh right|init
+b|i've um there's a bill from December that i've paid|inform
+b|and i think i've overpaid it|expressOpinion
+b|yeah|ackn
+a|um|
+a|from last December|confirm
+b|yeah|ackn
+a|and what was your telephone number please|reqInfo
+b|it's it'll be in and it's|answ
+a|yeah|ackn
+a|yeah|ackn
+a|lovely|appreciate
+a|i'll just get that on the screen and could you confirm the full name and the address including the postal code for me please yeah and the postal code please uh hmm|informIntent
+a|and could you confirm the full name and the address including the postal code for me please|reqInfo
+b|it'll be in and it's|answ
+a|yeah|ackn
+a|and the postal code please|reqInfo
+b|and it's|answ
+a|uh hmm|

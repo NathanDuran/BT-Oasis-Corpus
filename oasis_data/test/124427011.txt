@@ -1,0 +1,30 @@
+b|hello|greet
+b|my name's um|identifySelf
+b|i i want i wanna make an enquiry about getting a new handset|direct
+b|cause i've got one that's i thinks come out of the ark yeah it's it was uh i think this one was in the house when we moved in right it's uh uh yeah well the one i've got i think there's two here cause there's and there's an extension upstairs and there was one downstairs|expressOpinion
+a|oh right okay|accept
+a|is it one you rent from us do you know or|reqInfo
+b|yeah|answ
+b|it's it was uh i think this one was in the house when we moved in|expressOpinion
+a|oh right|ackn
+a|what what's your telephone number|reqInfo
+a|and i'll just get your rental details|informIntent
+b|right|ackn
+b|it's uh uh yeah well the one i've got i think there's two here cause there's and there's an extension upstairs and there was one downstairs|answ
+a|yeah|ackn
+b|uh yeah well the one i've got i think there's two here cause there's and there's an extension upstairs and there was one downstairs|answElab
+a|can you just confirm the address for me mister and do you know the postcode lovely thank you uh right yeah it's actually one we don't make that one anymore ah right we've only got one on your rental details so only one of them actually belongs to us|reqInfo
+b|yeah|answ
+a|and do you know the postcode|reqInfo
+a|lovely|appreciate
+a|thank you uh|thank
+a|right yeah|ackn
+a|it's actually one|inform
+a|we don't make that one anymore ah right we've only got one on your rental details so only one of them actually belongs to us|inform
+b|well|init
+b|the one i've got|refer
+b|i think there's two here|expressOpinion
+b|cause there's and there's an extension upstairs and there was one downstairs|inform
+a|ah right|ackn
+a|we've only got one on your rental details|inform
+a|so only one of them actually belongs to us|inform

@@ -1,0 +1,37 @@
+b|hello|greet
+b|uh it's here from um i still owe you pounds from um my phone bill um i can't pay it um it's not that i haven't got the money it's that me son's gone and cut me card up right it's yes it's for and for no i've got me money but i haven't got the card yeah oh that's brilliant will it will will i be charged anything for that|identifySelf
+b|um i still owe you pounds from um my phone bill|inform
+b|um i can't pay it um|inform
+b|it's not that i haven't got the money|inform
+b|it's that me son's gone and cut me card up|inform
+a|mm mm|
+a|ah right okay|ackn
+a|and we can get a replacement sent out for you|inform
+b|right|ackn
+b|it's yes it's for and for no i've got me money but i haven't got the card yeah oh that's brilliant will it will will i be charged anything for that|answ
+a|mm mm|ackn
+a|okay|ackn
+a|and can you just confirm the address with the postcode for it|reqInfo
+b|yes|ackn
+b|it's for and for no i've got me money but i haven't got the card yeah oh that's brilliant will it will will i be charged anything for that|answ
+a|lovely|appreciate
+a|thank you right so you haven't actually got the payment card no right let's just have a little look right okay the quickest thing i'll do is is to send you a payment slip okay then you can pay that through the post office so you'll get sorry|thank
+a|right|ackn
+a|so|init
+a|you haven't actually got the payment card|confirm
+a|no|ackn
+b|no|ackn
+b|i've got me money|inform
+b|but i haven't got the card yeah oh that's brilliant will it will will i be charged anything for that|inform
+a|right|ackn
+a|let's just have a little look right okay the quickest thing i'll do is is to send you a payment slip okay then you can pay that through the post office so you'll get sorry|informIntent-hold
+a|right okay|init
+a|the quickest thing i'll do is is to send you a payment slip okay|informIntent
+b|yeah|ackn
+a|then you can pay that through the post office|inform
+b|oh that's brilliant|accept
+b|will it will|uninterpretable
+a|so|init
+a|you'll get sorry|uninterpretable
+a|sorry|pardon
+b|will i be charged anything for that|reqInfo

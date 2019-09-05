@@ -1,0 +1,42 @@
+b|yes|ackn
+b|good morning|greet
+b|um we're looking to install please a new socket|direct
+b|because we're linking up to the internet in a few weeks' time|inform
+a|right|ackn
+a|and you you wanted sort of a new an extension socket in another room|confirm
+b|yes|ackn
+a|okay|ackn
+a|now|init
+a|you do realise that if you put another extension socket in when you're using the internet|inform
+a|nobody can get through on the telephone|inform
+b|right|ackn
+a|yeah|ackn
+a|so|init
+a|you could have a second line if you're under the for a half price installation|inform
+b|and how much is that|reqInfo
+a|that would be pounds to install a completely new second line which you can sort of dedicate for the internet|answ
+b|right|ackn
+a|um or we can supply you with a socket um|offer
+a|we do charge quite a lot of money for an extension socket|inform
+a|it's a it comes to hundred and pounds um if you just wanted the extension socket done i suggest that you um call a local electrician they'd be far much cheaper if it's just an extension you wanted mm well it just means that if you use the internet quite a lot then um you're restricting your phone service you see so people can't get through yeah mm but i mean it's no problem take take uh sort of to days to get an engineer out there and we'll install that for pounds|inform
+a|um if you just wanted the extension socket done|inform
+a|i suggest that you um call a local electrician|suggest
+a|they'd be far much cheaper if it's just an extension you wanted|inform
+b|i mean obviously we're going for the cheaper option|inform
+b|i mean if that means a new line for the internet then fine|accept
+a|mm well|init
+a|it just means that if you use the internet quite a lot|inform
+a|then um you're restricting your phone service you see|inform
+a|so people can't get through|inform
+b|that's right yes|
+b|yeah sorry didn't realise that yes|
+b|people are trying to get through and they can't|confirm
+b|oh right|ackn
+b|didn't realise that|inform
+b|right okay|ackn
+a|yeah|
+a|mm|
+a|but i mean it's no problem|inform
+a|take take uh sort of to days to get an engineer out there|inform
+a|and we'll install that for pounds|confirm
+b|yes|

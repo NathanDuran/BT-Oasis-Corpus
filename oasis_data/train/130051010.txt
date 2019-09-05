@@ -1,0 +1,14 @@
+b|yeah|ackn
+b|i had a bill you know for pounds|inform
+a|you've had a bill yeah|confirm
+b|and i i paid it know to um and i've just rang them they said the um bill's been settled like they've received me payment and i just wanna be switched back on yeah|inform
+a|right|ackn
+b|and i've just rang them|inform
+b|they said the um bill's been settled like|inform
+b|they've received me payment|inform
+a|yeah|ackn
+b|and i just wanna be switched back on|direct
+a|yeah|accept
+a|i can do an order for you|offer
+a|and it'll go off for a credit check okay|inform
+b|yeah|ackn

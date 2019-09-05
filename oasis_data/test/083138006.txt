@@ -1,0 +1,28 @@
+b|hello|greet
+b|could uh you send a duplicate of my uh of the phone bill please|direct
+b|because what's happened i've lost part of it|inform
+b|and i can't pay uh the rest in the post office|inform
+b|they say they can't take that part of it|inform
+a|right|ackn
+a|no problem|accept
+a|yeah|ackn
+a|that's fine|accept
+a|uh huh|
+a|lovely|appreciate
+a|thank you|thank
+a|can you confirm your name and the address on the bill for me please|reqInfo
+b|uh it's a mister uh sorry yeah that's right yes oh right cheers|answ
+a|lovely|appreciate
+a|thank you and are you missus and it's just the the last bill is it missus yeah that's no problem at all i have that requested today so it should be with you within the next two or days|thank
+a|and are you missus and it's just the the last bill is it missus yeah that's no problem at all i have that requested today so it should be with you within the next two or days|reqInfo
+b|yeah|answ
+b|that's right|answElab
+a|and it's just the the last bill is it missus yeah that's no problem at all i have that requested today so it should be with you within the next two or days|confirm
+b|yes|ackn
+a|yeah|ackn
+a|that's no problem at all|accept
+a|i have that requested today|informIntent
+a|so|init
+a|it should be with you within the next two or days|inform
+b|oh right|ackn
+b|cheers|thank

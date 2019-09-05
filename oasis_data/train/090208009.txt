@@ -1,0 +1,9 @@
+b|oh good morning|greet
+b|um my lady friend um had one of these Freespell phones|inform
+b|um Freedline uh i think it is uh she's having pardon yeah yeah|inform
+b|uh she's having|inform
+a|yeah|
+a|Freestyle Freestyle yeah|correct
+b|pardon|pardon
+a|Freestyle yeah|confirm
+b|yeah yeah|ackn

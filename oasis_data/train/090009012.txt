@@ -1,0 +1,16 @@
+b|oh hello|greet
+b|um it's a question about Surftime|reqInfo
+a|right okay|ackn
+b|right we got um a C D disc from one of your shops and we entered um Surftime on it we went into Surftime and accepted and everything but since then we found out that Surftime isn't available in this area and now we're stuck cause we we we tried to go into B T Internet and it won't let us it won't let us do anything now with the disk cause we've already accepted Surftime|init
+b|we got um a C D disc from one of your shops|inform
+b|and we entered um Surftime on it|inform
+b|we went into Surftime and accepted and everything|inform
+b|but since then|refer
+b|we found out that Surftime isn't available in this area|inform
+a|mm hmm|
+a|ah right okay|ackn
+b|and now we're stuck|inform
+b|cause we we we tried to go into B T Internet|inform
+b|and it won't let us it won't let us do anything now with the disk|inform
+b|cause we've already accepted Surftime|inform
+a|yeah|

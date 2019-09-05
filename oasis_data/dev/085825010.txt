@@ -1,0 +1,32 @@
+b|um i want the complaints section please|direct
+b|um i spoke to somebody uh Monday named|inform
+b|and yesterday a lady called rang me back about to apologise|inform
+b|and said it'll never happen again and blah blah blah|inform
+b|well|init
+b|it has|inform
+a|right|
+a|yeah|
+a|yeah|
+a|right|
+a|oh right|ackn
+a|yeah|ackn
+a|i|uninterpretable
+b|is this the freephone number|reqInfo
+a|this is the which is customer service|answ
+b|yeah|ackn
+b|just let me just hang on just a second|hold
+b|so i can make sure i've dialled if you still remain reu reu reu reu yeah it's free on right well is there see i don't where she rang from where are you you're at|inform
+b|if you still remain reu reu reu reu yeah|uninterpretable
+b|it's free on right well is there see i don't where she rang from where are you you're at|confirm
+a|yeah|
+a|that's right yeah correct|ackn
+b|right|ackn
+b|well|init
+b|is there|reqInfo
+a|not in this uh um office she isn't|answElab
+b|see|init
+b|i don't where she rang from|inform
+b|where are you|reqInfo
+a|we're at yeah|answ
+b|you're at|confirm
+a|yeah|ackn

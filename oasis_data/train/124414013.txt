@@ -1,0 +1,29 @@
+b|uh i wonder if you could give me some information please love|reqInfo
+b|i'm in the process of returning a telephone and all the bits and pieces to in they sent me an envelope this morning to return it but quite frankly it's too flimsy and it won't take what has to be returned could you tell me whether there's anywhere in where i could return this direct where they could forward it to no it's fjust it's just a very flimsy plastic envelope with a pre paid envelope uh well this is the lady that's the head of a resources team in oh i see but you don't happen to know whether there's anywhere in where i could return the phone not only that you know when i come to think of it had i have sent that i would have had no proof that i'd have sent it would i would they|inform
+b|they sent me an envelope this morning to return it|inform
+b|but quite frankly it's too flimsy|inform
+b|and it won't take what has to be returned|inform
+b|could you tell me whether there's anywhere in where i could return this direct where they could forward it to no it's fjust it's just a very flimsy plastic envelope with a pre paid envelope uh well this is the lady that's the head of a resources team in oh i see but you don't happen to know whether there's anywhere in where i could return the phone not only that you know when i come to think of it had i have sent that i would have had no proof that i'd have sent it would i would they|reqInfo
+a|alright|
+a|not as far as i'm aware|answ
+a|have you have you not got a a telephone customer service number with the phone|reqInfo
+a|did you receive any paperwork or anything|reqInfo
+b|no|answ
+b|it's fjust it's just a very flimsy plastic envelope with a pre paid envelope uh|inform
+b|well|init
+a|right|ackn
+a|only if she she was|inform
+a|that would be the number to go through to|inform
+a|if you wanted some more postage and packing sent out to unfortunately|inform
+a|you see we don't deal with mobiles at all here|inform
+b|oh i see|ackn
+a|so|init
+a|we're just land lines|inform
+b|but you don't happen to know whether there's anywhere in where i could return the phone|reqInfo
+a|not as not as far as i'm aware of|answ
+a|i think it would need to go directly back to the address that they've sent you anyway on the um packaging|expressOpinion
+b|not only that you know|inform
+b|when i come to think of it had i have sent that i would have had no proof that i'd have sent it would i|reqInfo
+a|well|init
+a|you could get|uninterpretable
+a|if you take it back into the post office|suggest

@@ -1,0 +1,14 @@
+b|i i'm just trying to find out how much i've got left on me bill love|reqInfo
+a|oh right|ackn
+a|have you got your account number there please|reqInfo
+b|yeah uh|answ
+b|what|reqInfo
+b|me customer number|confirm
+a|yes please|ackn
+b|it's for for double treble double for|answElab
+a|yep|ackn
+b|double treble double for|answElab
+a|yep|ackn
+b|treble double for|answElab
+a|yep|ackn
+a|that's lovely|appreciate

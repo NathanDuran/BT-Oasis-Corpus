@@ -1,0 +1,23 @@
+b|ah i got straight through|unclassifiable
+a|that's it|ackn
+a|yeah no no we're doing a trial to try and you know make the system better so so you're part of the trial how can i help you sir yep uh hmm yeah yeah thank you sir i'll just get your details thanks i have your details in front of me could you confirm your full name and address including the postcode please|ackn
+b|i expected minutes talking to machines|inform
+a|no no|negate
+a|we're doing a trial to try and you know make the system better|inform
+a|so|init
+a|so you're part of the trial how can i help you sir yep uh hmm yeah yeah thank you sir i'll just get your details thanks i have your details in front of me could you confirm your full name and address including the postcode please|confirm
+a|how can i help you sir|offer
+b|oh good|
+b|that'll suit me|accept
+b|if you've got a screen um|inform
+b|it might benefit you by putting me up on it|suggest
+b|my telephone number is yes um|inform
+a|yep uh hmm|
+a|yeah|ackn
+a|yeah|ackn
+a|thank you sir|thank
+a|i'll just get your details thanks i have your details in front of me could you confirm your full name and address including the postcode please|informIntent
+a|thanks|thank
+a|i have your details in front of me|inform
+a|could you confirm your full name and address including the postcode please|reqInfo
+b|yes|ackn

@@ -1,0 +1,25 @@
+b|oh right|ackn
+b|i've got a bit of a problem|inform
+b|actually i think you've switched me off|expressOpinion
+b|and i'm a bit annoyed|inform
+b|because i phoned you a couple of months ago and said i had problems paying|inform
+b|and you sent me a payment plan card|inform
+b|now|init
+b|the bill i've got|refer
+b|i've paid half off it and the line's absolutely dead|inform
+a|right okay|ackn
+b|yeah|answ
+b|i'm on a friends number at the moment|inform
+b|but do you want my home number|reqDirect
+a|yes please|direct
+a|your home number|directElab
+b|it's double yes it's missus|inform
+a|and uh can i confirm your name address and post code for me please|reqInfo
+b|yes|answ
+b|it's missus|inform
+a|okay|ackn
+a|missus uh how can i|reqDirect
+a|um the line right so it's not being can you not make outcoming calls|uninterpretable
+a|right so|init
+a|it's not being can you not make outcoming calls|uninterpretable
+a|can you not make outcoming calls|reqInfo

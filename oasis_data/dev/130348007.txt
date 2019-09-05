@@ -1,0 +1,36 @@
+b|hello|greet
+b|em i'm speaking on the behalf of my wife um she's she's just been put on the phone in the last couple of days and the thing is like she's she's renting a um a cordless phone off you at the moment but the property she's moved into is there was already a box you know in the flat but the thing is it's very hard to uh get the uh to to plug the adaptor into electric socket where the box is situated in the flat now what's she she's asked me to phone you and ask you would it cost her anything for to put another box into this flat cause she didn't originally apply for a box there was already one here when she asked to be put on the phone oh no couldn't of no she couldn't afford that you know what i mean yes yes no because she wasn't quite sure you know with the phone she's she's buying off of the cordless one if um she could use this phone with without using the adaptor or the|inform
+b|she's she's just been put on the phone in the last couple of days|inform
+a|yeah|ackn
+b|and the thing is like she's she's renting a um a cordless phone off you at the moment|inform
+a|right|ackn
+b|but the property she's moved into is there was already a box you know in the flat|inform
+a|right|ackn
+b|but the thing is it's very hard to uh get the uh to to plug the adaptor into electric socket where the box is situated in the flat|inform
+a|right|ackn
+b|now|init
+b|what's she|uninterpretable
+b|she's asked me to phone you and ask you would it cost her anything for to put another box into this flat cause she didn't originally apply for a box there was already one here when she asked to be put on the phone oh no couldn't of no she couldn't afford that you know what i mean yes yes no because she wasn't quite sure you know with the phone she's she's buying off of the cordless one if um she could use this phone with without using the adaptor or the|reqInfo
+b|cause she didn't originally apply for a box|inform
+b|there was already one here when she asked to be put on the phone|inform
+a|yeah|ackn
+a|i mean they will actually charge to do that|answ
+a|um but you know it's probably about eighty or ninety pounds as a visit charge|answElab
+a|that's including|answElab
+b|oh no|exclaim
+b|couldn't of|uninterpretable
+b|no|negate
+b|she couldn't afford that|inform
+b|you know what i mean|unclassifiable
+a|sure|ackn
+a|what i was gonna say was i mean you can actually get this done this sorta thing done yourself for about ten pounds|inform
+a|where you can get yourself an extension kit from any good electrical shop alright|inform
+a|and you you can put the put the socket in where it is now okay|inform
+a|and you can put a phone in there|inform
+a|and then you can just trail it through to whereever else you like in the house and effectively have another socket there|inform
+b|yes|
+b|yes|
+b|no|negate
+a|mm|
+a|sure|ackn
+a|you need to get the power source as well don't you|suggest

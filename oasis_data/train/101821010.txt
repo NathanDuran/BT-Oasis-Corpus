@@ -1,0 +1,18 @@
+b|oh is that oh that was quick i got a person as well amazing first time for ages um i'm just checking on my my bill as to actually i think i've possibly answered the question um what date my bill is and whether to switch to B T Together uh the date of my late bill i've just seen is the twenty fifth of April so does it come out every quarter and what|reqInfo
+a|yes|answ
+a|it is|answElab
+a|yes|answElab
+b|oh that was quick i got a person as well amazing first time for ages um i'm just checking on my my bill as to actually i think i've possibly answered the question um what date my bill is and whether to switch to B T Together uh the date of my late bill i've just seen is the twenty fifth of April so does it come out every quarter and what|expressOpinion
+b|i got a person as well|unclassifiable
+a|yes|ackn
+b|amazing|exclaim
+b|first time for ages|inform
+b|um i'm just checking on my my bill as to|inform
+b|actually i think i've possibly answered the question um what date my bill is and whether to switch to B T Together|inform
+b|uh the date of my late bill i've just seen is the twenty fifth of April|inform
+a|oh right ok|ackn
+b|so|init
+b|does it come out every quarter|reqInfo
+b|and what|reqInfo
+a|every quarter|answ
+a|yes|answElab

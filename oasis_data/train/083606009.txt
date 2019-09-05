@@ -1,0 +1,38 @@
+b|well|init
+b|um i just got my account|inform
+b|but it doesn't on|inform
+b|i'm in and it doesn't say the number and on on the envelope it's got try two which i am number two but i don't have any number you know there's fifteen flats in this block block and it could go anywhere just with my my name on it so i want to make sure that the next bill has number two yes it's yes it's yes it's two i've been here fifteen years you know should know by now you have good thank you very much byebye|inform
+b|and it doesn't say the number and on on the envelope it's got try two which i am number two|inform
+b|but i don't have any number you know|inform
+b|there's fifteen flats in this block block|inform
+b|and it could go anywhere just with my my name on it|expressPossibility
+b|so|init
+b|i want to make sure that the next bill has number two yes it's yes it's yes it's two i've been here fifteen years you know should know by now you have good thank you very much byebye|direct
+a|right|accept
+a|have you got your customer number on there please|reqInfo
+b|yes|answ
+b|it's yes it's yes it's two i've been here fifteen years you know should know by now you have good thank you very much byebye|answElab
+a|yeah|
+a|yeah|
+a|yeah|
+a|right|ackn
+a|can i just take your name please and your initial|reqInfo
+b|yes|answ
+b|it's yes it's two i've been here fifteen years you know should know by now you have good thank you very much byebye|answElab
+a|and you postal code please missus right just bear with me and i'm gonna change that right i've added that on there for you yeah okay thank you byebye|reqInfo
+b|yes|answ
+a|right|ackn
+a|just bear with me|hold
+a|and i'm gonna change that|informIntent
+b|it's two i've been here fifteen years you know should know by now you have good thank you very much byebye|inform
+b|i've been here fifteen years|inform
+b|you know should know by now|expressOpinion
+a|i've added that on there for you|inform
+b|you have|confirm
+b|good|appreciate
+b|thank you very much|thank
+a|yeah|ackn
+a|okay|ackn
+a|thank you|thank
+b|byebye|bye
+a|byebye|bye

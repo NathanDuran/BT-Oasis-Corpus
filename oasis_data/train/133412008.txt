@@ -1,0 +1,15 @@
+b|yeah|ackn
+b|hi|greet
+b|um i just need to um order a new phone|direct
+b|cause this one i've got is uh useless|inform
+b|i can't get on the internet with it and do touch tone things|inform
+a|okay|accept
+a|no problem|accept
+a|what's your telephone number please|reqInfo
+b|certain things|
+a|mm hm|ackn
+a|yep|ackn
+a|lovely|appreciate
+a|thank you|thank
+a|and can you confirm your full name and address with your postcode for me please|reqInfo
+b|yep|answ

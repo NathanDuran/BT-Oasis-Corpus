@@ -1,0 +1,43 @@
+b|uh you do want me uh customer number|offer
+a|yep lovely|accept
+a|thank you|thank
+b|it's it's miss what it is um i've got me reminder here right would it be possible if i could pay this on the twenty seventh of this month yes i know what it is me money 's all going i'm on family credit and it's all going into the bank with me wages at the end of the month so it's knocked me all out now mm okay i know i know yeah mm okay|inform
+a|yeah|
+a|yeah|
+a|thank you|thank
+a|if you could hold on|hold
+b|it's miss what it is um i've got me reminder here right would it be possible if i could pay this on the twenty seventh of this month yes i know what it is me money 's all going i'm on family credit and it's all going into the bank with me wages at the end of the month so it's knocked me all out now mm okay i know i know yeah mm okay|answ
+a|thank you miss and how can i help you yeah let me just have a look for you hold on so you could pay it in full by the twenty seventh but you are monthly billed aren't you miss right what i'll need to do i i can't say yes or no what i'll do is put you through to credit control and they can advise you okay it's just with monthly billing you know you don't get as long to pay it complicates things hold on i'll just pop you through|thank
+a|and how can i help you|offer
+b|what it is um|refer
+b|i've got me reminder here right|inform
+b|would it be possible if i could pay this on the twenty seventh of this month|reqModal
+a|yeah|
+a|let me just have a look for you|offer
+a|hold on so you could pay it in full by the twenty seventh but you are monthly billed aren't you miss right what i'll need to do i i can't say yes or no what i'll do is put you through to credit control and they can advise you okay it's just with monthly billing you know you don't get as long to pay it complicates things hold on i'll just pop you through|hold
+a|so|init
+a|you could pay it in full by the twenty seventh|suggest
+a|but you are monthly billed aren't you miss right what i'll need to do i i can't say yes or no what i'll do is put you through to credit control and they can advise you okay it's just with monthly billing you know you don't get as long to pay it complicates things hold on i'll just pop you through|reqInfo
+b|yes|
+b|i know|answ
+b|what it is|refer
+b|me money 's all going i'm on family credit|inform
+b|and it's all going into the bank with me wages at the end of the month so it's knocked me all out now mm okay i know i know yeah mm okay|inform
+b|so|init
+b|it's knocked me all out now|inform
+a|right|ackn
+a|what i'll need to do|refer
+a|i i can't say yes or no|inform
+a|what i'll do is put you through to credit control|informIntent
+a|and they can advise you okay|inform
+a|it's just with monthly billing you know you don't get as long to pay|inform
+a|it complicates things|inform
+b|mm|
+b|okay|
+b|i know|
+b|i know|ackn
+b|yeah|ackn
+a|hold on|hold
+a|i'll just pop you through|informIntent
+b|mm|
+b|okay|accept

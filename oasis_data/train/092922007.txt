@@ -1,0 +1,54 @@
+b|yeah|ackn
+b|um i've just phoned up about the call barring|inform
+b|um apparently i've got a letter through but no pin number|inform
+b|is that the correct procedure|reqInfo
+a|so|init
+a|you've just asked for the call barring|confirm
+a|and you've had confirmation but no pin yeah|confirm
+b|yeah|ackn
+b|and we've had no pin number|inform
+b|and now i spoke to a lady before|inform
+b|and she said that she'd be sending one out|inform
+b|so|init
+a|yeah|ackn
+a|that does come separately to the confirmation for security reasons|inform
+a|so|init
+a|if you've had the confirmation of the call barring today|inform
+a|you should get the pin tomorrow|inform
+b|right|
+b|no|negate
+b|this is um of um|unclassifiable
+b|she's sending it out though|inform
+b|i've spoke to the woman|inform
+b|so|init
+b|it's i need that pin number do i|reqInfo
+a|the of you do because um i mean you can put the call barring on without the pin number but you can't get through it without the pin so if you put the call barring on you can't lift it until you receive the pin number you see well no i mean you can put the bar on and that'll that'll bar straight away but if you want to make a call um before you get the pin number you can't so you can't use the phone in effect so you need to wait 'til you get your pin number that's what i'm saying no you can't unbar it and make a phone call without your pin number alright thanks bye|
+a|you do|answ
+a|because um i mean you can put the call barring on without the pin number|answElab
+a|but you can't get through it without the pin so if you put the call barring on you can't lift it until you receive the pin number you see well no i mean you can put the bar on and that'll that'll bar straight away but if you want to make a call um before you get the pin number you can't so you can't use the phone in effect so you need to wait 'til you get your pin number that's what i'm saying no you can't unbar it and make a phone call without your pin number alright thanks bye|answElab
+a|so|init
+a|if you put the call barring on|inform
+a|you can't lift it until you receive the pin number you see|inform
+b|oh uh uh doesn't take effect you mean|confirm
+a|well|init
+a|no|negate
+a|i mean you can put the bar on and that'll that'll bar straight away|inform
+a|but if you want to make a call um before you get the pin number|inform
+a|you can't|inform
+a|so|init
+a|you can't use the phone in effect|inform
+a|so|init
+a|you need to wait 'til you get your pin number|inform
+b|yeah|
+b|um hmm|init
+b|can can i unbar it without the pin number|reqInfo
+a|that's what i'm saying|answ
+a|no|answElab
+b|oh right|ackn
+a|you can't unbar it and make a phone call without your pin number|inform
+b|okay yep thanks|ackn
+a|alright|reqInfo
+b|yep|answ
+a|thanks|thank
+b|thanks|thank
+a|bye|bye

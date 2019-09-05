@@ -1,0 +1,27 @@
+b|wonder if you could help|direct
+b|i've just got a bill in|inform
+b|and i was wondering if i could pay it in instalments at all|reqInfo
+a|uh huh|
+a|what's you telephone number please|reqInfo
+b|it's it's mister and it's flat um i've got um the payment card but i've just got credit card bill in as well so um how many instalments could i do it in|answ
+a|thank you|thank
+a|and could you confirm your full name and address and postcode please|reqInfo
+b|it's mister|answ
+b|and it's flat um i've got um the payment card but i've just got credit card bill in as well so um how many instalments could i do it in|answ
+a|uh huh|
+a|thank you|thank
+a|let's just have a look okay i can get that arranged for you mister have you ever thought of sort of doing it through the bank budget account or anything like that oh right so you've got that oh oh yes nightmare okay how do you want to do this and what did you want to do it in|informIntent-hold
+a|okay|init
+a|i can get that arranged for you mister have you ever thought of sort of doing it through the bank budget account or anything like that oh right so you've got that oh oh yes nightmare okay how do you want to do this and what did you want to do it in|offer
+a|have you ever thought of sort of doing it through the bank budget account or anything like that|reqInfo
+b|um i've got um the payment card|inform
+b|but i've just got credit card bill in as well|inform
+b|so|init
+a|oh right|ackn
+a|so|init
+a|you've got that oh oh yes nightmare okay how do you want to do this and what did you want to do it in|confirm
+a|oh oh yes nightmare|exclaim
+a|okay|ackn
+a|how do you want to do this|reqInfo
+b|um how many instalments could i do it in|reqInfo
+a|and what did you want to do it in|reqDirect

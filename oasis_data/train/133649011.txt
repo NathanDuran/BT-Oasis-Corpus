@@ -1,0 +1,24 @@
+b|oh i phoned earlier about um the purchase of some tickets|inform
+b|and i've been given several numbers um|inform
+b|could you speak to your or could you put me through to your um you know the people who deal with it|direct
+a|i wasn't aware that we were actually issuing tickets from here to be honest|inform
+b|um|unclassifiable
+a|is it a number you've been you've read somewhere or|reqInfo
+b|yes|answ
+b|and i was given um double and they've given me another number and they have given me another number and i've so i've come back to square one to see where i you know if i it's the marketing department at i need to speak to it's it's mm hmm it's a special offer that uh are promoting at the moment|answElab
+a|yeah|ackn
+b|and they've given me another number|answElab
+b|and they have given me another number|answElab
+b|and i've|uninterpretable
+b|so|init
+b|i've come back to square one to see where i you know if i|inform
+b|it's the marketing department at i need to speak to|inform
+a|oh right|ackn
+a|i'll get onto them for you then|informIntent
+a|and what's your name please|reqInfo
+b|it's it's mm hmm it's a special offer that uh are promoting at the moment|answ
+b|mm hmm|ackn
+a|thank you very much|thank
+a|i'll just get through to marketing|informIntent
+a|and was it a special offer or just to actually order the tickets|reqInfo
+b|it's a special offer that uh are promoting at the moment|answ

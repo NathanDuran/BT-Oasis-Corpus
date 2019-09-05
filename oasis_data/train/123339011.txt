@@ -1,0 +1,26 @@
+b|hello|greet
+b|i wonder if you could keep an eye on me phonecalls|direct
+b|cause i just got a heavy breather on it|inform
+a|right|ackn
+a|you're getting um some nuisance calls from somebody um there are well there are a few things that we can do um one is called Choose To Refuse whereby um you can dial a code into your phone and that will allow you to have that number barred from ringing you again even if you even if you don't know what who what the number is even if they've withheld the number it will still bar that number from ringing you again um and i can arrange for you to have that for a month for free if if you would like and that may go some way towards um preventing these calls from happening again uh the other number is we have a nuisance call bureau as well um which can advise you in more detail about some of the things that can be done and what to do um i don't know what you would|confirm
+a|um there are well there are a few things that we can do um|inform
+a|one is called Choose To Refuse whereby um you can dial a code into your phone|inform
+b|yeah|
+b|yeah|ackn
+a|and that will allow you to have that number barred from ringing you again|inform
+a|even if you even if you don't know what who what the number is|inform
+a|even if they've withheld the number|inform
+b|mm hmm|
+b|i don't|
+b|mm hmm|ackn
+a|it will still bar that number from ringing you again|inform
+b|yeah|ackn
+a|um and i can arrange for you to have that for a month for free|offer
+b|mm hmm|ackn
+a|if if you would like|offer
+a|and that may go some way towards um preventing these calls from happening again uh|expressPossibility
+a|the other number is we have a nuisance call bureau as well|inform
+b|yeah|ackn
+a|um which can advise you in more detail about some of the things that can be done and what to do|inform
+b|right|ackn
+a|um i don't know what you would|reqDirect

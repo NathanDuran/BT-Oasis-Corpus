@@ -1,0 +1,18 @@
+b|well|init
+b|i'm just querying me bill telephone bill|informIntent
+b|this is missus of bill here oh you can have them both if you want account number is that a customer number|identifySelf
+a|okay|
+a|okay|ackn
+a|have you got you um account|reqInfo
+b|bill here|complete
+a|have you got your account number or your telephone number there please yes please that would be it yeah your customer account number yeah yeah okay i'm just gonna get your details up okay missus will did you say we're looking at your bill|reqInfo
+b|oh you can have them both if you want account number is that a customer number|answ
+b|account number|offer
+a|yes please that would be it yeah your customer account number yeah yeah okay i'm just gonna get your details up okay missus will did you say we're looking at your bill|accept
+b|is that a customer number|reqInfo
+a|your customer account number|answElab
+a|yeah|ackn
+a|yeah|ackn
+a|okay|ackn
+a|i'm just gonna get your details up okay missus will did you say we're looking at your bill|informIntent
+a|will did you say we're looking at your bill|confirm

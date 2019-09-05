@@ -1,0 +1,38 @@
+b|hello|greet
+a|hello|greet
+b|uh what it is love uh i'm just enquiring um|informIntent
+b|me mum's telephone has been switched off uh|inform
+b|and it's been switched off since yesterday now they did say i dunnee you know like through the message yeah that was yesterday and they said if they sound to get fixed today but the thing is it hasn't been fixed yet and she's disabled and needs she's on Mobility she needs the phone it's my contact you see with her now i've had to go to her house this morning to see if she's alright yeah right right i see right thanks very much okay|inform
+b|now|init
+b|they did say i dunnee you know like through the message|uninterpretable
+a|you went through the to|confirm
+a|have you been through to our faults department|reqInfo
+b|yeah|answ
+b|that was yesterday|inform
+b|and they said if they sound to get fixed today|inform
+b|but the thing is it hasn't been fixed yet and she's disabled and needs she's on Mobility she needs the phone it's my contact you see with her now i've had to go to her house this morning to see if she's alright yeah right right i see right thanks very much okay|inform
+b|and she's disabled and needs|inform
+b|she's on Mobility she needs the phone|inform
+b|it's my contact you see with her|inform
+b|now|init
+b|i've had to go to her house this morning to see if she's alright|inform
+a|right|
+a|oh dear|
+a|right|
+a|yeah|
+a|mm hmm right|ackn
+a|now|init
+a|what you need to do|refer
+a|you need to dial right|inform
+a|i mean i'll put you through|informIntent
+a|that's no problem|inform
+a|but takes you straight through to our faults department|inform
+b|yeah|
+b|right|
+b|right|
+b|i see|ackn
+a|alright|ackn
+a|so|init
+a|just bear with me|hold
+b|right|ackn
+b|thanks very much okay|thank

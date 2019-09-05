@@ -1,0 +1,38 @@
+b|hi|greet
+b|um i'm just ringing to check uh whether i've paid my bill or not|reqInfo
+b|i it it was so long ago i can't remember|inform
+b|and i'm not sure whether i've had any reminders or anything|inform
+a|have you got the account number for that please|reqInfo
+b|oh i haven't|answ
+b|no|answElab
+b|that's the thing|inform
+b|i've lost the bill|inform
+b|that's why i'm not too sure if i've paid it or not|inform
+a|um what was the telephone number then please|reqInfo
+b|it's it's um it has been paid excellent okay that's that's all i wanted to know thanks very much cheers bye|answ
+a|mm hmm|
+a|mm hmm|
+b|it's um it has been paid excellent okay that's that's all i wanted to know thanks very much cheers bye|answ
+a|mm|
+a|mm|
+a|right|ackn
+a|thank you your last bill was in May and that has been paid so we yeah there's no outstanding balance at the moment yeah we received that alright then okay then thanks bye bye|thank
+a|your last bill was in May|inform
+a|and that has been paid|inform
+a|so|init
+a|we|uninterpretable
+b|it has been paid|confirm
+a|yeah|ackn
+a|there's no outstanding balance at the moment|inform
+b|excellent|ackn
+a|yeah|ackn
+a|we received that|inform
+b|okay|ackn
+b|that's that's all i wanted to know|inform
+b|thanks very much|thank
+a|alright then|
+a|okay then|init
+b|cheers|thank
+b|bye|bye
+a|thanks|thank
+a|bye bye|bye

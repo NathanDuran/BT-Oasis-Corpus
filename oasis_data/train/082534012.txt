@@ -1,0 +1,36 @@
+b|yes|ackn
+b|good morning|greet
+b|i called uh called to have this line my line disconnected this morning|inform
+b|and i'd like to get it disconnected now if possible|direct
+b|because i'm leaving the country|inform
+b|and i don't want to have it connected|expressWish
+a|mm hmm|
+a|okay|accept
+a|no problem|accept
+a|do you have your customer number with you|reqInfo
+b|no|answ
+b|i i called that in already during the week|inform
+b|and i gave it them all that|inform
+b|all my stuff is packed away|inform
+b|all i have is a telephone number|inform
+b|am i|reqInfo
+a|right|ackn
+a|and what's the telephone number then please|reqInfo
+b|okay|ackn
+a|yeah|
+a|mm hmm|
+a|lovely|appreciate
+a|thank you right can i just ask you for your address please lovely thank you and it's basically from now you want it disconnecting yeah|thank
+a|can i just ask you for your address please|reqInfo
+b|that's and my last name is yeah for a while i wanna disconnect it now yeah i gave it them my forwarding address already you could take it again if you want|answ
+b|and my last name is yeah for a while i wanna disconnect it now yeah i gave it them my forwarding address already you could take it again if you want|identifySelf
+a|lovely|appreciate
+a|thank you|thank
+a|and it's basically from now you want it disconnecting|confirm
+a|yeah|ackn
+b|yeah|ackn
+b|for a while|refer
+b|i wanna disconnect it now|direct
+b|yeah|ackn
+b|i gave it them my forwarding address already|inform
+b|you could take it again if you want|suggest

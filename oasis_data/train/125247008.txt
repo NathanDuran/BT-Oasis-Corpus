@@ -1,0 +1,32 @@
+b|yeah|ackn
+b|can you give me uh how much it is to have a new line put in please|reqInfo
+b|a second line|inform
+a|i'm sorry|pardon
+a|i didn't hear you then|inform
+a|could you say that again|pardon
+b|how can you tell me how much it is to have a second line put in|reqInfo
+a|a second line|echo
+a|yeah|answ
+a|um on a residential basis is this|reqInfo
+b|yeah|answ
+b|it is|answElab
+b|yeah|answElab
+a|okay right|ackn
+a|there's two options to you|inform
+a|um there's the a standard line which we would install for ninety nine pounds|inform
+b|yeah|ackn
+a|okay|ackn
+a|and that's with uh standard line rental which is twenty seven pounds seventy seven per quarter|inform
+b|yeah|ackn
+a|okay|ackn
+a|the other option is you can install it under the B T Together discount package|informDisc
+b|yeah|ackn
+a|where the installation is actually half price|informCont
+a|it's forty nine pounds fifty to install|inform
+b|yeah|ackn
+a|um you do pay a slightly higher rental though per quarter|inform
+a|you actually pay thirty five pounds ninety seven|informDisc
+b|yeah|ackn
+a|per quarter|informCont
+a|but then um in exchange on that um package you do actually get all your calls charged at a cheaper rate|inform
+a|um you also get a free call allowance as well which works out to be six pounds worth of free calls every quarter|inform

@@ -1,0 +1,20 @@
+b|hello|greet
+b|it's from in hello i've a gentleman in wishing to take over a line please it's just on a normal standard line he not at this he has one to prove his address yes yeah it's it's number yes that's|identifySelf
+a|hiya|greet
+b|hello|greet
+b|i've a gentleman in wishing to take over a line please|direct
+a|yes sure|accept
+a|has he had a|reqInfo
+b|it's just on a normal standard line|inform
+a|and has he had a line before|reqInfo
+b|he not at this|answ
+b|he has one to prove his address yes|answElab
+a|okay|ackn
+a|and do you know the details of his previous line so i can link it|reqInfo
+a|or shall i have a|uninterpretable
+b|yeah|answ
+b|it's it's number yes that's|answElab
+a|yeah|ackn
+b|yes that's|ackn
+b|that's|inform
+a|and that was his old address is it|reqInfo

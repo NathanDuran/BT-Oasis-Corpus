@@ -1,0 +1,29 @@
+b|uh is there any way i can get a block on my phone so that i can stop the outgoing calls|reqInfo
+a|sorry|pardon
+a|your your phone is outgoing calls|reqInfo
+b|no|answ
+b|what i want to do is i want to like put a stop on love so i can stop making outgoing calls|expressWish
+b|cause i know me me phone bill's pretty high|inform
+a|right|ackn
+a|um we can actually do that|inform
+a|but there is a one off charge of pounds yes to do that um i can actually do it for you have you got your customer number yes we would need that to actually do it and then if you give us a call back then we can do it um the only thing with it is when you do want the barring taken off we would need a a letter from you|inform
+b|is there|reqInfo
+a|yes|answ
+a|to do that|answElab
+b|um how do i go about that|reqInfo
+a|um i can actually do it for you|offer
+b|yeah|accept
+a|have you got your customer number|reqInfo
+b|mm not on me|answ
+b|no|answElab
+b|it's around somewhere|answElab
+b|i can find it|offer
+a|yes|accept
+a|we would need that to actually do it|inform
+b|yes|
+b|and i'll phone you back|informIntent
+a|and then if you give us a call back|suggest
+a|then we can do it um|confirm
+a|the only thing with it is when you do want the barring taken off we would need a a letter from you|inform
+b|yeah|
+b|yeah|

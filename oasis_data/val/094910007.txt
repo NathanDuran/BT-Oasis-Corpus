@@ -1,0 +1,26 @@
+b|oh hi|greet
+b|yeah|ackn
+b|i'm i'm trying to organise a telephone line for my new flat|informIntent
+b|but i went through to sales|inform
+b|and um they've given me a telephone number etcetera|inform
+b|but it my line doesn't work|inform
+b|i've i've bought a i had a bought a i've bought a new you know a walk around answer machine|inform
+b|and that didn't work|inform
+b|and at the weekend i just went out and bought like a new you know cheapy plug in phone|inform
+b|and i'm still not getting the dialling tone|inform
+a|right|
+a|yep|
+a|yeah|
+a|uh hmm|
+a|right|ackn
+a|what was the number that they gave you please|reqInfo
+a|yep|ackn
+a|yep|ackn
+a|lovely|appreciate
+a|thank you|thank
+a|can you confirm your name and the address for me|reqInfo
+b|yeah f|answ
+b|miss and it's uh yeah|answElab
+b|and it's uh yeah|answElab
+a|do you know the post code|reqInfo
+b|uh yeah|answ

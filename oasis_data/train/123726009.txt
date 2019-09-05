@@ -1,0 +1,15 @@
+b|oh hello|greet
+b|i wanted to change my Friends And Family numbers|direct
+a|oh right|accept
+a|can i give you a a freephone number to dial and that|reqModal
+a|so|init
+a|it's double alright thank you byebye|inform
+b|yeah sure|
+b|yeah|ackn
+b|yeah|ackn
+b|lovely|appreciate
+b|thank you|thank
+a|alright|ackn
+a|thank you|thank
+b|bye|bye
+a|byebye|bye

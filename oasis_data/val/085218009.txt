@@ -1,0 +1,12 @@
+b|hi love|greet
+b|it's mister do you want me phone number hang on hang on where's your customer number on your bill your oh yeah double|identifySelf
+b|do you want me phone number|offer
+a|i need your customer number i'm afraid|reqInfo
+b|where's your customer number on your bill|reqInfo
+a|yeah|
+a|it's on the top right on the top|answ
+b|your|selfTalk
+b|oh yeah|ackn
+a|that's the one|inform
+a|yeah|ackn
+a|yeah|ackn

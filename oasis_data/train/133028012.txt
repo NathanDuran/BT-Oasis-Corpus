@@ -1,0 +1,32 @@
+b|hello|greet
+b|i had a bar put on me phone you know because i was getting nuisance phone calls|inform
+b|am i talking to the right department|reqInfo
+a|yeah|answ
+b|um i'd like it lifted now|direct
+a|okay|accept
+a|what's the um phone number first of all|reqInfo
+b|right|ackn
+a|mm|
+a|mm|
+a|thanks very much indeed|thank
+a|and can you confirm your name and address with postcode for me please|reqInfo
+b|yes|answ
+a|okay|ackn
+a|have you got your account number there with you|reqInfo
+a|i don't know if you've got a bill next to you|reqInfo
+b|i've got a bill in me front of me|answ
+a|yeah yeah|ackn
+a|top right hand corner|inform
+b|right|ackn
+b|it's well i think i'm not sure the fella gave me a if they if anyone wants to get in touch with me is that it okay|answ
+a|mm hmm|
+a|okay|ackn
+a|is that the bar that's stopping people ringing you if they withhold their number is that the one you're talking about yeah yeah|reqInfo
+a|is that the one you're talking about|reqInfo
+b|well|init
+b|i think i'm not sure|expressOpinion
+b|the fella gave me a if they if anyone wants to get in touch with me|inform
+a|yeah|ackn
+b|is that it|reqInfo
+a|yeah|answ
+b|okay|ackn

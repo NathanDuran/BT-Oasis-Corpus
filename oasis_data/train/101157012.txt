@@ -1,0 +1,28 @@
+b|yes uh|ackn
+b|i basically um i'm on a monthly payment plan at the moment|inform
+b|i wanted to change it to quarterly if that's possible|direct
+a|yes|accept
+a|that'll be um okay um|accept
+a|can i have your customer number|reqInfo
+b|oh crumbs|exclaim
+b|i haven't got that in front of me|inform
+b|can i|uninterpretable
+a|oh i would need customer number to change that i'm afraid|inform
+b|oh right|ackn
+b|just a moment|hold
+b|i'll just go uh look for it|informIntent
+b|just a minute|hold
+a|okay mm hmm mm hmm okay can i just confirm your name and address as well mm hmm|ackn
+b|right|init
+b|i've got uh yeah now i've got one bill outstanding of pounds is there anyway i can break that down yes it's missus|inform
+a|mm hmm|
+b|yeah now i've got one bill outstanding of pounds is there anyway i can break that down yes it's missus|ackn
+b|now|init
+b|i've got one bill outstanding of pounds|inform
+b|is there anyway i can break that down|reqInfo
+a|mm hmm|
+a|okay|ackn
+a|can i just confirm your name and address as well|reqInfo
+b|yes|answ
+b|it's missus|answElab
+a|mm hmm|

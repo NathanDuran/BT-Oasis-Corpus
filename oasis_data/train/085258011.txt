@@ -1,0 +1,9 @@
+b|you're are you|confirm
+b|good morning|greet
+a|hello|greet
+a|good morning|greet
+b|how are you today|reqInfo
+a|fine|answ
+a|thank you|thank
+b|good|appreciate
+b|um i'd like a telephone|direct

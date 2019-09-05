@@ -1,0 +1,11 @@
+b|um you don't know which number i have to phone to get through about the digital television do you|reqInfo
+a|to On Digital|confirm
+a|yes|ackn
+a|just bear with me one moment|hold
+a|and i'll get that number for you|informIntent
+b|yes|
+b|okay|accept
+b|thank you|thank
+a|just bear with me|hold
+a|and i'll transfer you okay|informIntent
+b|okay|ackn

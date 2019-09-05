@@ -1,0 +1,21 @@
+b|hi there|greet
+b|i i wonder if it's possible to change some of the select services that i that i've got|direct
+a|certainly|accept
+a|is what's um what's your telephone number there please|reqInfo
+b|it's yeah yeah it's er and it's that's well what i uh can you see from there what services i've got on i've got um call waiting i've got caller i d and i think i've got ring ring back five or whatever it was called|answ
+b|yeah|
+b|yeah|answ
+b|it's er and it's that's well what i uh can you see from there what services i've got on i've got um call waiting i've got caller i d and i think i've got ring ring back five or whatever it was called|answElab
+b|and it's that's well what i uh can you see from there what services i've got on i've got um call waiting i've got caller i d and i think i've got ring ring back five or whatever it was called|answElab
+b|that's well what i uh can you see from there what services i've got on i've got um call waiting i've got caller i d and i think i've got ring ring back five or whatever it was called|answElab
+a|okay|ackn
+a|uh what did you want to uh change with that mister yeah let me have a just waiting for um the computer to warm up|reqDirect
+b|well|init
+b|what i uh|uninterpretable
+b|can you see from there what services i've got on|reqInfo
+a|yeah|answ
+a|let me have a|informIntent
+b|i've got um call waiting|inform
+b|i've got caller i d and i think i've got ring ring back five or whatever it was called|inform
+b|and i think i've got ring ring back five or whatever it was called|inform
+a|just waiting for um the computer to warm up|inform

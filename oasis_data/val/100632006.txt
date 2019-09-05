@@ -1,0 +1,23 @@
+b|ah wonder if you can|direct
+b|my name's mister i've just moved into in um i've got a the phone there um but i want it disconnected for a little okay um ah yeah this is the old bill actually it's in a mister uh mister um let's help you out then treble that what you need i'm i'm mister|identifySelf
+b|i've just moved into in|inform
+b|um i've got a the phone there um|inform
+b|but i want it disconnected for a little|direct
+a|right|
+a|yeah|
+a|right okay|accept
+a|just bear with me|hold
+b|okay|ackn
+a|can i take your customer number|reqInfo
+b|um|unclassifiable
+a|from the top right hand side of your bill|reqInfo
+b|ah yeah this is the old bill actually it's in a mister uh mister um let's help you out then treble that what you need i'm i'm mister|ackn
+b|this is the old bill actually|inform
+b|it's in a mister uh mister um|inform
+b|let's help you out then|informIntent
+a|yeah|ackn
+a|right|ackn
+a|let's have a look at that for you and|informIntent
+b|that what you need|reqInfo
+a|what was your initial mister|reqInfo
+b|i'm i'm mister|answ

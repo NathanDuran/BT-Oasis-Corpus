@@ -1,0 +1,29 @@
+b|yes uh|ackn
+b|i've i reported a fault earlier to in the engineers|inform
+a|uh right|ackn
+a|and uh and is your line still faulty|reqInfo
+b|my line's alright|answ
+b|i keep|inform
+b|whenever i make a phonecall|inform
+b|it it's cut off immediately|inform
+b|and my star button doesn't work the line's clear it was really crackling before yeah but when no and when i got went through to a number i like i phoned you earlier the minute i get through i get cut off again yes i do|inform
+b|the line's clear|inform
+b|it was really crackling before|inform
+a|oh right|ackn
+a|but the line's okay|confirm
+b|yeah|ackn
+b|but when|uninterpretable
+a|but now|init
+a|your star button doesn't work|confirm
+b|no|ackn
+b|and when i got went through to a number i like i phoned you earlier|inform
+a|yeah|ackn
+b|the minute i get through i get cut off again|inform
+a|right|ackn
+a|and the um what sign uh|reqInfo
+a|uh do you rent a phone from you do right could you give me your telephone number please|reqInfo
+b|yes|answ
+b|i do|answElab
+a|you do|confirm
+a|right|init
+a|could you give me your telephone number please|reqInfo

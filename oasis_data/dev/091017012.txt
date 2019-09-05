@@ -1,0 +1,26 @@
+b|hi|greet
+b|um i'm trying to transfer my telephone|informIntent
+b|cause i've moved house|inform
+b|and i've been trying to sort of ring up for like four days now|inform
+b|and every time i keep getting please hold please hold please hold|inform
+a|oh dear|
+a|oh gosh|exclaim
+a|i'm sorry|expressRegret
+a|right|ackn
+b|it's not that|inform
+b|it's not that|inform
+b|it's just that they're busy all the time|inform
+a|yeah|ackn
+a|you just can't get through|confirm
+a|oh i'm sorry about that|expressRegret
+b|no|negate
+b|i just keep holding and holding|inform
+a|right|ackn
+a|can i take you telephone number please|reqInfo
+b|yeah|answ
+a|yeah|ackn
+a|yeah|ackn
+a|thank you can you just confirm the name and address for that please|thank
+a|can you just confirm the name and address for that please|reqInfo
+b|yeah|answ
+b|it's|answElab

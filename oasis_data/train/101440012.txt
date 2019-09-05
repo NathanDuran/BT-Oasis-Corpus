@@ -1,0 +1,9 @@
+b|uh your phone's awfully quiet|expressOpinion
+a|my phone|confirm
+b|your phone|inform
+b|yeah|accept
+a|oh|exclaim
+b|might be mine|expressOpinion
+b|but i don't think i've got volume control uh i'm phoning up to get uh the phone put in to my name my big brother phoned yesterday and took it off his name|expressOpinion
+b|uh i'm phoning up to get uh the phone put in to my name|direct
+b|my big brother phoned yesterday and took it off his name|inform

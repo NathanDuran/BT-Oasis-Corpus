@@ -1,0 +1,17 @@
+b|oh sorry|expressRegret
+b|i think i've rang the wrong number|expressOpinion
+b|i'm wanting um international directory enquiries|expressWish
+a|i'll get you the number|informIntent
+a|hold on if i can find it that is can you hold on a second can you hold hello sorry to keep you if you ring okay that's it thank you bye|hold
+a|if i can find it that is|inform
+a|can you hold on a second can you hold|hold
+b|yes|accept
+a|sorry to keep you|expressRegret
+a|if you ring okay|inform
+b|hello|
+a|that's it|accept
+b|okay|ackn
+b|thanks|thank
+b|bye|bye
+a|thank you|thank
+a|bye|bye

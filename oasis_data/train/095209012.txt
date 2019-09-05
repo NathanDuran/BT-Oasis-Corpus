@@ -1,0 +1,18 @@
+b|hello|greet
+a|hello there|greet
+b|this is missus i'm i'm on the Careline now attached to your phone well what i was gonna say i've got one of these things that that puts the number on when anybody's calling you it's pound a quarter d'you know what i mean you know one of these little discs and he tells you which who who's calling the number the person who's calling uh can i send it back yeah|identifySelf
+b|i'm i'm on the Careline now|inform
+b|attached to your phone|inform
+a|right|ackn
+b|what i was gonna say i've got one of these things that that puts the number on when anybody's calling you it's pound a quarter d'you know what i mean you know one of these little discs and he tells you which who who's calling the number the person who's calling uh can i send it back yeah|inform
+b|it's pound a quarter d'you know what i mean you know one of these little discs and he tells you which who who's calling the number the person who's calling uh can i send it back yeah|inform
+b|d'you know what i mean|reqInfo
+a|right|answ
+a|so you pay pound a quarter for|confirm
+b|you know one of these little discs and he tells you which who who's calling the number the person who's calling|complete
+a|oh Caller Display|confirm
+b|uh can i send it back|reqModal
+a|yes|answ
+a|you i|uninterpretable
+a|what's your telephone number first of all|reqInfo
+b|yeah|ackn

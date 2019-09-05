@@ -1,0 +1,10 @@
+b|uh i'd like another telephone line please if that's possible|direct
+a|yeah certainly|accept
+a|could you give me the number that you're on at the moment|reqInfo
+b|double uh|answElab
+a|double and which which area are you in came right have you got a bill in front of you|echo
+a|and which which area are you in|reqInfo
+b|uh|answ
+a|came|uninterpretable
+a|right|ackn
+a|have you got a bill in front of you|reqInfo

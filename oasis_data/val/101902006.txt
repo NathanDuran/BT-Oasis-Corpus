@@ -1,0 +1,11 @@
+b|hello|greet
+b|i'm just calling|unclassifiable
+b|i had um pound phone bill to pay|inform
+a|right|ackn
+b|and it's pounds|inform
+b|this is on my last bill|inform
+b|this is on my last bill|inform
+a|oh right okay|ackn
+a|yeah|ackn
+b|yeah|ackn
+b|it's just to let you know that i paid the pound yesterday|inform

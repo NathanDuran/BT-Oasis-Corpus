@@ -1,0 +1,7 @@
+b|good morning|greet
+a|good morning|greet
+b|how nice to phone early and to get through straight away um|appreciate
+b|yeah|accept
+b|i know|accept
+b|i'm moving my dear|inform
+b|and i want to give you some particulars|informIntent

@@ -1,0 +1,29 @@
+b|uh good afternoon|greet
+b|i would like to um open a line get a line|direct
+a|yes|accept
+a|that's not problem|accept
+a|just bear with me one moment|hold
+a|are you a new customer to you're not you've had previous service from us before right obviously some time ago no oh i see right no that's no problem do do you have the address that you wish uh service to to be put on to yes and the postcode|reqInfo
+b|um no|answ
+b|i'm not|answElab
+a|you're not|confirm
+a|you've had previous service from us before|confirm
+a|right obviously some time ago no oh i see right no that's no problem do do you have the address that you wish uh service to to be put on to yes and the postcode|ackn
+a|obviously some time ago|reqInfo
+b|uh no no no no|answ
+b|it was not|answElab
+b|but it's quite complicated|inform
+b|so|init
+b|i'm sorry|expressRegret
+b|you will have to go with me about|direct
+a|no|
+a|oh i see|ackn
+a|right|accept
+a|no|accept
+a|that's no problem|accept
+a|do do you have the address that you wish uh service to to be put on to|reqInfo
+b|uh yes|answ
+b|it's two mm hmm uh it's|answElab
+b|mm hmm|ackn
+b|uh it's|answElab
+a|and the postcode|reqInfo

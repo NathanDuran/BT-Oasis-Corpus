@@ -1,0 +1,23 @@
+a|not|echo
+a|no|negate
+a|not this time|negate
+b|someone said dial that do option option and i got my finger poised and someone answered me so i don't know what to ask for now i'm yeah speak to a real person um my query was i i have lines one was up until a few months um a a dedicated business line into the house we've now had that as our second line both lined oh the other one's going both lines are now um into the house one's got a fax machine and is for the internet but that particular number obviously i used it for business for or years and i keep getting faxes from you know companies and stock lists and things like that from many companies and i which i don't want to receive can i change can i get that number changed at all|inform
+b|and i got my finger poised and someone answered me|inform
+b|so|init
+b|i don't know what to ask for now i'm|unclassifiable
+b|yeah|ackn
+b|speak to a real person um|unclassifiable
+b|my query was i i have lines|inform
+a|oh that shocked ya didn't it  yeah right right|
+a|yeah|ackn
+b|one was up until a few months um a a dedicated business line into the house|inform
+a|right|ackn
+b|we've now had that as our second line both lined oh the other one's going both lines are now um into the house one's got a fax machine and is for the internet but that particular number obviously i used it for business for or years and i keep getting faxes from you know companies and stock lists and things like that from many companies and i which i don't want to receive can i change can i get that number changed at all|inform
+b|oh the other one's going both lines are now um into the house|inform
+b|one's got a fax machine and is for the internet|inform
+b|but that particular number obviously i used it for business for or years|inform
+b|and i keep getting faxes from|inform
+b|you know companies and stock lists and things like that from many companies|inform
+b|and i which i don't want to receive|inform
+b|can i change can i get that number changed at all|reqInfo
+a|right|

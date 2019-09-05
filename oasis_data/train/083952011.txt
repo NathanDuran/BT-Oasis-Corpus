@@ -1,0 +1,18 @@
+b|hello|greet
+b|i'm sounds as if if there's a bit of a party going on there this morning no lots of oh a oh it sounded like joy and activity and uh happiness i've just been talking to a colleague of yours called in uh engineering or where's repairs or faults or whatever it was and he told me you're just the person to help me we last week we arranged the number we were at was disconnected and we were moving to a different house and we asked for a new number to be activated as from seven o'clock yesterday morning the new number is|identifySelf
+b|sounds as if if there's a bit of a party going on there this morning|expressOpinion
+a|no|negate
+b|no lots of oh a oh it sounded like joy and activity and uh happiness i've just been talking to a colleague of yours called in uh engineering or where's repairs or faults or whatever it was and he told me you're just the person to help me we last week we arranged the number we were at was disconnected and we were moving to a different house and we asked for a new number to be activated as from seven o'clock yesterday morning the new number is|confirm
+b|lots of|uninterpretable
+a|are you talking about there's a buzz on the line|reqInfo
+b|oh a oh it sounded like joy and activity and uh happiness|inform
+a|oh i wish i wish how can i help you right|expressWish
+a|i wish how can i help you right|expressWish
+a|how can i help you|offer
+b|i've just been talking to a colleague of yours called in uh engineering or where's repairs or faults or whatever it was|inform
+b|and he told me you're just the person to help me|inform
+a|right|ackn
+b|we last week we arranged the number we were at was disconnected|inform
+b|and we were moving to a different house|inform
+b|and we asked for a new number to be activated as from seven o'clock yesterday morning the new number is|inform
+b|the new number is|inform

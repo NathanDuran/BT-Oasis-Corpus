@@ -1,0 +1,14 @@
+b|um hello|greet
+b|um i've just woke up this morning|inform
+b|and um me phone's dead|inform
+b|and you can't even ring in on it|inform
+a|oh right|ackn
+a|and what's your number please|reqInfo
+b|it's yeah yeah fine yeah it's missus|answ
+a|yeah|ackn
+a|thank you and it was working alright last night was it and would you mind confirming your full name and the address including the postcode for me please|thank
+a|and it was working alright last night was it|confirm
+b|yeah|ackn
+b|yeah fine|ackn
+b|yeah|ackn
+b|it's missus|answ

@@ -1,0 +1,52 @@
+b|oh yes um|ackn
+b|oh now|init
+b|me clock's gonna go|unclassifiable
+b|good morning|greet
+b|i'm on hello yeah and um i've just had um two phone calls from the same people and i explained that they rung the wrong number but when our phone rang it made a different um sound it didn't use use use the usual ringing tone that's what i thought but uh but um a while back we did have a second number on the same line uh yes but we got it to be we asked for it to be taken off yeah it's double double yeah missus place} oh that should that was that was months ago cos we never we never ever used in the end we never used it so i think we must have had it on for about maybe months at the most but i i thought the man i spoke to took it off must have been two couple of months ago at the least|inform
+b|hello|greet
+a|hello|greet
+b|yeah|ackn
+b|and um i've just had um two phone calls from the same people|inform
+b|and i explained that they rung the wrong number|inform
+b|but when our phone rang|refer
+b|it made a different um sound|inform
+b|it didn't use use use the usual ringing tone|inform
+a|yeah|
+a|oh gosh|exclaim
+a|that's strange|expressOpinion
+b|that's what i thought|expressOpinion
+b|but uh but um a while back|refer
+b|we did have a second number on the same line|inform
+a|for the Callsign|reqInfo
+b|uh yes|answ
+b|but we got it to be we asked for it to be taken off|inform
+a|right|ackn
+a|i'll just check that for you|informIntent
+a|can i just take your customer number|reqInfo
+b|yeah|answ
+b|it's double double yeah missus place} oh that should that was that was months ago cos we never we never ever used in the end we never used it so i think we must have had it on for about maybe months at the most but i i thought the man i spoke to took it off must have been two couple of months ago at the least|answElab
+a|yeah|
+a|yeah|
+a|that's lovely|appreciate
+a|right|ackn
+a|just bear with me|hold
+a|now|init
+a|i've got your details in front of me|inform
+a|would you just confirm your full name address and post code please|reqInfo
+b|yeah|answ
+b|missus place} oh that should that was that was months ago cos we never we never ever used in the end we never used it so i think we must have had it on for about maybe months at the most but i i thought the man i spoke to took it off must have been two couple of months ago at the least|answElab
+a|right|ackn
+a|the Callsign's actually showing as still operational|inform
+a|now|init
+a|i can remove that for you|offer
+a|i think that's what that is|expressOpinion
+a|that's very strange isn't it|expressOpinion
+b|oh that should that was that was months ago cos we never we never ever used in the end we never used it so i think we must have had it on for about maybe months at the most but i i thought the man i spoke to took it off must have been two couple of months ago at the least|answ
+b|cos we never we never ever used in the end|inform
+b|we never used it|inform
+b|so i think we must have had it on for about maybe months at the most but i i thought the man i spoke to took it off must have been two couple of months ago at the least|expressOpinion
+b|but i i thought the man i spoke to took it off|expressOpinion
+b|must have been two couple of months ago at the least|inform
+a|how strange|exclaim
+a|right|init
+a|just bear with me one moment|hold

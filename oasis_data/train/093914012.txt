@@ -1,0 +1,7 @@
+b|hi there|greet
+b|can i give you the telephone number|offer
+a|certainly|accept
+b|it's uh oh sorry it's a business line|inform
+a|yes|ackn
+b|oh sorry|expressRegret
+b|it's a business line|inform

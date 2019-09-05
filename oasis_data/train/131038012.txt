@@ -1,0 +1,26 @@
+b|hi i'd like to arrange um i'm moving house i'd like to give you a date when the uh have the phone disconnected if that's what you do uh it's mister i've already got that connected uh twenty first uh first thing in the morning|greet
+b|i'd like to arrange|informIntent
+b|um i'm moving house|inform
+b|i'd like to give you a date when the uh have the phone disconnected|informIntent
+b|if that's what you do|reqInfo
+a|oh right|ackn
+a|yes yes|answ
+a|can i take you telephone number please|reqInfo
+a|yes|
+a|yes|
+a|right|ackn
+a|thank you right just confirm the name and address for me please that's lovely and are you wanting service at your new address oh right okay and what date are you moving out of this one the twenty first okay and what time on the twenty first would you like us to stop the line first thing okay|thank
+a|just confirm the name and address for me please|reqInfo
+b|it's mister i've already got that connected uh twenty first uh first thing in the morning|answ
+a|that's lovely|appreciate
+a|and are you wanting service at your new address|reqDirect
+b|i've already got that connected|inform
+a|oh right okay|ackn
+a|and what date are you moving out of this one|reqInfo
+b|uh twenty first|answ
+a|the twenty first okay and what time on the twenty first would you like us to stop the line first thing okay|confirm
+a|okay|ackn
+a|and what time on the twenty first would you like us to stop the line|reqDirect
+b|uh first thing in the morning|direct
+a|first thing|echo
+a|okay|accept

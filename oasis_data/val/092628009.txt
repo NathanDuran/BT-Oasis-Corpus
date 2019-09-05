@@ -1,0 +1,22 @@
+b|hiya|greet
+b|i'm on income uh s not incoming calls at the minute|inform
+a|right|ackn
+b|and i's just wondering|inform
+b|could i swap over to outgoing as well but have like a limit put on um yeah more like a call level where as if it gets to that go over that level it will go back to incoming right yeah it's double|reqModal
+a|um or a barring you mean you know where you can bar the outgoing calls or do you mean like a call level right i don't believe there is such as service um but you can put a barring on yourself oh do you have your telephone number yeah yeah okay|reqInfo
+a|you know where you can bar the outgoing calls|reqInfo
+a|or do you mean like a call level|reqInfo
+b|um|
+b|yeah|answ
+b|more like a call level where as if it gets to that go over that level it will go back to incoming|answElab
+a|right|ackn
+a|i don't believe there is such as service um|expressOpinion
+a|but you can put a barring on yourself|inform
+b|right|ackn
+a|oh do you have your telephone number|reqInfo
+b|yeah|answ
+b|it's double|answElab
+a|yeah|ackn
+a|yeah|ackn
+b|double|answElab
+a|okay|ackn

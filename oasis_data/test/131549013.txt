@@ -1,0 +1,26 @@
+b|basically i've had uh i've gotta pay me phone bill yeah|inform
+b|and what happened was I got a letter through|inform
+b|and i mean it's only been a couple of weeks|inform
+b|and they basically made it so it was incoming calls only which is fine|inform
+b|and then i rang up|inform
+b|and we basically said we arranged like you know a payment plan|inform
+b|and i've been cut off this morning|inform
+b|and now|init
+b|they know what what i'm waiting for|inform
+b|i've got a loan coming through on Friday|inform
+b|and i said basically it'll get paid off instantly then or so much per week|inform
+b|and they seemed happy with it|inform
+b|and i just thought that'd be fine|inform
+b|and all of a sudden i've been cut off|confirm
+b|and this is the second time now|inform
+a|right|
+a|right|
+a|what's your customer number|reqInfo
+b|uh oh god|exclaim
+b|you mean my phone number or my|reqInfo
+a|what's your telephone number|reqInfo
+a|okay|ackn
+a|could your confirm your name and address including postcode please sir|reqInfo
+b|yeah|answ
+b|it's and the address is|answElab
+b|and the address is|answElab

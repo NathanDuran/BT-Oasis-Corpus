@@ -1,0 +1,17 @@
+b|hi|greet
+b|i just was just phoning you|inform
+b|and i just got cut off uh|inform
+a|oh i'm sorry|expressRegret
+b|it's alright|accept
+b|can i give you my customer number|reqModal
+a|yeah certainly|accept
+a|yeah|ackn
+a|yeah|ackn
+a|yeah|ackn
+a|yeah that's lovely can you just confirm your name and address for me please lovely how can i help miss|ackn
+a|that's lovely|appreciate
+a|can you just confirm your name and address for me please|direct
+b|yeah|accept
+b|it's at|inform
+a|lovely|appreciate
+a|how can i help miss|offer

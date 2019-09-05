@@ -1,0 +1,53 @@
+b|um what it is is i asked for uh um oh you know where they can't dial out the kids one of them uh call barring|inform
+b|yeah|ackn
+a|call barring|echo
+a|yeah|ackn
+b|um and it's a wrong number|inform
+b|it won't accept me pin|inform
+b|now|init
+b|i did phone up last week about it|inform
+b|and they said they have to send the pin through the phone|inform
+b|but i still haven't had the pin|inform
+b|and it's like over a week now|inform
+b|and i haven't been able to use my phone|inform
+a|mm|
+a|ah okay|ackn
+a|let's have a look|informIntent
+a|have you got your account number with you customer number|reqInfo
+b|yeah|answ
+b|it's right um double yeah right okay alright then thanks very much thanks bye|answElab
+a|yeah|
+a|yeah|
+a|okay|ackn
+a|that's all i need|inform
+a|thank you|thank
+a|and if you could confirm the name and the address for me|reqInfo
+b|right|
+a|that's lovely|appreciate
+a|thank you|thank
+a|right|init
+a|let me just have a look for you what was the old pin number that you were using right okay yeah it's a different one from that now i tell you what i can do for you i obviously can't give it to you over the phone i'm afraid for security reasons but what i'll do is i'll actually instead of the computer generating it which is obviously what's causing the problem it's taking its time i'll send it on i'll just put in on a complement slip and i'll send it out first class today so you will get that tomorrow morning okayokay so i'll i'll do that for you now alright thank you byebye|informIntent
+a|what was the old pin number that you were using|reqInfo
+a|right okay|ackn
+a|yeah|ackn
+a|it's a different one from that|inform
+a|now|init
+a|i tell you what i can do for you|offer
+a|i obviously can't give it to you over the phone i'm afraid for security reasons|inform
+a|but what i'll do is i'll actually instead of the computer generating it which is obviously what's causing the problem|informIntent
+a|it's taking its time|inform
+a|i'll send it on i'll just put in on a complement slip|informIntent
+a|and i'll send it out first class today so you will get that tomorrow morning|informIntent
+b|yeah|
+b|right|ackn
+a|okayokay|ackn
+a|so|init
+a|i'll i'll do that for you now|informIntent
+b|okay|
+b|alright then|ackn
+b|thanks very much|thank
+a|alright|ackn
+a|thank you|thank
+a|byebye|bye
+b|thanks|thank
+b|bye|bye

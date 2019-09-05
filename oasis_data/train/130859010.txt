@@ -1,0 +1,19 @@
+b|hello|greet
+a|hello there|greet
+b|um could could you put me through to the enquiries|direct
+a|oh yeah|accept
+a|what is you're trying to do|reqInfo
+b|well|init
+b|i just want to find how much i owe on my bill please|answ
+a|oh uh yeah|ackn
+a|i can do that for you|offer
+b|can you|reqInfo
+a|yeah|answ
+b|oh right|accept
+a|have you got your account number with you at all|reqInfo
+b|yes lovey|answ
+a|yeah excellent|appreciate
+a|yeah|ackn
+b|double|answElab
+a|mm hm|ackn
+a|yep|

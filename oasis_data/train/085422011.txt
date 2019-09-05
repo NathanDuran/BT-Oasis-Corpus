@@ -1,0 +1,22 @@
+b|um i've come home from abroad|inform
+b|and i'm absolutely at sea|expressOpinion
+b|and i wanted to know the price of calls to and and the times of days when they're a they're cheapest|reqInfo
+a|that's no problem|accept
+a|just bear with me|hold
+a|and i'll give you that information|informIntent
+b|thank you|thank
+a|i'm just looking that up for you|inform
+b|that's alright|accept
+a|the normal rate|refer
+a|that's the daytime rate which is Monday to Friday eight a m to six p m|inform
+b|eight a m to six p m|echo
+a|to six p m  um this is for the all the aha um it's point pence per minute yeah aha|
+a|um this is for the all the aha um it's point pence per minute yeah aha|inform
+b|ah yes|ackn
+b|this is to yes|confirm
+a|aha|exclaim
+a|um it's point pence per minute|inform
+b|yes|ackn
+b|per minute|echo
+a|yeah|
+a|aha|

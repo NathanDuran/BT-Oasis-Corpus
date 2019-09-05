@@ -1,0 +1,9 @@
+b|i'm i want to enquire about these B T Payment Cards|informIntent
+a|oh yes|ackn
+a|yeah|ackn
+b|ah well|init
+b|i've i got mine this morning|inform
+a|you have got your Payment Card|confirm
+a|yeah|ackn
+b|yeah|ackn
+b|but the the number on the card doesn't match the number on my bill|inform

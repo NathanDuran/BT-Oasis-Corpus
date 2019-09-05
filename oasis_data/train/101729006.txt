@@ -1,0 +1,4 @@
+b|you say hello i'm wanna pay some money do i pay you or|confirm
+a|hi|greet
+b|i'm wanna pay some money|inform
+b|do i pay you or|reqInfo
