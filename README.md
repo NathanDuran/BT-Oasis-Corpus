@@ -17,7 +17,7 @@ The oasis_metadata.py generates various metadata from the processed dialogues an
 The words, labels and frequencies are also saved as plain text files in the /metadata directory.
 
 ## Data Format
-Utterance are tagged with the ![SPAAC Annotation Scheme](SPAAC%20Annotation%20Scheme.pdf) for DA.
+Utterance are tagged with the [SPAAC Annotation Scheme](SPAAC%20Annotation%20Scheme.pdf) for DA.
 
 By default:
 - Utterances are written one per line in the format *Speaker* | *Utterance Text* | *Dialogue Act Tag*.
