@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le703300.unit.b">
+<word id="le703300.b.unit.2">hello</word>
+<word id="le703300.b.unit.3">can</word>
+<word id="le703300.b.unit.4">you</word>
+<word id="le703300.b.unit.5">try</word>
+<word id="le703300.b.unit.6">a</word>
+<word id="le703300.b.unit.7">number</word>
+<word id="le703300.b.unit.8">for</word>
+<word id="le703300.b.unit.9">me</word>
+<word id="le703300.b.unit.10">um</word>
+<bcanchor id="le703300.bcanchorb.1"><nite:pointer href="le703300.a.lturn.xml#id(le703300.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le703300.b.unit.12">getting</word>
+<word id="le703300.b.unit.13">trouble</word>
+<partword id="le703300.b.unit.14">ge</partword>
+<word id="le703300.b.unit.15">er</word>
+<word id="le703300.b.unit.16">it's</word>
+<num id="le703300.b.unit.17"/>
+<num id="le703300.b.unit.18"/>
+<num id="le703300.b.unit.19"/>
+<num id="le703300.b.unit.20"/>
+<num id="le703300.b.unit.25"/>
+<num id="le703300.b.unit.26"/>
+<num id="le703300.b.unit.27"/>
+<num id="le703300.b.unit.31"/>
+<num id="le703300.b.unit.32"/>
+<num id="le703300.b.unit.33"/>
+<num id="le703300.b.unit.34"/>
+<word id="le703300.b.unit.47">out</word>
+<word id="le703300.b.unit.48">of</word>
+<word id="le703300.b.unit.49">service</word>
+<bcanchor id="le703300.bcanchorb.2"><nite:pointer href="le703300.a.lturn.xml#id(le703300.lturn.8.1)" role="bc"/></bcanchor>
+<word id="le703300.b.unit.51">okay</word>
+<word id="le703300.b.unit.52">thanks</word>
+<word id="le703300.b.unit.53">a</word>
+<word id="le703300.b.unit.54">lot</word>
+<word id="le703300.b.unit.55">bye</word>
+</nite:root>

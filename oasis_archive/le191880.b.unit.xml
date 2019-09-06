@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le191880.unit.b">
+<word id="le191880.b.unit.2">um</word>
+<word id="le191880.b.unit.3">it's</word>
+<word id="le191880.b.unit.4">a</word>
+<word id="le191880.b.unit.5">bit</word>
+<word id="le191880.b.unit.6">odd</word>
+<sil BTlength="" id="le191880.b.unit.7"/>
+<word id="le191880.b.unit.8">um</word>
+<sil BTlength="" id="le191880.b.unit.9"/>
+<word id="le191880.b.unit.10">i'm</word>
+<word id="le191880.b.unit.11">trying'</word>
+<word id="le191880.b.unit.12">to</word>
+<word id="le191880.b.unit.13">call</word>
+<pncode type="town" id="le191880.b.unit.14"/>
+<num id="le191880.b.unit.15"/>
+<num id="le191880.b.unit.16"/>
+<num id="le191880.b.unit.17"/>
+<num id="le191880.b.unit.18"/>
+<num id="le191880.b.unit.19"/>
+<num id="le191880.b.unit.20"/>
+<sil BTlength="" id="le191880.b.unit.21"/>
+<word id="le191880.b.unit.22">and</word>
+<word id="le191880.b.unit.23">i</word>
+<word id="le191880.b.unit.24">keep</word>
+<word id="le191880.b.unit.25">getting</word>
+<word id="le191880.b.unit.26">number's</word>
+<word id="le191880.b.unit.27">not</word>
+<word id="le191880.b.unit.28">available</word>
+<word id="le191880.b.unit.47">er</word>
+<num id="le191880.b.unit.48"/>
+<sil BTlength="" id="le191880.b.unit.49"/>
+<bcanchor id="le191880.bcanchorb.1"><nite:pointer href="le191880.a.lturn.xml#id(le191880.lturn.4.1)" role="bc"/></bcanchor>
+<num id="le191880.b.unit.51"/>
+<num id="le191880.b.unit.52"/>
+<num id="le191880.b.unit.53"/>
+<num id="le191880.b.unit.55"/>
+<num id="le191880.b.unit.56"/>
+<num id="le191880.b.unit.57"/>
+<word id="le191880.b.unit.66">yeah</word>
+<word id="le191880.b.unit.93">oh</word>
+<word id="le191880.b.unit.94">damn</word>
+<word id="le191880.b.unit.95">it</word>
+<partword id="le191880.b.unit.96">wh</partword>
+<partword id="le191880.b.unit.97">h</partword>
+<word id="le191880.b.unit.98">what's</word>
+<word id="le191880.b.unit.99">the</word>
+<word id="le191880.b.unit.100">number</word>
+<word id="le191880.b.unit.101">now</word>
+<word id="le191880.b.unit.126">oh</word>
+<word id="le191880.b.unit.127">Christ</word>
+<word id="le191880.b.unit.128">they've</word>
+<word id="le191880.b.unit.129">gone</word>
+<word id="le191880.b.unit.130">cable</word>
+<word id="le191880.b.unit.131">oh</word>
+<word id="le191880.b.unit.132">bugger</word>
+<word id="le191880.b.unit.148">oh</word>
+<word id="le191880.b.unit.149">right</word>
+<word id="le191880.b.unit.181">yeah</word>
+<word id="le191880.b.unit.182">well</word>
+<word id="le191880.b.unit.183">i</word>
+<word id="le191880.b.unit.184">want</word>
+<word id="le191880.b.unit.185">to</word>
+<word id="le191880.b.unit.186">get</word>
+<word id="le191880.b.unit.187">them</word>
+<word id="le191880.b.unit.188">this</word>
+<word id="le191880.b.unit.189">morning</word>
+<word id="le191880.b.unit.190">like</word>
+<word id="le191880.b.unit.191">now</word>
+<word id="le191880.b.unit.215">oh</word>
+<word id="le191880.b.unit.216">yeah</word>
+<comment text="end-ok" id="le191880.b.unit.217"/>
+</nite:root>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le213620.unit.b">
+<word id="le213620.b.unit.2">hi</word>
+<word id="le213620.b.unit.3">yeah</word>
+<word id="le213620.b.unit.4">i'm</word>
+<word id="le213620.b.unit.5">not</word>
+<word id="le213620.b.unit.6">sure</word>
+<word id="le213620.b.unit.7">if</word>
+<word id="le213620.b.unit.8">this</word>
+<word id="le213620.b.unit.9">is</word>
+<word id="le213620.b.unit.10">the</word>
+<word id="le213620.b.unit.11">the</word>
+<word id="le213620.b.unit.12">right</word>
+<word id="le213620.b.unit.13">number</word>
+<word id="le213620.b.unit.14">but</word>
+<word id="le213620.b.unit.15">i</word>
+<word id="le213620.b.unit.16">was</word>
+<word id="le213620.b.unit.17">wondering</word>
+<word id="le213620.b.unit.18">if</word>
+<word id="le213620.b.unit.19">you</word>
+<word id="le213620.b.unit.20">could</word>
+<word id="le213620.b.unit.21">tell</word>
+<word id="le213620.b.unit.22">me</word>
+<word id="le213620.b.unit.23">the</word>
+<word id="le213620.b.unit.24">cheap</word>
+<word id="le213620.b.unit.25">rate</word>
+<word id="le213620.b.unit.26">to</word>
+<word id="le213620.b.unit.27">phone</word>
+<pncode type="town" id="le213620.b.unit.28"/>
+<word id="le213620.b.unit.29">please</word>
+<word id="le213620.b.unit.31">yeah</word>
+<word id="le213620.b.unit.32">cheap</word>
+<word id="le213620.b.unit.33">rate</word>
+<bcanchor id="le213620.bcanchorb.1"><nite:pointer href="le213620.a.lturn.xml#id(le213620.lturn.4.1)" role="bc"/></bcanchor>
+<word id="le213620.b.unit.35">what</word>
+<word id="le213620.b.unit.36">what</word>
+<word id="le213620.b.unit.37">times</word>
+<word id="le213620.b.unit.38">it</word>
+<word id="le213620.b.unit.39">would</word>
+<word id="le213620.b.unit.40">be</word>
+<word id="le213620.b.unit.71">uh</word>
+<word id="le213620.b.unit.97">huh</word>
+<word id="le213620.b.unit.98">huh</word>
+<word id="le213620.b.unit.122">ok</word>
+<word id="le213620.b.unit.133">no</word>
+<word id="le213620.b.unit.134">they're</word>
+<word id="le213620.b.unit.135">not</word>
+<word id="le213620.b.unit.136">they're</word>
+<word id="le213620.b.unit.137">not</word>
+<word id="le213620.b.unit.138">a</word>
+<word id="le213620.b.unit.139">great</word>
+<word id="le213620.b.unit.140">deal</word>
+<partword id="le213620.b.unit.141">i</partword>
+<word id="le213620.b.unit.142">it's</word>
+<word id="le213620.b.unit.143">just</word>
+<bcanchor id="le213620.bcanchorb.4"><nite:pointer href="le213620.a.lturn.xml#id(le213620.lturn.8.1)" role="bc"/></bcanchor>
+<word id="le213620.b.unit.145">basically</word>
+<word id="le213620.b.unit.146">the</word>
+<word id="le213620.b.unit.147">same</word>
+<word id="le213620.b.unit.148">times</word>
+<word id="le213620.b.unit.149">as</word>
+<word id="le213620.b.unit.150">the</word>
+<word id="le213620.b.unit.151">normal</word>
+<word id="le213620.b.unit.152">national</word>
+<word id="le213620.b.unit.153">rate</word>
+<word id="le213620.b.unit.154">isn't</word>
+<word id="le213620.b.unit.155">it</word>
+<word id="le213620.b.unit.166">alright</word>
+<word id="le213620.b.unit.169">ok</word>
+<word id="le213620.b.unit.170">cheers</word>
+<word id="le213620.b.unit.171">thanks</word>
+<bcanchor id="le213620.bcanchorb.6"><nite:pointer href="le213620.a.lturn.xml#id(le213620.lturn.10.1)" role="bc"/></bcanchor>
+<word id="le213620.b.unit.173">very</word>
+<word id="le213620.b.unit.174">much</word>
+<word id="le213620.b.unit.175">cheers</word>
+<bcanchor id="le213620.bcanchorb.7"><nite:pointer href="le213620.a.lturn.xml#id(le213620.lturn.10.2)" role="bc"/></bcanchor>
+<word id="le213620.b.unit.177">bye</word>
+<noi id="le213620.b.unit.178"/>
+<comment text="hangs_up" id="le213620.b.unit.179"/>
+<comment text="end-ok" id="le213620.b.unit.180"/>
+</nite:root>

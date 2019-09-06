@@ -14,8 +14,7 @@ a|right|ackn
 a|you probably won't be on the same exchange|inform
 a|but i'll have a look for you|informIntent
 a|what's your telephone number please|reqInfo
-b|no|thirdParty
-b|it's um|answ-Disc
+b|it's um|answ
 a|okay|ackn
 a|and the dialling code please|reqInfo
 b|yeah|ackn

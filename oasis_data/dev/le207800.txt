@@ -1,0 +1,28 @@
+b|oh hello|greet
+b|i'm trying to ring treble um constantly engaged for nearly minutes now which i appreciate is an airline company but seems rather strange at this hour of the night okay mm it would have done mm just seems strange at twenty past eleven at night sort of constantly engaged you know i i've been trying probably every thirty seconds okok thanks bye|informIntent
+b|um constantly engaged for nearly minutes now|inform
+b|which i appreciate is an airline company but seems rather strange at this hour of the night|expressOpinion
+a|mm|backch
+a|yes|backch
+a|right i can't actually test this line though cause it's going to be a switch board all i can do is call it and see what i get i'm getting engaged too these these numbers are self reporting so if there is a fault it would have reported it already yes mm mm yes i'm sorry ok right|ackn
+a|i can't actually test this line though cause it's going to be a switch board all i can do is call it and see what i get i'm getting engaged too these these numbers are self reporting so if there is a fault it would have reported it already yes mm mm yes i'm sorry ok right|inform
+a|all i can do is call it and see what i get|inform
+b|okay mm it would have done mm just seems strange at twenty past eleven at night sort of constantly engaged you know i i've been trying probably every thirty seconds okok thanks bye|ackn
+a|i'm getting engaged too|inform
+a|these these numbers are self reporting|inform
+a|so if there is a fault|inform
+a|it would have reported it already|inform
+b|mm|backch
+b|it would have done|confirm
+a|yes|ackn
+b|mm just seems strange at twenty past eleven at night sort of constantly engaged you know|expressOpinion
+b|i i've been trying probably every thirty seconds|inform
+a|mm|backch
+a|mm|backch
+a|yes|ackn
+a|i'm sorry|expressRegret
+b|okok|ackn
+b|thanks|thank
+b|bye|bye
+a|ok|backch
+a|right|backch

@@ -1,0 +1,21 @@
+b|oh hello|greet
+b|eh could i have an alarm call in the morning please|direct
+a|right|accept
+a|what time do you want it for|reqDirect
+b|yes|ackn
+b|five fifteen in the morning|direct
+a|five fifteen|echo
+a|hold on please right that's booked for you now then at five fifteen tomorrow morning ooh i've got your number thank you yeah okay thank you bye bye|hold
+a|right|init
+a|that's booked for you now then at five fifteen tomorrow morning|inform
+b|yes|ackn
+b|have you got my number|reqInfo
+a|ooh i've got your number|answ
+a|thank you yeah|thank
+b|yes right|ackn
+b|thank you very much|thank
+a|okay|ackn
+a|thank you|thank
+b|yes|ackn
+b|bye|bye
+a|bye bye|bye

@@ -1,0 +1,144 @@
+b|pardon|pardon
+a|it's the operator|identifySelf
+a|can i help you|offer
+b|yes|direct
+b|erm i want to get through to a plumber in er erm|inform
+b|the the number they gave me i cannae get through to them is um erm|inform
+b|oh wait a minute|hold
+a|and is it|reqInfo
+a|i see and where did you obtain this number er where did you get the number who did you phone yeah well it's not a correct number so where did you get the number from a voice on the phone right what did you dial yeah yes but where did you get the number from this number that you've got here where did you get this number from right i see and what was the original number you dialled then please and what was the number you dialled to get this number please you dialled to get this number right well no no no no i know you've just dialled but the number that you've given me you got that number from an answering machine didn't you right what number did you dial to get the answering machine fine and right what was that number please and what was that number please no you haven't you haven't given me the number that you dialled to get to the answering machine you just given me the number yes but that's the number that was left on the answering machine isn't it is that the number that was yes that's the number that was left on the answering machine right so what was the number you dialled to get that answering machine and that number but the the number you've given me is incorrect now it's it's not a number the number you've given me is not a correct number it doesn't work it's not a number now what was the number you dialled to get that number yes yeah but you didn't dial what's right now look you've got this number just please please yes if you could okay you've got can you hello could you right you got that number from an answering machine didn't you because the offices are closed right now that number's wrong now i can only presume that they've given out the message wrong or you've taken down the wrong number so if i can take the number that you dialled originally i can perhaps find out what the answering machine said so what was the number that you dialled first thank you yes i'm still here just hold the line a moment just try that call again double hold the line for me a moment|ackn
+a|and where did you obtain this number|reqInfo
+b|yes|backch
+b|i've been trying for a couple of hours|inform
+a|er where did you get the number|reqInfo
+a|who did you phone|reqInfo
+b|i phoned up to and i got it at the same and i got the number but the voice always comes up and says you'll get no answer so i wonder if you can help me a voice on the phone hmm i dialled what they said and er she said it was closed the county office was closed but er it weren't emergency i told you i got it from a girl in the office well it was a voice anyway she said the office was closed but to to phone this number well i'm in here and i phoned there and their offices and that's when they said to phone that number i dialled yes to get you to get some help no it a a a hundred i did yes ah to get the answering machine i dialled um well i dialled um the office in in here and they said it was closed i've just told you pardon that's the number i got it is an answering machine oh god i dialled before i heard bout you and i'm still waiting to get to the toilet i cannot get to the toilet oh well you dial it then and see what the answer she gives you well that was a voice that said it was changed and that was supposed to be in pardon that's my thingmy that's my from here from uh huh that's for that's the code number that's the code number it's for  uh huh yes uh huh um there you heard it for yourself hello sorry i'm sorry|inform
+b|and i got the number|inform
+b|but the voice always comes up and says you'll get no answer|inform
+b|so|init
+b|i wonder if you can help me|direct
+a|yeah|backch
+a|well|init
+a|it's not a correct number|inform
+a|so|init
+a|where did you get the number from|reqInfo
+b|a voice on the phone|answ
+a|a voice on the phone|echo
+a|right|ackn
+a|what did you dial|reqInfo
+b|hmm|backch
+b|i dialled what they said and er she said it was closed the county office was closed but er it weren't emergency i told you i got it from a girl in the office well it was a voice anyway she said the office was closed but to to phone this number well i'm in here and i phoned there and their offices and that's when they said to phone that number i dialled yes to get you to get some help no it a a a hundred i did yes ah to get the answering machine i dialled um well i dialled um the office in in here and they said it was closed i've just told you pardon that's the number i got it is an answering machine oh god i dialled before i heard bout you and i'm still waiting to get to the toilet i cannot get to the toilet oh well you dial it then and see what the answer she gives you well that was a voice that said it was changed and that was supposed to be in pardon that's my thingmy that's my from here from uh huh that's for that's the code number that's the code number it's for  uh huh yes uh huh um there you heard it for yourself hello sorry i'm sorry|answ
+b|what they said|inform
+b|and er she said it was closed the county office was closed but er it weren't emergency|inform
+a|yeah|backch
+a|yes|ackn
+a|but where did you get the number from this number that you've got here|reqInfo
+a|where did you get this number from|reqInfo
+b|i told you|raiseIssue
+b|i got it from a girl in the office|answ
+b|well|init
+b|it was a voice anyway|answElab
+b|she said the office was closed but to to phone this number|answ
+a|i see|ackn
+a|and what was the original number you dialled then please|reqInfo
+b|well|init
+b|i'm in here|inform
+b|and i phoned there and their offices|inform
+b|and that's when they said to phone that number|inform
+a|and what was the number you dialled to get this number please|reqInfo
+b|i dialled yes to get you to get some help no it a a a hundred i did yes ah to get the answering machine i dialled um well i dialled um the office in in here and they said it was closed i've just told you pardon that's the number i got it is an answering machine oh god i dialled before i heard bout you and i'm still waiting to get to the toilet i cannot get to the toilet oh well you dial it then and see what the answer she gives you well that was a voice that said it was changed and that was supposed to be in pardon that's my thingmy that's my from here from uh huh that's for that's the code number that's the code number it's for  uh huh yes uh huh um there you heard it for yourself hello sorry i'm sorry|answ
+a|you dialled to get this number|confirm
+b|yes|ackn
+b|to get you to get some help|inform
+a|right|ackn
+a|well|init
+a|no no no|negate
+b|no|negate
+a|no|negate
+a|i know you've just dialled but the number that you've given me you got that number from an answering machine didn't you right what number did you dial to get the answering machine fine and right what was that number please and what was that number please no you haven't you haven't given me the number that you dialled to get to the answering machine you just given me the number yes but that's the number that was left on the answering machine isn't it is that the number that was yes that's the number that was left on the answering machine right so what was the number you dialled to get that answering machine and that number but the the number you've given me is incorrect now it's it's not a number the number you've given me is not a correct number it doesn't work it's not a number now what was the number you dialled to get that number yes yeah but you didn't dial what's right now look you've got this number just please please yes if you could okay you've got can you hello could you right you got that number from an answering machine didn't you because the offices are closed right now that number's wrong now i can only presume that they've given out the message wrong or you've taken down the wrong number so if i can take the number that you dialled originally i can perhaps find out what the answering machine said so what was the number that you dialled first thank you yes i'm still here just hold the line a moment just try that call again double hold the line for me a moment|inform
+a|but the number that you've given me|refer
+a|you got that number from an answering machine didn't you right|confirm
+a|what number did you dial to get the answering machine|reqInfo
+b|yes|backch
+b|ah to get the answering machine i dialled um well i dialled um the office in in here|inform
+b|and they said it was closed|inform
+a|fine|backch
+a|and right|ackn
+a|what was that number please and what was that number please|reqInfo
+b|i've just told you|answ
+a|no|negate
+a|you haven't|negate
+a|you haven't given me the number that you dialled to get to the answering machine|raiseIssue
+a|you just given me the number|raiseIssue
+a|yes|ackn
+a|but that's the number that was left on the answering machine isn't it|confirm
+a|is that the number that was|reqInfo
+b|pardon|backch
+b|that's the number i got|inform
+a|yes|ackn
+a|that's the number that was left on the answering machine|confirm
+b|it is an answering machine|inform
+a|right so|ackn
+a|what was the number you dialled to get that answering machine and that number|reqInfo
+b|oh god|exclaim
+b|i dialled before i heard bout you and i'm still waiting to get to the toilet i cannot get to the toilet oh well you dial it then and see what the answer she gives you well that was a voice that said it was changed and that was supposed to be in pardon that's my thingmy that's my from here from uh huh that's for that's the code number that's the code number it's for  uh huh yes uh huh um there you heard it for yourself hello sorry i'm sorry|inform
+b|and i'm still waiting to get to the toilet i cannot get to the toilet|inform
+a|but the the number you've given me is incorrect now|inform
+b|oh|exclaim
+b|well|init
+b|you dial it then and see what the answer she gives you|direct
+a|it's it's not a number|inform
+a|the number you've given me is not a correct number|inform
+a|it doesn't work|inform
+a|it's not a number|inform
+a|now|init
+a|what was the number you dialled to get that number|reqInfo
+b|well|init
+b|that was a voice that said it was changed|inform
+a|yes|backch
+a|yeah|ackn
+a|but you didn't dial|inform
+b|and that was supposed to be in pardon that's my thingmy that's my from here from uh huh that's for that's the code number that's the code number it's for  uh huh yes uh huh um there you heard it for yourself hello sorry i'm sorry|inform
+a|what's right now look you've got this number just please please yes if you could okay you've got can you hello could you right you got that number from an answering machine didn't you because the offices are closed right now that number's wrong now i can only presume that they've given out the message wrong or you've taken down the wrong number so if i can take the number that you dialled originally i can perhaps find out what the answering machine said so what was the number that you dialled first thank you yes i'm still here just hold the line a moment just try that call again double hold the line for me a moment|reqInfo
+b|pardon|pardon
+b|that's my thingmy that's my from here from uh huh that's for that's the code number that's the code number it's for  uh huh yes uh huh um there you heard it for yourself hello sorry i'm sorry|answ
+a|right now|ackn
+a|look|init
+a|you've got this number just please please yes if you could okay you've got can you hello could you right you got that number from an answering machine didn't you because the offices are closed right now that number's wrong now i can only presume that they've given out the message wrong or you've taken down the wrong number so if i can take the number that you dialled originally i can perhaps find out what the answering machine said so what was the number that you dialled first thank you yes i'm still here just hold the line a moment just try that call again double hold the line for me a moment|inform
+b|uh huh that's for that's the code number that's the code number it's for  uh huh yes uh huh um there you heard it for yourself hello sorry i'm sorry|inform
+a|just please please|direct
+b|that's the code number|inform
+a|yes|ackn
+a|if you could|suggest
+a|okay|ackn
+a|you've got can you hello could you right you got that number from an answering machine didn't you because the offices are closed right now that number's wrong now i can only presume that they've given out the message wrong or you've taken down the wrong number so if i can take the number that you dialled originally i can perhaps find out what the answering machine said so what was the number that you dialled first thank you yes i'm still here just hold the line a moment just try that call again double hold the line for me a moment|inform
+b|that's the code number|inform
+b|it's for  uh huh yes uh huh um there you heard it for yourself hello sorry i'm sorry|inform
+a|can you|direct
+a|hello|greet
+a|could you|direct
+a|right|ackn
+a|you got that number from an answering machine didn't you|confirm
+a|because the offices are closed right|confirm
+a|now|init
+a|that number's wrong|inform
+a|now|init
+a|i can only presume that they've given out the message wrong or you've taken down the wrong number|expressOpinion
+a|so|init
+a|if i can take the number that you dialled originally|inform
+a|i can perhaps find out what the answering machine said|expressPossibility
+a|so|init
+a|what was the number that you dialled first|reqInfo
+b|yes|backch
+b|uh huh|backch
+b|um there you heard it for yourself hello sorry i'm sorry|answ
+a|thank you yes i'm still here just hold the line a moment just try that call again double hold the line for me a moment|thank
+b|there|exclaim
+b|you heard it for yourself hello sorry i'm sorry|raiseIssue
+b|hello|greet
+a|yes|ackn
+a|i'm still here|ackn
+a|just hold the line a moment|hold
+b|sorry i'm sorry|expressRegret
+a|just try that call again|informIntent
+a|hold the line for me a moment|hold

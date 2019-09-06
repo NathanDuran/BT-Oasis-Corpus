@@ -1,0 +1,65 @@
+b|yeah|ackn
+b|can you erm arrange a alarm call for me|direct
+a|yes certainly|accept
+a|what time do you want it for|reqDirect
+b|well|init
+b|can you tell me how much it is|reqInfo
+a|yeah|answ
+a|it is two eighty|answElab
+b|two eighty|echo
+b|so um|init
+a|mm|backch
+a|unless you book it yourself|inform
+a|have you got a touch tone phone|reqInfo
+b|i've got all the instructions here um|inform
+b|if i do it myself then|inform
+a|yeah|backch
+b|oh oh right and will it like confirm that i've done it or something star star what time do you want the alarm call for half five six o' clock yeah yes right right and if i want to check it's got here you press star hash hash right and that'll just do it automatically tomorrow morning oh right that's lovely thank you very much then bye|echo
+a|yeah|ackn
+a|it's a lot cheaper|expressOpinion
+b|oh right|ackn
+a|yeah|confirm
+a|much cheaper just press your press the number so i can hear your phone that's that's no problem that is touch tone you should be able to book it from there no problem it will yeah uh uh what do you you dial star star yeah then you'll get a recording and it just tells you to dial in the time followed by the square wait till recording goes off and the dial tone comes back and then do that what time do you want it for six o' clock so you dial for six o' clock and then you press the gate key or the hash key whatever you want to call it and it will confirm what time you booked it for and then you do is hang up and it will call you back at that time that's right my love that's to check to make sure you've got it right yes it certainly will yeah ok you're welcome byebye then|confirm
+a|just press your press the number so i can hear your phone that's that's no problem that is touch tone you should be able to book it from there no problem it will yeah uh uh what do you you dial star star yeah then you'll get a recording and it just tells you to dial in the time followed by the square wait till recording goes off and the dial tone comes back and then do that what time do you want it for six o' clock so you dial for six o' clock and then you press the gate key or the hash key whatever you want to call it and it will confirm what time you booked it for and then you do is hang up and it will call you back at that time that's right my love that's to check to make sure you've got it right yes it certainly will yeah ok you're welcome byebye then|direct
+a|so i can hear your phone that's that's no problem that is touch tone you should be able to book it from there no problem it will yeah uh uh what do you you dial star star yeah then you'll get a recording and it just tells you to dial in the time followed by the square wait till recording goes off and the dial tone comes back and then do that what time do you want it for six o' clock so you dial for six o' clock and then you press the gate key or the hash key whatever you want to call it and it will confirm what time you booked it for and then you do is hang up and it will call you back at that time that's right my love that's to check to make sure you've got it right yes it certainly will yeah ok you're welcome byebye then|inform
+a|that's that's no problem|inform
+a|that is touch tone|inform
+a|you should be able to book it from there no problem|confirm
+b|and will it like confirm that i've done it or something|reqInfo
+a|it will|answ
+a|yeah|answElab
+a|you dial star star|inform
+b|star star|echo
+a|yeah|ackn
+a|then you'll get a recording|inform
+a|and it just tells you to dial in the time followed by the square|inform
+a|wait till recording goes off and the dial tone comes back and then do that what time do you want it for six o' clock so you dial for six o' clock and then you press the gate key or the hash key whatever you want to call it and it will confirm what time you booked it for and then you do is hang up and it will call you back at that time that's right my love that's to check to make sure you've got it right yes it certainly will yeah ok you're welcome byebye then|direct
+a|and then do that|direct
+a|what time do you want it for|reqDirect
+b|half five six o' clock|answ
+a|six o' clock|echo
+a|so|init
+a|you dial for six o' clock|confirm
+a|and then you press the gate key or the hash key whatever you want to call it|confirm
+b|yeah|backch
+b|yes|ackn
+a|and it will confirm what time you booked it for|inform
+b|right|ackn
+a|and then you do is hang up|inform
+a|and it will call you back at that time that's right my love that's to check to make sure you've got it right yes it certainly will yeah ok you're welcome byebye then|inform
+b|right|ackn
+b|and if i want to check it's got here|inform
+b|you press star hash hash right and that'll just do it automatically tomorrow morning oh right that's lovely thank you very much then bye|confirm
+a|that's right my love|answ
+a|that's to check to make sure you've got it right yes|answElab
+b|right|ackn
+b|and that'll just do it automatically tomorrow morning|confirm
+a|it certainly will|ackn
+a|yeah|ackn
+b|oh right|ackn
+b|that's lovely|appreciate
+a|ok|init
+b|thank you very much then|thank
+a|you're welcome|ackn
+b|bye|bye
+a|byebye then|bye

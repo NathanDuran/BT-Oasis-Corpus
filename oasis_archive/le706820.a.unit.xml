@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le706820.unit.a">
+<stdzcode id="le706820.a.unit.1" description="name"/>
+<word id="le706820.a.unit.13">yeah</word>
+<num id="le706820.a.unit.14"/>
+<word id="le706820.a.unit.15">double</word>
+<num id="le706820.a.unit.16"/>
+<num id="le706820.a.unit.17"/>
+<word id="le706820.a.unit.22">yep</word>
+<word id="le706820.a.unit.25">bye</word>
+<word id="le706820.a.unit.26">now</word>
+<comment text="end-ok" id="le706820.a.unit.27"/>
+</nite:root>

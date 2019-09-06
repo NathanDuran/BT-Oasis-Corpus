@@ -1,0 +1,7 @@
+b|operator could you do you know the um dialling code for please|reqInfo
+a|i don't i'm afraid|answ
+a|you'll need directory enquiries on|answElab
+a|would you like me to put you through to them|offer
+b|oh|backch
+b|yes please|accept
+a|hold the line please|hold

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le301140.unit.b">
+<word id="le301140.b.unit.2">hello</word>
+<word id="le301140.b.unit.3">love</word>
+<bcanchor id="le301140.bcanchorb.1"><nite:pointer href="le301140.a.lturn.xml#id(le301140.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le301140.b.unit.5">can</word>
+<word id="le301140.b.unit.6">you</word>
+<word id="le301140.b.unit.7">just</word>
+<word id="le301140.b.unit.8">tell</word>
+<word id="le301140.b.unit.9">me</word>
+<sil BTlength="" id="le301140.b.unit.10"/>
+<word id="le301140.b.unit.11">i'm</word>
+<word id="le301140.b.unit.12">trying</word>
+<word id="le301140.b.unit.13">to</word>
+<word id="le301140.b.unit.14">dial</word>
+<word id="le301140.b.unit.15">a</word>
+<word id="le301140.b.unit.16">number</word>
+<bcanchor id="le301140.bcanchorb.2"><nite:pointer href="le301140.a.lturn.xml#id(le301140.lturn.2.2)" role="bc"/></bcanchor>
+<word id="le301140.b.unit.18">and</word>
+<word id="le301140.b.unit.19">when</word>
+<word id="le301140.b.unit.20">i</word>
+<word id="le301140.b.unit.21">dial</word>
+<word id="le301140.b.unit.22">it</word>
+<word id="le301140.b.unit.23">it</word>
+<word id="le301140.b.unit.24">it</word>
+<word id="le301140.b.unit.25">rings</word>
+<word id="le301140.b.unit.26">for</word>
+<word id="le301140.b.unit.27">about</word>
+<word id="le301140.b.unit.28">three</word>
+<word id="le301140.b.unit.29">or</word>
+<word id="le301140.b.unit.30">four</word>
+<word id="le301140.b.unit.31">times</word>
+<word id="le301140.b.unit.32">then</word>
+<word id="le301140.b.unit.33">it</word>
+<word id="le301140.b.unit.34">i</word>
+<word id="le301140.b.unit.35">get</word>
+<word id="le301140.b.unit.36">some</word>
+<word id="le301140.b.unit.37">right</word>
+<word id="le301140.b.unit.38">queer</word>
+<word id="le301140.b.unit.39">noises</word>
+<word id="le301140.b.unit.40">on</word>
+<word id="le301140.b.unit.41">it</word>
+<bcanchor id="le301140.bcanchorb.3"><nite:pointer href="le301140.a.lturn.xml#id(le301140.lturn.2.3)" role="bc"/></bcanchor>
+<word id="le301140.b.unit.44">what</word>
+<word id="le301140.b.unit.45">would</word>
+<word id="le301140.b.unit.46">i</word>
+<word id="le301140.b.unit.47">who</word>
+<word id="le301140.b.unit.48">do</word>
+<word id="le301140.b.unit.49">i</word>
+<word id="le301140.b.unit.50">get</word>
+<word id="le301140.b.unit.51">through</word>
+<word id="le301140.b.unit.52">to</word>
+<word id="le301140.b.unit.53">to</word>
+<word id="le301140.b.unit.54">just</word>
+<word id="le301140.b.unit.55">ask</word>
+<word id="le301140.b.unit.56">to</word>
+<word id="le301140.b.unit.57">check</word>
+<word id="le301140.b.unit.58">it</word>
+<word id="le301140.b.unit.59">for</word>
+<word id="le301140.b.unit.60">me</word>
+<word id="le301140.b.unit.72">double</word>
+<num id="le301140.b.unit.73"/>
+<num id="le301140.b.unit.76"/>
+<num id="le301140.b.unit.78"/>
+<num id="le301140.b.unit.79"/>
+<num id="le301140.b.unit.80"/>
+<word id="le301140.b.unit.112">yeah</word>
+<word id="le301140.b.unit.137">oh</word>
+<word id="le301140.b.unit.138">i</word>
+<word id="le301140.b.unit.139">see</word>
+<sil BTlength="" id="le301140.b.unit.140"/>
+<word id="le301140.b.unit.141">uh</word>
+<word id="le301140.b.unit.142">ok</word>
+<word id="le301140.b.unit.143">then</word>
+<word id="le301140.b.unit.145">i</word>
+<word id="le301140.b.unit.146">i</word>
+<word id="le301140.b.unit.147">can't</word>
+<word id="le301140.b.unit.148">get</word>
+<word id="le301140.b.unit.149">through</word>
+<word id="le301140.b.unit.150">at</word>
+<word id="le301140.b.unit.151">all</word>
+<word id="le301140.b.unit.160">no</word>
+<word id="le301140.b.unit.161">ok</word>
+<word id="le301140.b.unit.162">then</word>
+<word id="le301140.b.unit.164">thanks</word>
+<word id="le301140.b.unit.165">very</word>
+<word id="le301140.b.unit.166">much</word>
+<word id="le301140.b.unit.170">byebye</word>
+<comment text="receiver_replaced" id="le301140.b.unit.171"/>
+<comment text="end-ok" id="le301140.b.unit.172"/>
+</nite:root>

@@ -1,0 +1,20 @@
+b|yeah|ackn
+b|can i have a an early early morning call please|direct
+a|yep certainly|accept
+a|is it to the telephone that you're ringing from|reqInfo
+b|er yeah|answ
+a|thank you|thank
+a|and what time would you like the call|reqDirect
+b|er o'clock in the morning please|direct
+a|thank you|thank
+a|just hold the line|hold
+a|i'll book that for you thank you we'll call you at five o clock tomorrow morning yeah okay thank you bye bye|informIntent
+a|thank you|thank
+a|we'll call you at five o clock tomorrow morning|informIntent
+b|lovely|appreciate
+b|thank you very much|thank
+a|yeah|backch
+a|okay|ackn
+a|thank you|thank
+a|bye bye|bye
+b|bye|bye

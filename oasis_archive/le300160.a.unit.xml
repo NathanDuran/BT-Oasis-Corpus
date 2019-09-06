@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le300160.unit.a">
+<stdzcode id="le300160.a.unit.1" description="name"/>
+<word id="le300160.a.unit.4">hello</word>
+<word id="le300160.a.unit.28">yeah</word>
+<word id="le300160.a.unit.68">sorry</word>
+<word id="le300160.a.unit.69">what</word>
+<word id="le300160.a.unit.70">number</word>
+<word id="le300160.a.unit.71">please</word>
+<word id="le300160.a.unit.72">i'll</word>
+<word id="le300160.a.unit.73">try</word>
+<word id="le300160.a.unit.74">it</word>
+<num id="le300160.a.unit.81"/>
+<num id="le300160.a.unit.82"/>
+<num id="le300160.a.unit.83"/>
+<num id="le300160.a.unit.84"/>
+<num id="le300160.a.unit.88"/>
+<num id="le300160.a.unit.89"/>
+<num id="le300160.a.unit.90"/>
+<num id="le300160.a.unit.95"/>
+<num id="le300160.a.unit.96"/>
+<num id="le300160.a.unit.97"/>
+<num id="le300160.a.unit.98"/>
+<bcanchor id="le300160.bcanchora.3"><nite:pointer href="le300160.b.lturn.xml#id(le300160.lturn.9.1)" role="bc"/></bcanchor>
+<word id="le300160.a.unit.100">thank</word>
+<word id="le300160.a.unit.101">you</word>
+<sil BTlength="4.2s" id="le300160.a.unit.102"/>
+<word id="le300160.a.unit.103">sorry</word>
+<word id="le300160.a.unit.104">i'm</word>
+<word id="le300160.a.unit.105">getting</word>
+<word id="le300160.a.unit.106">the</word>
+<word id="le300160.a.unit.107">same</word>
+<word id="le300160.a.unit.108">as</word>
+<word id="le300160.a.unit.109">well</word>
+<word id="le300160.a.unit.110">it's</word>
+<pncode type="business" id="le300160.a.unit.111"/>
+<word id="le300160.a.unit.112">so</word>
+<word id="le300160.a.unit.113">i'll</word>
+<word id="le300160.a.unit.114">just</word>
+<word id="le300160.a.unit.115">go</word>
+<word id="le300160.a.unit.116">through</word>
+<word id="le300160.a.unit.117">to</word>
+<word id="le300160.a.unit.118">the</word>
+<pncode type="business" id="le300160.a.unit.119"/>
+<word id="le300160.a.unit.120">operator</word>
+<word id="le300160.a.unit.124">thanks</word>
+<sil BTlength="" id="le300160.a.unit.125"/>
+<comment text="ringing_7.4s" id="le300160.a.unit.126"/>
+<comment text="emergency_call_in_background" id="le300160.a.unit.127"/>
+<word id="le300160.a.unit.129">good</word>
+<word id="le300160.a.unit.130">afternoon</word>
+<word id="le300160.a.unit.131">it's</word>
+<lcode id="le300160.a.unit.132"/>
+<lcode id="le300160.a.unit.133"/>
+<word id="le300160.a.unit.134">here</word>
+<bcanchor id="le300160.bcanchora.4"><nite:pointer href="le300160.x.lturn.xml#id(le300160.lturn.13.1)" role="bc"/></bcanchor>
+<word id="le300160.a.unit.136">we're</word>
+<word id="le300160.a.unit.137">calling</word>
+<word id="le300160.a.unit.138">hi</word>
+<num id="le300160.a.unit.139"/>
+<num id="le300160.a.unit.140"/>
+<num id="le300160.a.unit.141"/>
+<num id="le300160.a.unit.142"/>
+<num id="le300160.a.unit.143"/>
+<num id="le300160.a.unit.144"/>
+<num id="le300160.a.unit.145"/>
+<num id="le300160.a.unit.146"/>
+<num id="le300160.a.unit.147"/>
+<num id="le300160.a.unit.148"/>
+<num id="le300160.a.unit.149"/>
+<sil BTlength="" id="le300160.a.unit.150"/>
+<word id="le300160.a.unit.151">and</word>
+<word id="le300160.a.unit.152">we're</word>
+<word id="le300160.a.unit.153">getting</word>
+<word id="le300160.a.unit.154">unobtainable</word>
+<word id="le300160.a.unit.155">please</word>
+<word id="le300160.a.unit.161">thanks</word>
+<comment text="music" id="le300160.a.unit.162"/>
+<sil BTlength="" id="le300160.a.unit.163"/>
+<word id="le300160.a.unit.164">won't</word>
+<word id="le300160.a.unit.165">keep</word>
+<word id="le300160.a.unit.166">you</word>
+<word id="le300160.a.unit.167">a</word>
+<word id="le300160.a.unit.168">moment</word>
+<word id="le300160.a.unit.169">there</word>
+<word id="le300160.a.unit.174">thank</word>
+<word id="le300160.a.unit.175">you</word>
+<word id="le300160.a.unit.176">you're</word>
+<word id="le300160.a.unit.177">welcome</word>
+<sil BTlength="16s" id="le300160.a.unit.178"/>
+<word id="le300160.a.unit.181">hi</word>
+<word id="le300160.a.unit.182">there</word>
+<word id="le300160.a.unit.191">ok</word>
+<word id="le300160.a.unit.192">thanks</word>
+<bcanchor id="le300160.bcanchora.6"><nite:pointer href="le300160.x.lturn.xml#id(le300160.lturn.19.1)" role="bc"/></bcanchor>
+<word id="le300160.a.unit.194">bye</word>
+<word id="le300160.a.unit.196">sorry</word>
+<word id="le300160.a.unit.197">about</word>
+<word id="le300160.a.unit.198">that</word>
+<word id="le300160.a.unit.199">if</word>
+<word id="le300160.a.unit.200">you'd</word>
+<word id="le300160.a.unit.201">like</word>
+<word id="le300160.a.unit.202">to</word>
+<word id="le300160.a.unit.203">try</word>
+<word id="le300160.a.unit.204">it</word>
+<word id="le300160.a.unit.205">later</word>
+<word id="le300160.a.unit.211">thanks</word>
+<word id="le300160.a.unit.212">bye</word>
+<word id="le300160.a.unit.216">you're</word>
+<word id="le300160.a.unit.217">welcome</word>
+<comment text="end-ok" id="le300160.a.unit.218"/>
+</nite:root>

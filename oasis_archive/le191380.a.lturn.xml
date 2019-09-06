@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le191380.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le191380.lturn.1'>
+
+
+<utt id='le191380.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='le191380.frag.1'>
+<nite:child href='le191380.a.unit.xml#id(le191380.a.unit.1)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le191380.lturn.3'>
+
+
+<utt id='le191380.utt.3'>
+
+<segment type='decl' sp-act='inform' id='le191380.decl.1'>
+<nite:child href='le191380.a.unit.xml#id(le191380.a.unit.10)..id(le191380.a.unit.15)'/>
+</segment>
+
+</utt>
+
+<utt id='le191380.utt.4'>
+
+<segment type='q_wh' sp-act='reqInfo' id='le191380.q_wh.1'>
+<nite:child href='le191380.a.unit.xml#id(le191380.a.unit.16)..id(le191380.a.unit.22)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le191380.lturn.5'>
+
+
+<utt id='le191380.utt.6'>
+
+<segment type='q_yn' sp-act='reqInfo' id='le191380.q_yn.2' alternative='yes'>
+<nite:child href='le191380.a.unit.xml#id(le191380.a.unit.25)..id(le191380.a.unit.37)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le191380.lturn.6.1' type='backchannel'>
+
+<utt id='le191380.utt.7.1'>
+<segment type='backch' sp-act='' id='le191380.backch.1'>
+<nite:child href='le191380.a.unit.xml#id(le191380.a.unit.43)'/>
+</segment>
+</utt>
+</lturn>
+<lturn id='le191380.lturn.7'>
+
+
+<utt id='le191380.utt.8'>
+
+<segment type='dm' sp-act='ackn' id='le191380.dm.1'>
+<nite:child href='le191380.a.unit.xml#id(le191380.a.unit.48)'/>
+</segment>
+
+<segment type='decl' sp-act='inform' id='le191380.decl.3'>
+<nite:child href='le191380.a.unit.xml#id(le191380.a.unit.49)..id(le191380.a.unit.58)'/>
+</segment>
+
+</utt>
+
+<utt id='le191380.utt.9'>
+
+<segment type='q_yn' sp-act='offer' id='le191380.q_yn.3'>
+<nite:child href='le191380.a.unit.xml#id(le191380.a.unit.59)..id(le191380.a.unit.68)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le191380.lturn.9'>
+
+
+<utt id='le191380.utt.12'>
+
+<segment type='decl' sp-act='inform' id='le191380.decl.4'>
+<nite:child href='le191380.a.unit.xml#id(le191380.a.unit.74)..id(le191380.a.unit.78)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

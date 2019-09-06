@@ -1,0 +1,10 @@
+b|well|init
+b|that's the first time i've every rung you and it's answered um|inform
+a|we're doing a trial actually to see how it affects customers when call steering isn't there|inform
+b|sorry|pardon
+a|call steering isn't there|inform
+a|so that you don't have to press your buttons to go through|inform
+b|yeah|ackn
+b|i'd say yeah cor that's much better um i somebody rang asking me different services and this that and the other and i ordered the uh Call Minder|expressOpinion
+b|um i somebody rang asking me different services and this that and the other|inform
+b|and i ordered the uh Call Minder|inform

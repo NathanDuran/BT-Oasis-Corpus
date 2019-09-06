@@ -1,0 +1,54 @@
+b|er i have a a telephone number which is er i'm being told is not recognised|inform
+b|now|init
+b|before the the last change when you put in all the numbers you know what i mean|refer
+a|oh right|backch
+a|yes|ackn
+a|so|init
+a|so|init
+a|you've got a in there have you|reqInfo
+a|you've got ah right where which which city is it you're calling mm hmm so that should be no sir that's not a that's not long enough to be a code let's try for you and how are you spelling i'm sorry i'm not from that part of the world oh yes yes got that mm mm i've got for yes that's yes we've it's right ok alright then if you're if you're having difficulty um using that code then come back to us ok thank you|confirm
+b|well well i haven't but i put a in and i was still told it wasn't recognised well it's in well i've got oh i see well i tried that and i was told for correct i see ok thanks very much yeah yeah ok thank you|init
+b|well|init
+b|i haven't|answ
+b|but i put a in and i was still told it wasn't recognised|inform
+a|ah right|ackn
+a|where which which city is it you're calling|reqInfo
+b|well|init
+b|it's in well i've got oh i see well i tried that and i was told for correct i see ok thanks very much yeah yeah ok thank you|answ
+a|mm hmm|ackn
+b|well|init
+b|i've got oh i see well i tried that and i was told for correct i see ok thanks very much yeah yeah ok thank you|inform
+a|so|init
+a|that should be no sir that's not a that's not long enough to be a code let's try for you and how are you spelling i'm sorry i'm not from that part of the world oh yes yes got that mm mm i've got for yes that's yes we've it's right ok alright then if you're if you're having difficulty um using that code then come back to us ok thank you|inform
+b|oh i see|ackn
+b|well|init
+b|i tried that|inform
+b|and i was told|inform
+a|no sir|negate
+a|that's not a that's not long enough to be a code|inform
+a|let's try for you|informIntent
+a|and how are you spelling i'm sorry i'm not from that part of the world oh yes yes got that mm mm i've got for yes that's yes we've it's right ok alright then if you're if you're having difficulty um using that code then come back to us ok thank you|reqInfo
+a|i'm sorry|expressRegret
+a|i'm not from that part of the world|inform
+a|oh|exclaim
+a|yes yes|ackn
+a|got that mm mm i've got for yes that's yes we've it's right ok alright then if you're if you're having difficulty um using that code then come back to us ok thank you|ackn
+a|mm mm i've got for yes that's yes we've it's right ok alright then if you're if you're having difficulty um using that code then come back to us ok thank you|refer
+a|i've got for yes that's yes we've it's right ok alright then if you're if you're having difficulty um using that code then come back to us ok thank you|inform
+a|yes|ackn
+a|that's yes we've it's right ok alright then if you're if you're having difficulty um using that code then come back to us ok thank you|confirm
+b|correct|ackn
+a|yes|ackn
+a|it's right ok alright then if you're if you're having difficulty um using that code then come back to us ok thank you|inform
+b|i see|ackn
+a|right|ackn
+b|ok|ackn
+b|thanks very much|thank
+a|ok|backch
+a|alright then|init
+a|if you're if you're having difficulty um using that code|inform
+a|then come back to us|suggest
+a|ok|ackn
+a|thank you|thank
+b|yeah|backch
+b|yeah ok thank you|backch

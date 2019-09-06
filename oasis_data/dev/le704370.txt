@@ -1,0 +1,12 @@
+b|hello|greet
+b|can i have an alarm call please|direct
+a|what time would you like your call|reqDirect
+b|um five fifty five|direct
+a|five fifty five|echo
+b|yep|ackn
+a|i'll book that for you|informIntent
+b|that's lovely|appreciate
+a|thanks|thank
+a|bye|bye
+b|thanks|thank
+b|bye|bye

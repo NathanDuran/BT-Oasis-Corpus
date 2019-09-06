@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le206700.unit.a">
+<stdzcode id="le206700.a.unit.1" description="name"/>
+<word id="le206700.a.unit.29">right</word>
+<word id="le206700.a.unit.30">unfortunately</word>
+<word id="le206700.a.unit.31">we</word>
+<word id="le206700.a.unit.32">don't</word>
+<word id="le206700.a.unit.33">have</word>
+<word id="le206700.a.unit.34">that</word>
+<word id="le206700.a.unit.35">information</word>
+<word id="le206700.a.unit.36">here</word>
+<word id="le206700.a.unit.37">i'm</word>
+<word id="le206700.a.unit.38">afraid</word>
+<word id="le206700.a.unit.39">all</word>
+<word id="le206700.a.unit.40">the</word>
+<word id="le206700.a.unit.41">numbers</word>
+<word id="le206700.a.unit.42">that</word>
+<word id="le206700.a.unit.43">we</word>
+<word id="le206700.a.unit.44">have</word>
+<word id="le206700.a.unit.45">for</word>
+<word id="le206700.a.unit.46">them</word>
+<word id="le206700.a.unit.47">are</word>
+<word id="le206700.a.unit.48">ex-directory</word>
+<bcanchor id="le206700.bcanchora.1"><nite:pointer href="le206700.b.lturn.xml#id(le206700.lturn.3.1)" role="bc"/></bcanchor>
+<word id="le206700.a.unit.52">what</word>
+<word id="le206700.a.unit.53">you</word>
+<word id="le206700.a.unit.54">would</word>
+<word id="le206700.a.unit.55">need</word>
+<word id="le206700.a.unit.56">to</word>
+<word id="le206700.a.unit.57">do</word>
+<word id="le206700.a.unit.58">is</word>
+<word id="le206700.a.unit.59">to</word>
+<word id="le206700.a.unit.60">contact</word>
+<word id="le206700.a.unit.61">directories</word>
+<word id="le206700.a.unit.62">on</word>
+<num id="le206700.a.unit.63"/>
+<num id="le206700.a.unit.64"/>
+<num id="le206700.a.unit.65"/>
+<word id="le206700.a.unit.66">and</word>
+<word id="le206700.a.unit.67">they</word>
+<word id="le206700.a.unit.68">should</word>
+<word id="le206700.a.unit.69">be</word>
+<word id="le206700.a.unit.70">able</word>
+<word id="le206700.a.unit.71">to</word>
+<word id="le206700.a.unit.72">find</word>
+<word id="le206700.a.unit.73">you</word>
+<word id="le206700.a.unit.74">a</word>
+<word id="le206700.a.unit.75">number</word>
+<word id="le206700.a.unit.81">would</word>
+<word id="le206700.a.unit.82">you</word>
+<word id="le206700.a.unit.83">like</word>
+<word id="le206700.a.unit.84">me</word>
+<word id="le206700.a.unit.85">to</word>
+<word id="le206700.a.unit.86">put</word>
+<word id="le206700.a.unit.87">you</word>
+<word id="le206700.a.unit.88">through</word>
+<word id="le206700.a.unit.94">thank</word>
+<word id="le206700.a.unit.95">you</word>
+<comment text="ringing" id="le206700.a.unit.96"/>
+<comment text="connected_to_directory_enquiries" id="le206700.a.unit.97"/>
+<comment text="end-ok" id="le206700.a.unit.98"/>
+</nite:root>

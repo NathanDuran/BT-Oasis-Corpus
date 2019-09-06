@@ -1,0 +1,14 @@
+b|early morning call please|direct
+a|early morning call|echo
+a|what time|reqInfo
+b|er six forty five|answ
+a|six forty five|echo
+a|hold on please right that's booked for you and we'll call you at six forty five in the morning thank you bye bye|hold
+a|right|init
+a|that's booked for you|inform
+a|and we'll call you at six forty five in the morning|informIntent
+b|thank you|thank
+a|thank you|thank
+b|thank you|thank
+b|bye|bye
+a|bye bye|bye

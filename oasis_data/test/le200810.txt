@@ -1,0 +1,37 @@
+b|yeah|ackn
+b|well|init
+b|i keep dialling this number and all i keep getting is um our operators are currently busy please you know just use the other numbers sort of thing but i keep dialling but that's all i get that's all i've had all day long it's yeah am i oh right yeah yeah leave me in the queue yeah yeah okay alright thank you|inform
+b|and all i keep getting is um our operators are currently busy please you know just use the other numbers sort of thing but i keep dialling but that's all i get that's all i've had all day long it's yeah am i oh right yeah yeah leave me in the queue yeah yeah okay alright thank you|inform
+b|just use the other numbers sort of thing|inform
+b|but i keep dialling|inform
+b|but that's all i get|inform
+b|that's all i've had all day long|inform
+a|well|init
+a|that's just another way of informing you that they're engaged though you are actually part of a queue what's the code and number you're dialling please thank you okay i'm sorry about that i'll try the call for you what i'll do is i'll stay in the queue and make sure you get through i will be listening in until you get through okay i think if you probably hold on you might be part they'll put you through to the calls shall i leave you in the queue cause you are actually part of the queue yeah i mean is this what was happening before yeah i mean you are actually part of the queue you have to wait before they answer you thank you|inform
+a|though you are actually part of a queue|inform
+a|what's the code and number you're dialling please|reqInfo
+b|it's yeah am i oh right yeah yeah leave me in the queue yeah yeah okay alright thank you|answ
+a|thank you|thank
+a|okay|init
+a|i'm sorry about that|expressRegret
+a|i'll try the call for you|informIntent
+a|what i'll do is i'll stay in the queue and make sure you get through|informIntent
+a|i will be listening in until you get through okay i think if you probably hold on you might be part they'll put you through to the calls shall i leave you in the queue cause you are actually part of the queue yeah i mean is this what was happening before yeah i mean you are actually part of the queue you have to wait before they answer you thank you|informIntent
+a|i think if you probably hold on|expressOpinion
+a|you might be part they'll put you through to the calls|inform
+b|yeah|backch
+a|shall i leave you in the queue|reqModal
+a|cause you are actually part of the queue|inform
+b|am i|ackn
+b|oh right|ackn
+b|yeah yeah|accept
+b|leave me in the queue|direct
+b|yeah|accept
+a|yeah|accept
+a|i mean is this what was happening before yeah|reqInfo
+a|i mean you are actually part of the queue|inform
+a|you have to wait before they answer you|inform
+b|yeah|backch
+b|okay alright|accept
+b|thank you|thank
+a|thank you|thank

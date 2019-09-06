@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le173810.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le173810.lturn.1'>
+
+
+<utt id='le173810.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='le173810.frag.1'>
+<nite:child href='le173810.a.unit.xml#id(le173810.a.unit.1)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le173810.lturn.3'>
+
+
+<utt id='le173810.utt.6'>
+
+<segment type='dm' sp-act='ackn' id='le173810.dm.1'>
+<nite:child href='le173810.a.unit.xml#id(le173810.a.unit.18)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le173810.lturn.7'>
+
+
+<utt id='le173810.utt.15'>
+
+<segment type='frag' sp-act='reqInfo' id='le173810.frag.6'>
+<nite:child href='le173810.a.unit.xml#id(le173810.a.unit.67)..id(le173810.a.unit.73)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le173810.lturn.9'>
+
+
+<utt id='le173810.utt.18'>
+
+<segment type='decl' sp-act='inform' id='le173810.decl.7'>
+<nite:child href='le173810.a.unit.xml#id(le173810.a.unit.77)..id(le173810.a.unit.89)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le173810.lturn.11'>
+
+
+<utt id='le173810.utt.20'>
+
+<segment type='yes' sp-act='ackn' id='le173810.yes.1'>
+<nite:child href='le173810.a.unit.xml#id(le173810.a.unit.103)'/>
+</segment>
+
+</utt>
+
+<utt id='le173810.utt.21'>
+
+<segment type='decl' sp-act='suggest' id='le173810.decl.9'>
+<nite:child href='le173810.a.unit.xml#id(le173810.a.unit.104)..id(le173810.a.unit.117)'/>
+</segment>
+
+</utt>
+
+<utt id='le173810.utt.22'>
+
+<segment type='decl' sp-act='inform' id='le173810.decl.10'>
+<nite:child href='le173810.a.unit.xml#id(le173810.a.unit.118)..id(le173810.a.unit.123)'/>
+</segment>
+
+</utt>
+
+<utt id='le173810.utt.23'>
+
+<segment type='decl' sp-act='expressPossibility' id='le173810.decl.11'>
+<nite:child href='le173810.a.unit.xml#id(le173810.a.unit.124)..id(le173810.bcanchora.3)'/>
+</segment>
+
+</utt>
+
+<utt id='le173810.utt.24'>
+
+<segment type='dm' sp-act='init' id='le173810.dm.2'>
+<nite:child href='le173810.a.unit.xml#id(le173810.a.unit.135)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

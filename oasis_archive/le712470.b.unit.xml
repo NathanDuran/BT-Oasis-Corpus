@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le712470.unit.b">
+<word id="le712470.b.unit.2">yeah</word>
+<word id="le712470.b.unit.3">i'm</word>
+<word id="le712470.b.unit.4">having</word>
+<word id="le712470.b.unit.5">a</word>
+<word id="le712470.b.unit.6">little</word>
+<word id="le712470.b.unit.7">bit</word>
+<word id="le712470.b.unit.8">of</word>
+<word id="le712470.b.unit.9">problem</word>
+<word id="le712470.b.unit.10">getting</word>
+<word id="le712470.b.unit.11">a</word>
+<pncode type="town" id="le712470.b.unit.12"/>
+<word id="le712470.b.unit.13">number</word>
+<word id="le712470.b.unit.14">i'm</word>
+<word id="le712470.b.unit.15">dialling</word>
+<num id="le712470.b.unit.16"/>
+<num id="le712470.b.unit.17"/>
+<num id="le712470.b.unit.18"/>
+<word id="le712470.b.unit.19">double</word>
+<num id="le712470.b.unit.20"/>
+<word id="le712470.b.unit.21">i'm</word>
+<word id="le712470.b.unit.22">in</word>
+<partword id="le712470.b.unit.23">s</partword>
+<word id="le712470.b.unit.29">and</word>
+<num id="le712470.b.unit.32"/>
+<num id="le712470.b.unit.33"/>
+<num id="le712470.b.unit.34"/>
+<word id="le712470.b.unit.35">treble</word>
+<num id="le712470.b.unit.36"/>
+<word id="le712470.b.unit.43">and</word>
+<word id="le712470.b.unit.44">i</word>
+<word id="le712470.b.unit.45">keep</word>
+<word id="le712470.b.unit.46">getting</word>
+<word id="le712470.b.unit.47">a</word>
+<pncode type="town" id="le712470.b.unit.48"/>
+<word id="le712470.b.unit.49">number</word>
+<word id="le712470.b.unit.53">so</word>
+<word id="le712470.b.unit.54">i</word>
+<word id="le712470.b.unit.55">don't</word>
+<word id="le712470.b.unit.56">know</word>
+<word id="le712470.b.unit.57">quite</word>
+<word id="le712470.b.unit.58">what's</word>
+<bcanchor id="le712470.bcanchorb.1"><nite:pointer href="le712470.a.lturn.xml#id(le712470.lturn.10.1)" role="bc"/></bcanchor>
+<word id="le712470.b.unit.60">happening</word>
+<comment text="laugh" id="le712470.b.unit.61"/>
+<word id="le712470.b.unit.83">i've</word>
+<word id="le712470.b.unit.84">got</word>
+<word id="le712470.b.unit.85">through</word>
+<word id="le712470.b.unit.86">to</word>
+<word id="le712470.b.unit.87">the</word>
+<pncode type="business" id="le712470.b.unit.88"/>
+<word id="le712470.b.unit.89">um</word>
+<pncode type="business" id="le712470.b.unit.90"/>
+<word id="le712470.b.unit.91">twice</word>
+<comment text="laugh" id="le712470.b.unit.92"/>
+<word id="le712470.b.unit.108">well</word>
+<word id="le712470.b.unit.109">i'm</word>
+<word id="le712470.b.unit.110">um</word>
+<word id="le712470.b.unit.111">ah</word>
+<word id="le712470.b.unit.112">um</word>
+<word id="le712470.b.unit.113">calling</word>
+<word id="le712470.b.unit.114">the</word>
+<word id="le712470.b.unit.115">training</word>
+<word id="le712470.b.unit.116">ground</word>
+<word id="le712470.b.unit.117">at</word>
+<word id="le712470.b.unit.118">uh</word>
+<pncode type="town" id="le712470.b.unit.119"/>
+<word id="le712470.b.unit.120">the</word>
+<pncode type="organisation" id="le712470.b.unit.121"/>
+<pncode type="organisation" id="le712470.b.unit.122"/>
+<word id="le712470.b.unit.123">training</word>
+<word id="le712470.b.unit.124">ground</word>
+<word id="le712470.b.unit.129">and</word>
+<word id="le712470.b.unit.130">they</word>
+<word id="le712470.b.unit.131">gave</word>
+<word id="le712470.b.unit.132">this</word>
+<word id="le712470.b.unit.133">number</word>
+<word id="le712470.b.unit.134">and</word>
+<word id="le712470.b.unit.135">oh</word>
+<word id="le712470.b.unit.136">i</word>
+<word id="le712470.b.unit.137">keep</word>
+<word id="le712470.b.unit.138">getting</word>
+<word id="le712470.b.unit.139">through</word>
+<word id="le712470.b.unit.140">to</word>
+<word id="le712470.b.unit.141">a</word>
+<pncode type="town" id="le712470.b.unit.142"/>
+<word id="le712470.b.unit.143">one</word>
+<word id="le712470.b.unit.172">oh</word>
+<word id="le712470.b.unit.183">there</word>
+<word id="le712470.b.unit.184">you</word>
+<word id="le712470.b.unit.185">are</word>
+<word id="le712470.b.unit.186">i've</word>
+<word id="le712470.b.unit.187">done</word>
+<word id="le712470.b.unit.188">it</word>
+<word id="le712470.b.unit.189">again</word>
+<word id="le712470.b.unit.336">oh</word>
+<word id="le712470.b.unit.337">alright</word>
+<word id="le712470.b.unit.338">no</word>
+<word id="le712470.b.unit.339">i</word>
+<word id="le712470.b.unit.340">don't</word>
+<word id="le712470.b.unit.341">want</word>
+<word id="le712470.b.unit.342">the</word>
+<pncode type="business" id="le712470.b.unit.343"/>
+<word id="le712470.b.unit.350">oh</word>
+<word id="le712470.b.unit.351">i'm</word>
+<word id="le712470.b.unit.352">sorry</word>
+<word id="le712470.b.unit.353">i</word>
+<word id="le712470.b.unit.354">i</word>
+<word id="le712470.b.unit.355">try</word>
+<word id="le712470.b.unit.356">i'm</word>
+<word id="le712470.b.unit.357">it's</word>
+<word id="le712470.b.unit.358">me</word>
+<word id="le712470.b.unit.359">again</word>
+<word id="le712470.b.unit.379">oh</word>
+<word id="le712470.b.unit.380">right</word>
+<word id="le712470.b.unit.381">oh</word>
+<word id="le712470.b.unit.382">right</word>
+<word id="le712470.b.unit.383">thank</word>
+<word id="le712470.b.unit.384">you</word>
+<sil BTlength="" id="le712470.b.unit.385"/>
+<word id="le712470.b.unit.386">hello</word>
+<word id="le712470.b.unit.388">hello</word>
+<word id="le712470.b.unit.389">um</word>
+<bcanchor id="le712470.bcanchorb.6"><nite:pointer href="le712470.x.lturn.xml#id(le712470.lturn.37.1)" role="bc"/></bcanchor>
+<word id="le712470.b.unit.391">could</word>
+<word id="le712470.b.unit.392">i</word>
+<word id="le712470.b.unit.393">please</word>
+<word id="le712470.b.unit.394">speak</word>
+<word id="le712470.b.unit.395">to</word>
+<word id="le712470.b.unit.396">either</word>
+<stdzcode id="le712470.b.unit.397" description="name"/>
+<comment text="end-ok" id="le712470.b.unit.398"/>
+</nite:root>

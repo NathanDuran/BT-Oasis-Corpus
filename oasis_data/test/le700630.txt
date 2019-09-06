@@ -1,0 +1,10 @@
+b|hello|greet
+b|can you give me some mobile telephone numbers please|reqInfo
+b|it's speaking from oh sorry okay bye|identifySelf
+a|right|ackn
+a|you've come through to okay bye|inform
+b|oh sorry|expressRegret
+b|okay|ackn
+b|bye|bye
+a|okay|ackn
+a|bye|bye

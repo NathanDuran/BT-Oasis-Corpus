@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le702290.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le702290.lturn.1'>
+
+
+<utt id='le702290.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='le702290.frag.1'>
+<nite:child href='le702290.a.unit.xml#id(le702290.a.unit.1)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le702290.lturn.3'>
+
+
+<utt id='le702290.utt.4'>
+
+<segment type='frag' sp-act='confirm' id='le702290.frag.3'>
+<nite:child href='le702290.a.unit.xml#id(le702290.a.unit.18)..id(le702290.a.unit.19)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le702290.lturn.5'>
+
+
+<utt id='le702290.utt.6'>
+
+<segment type='frag' sp-act='echo' id='le702290.frag.5'>
+<nite:child href='le702290.a.unit.xml#id(le702290.a.unit.22)..id(le702290.bcanchora.1)'/>
+</segment>
+
+</utt>
+
+<utt id='le702290.utt.7'>
+
+<segment type='frag' sp-act='hold' id='le702290.frag.6'>
+<nite:child href='le702290.a.unit.xml#id(le702290.a.unit.25)..id(le702290.a.unit.28)'/>
+</segment>
+
+</utt>
+
+<utt id='le702290.utt.8'>
+
+<segment type='dm' sp-act='ackn' id='le702290.dm.1'>
+<nite:child href='le702290.a.unit.xml#id(le702290.a.unit.29)'/>
+</segment>
+
+<segment type='decl' sp-act='inform' id='le702290.decl.1'>
+<nite:child href='le702290.a.unit.xml#id(le702290.a.unit.30)..id(le702290.a.unit.34)'/>
+</segment>
+
+</utt>
+
+<utt id='le702290.utt.9'>
+
+<segment type='decl' sp-act='informIntent' id='le702290.decl.2'>
+<nite:child href='le702290.a.unit.xml#id(le702290.a.unit.35)..id(le702290.a.unit.43)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le702290.lturn.7'>
+
+
+<utt id='le702290.utt.12'>
+
+<segment type='frag' sp-act='thank' id='le702290.frag.8'>
+<nite:child href='le702290.a.unit.xml#id(le702290.a.unit.46)..id(le702290.a.unit.47)'/>
+</segment>
+
+</utt>
+
+<utt id='le702290.utt.13'>
+
+<segment type='frag' sp-act='bye' id='le702290.frag.9'>
+<nite:child href='le702290.a.unit.xml#id(le702290.a.unit.48)..id(le702290.a.unit.49)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

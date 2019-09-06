@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le200590.unit.a">
+<stdzcode id="le200590.a.unit.1" description="g"/>
+<num id="le200590.a.unit.18"/>
+<num id="le200590.a.unit.19"/>
+<num id="le200590.a.unit.20"/>
+<num id="le200590.a.unit.21"/>
+<num id="le200590.a.unit.22"/>
+<word id="le200590.a.unit.40">sorry</word>
+<word id="le200590.a.unit.41">about</word>
+<word id="le200590.a.unit.42">that</word>
+<word id="le200590.a.unit.43">i'll</word>
+<word id="le200590.a.unit.44">try</word>
+<word id="le200590.a.unit.45">the</word>
+<word id="le200590.a.unit.46">call</word>
+<word id="le200590.a.unit.47">for</word>
+<word id="le200590.a.unit.48">you</word>
+<sil BTlength="" id="le200590.a.unit.49"/>
+<word id="le200590.a.unit.50">i'm</word>
+<word id="le200590.a.unit.51">also</word>
+<word id="le200590.a.unit.52">getting</word>
+<word id="le200590.a.unit.53">an</word>
+<word id="le200590.a.unit.54">unobtainable</word>
+<word id="le200590.a.unit.55">on</word>
+<word id="le200590.a.unit.56">this</word>
+<word id="le200590.a.unit.57">number</word>
+<word id="le200590.a.unit.58">i'll</word>
+<word id="le200590.a.unit.59">just</word>
+<word id="le200590.a.unit.60">go</word>
+<word id="le200590.a.unit.61">through</word>
+<word id="le200590.a.unit.62">to</word>
+<word id="le200590.a.unit.63">cable</word>
+<word id="le200590.a.unit.64">and</word>
+<word id="le200590.a.unit.65">get</word>
+<word id="le200590.a.unit.66">it</word>
+<word id="le200590.a.unit.67">tested</word>
+<word id="le200590.a.unit.68">for</word>
+<word id="le200590.a.unit.69">you</word>
+<word id="le200590.a.unit.70">thank</word>
+<word id="le200590.a.unit.71">you</word>
+<word id="le200590.a.unit.72">sorry</word>
+<word id="le200590.a.unit.73">to</word>
+<word id="le200590.a.unit.74">keep</word>
+<word id="le200590.a.unit.75">you</word>
+<word id="le200590.a.unit.76">waiting</word>
+<comment text="phone_rings" id="le200590.a.unit.77"/>
+<word id="le200590.a.unit.80">good</word>
+<word id="le200590.a.unit.81">afternoon</word>
+<word id="le200590.a.unit.82">this</word>
+<word id="le200590.a.unit.83">is</word>
+<lcode id="le200590.a.unit.84"/>
+<lcode id="le200590.a.unit.85"/>
+<pncode type="town" id="le200590.a.unit.86"/>
+<word id="le200590.a.unit.87">i've</word>
+<word id="le200590.a.unit.88">a</word>
+<word id="le200590.a.unit.89">customer</word>
+<word id="le200590.a.unit.90">on</word>
+<word id="le200590.a.unit.91">line</word>
+<word id="le200590.a.unit.92">please</word>
+<word id="le200590.a.unit.93">check</word>
+<word id="le200590.a.unit.94">for</word>
+<word id="le200590.a.unit.95">unobtainable</word>
+<word id="le200590.a.unit.96">on</word>
+<num id="le200590.a.unit.97"/>
+<num id="le200590.a.unit.98"/>
+<num id="le200590.a.unit.99"/>
+<num id="le200590.a.unit.100"/>
+<num id="le200590.a.unit.101"/>
+<word id="le200590.a.unit.102">double</word>
+<num id="le200590.a.unit.103"/>
+<num id="le200590.a.unit.104"/>
+<num id="le200590.a.unit.105"/>
+<num id="le200590.a.unit.106"/>
+<num id="le200590.a.unit.107"/>
+<bcanchor id="le200590.bcanchora.1"><nite:pointer href="le200590.x.lturn.xml#id(le200590.lturn.7.1)" role="bc"/></bcanchor>
+<word id="le200590.a.unit.110">thank</word>
+<word id="le200590.a.unit.111">you</word>
+<word id="le200590.a.unit.112">sorry</word>
+<word id="le200590.a.unit.113">to</word>
+<word id="le200590.a.unit.114">keep</word>
+<word id="le200590.a.unit.115">you</word>
+<word id="le200590.a.unit.116">waiting</word>
+<bcanchor id="le200590.bcanchora.2"><nite:pointer href="le200590.x.lturn.xml#id(le200590.lturn.7.2)" role="bc"/></bcanchor>
+<sil BTlength="" id="le200590.a.unit.118"/>
+<word id="le200590.a.unit.125">spare</word>
+<word id="le200590.a.unit.126">line</word>
+<word id="le200590.a.unit.127">thank</word>
+<word id="le200590.a.unit.128">you</word>
+<word id="le200590.a.unit.129">very</word>
+<word id="le200590.a.unit.130">much</word>
+<word id="le200590.a.unit.132">i'm</word>
+<word id="le200590.a.unit.133">sorry</word>
+<word id="le200590.a.unit.134">there's</word>
+<word id="le200590.a.unit.135">no</word>
+<word id="le200590.a.unit.136">longer</word>
+<word id="le200590.a.unit.137">a</word>
+<word id="le200590.a.unit.138">customer</word>
+<word id="le200590.a.unit.139">with</word>
+<word id="le200590.a.unit.140">this</word>
+<word id="le200590.a.unit.141">number</word>
+<word id="le200590.a.unit.146">thank</word>
+<word id="le200590.a.unit.147">you</word>
+<word id="le200590.a.unit.148">bye</word>
+<word id="le200590.a.unit.149">bye</word>
+</nite:root>

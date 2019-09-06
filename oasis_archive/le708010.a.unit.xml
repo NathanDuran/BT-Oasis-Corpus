@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le708010.unit.a">
+<stdzcode id="le708010.a.unit.1" description="name"/>
+<word id="le708010.a.unit.27">yeah</word>
+<word id="le708010.a.unit.35">yeah</word>
+<word id="le708010.a.unit.108">right</word>
+<word id="le708010.a.unit.135">right</word>
+<word id="le708010.a.unit.136">it's</word>
+<word id="le708010.a.unit.143">right</word>
+<word id="le708010.a.unit.144">yeah</word>
+<word id="le708010.a.unit.145">um</word>
+<comment text="heavy_breathing" id="le708010.a.unit.146"/>
+<sil BTlength="" id="le708010.a.unit.147"/>
+<sil BTlength="" id="le708010.a.unit.148"/>
+<word id="le708010.a.unit.149">um</word>
+<word id="le708010.a.unit.150">you</word>
+<word id="le708010.a.unit.151">probably</word>
+<word id="le708010.a.unit.152">you</word>
+<word id="le708010.a.unit.153">probably</word>
+<word id="le708010.a.unit.154">need</word>
+<partword id="le708010.a.unit.155">t</partword>
+<word id="le708010.a.unit.156">you</word>
+<word id="le708010.a.unit.157">probably</word>
+<word id="le708010.a.unit.158">need</word>
+<word id="le708010.a.unit.159">to</word>
+<word id="le708010.a.unit.160">check</word>
+<word id="le708010.a.unit.161">your</word>
+<word id="le708010.a.unit.162">callminder</word>
+<word id="le708010.a.unit.163">sometimes</word>
+<word id="le708010.a.unit.164">it</word>
+<word id="le708010.a.unit.165">when</word>
+<word id="le708010.a.unit.166">you</word>
+<word id="le708010.a.unit.167">when</word>
+<word id="le708010.a.unit.168">you</word>
+<word id="le708010.a.unit.169">set</word>
+<word id="le708010.a.unit.170">it</word>
+<word id="le708010.a.unit.171">um</word>
+<sil BTlength="" id="le708010.a.unit.172"/>
+<word id="le708010.a.unit.173">you</word>
+<word id="le708010.a.unit.174">set</word>
+<word id="le708010.a.unit.175">it</word>
+<word id="le708010.a.unit.176">when</word>
+<word id="le708010.a.unit.177">it</word>
+<word id="le708010.a.unit.178">doesn't</word>
+<word id="le708010.a.unit.179">ring</word>
+<word id="le708010.a.unit.187">well</word>
+<word id="le708010.a.unit.188">your</word>
+<word id="le708010.a.unit.189">callminder</word>
+<word id="le708010.a.unit.190">don't</word>
+<word id="le708010.a.unit.191">you</word>
+<word id="le708010.a.unit.192">type</word>
+<word id="le708010.a.unit.193">in</word>
+<word id="le708010.a.unit.194">something</word>
+<word id="le708010.a.unit.195">to</word>
+<word id="le708010.a.unit.196">set</word>
+<word id="le708010.a.unit.197">it</word>
+<word id="le708010.a.unit.198">up</word>
+<word id="le708010.a.unit.222">yeah</word>
+<word id="le708010.a.unit.245">oh</word>
+<word id="le708010.a.unit.246">dear</word>
+<word id="le708010.a.unit.264">right</word>
+<partword id="le708010.a.unit.265">y</partword>
+<word id="le708010.a.unit.266">you're</word>
+<word id="le708010.a.unit.267">really</word>
+<word id="le708010.a.unit.268">going</word>
+<word id="le708010.a.unit.269">to</word>
+<word id="le708010.a.unit.270">need</word>
+<word id="le708010.a.unit.271">to</word>
+<word id="le708010.a.unit.272">speak</word>
+<word id="le708010.a.unit.273">to</word>
+<word id="le708010.a.unit.274">our</word>
+<word id="le708010.a.unit.275">customer</word>
+<word id="le708010.a.unit.276">services</word>
+<word id="le708010.a.unit.277">department</word>
+<word id="le708010.a.unit.282">um</word>
+<word id="le708010.a.unit.283">they're</word>
+<word id="le708010.a.unit.284">not</word>
+<word id="le708010.a.unit.285">actually</word>
+<word id="le708010.a.unit.286">open</word>
+<word id="le708010.a.unit.287">till</word>
+<word id="le708010.a.unit.288">tomorrow</word>
+<word id="le708010.a.unit.289">i</word>
+<word id="le708010.a.unit.290">tell</word>
+<word id="le708010.a.unit.291">you</word>
+<word id="le708010.a.unit.292">what</word>
+<word id="le708010.a.unit.293">i'll</word>
+<word id="le708010.a.unit.294">do</word>
+<word id="le708010.a.unit.295">i'll</word>
+<word id="le708010.a.unit.296">put</word>
+<word id="le708010.a.unit.297">you</word>
+<word id="le708010.a.unit.298">through</word>
+<word id="le708010.a.unit.299">to</word>
+<word id="le708010.a.unit.300">the</word>
+<word id="le708010.a.unit.301">fault</word>
+<word id="le708010.a.unit.302">reporting</word>
+<word id="le708010.a.unit.303">department</word>
+<bcanchor id="le708010.bcanchora.7"><nite:pointer href="le708010.b.lturn.xml#id(le708010.lturn.9.1)" role="bc"/></bcanchor>
+<word id="le708010.a.unit.305">they</word>
+<word id="le708010.a.unit.306">should</word>
+<word id="le708010.a.unit.307">be</word>
+<word id="le708010.a.unit.308">able</word>
+<word id="le708010.a.unit.309">to</word>
+<word id="le708010.a.unit.310">help</word>
+<word id="le708010.a.unit.311">you</word>
+<word id="le708010.a.unit.312">with</word>
+<word id="le708010.a.unit.313">that</word>
+<bcanchor id="le708010.bcanchora.8"><nite:pointer href="le708010.b.lturn.xml#id(le708010.lturn.9.2)" role="bc"/></bcanchor>
+<word id="le708010.a.unit.315">okay</word>
+</nite:root>

@@ -1,0 +1,31 @@
+b|hello|greet
+b|i'm trying to get through a number|informIntent
+a|right|ackn
+b|um i'm have i'm having difficulties uh|inform
+b|cause it just cuts cuts me off|inform
+a|it cuts you off|confirm
+b|yeah|ackn
+a|what are you dialling|reqInfo
+b|it's oh you can't oh i see um what can i do i mean i can't seem to get through this number when i used to you know about when i used to ring it before i used to get through but now it's just seems to cut me cut me off oh right ok then thank you byebye|answ
+a|i can't assist to these numbers|inform
+b|oh you can't|confirm
+a|no|ackn
+a|we don't have access to them|inform
+b|oh i see um|ackn
+b|what can i do|reqInfo
+b|i mean i can't seem to get through this number when i used to you know about when i used to ring it before i used to get through but now it's just seems to cut me cut me off oh right ok then thank you byebye|inform
+a|you just so does it ring right i can't even try it because we don't have access to it if if there was a fault with that number it would have reported itself because they do report theirselves ok bye|confirm
+a|so|init
+a|does it ring|reqInfo
+b|i used to get through|inform
+b|but now|init
+b|it's just seems to cut me cut me off oh right ok then thank you byebye|inform
+a|right|ackn
+a|i can't even try it because we don't have access to it|inform
+b|oh right|ackn
+a|it would have reported itself because they do report theirselves|inform
+b|ok then|ackn
+b|thank you|thank
+b|byebye|bye
+a|ok|backch
+a|bye|bye

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le169090.unit.b">
+<word id="le169090.b.unit.2">hello</word>
+<sil BTlength="" id="le169090.b.unit.3"/>
+<bcanchor id="le169090.bcanchorb.1"><nite:pointer href="le169090.a.lturn.xml#id(le169090.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le169090.b.unit.5">i'm</word>
+<word id="le169090.b.unit.6">trying</word>
+<word id="le169090.b.unit.7">to</word>
+<word id="le169090.b.unit.8">dial</word>
+<word id="le169090.b.unit.9">a</word>
+<word id="le169090.b.unit.10">number</word>
+<word id="le169090.b.unit.11">from</word>
+<word id="le169090.b.unit.12">my</word>
+<sil BTlength="" id="le169090.b.unit.13"/>
+<word id="le169090.b.unit.14">uh</word>
+<sil BTlength="" id="le169090.b.unit.15"/>
+<word id="le169090.b.unit.16">phone</word>
+<sil BTlength="" id="le169090.b.unit.17"/>
+<num id="le169090.b.unit.18"/>
+<num id="le169090.b.unit.19"/>
+<word id="le169090.b.unit.22">yeah</word>
+<num id="le169090.b.unit.23"/>
+<num id="le169090.b.unit.24"/>
+<num id="le169090.b.unit.25"/>
+<num id="le169090.b.unit.26"/>
+<num id="le169090.b.unit.27"/>
+<num id="le169090.b.unit.28"/>
+<word id="le169090.b.unit.38">but</word>
+<word id="le169090.b.unit.39">what</word>
+<word id="le169090.b.unit.40">i</word>
+<word id="le169090.b.unit.41">keep</word>
+<word id="le169090.b.unit.42">getting</word>
+<word id="le169090.b.unit.43">is</word>
+<sil BTlength="" id="le169090.b.unit.44"/>
+<num id="le169090.b.unit.45"/>
+<num id="le169090.b.unit.46"/>
+<num id="le169090.b.unit.47"/>
+<num id="le169090.b.unit.48"/>
+<num id="le169090.b.unit.49"/>
+<num id="le169090.b.unit.50"/>
+<sil BTlength="" id="le169090.b.unit.51"/>
+<word id="le169090.b.unit.52">this</word>
+<pncode type="business" id="le169090.b.unit.53"/>
+<pncode type="business" id="le169090.b.unit.54"/>
+<pncode type="business" id="le169090.b.unit.55"/>
+<word id="le169090.b.unit.56">keeps</word>
+<word id="le169090.b.unit.57">answering</word>
+<word id="le169090.b.unit.58">it</word>
+<pncode type="business" id="le169090.b.unit.68"/>
+<word id="le169090.b.unit.82">yeah</word>
+<word id="le169090.b.unit.101">hello</word>
+<word id="le169090.b.unit.102">hello</word>
+<word id="le169090.b.unit.123">who</word>
+<word id="le169090.b.unit.124">am</word>
+<word id="le169090.b.unit.125">i</word>
+<word id="le169090.b.unit.126">speaking</word>
+<word id="le169090.b.unit.127">to</word>
+<word id="le169090.b.unit.128">sorry</word>
+<word id="le169090.b.unit.156">right</word>
+<word id="le169090.b.unit.157">you</word>
+<word id="le169090.b.unit.158">are</word>
+<word id="le169090.b.unit.159">thank</word>
+<word id="le169090.b.unit.160">you</word>
+</nite:root>

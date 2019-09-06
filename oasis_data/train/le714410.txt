@@ -1,0 +1,6 @@
+b|erm can i have an call please|direct
+a|yes certainly just bear with me one moment right what's the code and number you require doing it for you now caller uh don't don't eat it what did what did she say|accept
+a|just bear with me one moment right what's the code and number you require doing it for you now caller uh don't don't eat it what did what did she say|hold
+a|right|init
+a|what's the code and number you require|reqInfo
+a|doing it for you now caller uh don't don't eat it what did what did she say|informIntent

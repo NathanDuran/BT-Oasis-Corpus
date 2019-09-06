@@ -1,0 +1,10 @@
+b|yeah|ackn
+b|can you tell me what er number is the alarm call please|reqInfo
+a|yeah sure|answ
+a|it's star star that's right you're welcome byebye then|answElab
+b|star star|echo
+a|that's right|ackn
+b|thank you|thank
+a|you're welcome|ackn
+b|bye|bye
+a|byebye then|bye

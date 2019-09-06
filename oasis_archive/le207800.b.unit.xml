@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le207800.unit.b">
+<word id="le207800.b.unit.2">oh</word>
+<word id="le207800.b.unit.3">hello</word>
+<word id="le207800.b.unit.4">i'm</word>
+<word id="le207800.b.unit.5">trying</word>
+<word id="le207800.b.unit.6">to</word>
+<word id="le207800.b.unit.7">ring</word>
+<num id="le207800.b.unit.8"/>
+<num id="le207800.b.unit.9"/>
+<num id="le207800.b.unit.10"/>
+<num id="le207800.b.unit.11"/>
+<bcanchor id="le207800.bcanchorb.1"><nite:pointer href="le207800.a.lturn.xml#id(le207800.lturn.2.1)" role="bc"/></bcanchor>
+<num id="le207800.b.unit.13"/>
+<num id="le207800.b.unit.14"/>
+<num id="le207800.b.unit.15"/>
+<word id="le207800.b.unit.16">treble</word>
+<num id="le207800.b.unit.17"/>
+<bcanchor id="le207800.bcanchorb.2"><nite:pointer href="le207800.a.lturn.xml#id(le207800.lturn.2.2)" role="bc"/></bcanchor>
+<sil BTlength="" id="le207800.b.unit.19"/>
+<word id="le207800.b.unit.20">um</word>
+<word id="le207800.b.unit.21">constantly</word>
+<word id="le207800.b.unit.22">engaged</word>
+<word id="le207800.b.unit.23">for</word>
+<word id="le207800.b.unit.24">nearly</word>
+<num id="le207800.b.unit.25"/>
+<word id="le207800.b.unit.26">minutes</word>
+<word id="le207800.b.unit.27">now</word>
+<word id="le207800.b.unit.28">which</word>
+<word id="le207800.b.unit.29">i</word>
+<word id="le207800.b.unit.30">appreciate</word>
+<word id="le207800.b.unit.31">is</word>
+<word id="le207800.b.unit.32">an</word>
+<word id="le207800.b.unit.33">airline</word>
+<word id="le207800.b.unit.34">company</word>
+<word id="le207800.b.unit.35">but</word>
+<sil BTlength="" id="le207800.b.unit.36"/>
+<word id="le207800.b.unit.37">seems</word>
+<word id="le207800.b.unit.38">rather</word>
+<word id="le207800.b.unit.39">strange</word>
+<word id="le207800.b.unit.40">at</word>
+<word id="le207800.b.unit.41">this</word>
+<word id="le207800.b.unit.42">hour</word>
+<word id="le207800.b.unit.43">of</word>
+<word id="le207800.b.unit.44">the</word>
+<word id="le207800.b.unit.45">night</word>
+<word id="le207800.b.unit.76">okay</word>
+<sil BTlength="" id="le207800.b.unit.77"/>
+<comment text="7s" id="le207800.b.unit.78"/>
+<word id="le207800.b.unit.83">mm</word>
+<word id="le207800.b.unit.103">it</word>
+<word id="le207800.b.unit.104">would</word>
+<word id="le207800.b.unit.105">have</word>
+<word id="le207800.b.unit.106">done</word>
+<word id="le207800.b.unit.108">mm</word>
+<word id="le207800.b.unit.109">just</word>
+<word id="le207800.b.unit.110">seems</word>
+<word id="le207800.b.unit.111">strange</word>
+<word id="le207800.b.unit.112">at</word>
+<word id="le207800.b.unit.113">twenty</word>
+<word id="le207800.b.unit.114">past</word>
+<word id="le207800.b.unit.115">eleven</word>
+<word id="le207800.b.unit.116">at</word>
+<word id="le207800.b.unit.117">night</word>
+<word id="le207800.b.unit.118">sort</word>
+<word id="le207800.b.unit.119">of</word>
+<word id="le207800.b.unit.120">constantly</word>
+<bcanchor id="le207800.bcanchorb.4"><nite:pointer href="le207800.a.lturn.xml#id(le207800.lturn.8.1)" role="bc"/></bcanchor>
+<word id="le207800.b.unit.122">engaged</word>
+<word id="le207800.b.unit.123">you</word>
+<word id="le207800.b.unit.124">know</word>
+<bcanchor id="le207800.bcanchorb.5"><nite:pointer href="le207800.a.lturn.xml#id(le207800.lturn.8.2)" role="bc"/></bcanchor>
+<word id="le207800.b.unit.126">i</word>
+<word id="le207800.b.unit.127">i've</word>
+<word id="le207800.b.unit.128">been</word>
+<word id="le207800.b.unit.129">trying</word>
+<word id="le207800.b.unit.130">probably</word>
+<word id="le207800.b.unit.131">every</word>
+<word id="le207800.b.unit.132">thirty</word>
+<word id="le207800.b.unit.133">seconds</word>
+<word id="le207800.b.unit.137">okok</word>
+<bcanchor id="le207800.bcanchorb.6"><nite:pointer href="le207800.a.lturn.xml#id(le207800.lturn.10.1)" role="bc"/></bcanchor>
+<word id="le207800.b.unit.139">thanks</word>
+<bcanchor id="le207800.bcanchorb.7"><nite:pointer href="le207800.a.lturn.xml#id(le207800.lturn.10.2)" role="bc"/></bcanchor>
+<word id="le207800.b.unit.141">bye</word>
+<comment text="hangs_up" id="le207800.b.unit.142"/>
+<comment text="end-ok" id="le207800.b.unit.143"/>
+</nite:root>

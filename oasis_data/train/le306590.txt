@@ -1,0 +1,21 @@
+b|hello|greet
+b|could i have a number for please|reqInfo
+a|i'm sorry sir|expressRegret
+a|you need for directory assistance|inform
+a|would you like me to connect you|offer
+b|no|refuse
+b|it's alright|accept
+b|i'll do it myself|informIntent
+a|what the sorry did you say the code for the oh right alright byebye bye|reqInfo
+b|pardon|pardon
+a|sorry|expressRegret
+a|did you say the code for the oh right alright byebye bye|reqInfo
+b|the i didn't say i said   alright ta ta|echo
+b|i didn't say i said   alright ta ta|answ
+b|i said   alright ta ta|correct
+a|oh right alright byebye bye|ackn
+a|alright|ackn
+a|byebye|bye
+b|alright|ackn
+b|ta ta|bye
+a|bye|bye

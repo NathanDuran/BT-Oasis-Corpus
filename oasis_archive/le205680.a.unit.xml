@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le205680.unit.a">
+<stdzcode id="le205680.a.unit.1" description="name"/>
+<sil BTlength="" id="le205680.a.unit.13"/>
+<word id="le205680.a.unit.14">alarm</word>
+<word id="le205680.a.unit.15">call</word>
+<word id="le205680.a.unit.16">did</word>
+<word id="le205680.a.unit.17">you</word>
+<word id="le205680.a.unit.18">say</word>
+<word id="le205680.a.unit.20">yeah</word>
+<word id="le205680.a.unit.21">sure</word>
+<word id="le205680.a.unit.22">er</word>
+<word id="le205680.a.unit.23">what</word>
+<word id="le205680.a.unit.24">time</word>
+<word id="le205680.a.unit.25">do</word>
+<word id="le205680.a.unit.26">you</word>
+<word id="le205680.a.unit.27">want</word>
+<word id="le205680.a.unit.28">it</word>
+<word id="le205680.a.unit.29">for</word>
+<word id="le205680.a.unit.35">seven</word>
+<word id="le205680.a.unit.36">o'clock</word>
+<word id="le205680.a.unit.37">righty</word>
+<word id="le205680.a.unit.38">oh</word>
+<word id="le205680.a.unit.39">and</word>
+<word id="le205680.a.unit.40">that's</word>
+<word id="le205680.a.unit.41">going</word>
+<word id="le205680.a.unit.42">to</word>
+<word id="le205680.a.unit.43">the</word>
+<word id="le205680.a.unit.44">number</word>
+<word id="le205680.a.unit.45">you're</word>
+<word id="le205680.a.unit.46">on</word>
+<word id="le205680.a.unit.47">now</word>
+<word id="le205680.a.unit.48">is</word>
+<word id="le205680.a.unit.49">it</word>
+<word id="le205680.a.unit.51">okay</word>
+<word id="le205680.a.unit.52">won't</word>
+<word id="le205680.a.unit.53">keep</word>
+<word id="le205680.a.unit.54">you</word>
+<word id="le205680.a.unit.55">a</word>
+<word id="le205680.a.unit.56">moment</word>
+<sil BTlength="4s" id="le205680.a.unit.57"/>
+<word id="le205680.a.unit.58">right</word>
+<word id="le205680.a.unit.59">that's</word>
+<word id="le205680.a.unit.60">no</word>
+<word id="le205680.a.unit.61">problem</word>
+<word id="le205680.a.unit.62">at</word>
+<word id="le205680.a.unit.63">all</word>
+<word id="le205680.a.unit.64">that's</word>
+<word id="le205680.a.unit.65">booked</word>
+<word id="le205680.a.unit.66">for</word>
+<word id="le205680.a.unit.67">seven</word>
+<word id="le205680.a.unit.68">in</word>
+<word id="le205680.a.unit.69">the</word>
+<word id="le205680.a.unit.70">morning</word>
+<word id="le205680.a.unit.71">for</word>
+<word id="le205680.a.unit.72">you</word>
+<word id="le205680.a.unit.73">then</word>
+<word id="le205680.a.unit.76">okay</word>
+<word id="le205680.a.unit.79">bye</word>
+<word id="le205680.a.unit.80">then</word>
+<comment text="receiver_replaced" id="le205680.a.unit.81"/>
+<comment text="end-ok" id="le205680.a.unit.82"/>
+</nite:root>

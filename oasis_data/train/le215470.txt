@@ -1,0 +1,93 @@
+b|hello|greet
+b|how are you|reqInfo
+a|i'm fine|answ
+a|thank you|thank
+b|jolly good|ackn
+b|i've been told that i can get uh a call barring service|inform
+b|i can't get through to your whatsname if anyone dials before they dial their number er i can get it yeah it doesn't um ring in to me right yeah it's closed yeah what i get's the i work night shift and uh uh and i and i get these dickheads that phone me up and say yeah do you want to buy this telephone system or this double glazing yes  no yeah yeah i work and i finish at five i'll i'll ring them when i wake up tomorrow after noon yeah well i've got an answerphone on that says basic it says if if you're a yeah alright love i'll give them a ring in the morning oh ya oh ya oh ya heard it about it tonight yeah i might i might switch to cable telephones no keep you in a job i i like quarterly bills i don't like bloody monthly bills alright my love thanks a lot yeah byebye|inform
+b|er i can get it|confirm
+a|yeah|backch
+a|you can get it|pardon
+b|yeah|ackn
+a|doesn't let them you doesn't let them|complete
+b|ring in to me|complete
+a|yeah|ackn
+a|that that is i'm not sure if we have that for customers|expressOpinion
+a|i know it is for cable customers|inform
+a|i'm not sure about it for customers actually|expressOpinion
+a|erm what i'd suggest you did erm|suggest
+a|you've you've just half an hour too late actually|inform
+a|cause er it's closed|inform
+a|yeah|ackn
+a|you you need to call again at o'clock in the morning|suggest
+b|right|backch
+b|yeah it's closed|backch
+b|yeah|ackn
+b|what i get's the i work night shift and uh uh and i and i get these dickheads that phone me up and say yeah do you want to buy this telephone system or this double glazing yes  no yeah yeah i work and i finish at five i'll i'll ring them when i wake up tomorrow after noon yeah well i've got an answerphone on that says basic it says if if you're a yeah alright love i'll give them a ring in the morning oh ya oh ya oh ya heard it about it tonight yeah i might i might switch to cable telephones no keep you in a job i i like quarterly bills i don't like bloody monthly bills alright my love thanks a lot yeah byebye|inform
+b|i work night shift and uh|inform
+a|oh do you|ackn
+a|they're open eight|inform
+b|uh and i and i get these dickheads that phone me up and say yeah do you want to buy this telephone system or this double glazing|inform
+a|hmm|backch
+a|yeah|ackn
+a|you don't need it|expressOpinion
+a|i know i know because i work night shifts on the time as well|inform
+a|you don't need it do you|expressOpinion
+a|no|negate
+a|i appreciate that|accept
+a|yeah|ackn
+a|that would be the best thing to do if um if you can ring sometime we're open eight in the morning to eight in the evening um|suggest
+a|if that would coincide with sometime with your shifts|suggest
+a|it should do shouldn't it|confirm
+b|yes  no yeah yeah i work and i finish at five i'll i'll ring them when i wake up tomorrow after noon yeah well i've got an answerphone on that says basic it says if if you're a yeah alright love i'll give them a ring in the morning oh ya oh ya oh ya heard it about it tonight yeah i might i might switch to cable telephones no keep you in a job i i like quarterly bills i don't like bloody monthly bills alright my love thanks a lot yeah byebye|backch
+b|no|backch
+b|yeah|backch
+b|yeah|ackn
+b|i work|inform
+b|and i finish at five|inform
+a|right|ackn
+a|so|init
+a|yes|ackn
+a|you should be able to fit it in at one end or the other shouldn't you|expressOpinion
+b|i'll i'll ring them when i wake up tomorrow after noon|informIntent
+a|right ok|ackn
+a|and then they should be able to sort the sort it out and tell you whether they can do something like that for you|expressOpinion
+a|i'm sure there is um some sort of bar system they can do|expressOpinion
+b|yeah|ackn
+b|well|init
+b|i've got an answerphone on that says basic it says|inform
+a|then get lost yeah i don't blame you alright ok then yep that's lovely oh right yeah no know that it it is on uh cable phones but i don't know about it on no i'm not sure oh no you don't want to do that   no you can't be doing with that alright then you're welcome thank you byebye|complete
+a|i don't blame you alright ok then yep that's lovely oh right yeah no know that it it is on uh cable phones but i don't know about it on no i'm not sure oh no you don't want to do that   no you can't be doing with that alright then you're welcome thank you byebye|expressOpinion
+a|alright|init
+b|yeah|backch
+b|alright love|ackn
+a|ok then|init
+b|i'll give them a ring in the morning|informIntent
+a|yep|ackn
+a|that's lovely|appreciate
+b|oh ya oh ya oh ya|exclaim
+b|heard it about it tonight|inform
+a|oh right|ackn
+a|yeah|ackn
+a|no|negate
+a|know that it it is on uh cable phones|inform
+a|but i don't know about it on no i'm not sure oh no you don't want to do that   no you can't be doing with that alright then you're welcome thank you byebye|inform
+a|no|negate
+a|i'm not sure|expressOpinion
+b|yeah|ackn
+b|i might i might switch to cable telephones|expressPossibility
+a|oh no|exclaim
+a|you don't want to do that   no you can't be doing with that alright then you're welcome thank you byebye|suggest
+b|no|negate
+b|i i like quarterly bills|expressOpinion
+b|i don't like bloody monthly bills|expressOpinion
+a|no|negate
+a|you can't be doing with that|inform
+b|alright|init
+b|my love|refer
+a|alright then|ackn
+b|thanks a lot|thank
+a|you're welcome|ackn
+a|thank you|thank
+a|byebye|bye
+b|yeah byebye|backch

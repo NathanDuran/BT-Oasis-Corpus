@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le708580.unit.a">
+<stdzcode id="le708580.a.unit.1" description="name"/>
+<word id="le708580.a.unit.12">you</word>
+<word id="le708580.a.unit.13">need</word>
+<word id="le708580.a.unit.14">to</word>
+<word id="le708580.a.unit.15">er</word>
+<word id="le708580.a.unit.16">dial</word>
+<num id="le708580.a.unit.17"/>
+<num id="le708580.a.unit.18"/>
+<num id="le708580.a.unit.19"/>
+<word id="le708580.a.unit.20">directory</word>
+<word id="le708580.a.unit.21">enquiries</word>
+<bcanchor id="le708580.bcanchora.1"><nite:pointer href="le708580.b.lturn.xml#id(le708580.lturn.3.1)" role="bc"/></bcanchor>
+<word id="le708580.a.unit.25">they'll</word>
+<word id="le708580.a.unit.26">be</word>
+<bcanchor id="le708580.bcanchora.2"><nite:pointer href="le708580.b.lturn.xml#id(le708580.lturn.3.2)" role="bc"/></bcanchor>
+<word id="le708580.a.unit.29">shall</word>
+<word id="le708580.a.unit.30">i</word>
+<word id="le708580.a.unit.31">shall</word>
+<word id="le708580.a.unit.32">i</word>
+<word id="le708580.a.unit.33">connect</word>
+<word id="le708580.a.unit.34">you</word>
+<word id="le708580.a.unit.35">to</word>
+<word id="le708580.a.unit.36">directory</word>
+<word id="le708580.a.unit.37">enquiries</word>
+<word id="le708580.a.unit.44">yeah</word>
+<word id="le708580.a.unit.45">sure</word>
+</nite:root>

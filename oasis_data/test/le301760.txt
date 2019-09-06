@@ -1,0 +1,8 @@
+b|er directory enquiries|reqInfo
+a|no|answ
+a|do you want directory enquiries|reqDirect
+b|yes please|direct
+a|that's would you like me to connect you thank you|inform
+a|would you like me to connect you|offer
+b|thank you|thank
+a|thank you|thank

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le202440.unit.b">
+<word id="le202440.b.unit.2">hello</word>
+<word id="le202440.b.unit.3">um</word>
+<sil BTlength="" id="le202440.b.unit.4"/>
+<word id="le202440.b.unit.5">you</word>
+<word id="le202440.b.unit.6">know</word>
+<word id="le202440.b.unit.7">um</word>
+<sil BTlength="" id="le202440.b.unit.8"/>
+<word id="le202440.b.unit.9">that</word>
+<word id="le202440.b.unit.10">number</word>
+<word id="le202440.b.unit.11">that</word>
+<word id="le202440.b.unit.12">can</word>
+<word id="le202440.b.unit.13">do</word>
+<sil BTlength="" id="le202440.b.unit.14"/>
+<word id="le202440.b.unit.15">like</word>
+<sil BTlength="" id="le202440.b.unit.16"/>
+<word id="le202440.b.unit.17">give</word>
+<word id="le202440.b.unit.18">you</word>
+<word id="le202440.b.unit.19">an</word>
+<word id="le202440.b.unit.20">alarm</word>
+<word id="le202440.b.unit.21">yeah</word>
+<num id="le202440.b.unit.30"/>
+<word id="le202440.b.unit.36">yeah</word>
+<word id="le202440.b.unit.50">okay</word>
+<word id="le202440.b.unit.51">thanks</word>
+<word id="le202440.b.unit.52">a</word>
+<word id="le202440.b.unit.53">lot</word>
+</nite:root>

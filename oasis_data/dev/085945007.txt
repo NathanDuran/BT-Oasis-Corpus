@@ -1,0 +1,18 @@
+b|yeah|ackn
+b|morning|greet
+b|that ah it's unusual for a phone to be answered straight away yeah i can't get over the shock what you pick up the phone by mistake well yeah whereas you're right there um right i've got a reminder red one here yeah which i should not have|reqInfo
+a|it is|answ
+a|yeah|answElab
+b|ah it's unusual for a phone to be answered straight away|expressOpinion
+a|nice though isn't it|expressOpinion
+b|yeah|accept
+b|what|reqInfo
+b|you pick up the phone by mistake well yeah whereas you're right there um right i've got a reminder red one here yeah which i should not have|reqInfo
+a|no|answ
+a|this is um a trial as such to see how people react to um no call steering and it's far better isn't it yes|answElab
+a|and it's far better isn't it|expressOpinion
+b|well yeah whereas you're right there um right i've got a reminder red one here yeah which i should not have|accept
+b|um right|init
+b|i've got a reminder red one here yeah which i should not have|inform
+b|which i should not have|inform
+a|yes|backch

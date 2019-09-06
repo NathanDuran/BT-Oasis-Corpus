@@ -1,0 +1,14 @@
+b|how are you|greet
+b|can i have an alarm call at five o'clock|direct
+a|sorry|pardon
+a|an alarm call at what time|pardon
+b|five o'clock please|direct
+a|five o'clock|echo
+a|if you just hold the line while i confirm that for you please|informIntent
+b|thank you ok then bye|thank
+a|that's fine|accept
+a|we can call you at five o'clock|inform
+b|ok then|init
+a|thank you|thank
+a|bye|bye
+b|bye|bye

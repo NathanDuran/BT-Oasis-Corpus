@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le753350.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le753350.lturn.1'>
+
+
+<utt id='le753350.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='le753350.frag.1'>
+<nite:child href='le753350.a.unit.xml#id(le753350.a.unit.1)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le753350.lturn.3'>
+
+
+<utt id='le753350.utt.3'>
+
+<segment type='dm' sp-act='accept' id='le753350.dm.1'>
+<nite:child href='le753350.a.unit.xml#id(le753350.a.unit.10)'/>
+</segment>
+
+</utt>
+
+<utt id='le753350.utt.4'>
+
+<segment type='q_wh' sp-act='reqInfo' id='le753350.q_wh.1'>
+<nite:child href='le753350.a.unit.xml#id(le753350.a.unit.11)..id(le753350.a.unit.19)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le753350.lturn.5'>
+
+
+<utt id='le753350.utt.6'>
+
+<segment type='frag' sp-act='confirm' id='le753350.frag.3'>
+<nite:child href='le753350.a.unit.xml#id(le753350.a.unit.26)..id(le753350.a.unit.31)'/>
+</segment>
+
+</utt>
+
+<utt id='le753350.utt.7'>
+
+<segment type='dm' sp-act='init' id='le753350.dm.2'>
+<nite:child href='le753350.a.unit.xml#id(le753350.a.unit.32)'/>
+</segment>
+
+<segment type='imp' sp-act='hold' id='le753350.a.imp.1'>
+<nite:child href='le753350.a.unit.xml#id(le753350.a.unit.33)..id(le753350.a.unit.35)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le753350.lturn.7'>
+
+
+<utt id='le753350.utt.9'>
+
+<segment type='dm' sp-act='init' id='le753350.dm.3'>
+<nite:child href='le753350.a.unit.xml#id(le753350.a.unit.51)'/>
+</segment>
+
+</utt>
+
+<utt id='le753350.utt.10'>
+
+<segment type='decl' sp-act='informIntent' id='le753350.decl.1'>
+<nite:child href='le753350.a.unit.xml#id(le753350.a.unit.52)..id(le753350.a.unit.61)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le753350.lturn.9'>
+
+
+<utt id='le753350.utt.13'>
+
+<segment type='frag' sp-act='thank' id='le753350.frag.6'>
+<nite:child href='le753350.a.unit.xml#id(le753350.a.unit.65)..id(le753350.a.unit.66)'/>
+</segment>
+
+</utt>
+
+<utt id='le753350.utt.14'>
+
+<segment type='frag' sp-act='bye' id='le753350.frag.7'>
+<nite:child href='le753350.a.unit.xml#id(le753350.a.unit.67)..id(le753350.a.unit.68)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

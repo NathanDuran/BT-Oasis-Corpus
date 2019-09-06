@@ -1,0 +1,5 @@
+b|hello|greet
+b|i wonder if you could give me a telephone number please|reqInfo
+a|you need directory enquiries on shall i put you through|inform
+a|shall i put you through|offer
+b|thank you very much|thank

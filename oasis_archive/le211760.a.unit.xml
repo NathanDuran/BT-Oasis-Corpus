@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le211760.unit.a">
+<stdzcode id="le211760.a.unit.1" description="g"/>
+<word id="le211760.a.unit.16">i</word>
+<word id="le211760.a.unit.17">don't</word>
+<word id="le211760.a.unit.18">i'm</word>
+<word id="le211760.a.unit.19">afraid</word>
+<word id="le211760.a.unit.20">you'll</word>
+<word id="le211760.a.unit.21">need</word>
+<word id="le211760.a.unit.22">directory</word>
+<word id="le211760.a.unit.23">enquiries</word>
+<word id="le211760.a.unit.24">on</word>
+<num id="le211760.a.unit.25"/>
+<num id="le211760.a.unit.26"/>
+<num id="le211760.a.unit.27"/>
+<bcanchor id="le211760.bcanchora.1"><nite:pointer href="le211760.b.lturn.xml#id(le211760.lturn.3.1)" role="bc"/></bcanchor>
+<word id="le211760.a.unit.29">would</word>
+<word id="le211760.a.unit.30">you</word>
+<word id="le211760.a.unit.31">like</word>
+<word id="le211760.a.unit.32">me</word>
+<word id="le211760.a.unit.33">to</word>
+<word id="le211760.a.unit.34">put</word>
+<word id="le211760.a.unit.35">you</word>
+<word id="le211760.a.unit.36">through</word>
+<word id="le211760.a.unit.37">to</word>
+<word id="le211760.a.unit.38">them</word>
+<word id="le211760.a.unit.41">hold</word>
+<word id="le211760.a.unit.42">the</word>
+<word id="le211760.a.unit.43">line</word>
+<word id="le211760.a.unit.44">please</word>
+<sil BTlength="" id="le211760.a.unit.45"/>
+<comment text="put_through_to_directory_enquiries" id="le211760.a.unit.46"/>
+<comment text="end_-_ok" id="le211760.a.unit.47"/>
+</nite:root>

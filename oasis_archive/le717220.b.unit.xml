@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le717220.unit.b">
+<word id="le717220.b.unit.2">hello</word>
+<stdzcode id="le717220.b.unit.3" description="name"/>
+<bcanchor id="le717220.bcanchorb.1"><nite:pointer href="le717220.a.lturn.xml#id(le717220.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le717220.b.unit.5">can</word>
+<word id="le717220.b.unit.6">you</word>
+<word id="le717220.b.unit.7">just</word>
+<word id="le717220.b.unit.8">tell</word>
+<word id="le717220.b.unit.9">me</word>
+<word id="le717220.b.unit.10">what</word>
+<word id="le717220.b.unit.11">the</word>
+<word id="le717220.b.unit.12">number</word>
+<word id="le717220.b.unit.13">for</word>
+<word id="le717220.b.unit.14">erm</word>
+<sil BTlength="" id="le717220.b.unit.15"/>
+<word id="le717220.b.unit.16">directory</word>
+<word id="le717220.b.unit.17">enquiries</word>
+<word id="le717220.b.unit.18">is</word>
+<word id="le717220.b.unit.19">these</word>
+<word id="le717220.b.unit.20">days</word>
+<num id="le717220.b.unit.26"/>
+<num id="le717220.b.unit.27"/>
+<num id="le717220.b.unit.28"/>
+<word id="le717220.b.unit.29">thank</word>
+<word id="le717220.b.unit.30">you</word>
+<word id="le717220.b.unit.31">very</word>
+<word id="le717220.b.unit.32">much</word>
+<word id="le717220.b.unit.39">sorry</word>
+<word id="le717220.b.unit.44">yeah</word>
+<word id="le717220.b.unit.45">if</word>
+<word id="le717220.b.unit.46">you</word>
+<word id="le717220.b.unit.47">wouldn't</word>
+<word id="le717220.b.unit.48">mind</word>
+</nite:root>

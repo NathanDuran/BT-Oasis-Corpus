@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le316420.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le316420.lturn.1'>
+
+
+<utt id='le316420.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='le316420.frag.1'>
+<nite:child href='le316420.a.unit.xml#id(le316420.a.unit.1)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le316420.lturn.3'>
+
+
+<utt id='le316420.utt.4'>
+
+<segment type='imp' sp-act='direct' id='le316420.a.imp.1'>
+<nite:child href='le316420.a.unit.xml#id(le316420.a.unit.20)..id(le316420.a.unit.28)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le316420.lturn.5'>
+
+
+<utt id='le316420.utt.7'>
+
+<segment type='yes' sp-act='ackn' id='le316420.yes.3'>
+<nite:child href='le316420.a.unit.xml#id(le316420.a.unit.35)'/>
+</segment>
+
+</utt>
+
+<utt id='le316420.utt.8'>
+
+<segment type='decl' sp-act='informIntent' id='le316420.decl.2'>
+<nite:child href='le316420.a.unit.xml#id(le316420.a.unit.36)..id(le316420.a.unit.48)'/>
+</segment>
+
+</utt>
+
+<utt id='le316420.utt.9'>
+
+<segment type='yes' sp-act='init' id='le316420.yes.4'>
+<nite:child href='le316420.a.unit.xml#id(le316420.a.unit.49)'/>
+</segment>
+
+<segment type='decl' sp-act='inform' id='le316420.decl.3'>
+<nite:child href='le316420.a.unit.xml#id(le316420.a.unit.50)..id(le316420.a.unit.51)'/>
+</segment>
+
+</utt>
+
+<utt id='le316420.utt.10'>
+
+<segment type='decl' sp-act='inform' id='le316420.decl.4'>
+<nite:child href='le316420.a.unit.xml#id(le316420.a.unit.52)..id(le316420.a.unit.76)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le316420.lturn.7'>
+
+
+<utt id='le316420.utt.12'>
+
+<segment type='decl' sp-act='ackn' id='le316420.decl.5'>
+<nite:child href='le316420.a.unit.xml#id(le316420.a.unit.81)..id(le316420.a.unit.82)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le316420.lturn.9'>
+
+
+<utt id='le316420.utt.15'>
+
+<segment type='frag' sp-act='bye' id='le316420.frag.6'>
+<nite:child href='le316420.a.unit.xml#id(le316420.a.unit.87)..id(le316420.a.unit.88)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

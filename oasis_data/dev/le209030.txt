@@ -1,0 +1,25 @@
+b|hello|greet
+a|certainly|accept
+a|for what time|reqInfo
+b|six o'clock please|answ
+a|six o'clock|echo
+a|oh do you have an answering machine please|reqInfo
+b|yeah|backch
+b|oh no oh five minutes after ok ok lovely thank you bye|answ
+a|ok right|ackn
+a|i'm afraid six is fully booked|expressRegret
+a|can we call you five minutes before or after|reqModal
+b|oh five minutes after|accept
+a|five minutes after|echo
+b|ok|ackn
+a|one moment|hold
+a|lets get it confirmed|informIntent
+a|right|init
+a|that's done for you|inform
+a|we'll call you at five minutes past six|informIntent
+b|ok|backch
+b|lovely|appreciate
+b|thank you|thank
+a|thank you|thank
+b|bye|bye
+a|bye|bye

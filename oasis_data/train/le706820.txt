@@ -1,0 +1,5 @@
+b|can you tell me what the code is for please|reqInfo
+a|yeah|answ
+a|yep|ackn
+b|thank you|thank
+a|bye now|bye

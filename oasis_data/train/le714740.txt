@@ -1,0 +1,8 @@
+b|darling operator what day is it today|reqInfo
+a|its Monday today caller|answ
+b|it's what love|pardon
+a|it's Monday|answ
+b|and the time|reqInfo
+a|the time is seven past seven in the evening|answ
+b|thank you thank you|thank
+a|welcome  my pleasure|backch

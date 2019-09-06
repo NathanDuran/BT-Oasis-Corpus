@@ -1,0 +1,15 @@
+b|hello|greet
+b|could i have an alarm call please|direct
+a|for what time please|reqInfo
+b|um about let me think half past seven|answ
+a|half past seven|echo
+a|okay okay that's booked for you then and we'll call you at seven thirty okay thank you bye|accept
+a|okay|init
+a|that's booked for you then|inform
+a|and we'll call you at seven thirty|informIntent
+b|lovely|appreciate
+b|thank you|thank
+b|bye|bye
+a|okay|ackn
+a|thank you|thank
+a|bye|bye

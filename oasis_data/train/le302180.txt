@@ -1,0 +1,6 @@
+b|yes|ackn
+b|i'd like to report a damaged phone box please|reqModal
+a|you want to report a damaged phone box|confirm
+a|i'll put you through to the engineers|informIntent
+b|alright then|accept
+a|thank you|thank

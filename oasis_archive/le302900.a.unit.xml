@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le302900.unit.a">
+<stdzcode id="le302900.a.unit.1" description="name"/>
+<comment text="talks_to_other" id="le302900.a.unit.2"/>
+<word id="le302900.a.unit.14">what</word>
+<word id="le302900.a.unit.15">yourself</word>
+<word id="le302900.a.unit.17">it's</word>
+<word id="le302900.a.unit.18">star</word>
+<word id="le302900.a.unit.19">star</word>
+<num id="le302900.a.unit.20"/>
+<word id="le302900.a.unit.21">sorry</word>
+<word id="le302900.a.unit.22">star</word>
+<num id="le302900.a.unit.23"/>
+<word id="le302900.a.unit.24">star</word>
+<word id="le302900.a.unit.30">star</word>
+<word id="le302900.a.unit.31">but</word>
+<sil BTlength="" id="le302900.a.unit.32"/>
+<word id="le302900.a.unit.33">the</word>
+<word id="le302900.a.unit.34">time</word>
+<word id="le302900.a.unit.35">by</word>
+<word id="le302900.a.unit.36">the</word>
+<num id="le302900.a.unit.37"/>
+<word id="le302900.a.unit.38">hour</word>
+<word id="le302900.a.unit.39">clock</word>
+<word id="le302900.a.unit.40">so</word>
+<word id="le302900.a.unit.41">if</word>
+<word id="le302900.a.unit.42">it's</word>
+<num id="le302900.a.unit.43"/>
+<word id="le302900.a.unit.44">o'clock</word>
+<word id="le302900.a.unit.45">it's</word>
+<num id="le302900.a.unit.46"/>
+<num id="le302900.a.unit.47"/>
+<word id="le302900.a.unit.48">double</word>
+<num id="le302900.a.unit.49"/>
+<word id="le302900.a.unit.51">and</word>
+<word id="le302900.a.unit.52">then</word>
+<word id="le302900.a.unit.53">the</word>
+<word id="le302900.a.unit.54">hash</word>
+<word id="le302900.a.unit.55">button</word>
+<word id="le302900.a.unit.59">ok</word>
+<word id="le302900.a.unit.62">bye</word>
+<comment text="end-ok" id="le302900.a.unit.63"/>
+</nite:root>

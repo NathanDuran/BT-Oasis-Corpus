@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le706860.unit.b">
+<word id="le706860.b.unit.2">hello</word>
+<word id="le706860.b.unit.3">could</word>
+<word id="le706860.b.unit.4">um</word>
+<sil BTlength="" id="le706860.b.unit.5"/>
+<word id="le706860.b.unit.6">i</word>
+<word id="le706860.b.unit.7">have</word>
+<word id="le706860.b.unit.8">a</word>
+<partword id="le706860.b.unit.9">co</partword>
+<word id="le706860.b.unit.10">i've</word>
+<word id="le706860.b.unit.11">got</word>
+<word id="le706860.b.unit.12">a</word>
+<word id="le706860.b.unit.13">code</word>
+<word id="le706860.b.unit.14">here</word>
+<sil BTlength="" id="le706860.b.unit.15"/>
+<word id="le706860.b.unit.16">and</word>
+<word id="le706860.b.unit.17">i</word>
+<word id="le706860.b.unit.18">don't</word>
+<word id="le706860.b.unit.19">know</word>
+<word id="le706860.b.unit.20">where</word>
+<word id="le706860.b.unit.21">it's</word>
+<word id="le706860.b.unit.22">from</word>
+<partword id="le706860.b.unit.24">it</partword>
+<num id="le706860.b.unit.27"/>
+<num id="le706860.b.unit.28"/>
+<num id="le706860.b.unit.29"/>
+<num id="le706860.b.unit.30"/>
+<bcanchor id="le706860.bcanchorb.2"><nite:pointer href="le706860.a.lturn.xml#id(le706860.lturn.4.1)" role="bc"/></bcanchor>
+<num id="le706860.b.unit.33"/>
+<bcanchor id="le706860.bcanchorb.3"><nite:pointer href="le706860.a.lturn.xml#id(le706860.lturn.4.2)" role="bc"/></bcanchor>
+<sil BTlength="" id="le706860.b.unit.36"/>
+<bcanchor id="le706860.bcanchorb.4"><nite:pointer href="le706860.a.lturn.xml#id(le706860.lturn.4.3)" role="bc"/></bcanchor>
+<sil BTlength="" id="le706860.b.unit.38"/>
+<word id="le706860.b.unit.39">and</word>
+<word id="le706860.b.unit.40">i</word>
+<word id="le706860.b.unit.41">think</word>
+<word id="le706860.b.unit.42">there's</word>
+<word id="le706860.b.unit.43">a</word>
+<num id="le706860.b.unit.44"/>
+<word id="le706860.b.unit.45">on</word>
+<word id="le706860.b.unit.46">the</word>
+<word id="le706860.b.unit.47">end</word>
+<word id="le706860.b.unit.57">she</word>
+<word id="le706860.b.unit.58">wakes</word>
+<word id="le706860.b.unit.59">up</word>
+<word id="le706860.b.unit.61">hello</word>
+<sil BTlength="" id="le706860.b.unit.64"/>
+<word id="le706860.b.unit.65">right</word>
+<word id="le706860.b.unit.66">ok</word>
+<word id="le706860.b.unit.67">can</word>
+<word id="le706860.b.unit.68">you</word>
+<word id="le706860.b.unit.69">tell</word>
+<word id="le706860.b.unit.70">me</word>
+<word id="le706860.b.unit.71">what</word>
+<word id="le706860.b.unit.72">part</word>
+<word id="le706860.b.unit.73">of</word>
+<pncode type="town" id="le706860.b.unit.74"/>
+<word id="le706860.b.unit.75">it</word>
+<word id="le706860.b.unit.76">is</word>
+<word id="le706860.b.unit.81">cos</word>
+<word id="le706860.b.unit.82">i've</word>
+<word id="le706860.b.unit.83">got</word>
+<word id="le706860.b.unit.84">um</word>
+<word id="le706860.b.unit.85">i've</word>
+<word id="le706860.b.unit.86">got</word>
+<word id="le706860.b.unit.87">i've</word>
+<word id="le706860.b.unit.88">got</word>
+<word id="le706860.b.unit.89">some</word>
+<word id="le706860.b.unit.90">of</word>
+<word id="le706860.b.unit.91">i've</word>
+<word id="le706860.b.unit.92">got</word>
+<word id="le706860.b.unit.93">the</word>
+<word id="le706860.b.unit.94">phone</word>
+<word id="le706860.b.unit.95">number</word>
+<word id="le706860.b.unit.96">as</word>
+<word id="le706860.b.unit.97">well</word>
+<word id="le706860.b.unit.104">you</word>
+<word id="le706860.b.unit.105">can't</word>
+<word id="le706860.b.unit.111">you</word>
+<word id="le706860.b.unit.112">can't</word>
+<word id="le706860.b.unit.113">say</word>
+<word id="le706860.b.unit.114">what</word>
+<word id="le706860.b.unit.115">like</word>
+<word id="le706860.b.unit.127">no</word>
+<word id="le706860.b.unit.128">it's</word>
+<word id="le706860.b.unit.129">just</word>
+<word id="le706860.b.unit.130">that</word>
+<word id="le706860.b.unit.131">my</word>
+<word id="le706860.b.unit.132">friend</word>
+<word id="le706860.b.unit.133">has</word>
+<word id="le706860.b.unit.134">phoned</word>
+<word id="le706860.b.unit.135">at</word>
+<word id="le706860.b.unit.136">half</word>
+<word id="le706860.b.unit.137">four</word>
+<word id="le706860.b.unit.138">on</word>
+<word id="le706860.b.unit.139">the</word>
+<word id="le706860.b.unit.140">on</word>
+<word id="le706860.b.unit.141">the</word>
+<word id="le706860.b.unit.142">morning</word>
+<word id="le706860.b.unit.143">on</word>
+<word id="le706860.b.unit.144">this</word>
+<word id="le706860.b.unit.145">number</word>
+<bcanchor id="le706860.bcanchorb.7"><nite:pointer href="le706860.a.lturn.xml#id(le706860.lturn.14.1)" role="bc"/></bcanchor>
+<word id="le706860.b.unit.147">but</word>
+<word id="le706860.b.unit.148">we</word>
+<word id="le706860.b.unit.149">don't</word>
+<word id="le706860.b.unit.150">know</word>
+<word id="le706860.b.unit.151">who</word>
+<word id="le706860.b.unit.152">it</word>
+<word id="le706860.b.unit.153">is</word>
+<word id="le706860.b.unit.154">but</word>
+<word id="le706860.b.unit.155">the</word>
+<word id="le706860.b.unit.156">thing</word>
+<word id="le706860.b.unit.157">is</word>
+<word id="le706860.b.unit.158">it</word>
+<word id="le706860.b.unit.159">was</word>
+<word id="le706860.b.unit.160">phoned</word>
+<word id="le706860.b.unit.161">on</word>
+<word id="le706860.b.unit.162">a</word>
+<word id="le706860.b.unit.163">mobile</word>
+<word id="le706860.b.unit.164">so</word>
+<word id="le706860.b.unit.165">you</word>
+<word id="le706860.b.unit.166">have</word>
+<word id="le706860.b.unit.167">to</word>
+<word id="le706860.b.unit.168">know</word>
+<word id="le706860.b.unit.169">the</word>
+<word id="le706860.b.unit.170">mobile</word>
+<word id="le706860.b.unit.171">number</word>
+<word id="le706860.b.unit.172">to</word>
+<word id="le706860.b.unit.173">ring</word>
+<word id="le706860.b.unit.174">ring</word>
+<word id="le706860.b.unit.175">a</word>
+<word id="le706860.b.unit.176">mobile</word>
+<word id="le706860.b.unit.191">ok</word>
+<sil BTlength="" id="le706860.b.unit.192"/>
+<word id="le706860.b.unit.193">that's</word>
+<word id="le706860.b.unit.194">ok</word>
+<word id="le706860.b.unit.196">ok</word>
+<word id="le706860.b.unit.197">thank</word>
+<word id="le706860.b.unit.198">you</word>
+<word id="le706860.b.unit.199">very</word>
+<word id="le706860.b.unit.202">much</word>
+<word id="le706860.b.unit.203">bye</word>
+</nite:root>

@@ -1,0 +1,27 @@
+b|hello|greet
+b|could you tell me the number that i'm calling from please|reqInfo
+a|right|ackn
+a|i'm sorry|expressRegret
+a|i can only confirm the information|answ
+a|i can't actually tell you|answElab
+b|oh really|ackn
+a|so|init
+a|if you tell me what number you think you're calling from|suggest
+a|i can say whether you are or not|inform
+a|no|negate
+a|you're not|negate
+b|no|ackn
+b|so|init
+b|its been changed obviously it's alright it's my property its just i've had someone renting it so er i just wondered what the telephone number was that was all okay not to worry thanks a lot bye|inform
+b|it's alright|inform
+b|it's my property|inform
+b|its just i've had someone renting it so er i just wondered what the telephone number was that was all okay not to worry thanks a lot bye|inform
+b|i just wondered what the telephone number was|inform
+b|that was all|inform
+a|oh right|ackn
+b|okay|init
+b|not to worry|ackn
+a|uh thank you|thank
+b|thanks a lot|thank
+b|bye|bye
+a|bye|bye

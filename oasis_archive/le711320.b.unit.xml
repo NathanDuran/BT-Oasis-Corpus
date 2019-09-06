@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le711320.unit.b">
+<word id="le711320.b.unit.2">hello</word>
+<word id="le711320.b.unit.3">love</word>
+<word id="le711320.b.unit.4">can</word>
+<word id="le711320.b.unit.5">i</word>
+<word id="le711320.b.unit.6">er</word>
+<word id="le711320.b.unit.7">book</word>
+<word id="le711320.b.unit.8">an</word>
+<word id="le711320.b.unit.9">early</word>
+<word id="le711320.b.unit.10">morning</word>
+<word id="le711320.b.unit.11">call</word>
+<word id="le711320.b.unit.12">please</word>
+<word id="le711320.b.unit.24">uh</word>
+<word id="le711320.b.unit.25">seven</word>
+<word id="le711320.b.unit.26">forty</word>
+<word id="le711320.b.unit.27">five</word>
+<word id="le711320.b.unit.28">please</word>
+<word id="le711320.b.unit.41">thank</word>
+<word id="le711320.b.unit.42">you</word>
+<word id="le711320.b.unit.59">lovely</word>
+<word id="le711320.b.unit.62">you</word>
+<word id="le711320.b.unit.63">you</word>
+<word id="le711320.b.unit.64">don't</word>
+<word id="le711320.b.unit.65">need</word>
+<word id="le711320.b.unit.66">the</word>
+<word id="le711320.b.unit.67">number</word>
+<word id="le711320.b.unit.68">do</word>
+<word id="le711320.b.unit.69">you</word>
+<word id="le711320.b.unit.71">oh</word>
+<word id="le711320.b.unit.81">ok</word>
+<word id="le711320.b.unit.82">lovely</word>
+<word id="le711320.b.unit.83">thank</word>
+<word id="le711320.b.unit.84">you</word>
+<bcanchor id="le711320.bcanchorb.3"><nite:pointer href="le711320.a.lturn.xml#id(le711320.lturn.10.1)" role="bc"/></bcanchor>
+<word id="le711320.b.unit.87">byebye</word>
+</nite:root>

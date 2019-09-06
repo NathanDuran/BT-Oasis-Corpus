@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le711830.unit.b">
+<word id="le711830.b.unit.2">um</word>
+<word id="le711830.b.unit.3">can</word>
+<word id="le711830.b.unit.4">i</word>
+<word id="le711830.b.unit.5">have</word>
+<word id="le711830.b.unit.6">a</word>
+<word id="le711830.b.unit.7">taxi</word>
+<word id="le711830.b.unit.8">number</word>
+<word id="le711830.b.unit.9">please</word>
+<word id="le711830.b.unit.22">right</word>
+<word id="le711830.b.unit.36">right</word>
+<word id="le711830.b.unit.53">right</word>
+<word id="le711830.b.unit.54">ok</word>
+<num id="le711830.b.unit.58"/>
+<num id="le711830.b.unit.59"/>
+<word id="le711830.b.unit.60">hang</word>
+<word id="le711830.b.unit.61">on</word>
+<word id="le711830.b.unit.62">yes</word>
+<word id="le711830.b.unit.69">right</word>
+<num id="le711830.b.unit.72"/>
+<num id="le711830.b.unit.73"/>
+<word id="le711830.b.unit.74">ok</word>
+<word id="le711830.b.unit.75">that's</word>
+<word id="le711830.b.unit.76">lovely</word>
+<word id="le711830.b.unit.77">thanks</word>
+<word id="le711830.b.unit.78">a</word>
+<word id="le711830.b.unit.79">lot</word>
+<bcanchor id="le711830.bcanchorb.5"><nite:pointer href="le711830.a.lturn.xml#id(le711830.lturn.6.1)" role="bc"/></bcanchor>
+<word id="le711830.b.unit.82">cheers</word>
+<sil BTlength="" id="le711830.b.unit.83"/>
+</nite:root>

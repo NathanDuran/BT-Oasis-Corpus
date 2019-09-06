@@ -1,0 +1,14 @@
+b|hi|greet
+b|can i have an er wake up call please|direct
+a|yes certainly|accept
+a|what time would you like that|reqDirect
+b|um to yeah please thank you very much bye bye|direct
+a|right|accept
+a|and that's going to the number that you're on now is it|reqInfo
+b|yeah please thank you very much bye bye|answ
+a|right|ackn
+a|no problem|accept
+a|that's booked for to for you then|inform
+b|thank you very much|thank
+a|you're welcome|ackn
+b|bye bye|bye

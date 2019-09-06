@@ -1,0 +1,104 @@
+b|yes|ackn
+b|hello dear|greet
+b|bear with me|direct
+b|cause i'm um ninety one|inform
+b|look|init
+b|i've i've tried to phone and eh this was a call back phone|inform
+b|now|init
+b|it's i can't get the number|inform
+b|i don't know whether it's|inform
+b|then it's got then i don't know whether it's a or a can you tell me where that's from please yes dear well its i don't know whether it's a or i put down oh crikey i'm all nerves pardon they are they're wrong numbers what the and then the one behind that if you would dear yes what the well that's put down so plainly you see oh well there's no way of knowing then is there oh it's i was told the call came through yesterday while i was at the hospital and it's making me all worried in case it was anything to do with me er the operation i live in dear i dunno it's not the number's you see or double what the what about the one at the front the oh well it's oh thank you oh so much dear yes okay then bye bye dear|inform
+b|then i don't know whether it's a or a can you tell me where that's from please yes dear well its i don't know whether it's a or i put down oh crikey i'm all nerves pardon they are they're wrong numbers what the and then the one behind that if you would dear yes what the well that's put down so plainly you see oh well there's no way of knowing then is there oh it's i was told the call came through yesterday while i was at the hospital and it's making me all worried in case it was anything to do with me er the operation i live in dear i dunno it's not the number's you see or double what the what about the one at the front the oh well it's oh thank you oh so much dear yes okay then bye bye dear|inform
+b|can you tell me where that's from please|reqInfo
+a|mm mm|backch
+a|right|backch
+a|yeah|backch
+a|yeah|ackn
+a|i won't be a minute you want to know where it's from right and what was the last number it was i'll just check for you right you see both of them come up as wrong numbers then they come up as wrong numbers yeah yeah yeah yeah yeah they both come up as wrong numbers let me see if i can get anything else with a different number on the end there yeah certainly will you see i don't think it's the end number that's wrong i think it's your number in between that may be wrong yeah something there that may be wrong yeah cause i mean it doesn't exist them numbers don't exist otherwise unfortunately no unfortunately not if they come up as wrong numbers we can't determine where they're from cause of them not existing if they don't exist we don't know where they're coming from hmm yeah yeah right where in where was the hospital which area and was it right hang on a minute yeah they come up as incorrect numbers i'm afraid yeah they are wrong numbers yeah double it's wrong unless it's a but then they'd still have to completely change the number yeah no it's a wrong number i'm afraid oh no no it's fine it's my pleasure okay bye bye|hold
+a|you want to know where it's from|confirm
+b|yes dear|ackn
+a|right|ackn
+a|and what was the last number|reqInfo
+a|it was i'll just check for you right you see both of them come up as wrong numbers then they come up as wrong numbers yeah yeah yeah yeah yeah they both come up as wrong numbers let me see if i can get anything else with a different number on the end there yeah certainly will you see i don't think it's the end number that's wrong i think it's your number in between that may be wrong yeah something there that may be wrong yeah cause i mean it doesn't exist them numbers don't exist otherwise unfortunately no unfortunately not if they come up as wrong numbers we can't determine where they're from cause of them not existing if they don't exist we don't know where they're coming from hmm yeah yeah right where in where was the hospital which area and was it right hang on a minute yeah they come up as incorrect numbers i'm afraid yeah they are wrong numbers yeah double it's wrong unless it's a but then they'd still have to completely change the number yeah no it's a wrong number i'm afraid oh no no it's fine it's my pleasure okay bye bye|confirm
+b|well its|backch
+b|i don't know whether it's a or i put down|inform
+a|i'll just check for you|informIntent
+b|oh crikey|exclaim
+b|i'm all nerves|inform
+a|right|ackn
+a|you see both of them come up as wrong numbers then|inform
+b|pardon|pardon
+a|they come up as wrong numbers|inform
+b|they are they're wrong numbers|confirm
+b|what|reqInfo
+b|the|confirm
+b|and then the one behind that|inform
+a|yeah|backch
+a|yeah|backch
+a|yeah|backch
+a|yeah|backch
+a|yeah|ackn
+a|they both come up as wrong numbers|inform
+a|let me see if i can get anything else with a different number on the end there|informIntent
+b|if you would dear|direct
+a|yeah|accept
+a|certainly will you see i don't think it's the end number that's wrong i think it's your number in between that may be wrong yeah something there that may be wrong yeah cause i mean it doesn't exist them numbers don't exist otherwise unfortunately no unfortunately not if they come up as wrong numbers we can't determine where they're from cause of them not existing if they don't exist we don't know where they're coming from hmm yeah yeah right where in where was the hospital which area and was it right hang on a minute yeah they come up as incorrect numbers i'm afraid yeah they are wrong numbers yeah double it's wrong unless it's a but then they'd still have to completely change the number yeah no it's a wrong number i'm afraid oh no no it's fine it's my pleasure okay bye bye|accept
+a|you see i don't think it's the end number that's wrong|expressOpinion
+a|i think it's your number in between that may be wrong|expressOpinion
+b|yes|backch
+b|what|reqInfo
+b|the well that's put down so plainly you see oh well there's no way of knowing then is there oh it's i was told the call came through yesterday while i was at the hospital and it's making me all worried in case it was anything to do with me er the operation i live in dear i dunno it's not the number's you see or double what the what about the one at the front the oh well it's oh thank you oh so much dear yes okay then bye bye dear|confirm
+a|yeah|answ
+a|something there that may be wrong|answElab
+b|well|init
+b|that's put down so plainly you see|inform
+a|yeah|ackn
+a|cause i mean it doesn't exist|inform
+a|them numbers don't exist otherwise unfortunately|expressRegret
+b|oh well|init
+b|there's no way of knowing then is there|reqInfo
+a|no|answ
+a|unfortunately not|answElab
+a|if they come up as wrong numbers|inform
+a|we can't determine where they're from cause of them not existing|inform
+a|if they don't exist|inform
+a|we don't know where they're coming from|inform
+b|i was told the call came through yesterday while i was at the hospital|inform
+b|and it's making me all worried in case it was anything to do with me er the operation|inform
+a|hmm|backch
+a|yeah|backch
+a|yeah|backch
+a|right|ackn
+a|where in where was the hospital|reqInfo
+a|which area|reqInfo
+b|i live in dear|inform
+a|and was it right hang on a minute yeah they come up as incorrect numbers i'm afraid yeah they are wrong numbers yeah double it's wrong unless it's a but then they'd still have to completely change the number yeah no it's a wrong number i'm afraid oh no no it's fine it's my pleasure okay bye bye|reqInfo
+b|i dunno|inform
+b|it's not the number's you see or double what the what about the one at the front the oh well it's oh thank you oh so much dear yes okay then bye bye dear|inform
+a|right|ackn
+a|hang on a minute yeah they come up as incorrect numbers i'm afraid yeah they are wrong numbers yeah double it's wrong unless it's a but then they'd still have to completely change the number yeah no it's a wrong number i'm afraid oh no no it's fine it's my pleasure okay bye bye|hold
+a|yeah|init
+a|they come up as incorrect numbers i'm afraid|inform
+a|yeah|ackn
+a|they are wrong numbers|inform
+b|what|reqInfo
+b|the what about the one at the front the oh well it's oh thank you oh so much dear yes okay then bye bye dear|confirm
+a|yeah|answ
+a|it's wrong unless it's a but then they'd still have to completely change the number|inform
+b|what about the one at the front the oh well it's oh thank you oh so much dear yes okay then bye bye dear|reqInfo
+a|yeah|ackn
+a|no|negate
+a|it's a wrong number i'm afraid|answ
+b|oh well|init
+b|thank you oh so much dear|thank
+a|oh no|exclaim
+a|no|negate
+a|it's fine|ackn
+a|it's my pleasure|ackn
+b|yes|ackn
+b|okay then|init
+a|okay|ackn
+b|bye|bye
+b|bye dear|bye
+a|bye|bye
+a|bye|bye

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le212420.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le212420.lturn.2'>
+
+
+<utt id='le212420.utt.2'>
+
+<segment type='q_yn' sp-act='direct' id='le212420.q_yn.1'>
+<nite:child href='le212420.b.unit.xml#id(le212420.b.unit.2)..id(le212420.b.unit.10)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le212420.lturn.4'>
+
+
+<utt id='le212420.utt.4'>
+
+<segment type='dm' sp-act='pardon' id='le212420.dm.2'>
+<nite:child href='le212420.b.unit.xml#id(le212420.b.unit.20)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le212420.lturn.6'>
+
+
+<utt id='le212420.utt.6'>
+
+<segment type='decl' sp-act='inform' id='le212420.decl.2'>
+<nite:child href='le212420.b.unit.xml#id(le212420.b.unit.36)..id(le212420.b.unit.42)'/>
+</segment>
+
+</utt>
+
+<utt id='le212420.utt.7'>
+
+<segment type='decl' sp-act='expressOpinion' id='le212420.decl.3' secondary-act='abandon'>
+<nite:child href='le212420.b.unit.xml#id(le212420.b.unit.43)..id(le212420.b.unit.47)'/>
+</segment>
+
+</utt>
+
+<utt id='le212420.utt.8'>
+
+<segment type='decl' sp-act='inform' id='le212420.decl.4'>
+<nite:child href='le212420.b.unit.xml#id(le212420.b.unit.48)..id(le212420.b.unit.51)'/>
+</segment>
+
+</utt>
+
+<utt id='le212420.utt.9'>
+
+<segment type='decl' sp-act='inform' id='le212420.decl.5'>
+<nite:child href='le212420.b.unit.xml#id(le212420.b.unit.52)..id(le212420.b.unit.60)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le212420.lturn.8'>
+
+
+<utt id='le212420.utt.11'>
+
+<segment type='decl' sp-act='answ' id='le212420.decl.6'>
+<nite:child href='le212420.b.unit.xml#id(le212420.b.unit.66)..id(le212420.b.unit.75)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le212420.lturn.10'>
+
+
+<utt id='le212420.utt.15'>
+
+<segment type='frag' sp-act='thank' id='le212420.frag.2'>
+<nite:child href='le212420.b.unit.xml#id(le212420.b.unit.92)..id(le212420.b.unit.93)'/>
+</segment>
+
+</utt>
+
+<utt id='le212420.utt.16'>
+
+<segment type='decl' sp-act='accept' id='le212420.decl.8'>
+<nite:child href='le212420.b.unit.xml#id(le212420.b.unit.94)..id(le212420.b.unit.101)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

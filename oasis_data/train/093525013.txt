@@ -14,7 +14,6 @@ b|the customer number|confirm
 a|yes please|ackn
 a|thank you|thank
 b|right|init
-b|yes please|thirdParty
 b|i did have a telephone bill here|inform
 b|and it's just gone missing i've got a i've got a new one here would that would you be able to get it from that the old telephone fnumber is|inform
 b|i've got a i've got a new one here|inform

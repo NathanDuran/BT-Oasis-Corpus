@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le706990.unit.a">
+<stdzcode id="le706990.a.unit.1" description="name"/>
+<word id="le706990.a.unit.20">no</word>
+<word id="le706990.a.unit.21">you</word>
+<word id="le706990.a.unit.22">need</word>
+<word id="le706990.a.unit.23">to</word>
+<word id="le706990.a.unit.24">speak</word>
+<word id="le706990.a.unit.25">to</word>
+<word id="le706990.a.unit.26">the</word>
+<word id="le706990.a.unit.27">directory</word>
+<word id="le706990.a.unit.28">enquiries</word>
+<word id="le706990.a.unit.29">on</word>
+<num id="le706990.a.unit.30"/>
+<num id="le706990.a.unit.31"/>
+<num id="le706990.a.unit.32"/>
+<word id="le706990.a.unit.33">would</word>
+<word id="le706990.a.unit.34">you</word>
+<word id="le706990.a.unit.35">like</word>
+<word id="le706990.a.unit.36">me</word>
+<bcanchor id="le706990.bcanchora.1"><nite:pointer href="le706990.b.lturn.xml#id(le706990.lturn.3.1)" role="bc"/></bcanchor>
+<word id="le706990.a.unit.42">would</word>
+<word id="le706990.a.unit.43">you</word>
+<word id="le706990.a.unit.44">like</word>
+<word id="le706990.a.unit.45">me</word>
+<word id="le706990.a.unit.46">to</word>
+<word id="le706990.a.unit.47">connect</word>
+<word id="le706990.a.unit.48">you</word>
+</nite:root>

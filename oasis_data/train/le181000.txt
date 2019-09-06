@@ -1,0 +1,22 @@
+b|hello|greet
+b|can you give me an address of i've got the number it's it's called it's somewhere is chambers er i've keep put court chambers ok thanks very much byebye|reqInfo
+b|i've got the number|inform
+b|it's it's called it's somewhere is chambers er i've keep put court chambers ok thanks very much byebye|inform
+a|just a moment sorry yeah hold on i'll just just see if it tells me yeah on ah no it's chambers mate yeah you're welcome byebye then|hold
+a|yeah|backch
+a|hold on i'll just|informIntent-hold
+b|it's called it's somewhere is chambers er i've keep put court chambers ok thanks very much byebye|inform
+b|it's somewhere is chambers er i've keep put court chambers ok thanks very much byebye|inform
+a|just see if it tells me yeah on ah no it's chambers mate yeah you're welcome byebye then|informIntent
+a|yeah|ackn
+b|chambers|confirm
+b|er i've keep put court|correct
+a|ah no|negate
+a|it's chambers mate|correct
+b|chambers|echo
+b|ok|ackn
+b|thanks very much|thank
+a|yeah|backch
+a|you're welcome|ackn
+b|byebye|bye
+a|byebye then|bye

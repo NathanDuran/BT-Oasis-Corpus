@@ -1,0 +1,83 @@
+b|hello|greet
+b|um um yeah|init
+b|hello there|greet
+b|um can you tell me this number|reqInfo
+b|because um we keep getting this number keep um calling us|inform
+b|and they sort of like keep hanging up um and can you tell me the address please um how can i sort of like do that sort of like keep keep oh sorry yeah sorry about that oh and they keep phoning us up and sort of like you know and they keep hanging up and everything yeah can you tell me if that's sort of like a shop a local shop because when i phoned up and sort of re dialled they said it was a shop is it a restaurant that's a private house well it's like it's sort of like they said it was sort of like they've been phoning us up since like seven o clock so we went out and we came back and sort of like redialled our last number and sort of like they sort of like keep coming up so we phoned them up and they sort of like doing these bogus phone calls they've phoned us up and sort of like keep hanging down no no they're sort of huh huh what's that number please yeah well we got a cable telephone yeah okay local police yeah okay then yeah thank you very much for your information and everything bye|inform
+b|um and can you tell me the address please um how can i sort of like do that sort of like keep keep oh sorry yeah sorry about that oh and they keep phoning us up and sort of like you know and they keep hanging up and everything yeah can you tell me if that's sort of like a shop a local shop because when i phoned up and sort of re dialled they said it was a shop is it a restaurant that's a private house well it's like it's sort of like they said it was sort of like they've been phoning us up since like seven o clock so we went out and we came back and sort of like redialled our last number and sort of like they sort of like keep coming up so we phoned them up and they sort of like doing these bogus phone calls they've phoned us up and sort of like keep hanging down no no they're sort of huh huh what's that number please yeah well we got a cable telephone yeah okay local police yeah okay then yeah thank you very much for your information and everything bye|inform
+a|hello|backch
+b|and can you tell me the address please|reqInfo
+a|i'm not allowed to do that|inform
+b|um how can i sort of like do that sort of like keep keep|reqInfo
+a|well|init
+a|where is he|reqInfo
+a|you've not given me the town of this caller|raiseIssue
+b|oh sorry yeah sorry about that oh and they keep phoning us up and sort of like you know and they keep hanging up and everything yeah can you tell me if that's sort of like a shop a local shop because when i phoned up and sort of re dialled they said it was a shop is it a restaurant that's a private house well it's like it's sort of like they said it was sort of like they've been phoning us up since like seven o clock so we went out and we came back and sort of like redialled our last number and sort of like they sort of like keep coming up so we phoned them up and they sort of like doing these bogus phone calls they've phoned us up and sort of like keep hanging down no no they're sort of huh huh what's that number please yeah well we got a cable telephone yeah okay local police yeah okay then yeah thank you very much for your information and everything bye|answ
+b|sorry|expressRegret
+a|just a moment|hold
+a|might not might not be one of ours anyway|expressPossibility
+a|it might be a cable|expressPossibility
+b|yeah sorry about that|backch
+b|oh and they keep phoning us up and sort of like you know and they keep hanging up and everything yeah can you tell me if that's sort of like a shop a local shop because when i phoned up and sort of re dialled they said it was a shop is it a restaurant that's a private house well it's like it's sort of like they said it was sort of like they've been phoning us up since like seven o clock so we went out and we came back and sort of like redialled our last number and sort of like they sort of like keep coming up so we phoned them up and they sort of like doing these bogus phone calls they've phoned us up and sort of like keep hanging down no no they're sort of huh huh what's that number please yeah well we got a cable telephone yeah okay local police yeah okay then yeah thank you very much for your information and everything bye|ackn
+b|and they keep phoning us up and sort of like you know and they keep hanging up and everything yeah can you tell me if that's sort of like a shop a local shop because when i phoned up and sort of re dialled they said it was a shop is it a restaurant that's a private house well it's like it's sort of like they said it was sort of like they've been phoning us up since like seven o clock so we went out and we came back and sort of like redialled our last number and sort of like they sort of like keep coming up so we phoned them up and they sort of like doing these bogus phone calls they've phoned us up and sort of like keep hanging down no no they're sort of huh huh what's that number please yeah well we got a cable telephone yeah okay local police yeah okay then yeah thank you very much for your information and everything bye|inform
+b|they keep hanging up and everything|inform
+a|the only thing you can do is get in touch with the nuisance call bureau or the police|suggest
+a|i can't give that information out because i'm not allowed to because of the data protection|inform
+b|yeah|backch
+b|can you tell me if that's sort of like a shop a local shop|reqInfo
+b|because when i phoned up and sort of re dialled they said it was a shop|inform
+b|is it a restaurant|reqInfo
+a|no|answ
+a|it's not|answElab
+b|that's a private house|reqInfo
+a|well|init
+a|it's not a restaurant|confirm
+a|it's not down as a restaurant|confirm
+a|so|init
+a|i don't know really|inform
+b|well|init
+b|it's like it's sort of like they said it was sort of like|inform
+b|they've been phoning us up since like seven o clock|inform
+b|so|init
+b|we went out|inform
+b|and we came back and sort of like redialled our last number|inform
+b|and sort of like they sort of like keep coming up|inform
+b|so|init
+b|we phoned them up|inform
+b|and they sort of like doing these bogus phone calls|inform
+b|they've phoned us up and sort of like keep hanging down|inform
+a|did you ask oh did you have a chance to ask anybody|reqInfo
+a|nobody came on the line|reqInfo
+b|no|backch
+b|no|answ
+b|they're sort of huh huh|answElab
+a|oh i would get in touch with the nuisance call bureau|suggest
+a|they don't open|inform
+b|what's that number please|reqInfo
+a|well|init
+a|you'd need to get in touch with the cable operator|suggest
+a|you're talking to a operator|inform
+a|and the only nuisance call bureau i know is ours|inform
+a|so|init
+a|what you need to do is get in touch with the cable but er|inform
+b|yeah|ackn
+b|well|init
+b|we got a cable telephone|inform
+a|yeah|ackn
+a|so|init
+a|you need to get in touch with the cable operator and get them on to it|suggest
+a|other than that you can get in touch with your local police|suggest
+b|yeah|backch
+b|okay|backch
+b|local police|echo
+a|yeah|ackn
+a|tonight|suggest
+a|and see what they suggest|suggest
+b|yeah|backch
+b|okay then|accept
+b|yeah|init
+b|thank you very much for your information and everything|thank
+a|okay|backch
+a|thanks|thank
+b|bye|bye
+a|bye|bye

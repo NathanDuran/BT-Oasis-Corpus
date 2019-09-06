@@ -1,0 +1,15 @@
+b|er could i have a telephone number please|reqInfo
+a|it's probably directory enquiries you require|inform
+a|what's the who's the number for|reqInfo
+b|er no it's a company please if you wouldn't mind thank you very much|answ
+a|is it is it a private number is it or a company number|reqInfo
+b|no|negate
+b|it's a company please if you wouldn't mind thank you very much|answ
+a|yeah|backch
+a|right|ackn
+a|you actually you do need directories on would you like me to put you through to them ah it's ring for you|inform
+a|would you like me to put you through to them|offer
+b|please|accept
+b|if you wouldn't mind|accept
+a|ah it's ring for you|inform
+b|thank you very much|thank

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le306140.unit.a">
+<stdzcode id="le306140.a.unit.1" description="name"/>
+<word id="le306140.a.unit.12">yes</word>
+<word id="le306140.a.unit.25">i'm</word>
+<word id="le306140.a.unit.26">sorry</word>
+<word id="le306140.a.unit.27">sir</word>
+<word id="le306140.a.unit.28">what</word>
+<word id="le306140.a.unit.29">code</word>
+<word id="le306140.a.unit.30">are</word>
+<word id="le306140.a.unit.31">you</word>
+<word id="le306140.a.unit.32">calling</word>
+<word id="le306140.a.unit.33">sir</word>
+<num id="le306140.a.unit.41"/>
+<word id="le306140.a.unit.42">double</word>
+<num id="le306140.a.unit.43"/>
+<num id="le306140.a.unit.44"/>
+<num id="le306140.a.unit.45"/>
+<num id="le306140.a.unit.46"/>
+<word id="le306140.a.unit.47">and</word>
+<word id="le306140.a.unit.48">could</word>
+<word id="le306140.a.unit.49">i</word>
+<word id="le306140.a.unit.50">have</word>
+<word id="le306140.a.unit.51">the</word>
+<word id="le306140.a.unit.54">code</word>
+<word id="le306140.a.unit.55">you</word>
+<word id="le306140.a.unit.56">were</word>
+<word id="le306140.a.unit.57">dialling</word>
+<word id="le306140.a.unit.58">sir</word>
+<word id="le306140.a.unit.59">please</word>
+<word id="le306140.a.unit.75">yeah</word>
+<word id="le306140.a.unit.76">cause</word>
+<word id="le306140.a.unit.77">your</word>
+<word id="le306140.a.unit.78">speaking</word>
+<word id="le306140.a.unit.79">to</word>
+<pncode type="town" id="le306140.a.unit.80"/>
+<word id="le306140.a.unit.81">you</word>
+<word id="le306140.a.unit.82">see</word>
+<word id="le306140.a.unit.83">that's</word>
+<word id="le306140.a.unit.84">alright</word>
+<bcanchor id="le306140.bcanchora.2"><nite:pointer href="le306140.b.lturn.xml#id(le306140.lturn.9.1)" role="bc"/></bcanchor>
+<word id="le306140.a.unit.86">that's</word>
+<word id="le306140.a.unit.87">alright</word>
+<word id="le306140.a.unit.88">no</word>
+<word id="le306140.a.unit.89">problem</word>
+<word id="le306140.a.unit.90">sir</word>
+<comment text="beeps" id="le306140.a.unit.91"/>
+<word id="le306140.a.unit.92">i'm</word>
+<word id="le306140.a.unit.93">sorry</word>
+<word id="le306140.a.unit.94">but</word>
+<word id="le306140.a.unit.95">this</word>
+<word id="le306140.a.unit.96">number</word>
+<word id="le306140.a.unit.97">is</word>
+<word id="le306140.a.unit.98">temporarily</word>
+<word id="le306140.a.unit.99">out</word>
+<word id="le306140.a.unit.100">of</word>
+<word id="le306140.a.unit.101">service</word>
+<word id="le306140.a.unit.105">alright</word>
+<word id="le306140.a.unit.106">thank</word>
+<word id="le306140.a.unit.107">you</word>
+<word id="le306140.a.unit.108">yes</word>
+<word id="le306140.a.unit.109">thank</word>
+<word id="le306140.a.unit.110">you</word>
+<word id="le306140.a.unit.114">bye</word>
+<comment text="end-ok" id="le306140.a.unit.115"/>
+</nite:root>

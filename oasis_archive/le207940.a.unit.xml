@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le207940.unit.a">
+<stdzcode id="le207940.a.unit.1" description="name"/>
+<word id="le207940.a.unit.16">star</word>
+<num id="le207940.a.unit.17"/>
+<num id="le207940.a.unit.18"/>
+<word id="le207940.a.unit.19">star</word>
+<sil BTlength="" id="le207940.a.unit.20"/>
+<bcanchor id="le207940.bcanchora.1"><nite:pointer href="le207940.b.lturn.xml#id(le207940.lturn.3.1)" role="bc"/></bcanchor>
+<word id="le207940.a.unit.22">the</word>
+<word id="le207940.a.unit.23">time</word>
+<word id="le207940.a.unit.24">on</word>
+<word id="le207940.a.unit.25">the</word>
+<num id="le207940.a.unit.26"/>
+<word id="le207940.a.unit.27">hour</word>
+<word id="le207940.a.unit.28">clock</word>
+<bcanchor id="le207940.bcanchora.2"><nite:pointer href="le207940.b.lturn.xml#id(le207940.lturn.3.2)" role="bc"/></bcanchor>
+<word id="le207940.a.unit.30">and</word>
+<word id="le207940.a.unit.31">then</word>
+<word id="le207940.a.unit.32">the</word>
+<word id="le207940.a.unit.33">hash</word>
+<word id="le207940.a.unit.38">thank</word>
+<word id="le207940.a.unit.39">you</word>
+<word id="le207940.a.unit.41">bye</word>
+</nite:root>

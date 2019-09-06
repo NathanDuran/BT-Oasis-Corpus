@@ -1,0 +1,45 @@
+b|hello|greet
+b|i wonder if you could possibly help me at all|direct
+b|erm i asked for a phone number um|inform
+b|but i don't know the name|inform
+b|and the lady said she'd transfer me through to but that just went dead so i don't know what you know what's going on i'm trying to find out a phone number i've got the address well i i presumed it was but apparently it's not i mean i've been led to believe that it's a bed and breakfast like flats and what have you i'll give you the address the address is number no i rang the operator and spoke to a lady and she said something about not the that sort things i dunno or something is it you do yeah oh hold on i have to get a pen now right thanks very much mate bye bye|inform
+b|but that just went dead so i don't know what you know what's going on i'm trying to find out a phone number i've got the address well i i presumed it was but apparently it's not i mean i've been led to believe that it's a bed and breakfast like flats and what have you i'll give you the address the address is number no i rang the operator and spoke to a lady and she said something about not the that sort things i dunno or something is it you do yeah oh hold on i have to get a pen now right thanks very much mate bye bye|inform
+b|so|init
+b|i don't know what you know what's going on|inform
+a|i'm sorry sir|expressRegret
+a|you were trying to obtain a number|confirm
+b|i'm trying to find out a phone number|informIntent
+b|i've got the address|inform
+a|and is that for a business|reqInfo
+b|well|init
+b|i i presumed it was|answ
+b|but apparently it's not|answElab
+b|i mean i've been led to believe that it's a bed and breakfast like flats and what have you|answElab
+a|right i see|backch
+a|right|ackn
+a|i see|ackn
+b|i'll give you the address|informIntent
+b|the address is number no i rang the operator and spoke to a lady and she said something about not the that sort things i dunno or something is it you do yeah oh hold on i have to get a pen now right thanks very much mate bye bye|inform
+a|well|backch
+a|i can't look up things at all|inform
+a|we can't work things that way round|inform
+a|that's directory enquiries|inform
+a|now|init
+a|you say you've been through to them|confirm
+b|no|negate
+b|i rang the operator and spoke to a lady|inform
+b|and she said something about not the that sort things i dunno|inform
+b|yeah|ackn
+a|yeah|ackn
+a|you can try if the and you're after do advertise with them they should have a number listed if they don't you can try directory enquiries and their number is sorry bye bye|suggest
+b|oh hold on|hold
+b|i have to get a pen now right thanks very much mate bye bye|inform
+b|right|ackn
+a|if the and you're after do advertise with them|inform
+a|they should have a number listed|inform
+a|if they don't|inform
+a|you can try directory enquiries|suggest
+a|and their number is sorry bye bye|inform
+b|thanks very much mate|thank
+b|bye bye|bye
+a|bye bye|bye

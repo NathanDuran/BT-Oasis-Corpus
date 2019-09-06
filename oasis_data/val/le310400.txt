@@ -1,0 +1,18 @@
+b|i just wanted er er to to know the number for the weather|reqInfo
+a|right|ackn
+a|you need caller directory enquiries|answ
+a|shall i connect you|offer
+b|uh i thought it was a free call|expressOpinion
+a|yeah|ackn
+a|but i don't know the number caller|inform
+b|i see|ackn
+a|so|init
+a|you have to look up the number on ok thank you shall i put you through thank you|inform
+b|right|ackn
+b|thank you|thank
+b|i'll do that|informIntent
+a|ok|ackn
+a|thank you|thank
+a|shall i put you through|offer
+b|thank you|thank
+a|thank you|thank

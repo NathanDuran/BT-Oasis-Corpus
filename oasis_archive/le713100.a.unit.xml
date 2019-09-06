@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le713100.unit.a">
+<stdzcode id="le713100.a.unit.1" description="name"/>
+<word id="le713100.a.unit.27">and</word>
+<word id="le713100.a.unit.28">what</word>
+<word id="le713100.a.unit.29">difficulty</word>
+<word id="le713100.a.unit.30">are</word>
+<word id="le713100.a.unit.31">you</word>
+<word id="le713100.a.unit.32">having</word>
+<word id="le713100.a.unit.33">please</word>
+<word id="le713100.a.unit.40">engaged</word>
+<word id="le713100.a.unit.42">it</word>
+<word id="le713100.a.unit.43">is</word>
+<bcanchor id="le713100.bcanchora.1"><nite:pointer href="le713100.b.lturn.xml#id(le713100.lturn.7.1)" role="bc"/></bcanchor>
+<word id="le713100.a.unit.45">a</word>
+<word id="le713100.a.unit.46">very</word>
+<word id="le713100.a.unit.47">busy</word>
+<word id="le713100.a.unit.48">line</word>
+<word id="le713100.a.unit.49">but</word>
+<word id="le713100.a.unit.50">i</word>
+<word id="le713100.a.unit.51">will</word>
+<word id="le713100.a.unit.52">try</word>
+<word id="le713100.a.unit.53">it</word>
+<word id="le713100.a.unit.54">for</word>
+<word id="le713100.a.unit.55">you</word>
+<word id="le713100.a.unit.56">that's</word>
+<num id="le713100.a.unit.57"/>
+<num id="le713100.a.unit.58"/>
+<num id="le713100.a.unit.59"/>
+<num id="le713100.a.unit.60"/>
+<num id="le713100.a.unit.64"/>
+<word id="le713100.a.unit.65">double</word>
+<num id="le713100.a.unit.66"/>
+<num id="le713100.a.unit.70"/>
+<word id="le713100.a.unit.71">double</word>
+<num id="le713100.a.unit.72"/>
+</nite:root>

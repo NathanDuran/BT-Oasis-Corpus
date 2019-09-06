@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le711250.unit.a">
+<stdzcode id="le711250.a.unit.1" description="name"/>
+<word id="le711250.a.unit.17">right</word>
+<word id="le711250.a.unit.18">half</word>
+<word id="le711250.a.unit.19">past</word>
+<word id="le711250.a.unit.20">five</word>
+<word id="le711250.a.unit.21">if</word>
+<word id="le711250.a.unit.22">you</word>
+<word id="le711250.a.unit.23">will</word>
+<word id="le711250.a.unit.24">just</word>
+<word id="le711250.a.unit.25">hold</word>
+<word id="le711250.a.unit.26">the</word>
+<word id="le711250.a.unit.27">line</word>
+<word id="le711250.a.unit.28">while</word>
+<word id="le711250.a.unit.29">i</word>
+<word id="le711250.a.unit.30">confirm</word>
+<word id="le711250.a.unit.31">that</word>
+<word id="le711250.a.unit.32">for</word>
+<word id="le711250.a.unit.33">you</word>
+<word id="le711250.a.unit.34">please</word>
+<partword id="le711250.a.unit.37">nk</partword>
+<word id="le711250.a.unit.38">you</word>
+<sil BTlength="" id="le711250.a.unit.39"/>
+<word id="le711250.a.unit.40">that's</word>
+<word id="le711250.a.unit.41">fine</word>
+<word id="le711250.a.unit.42">that's</word>
+<word id="le711250.a.unit.43">booked</word>
+<word id="le711250.a.unit.44">for</word>
+<word id="le711250.a.unit.45">you</word>
+<word id="le711250.a.unit.48">ok</word>
+<word id="le711250.a.unit.49">you're</word>
+<word id="le711250.a.unit.50">welcome</word>
+<word id="le711250.a.unit.51">thanks</word>
+<bcanchor id="le711250.bcanchora.1"><nite:pointer href="le711250.b.lturn.xml#id(le711250.lturn.7.1)" role="bc"/></bcanchor>
+<word id="le711250.a.unit.53">bye</word>
+</nite:root>

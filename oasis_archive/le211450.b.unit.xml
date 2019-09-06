@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le211450.unit.b">
+<word id="le211450.b.unit.2">uh</word>
+<word id="le211450.b.unit.3">hello</word>
+<word id="le211450.b.unit.4">um</word>
+<word id="le211450.b.unit.5">how</word>
+<word id="le211450.b.unit.6">much</word>
+<word id="le211450.b.unit.7">would</word>
+<word id="le211450.b.unit.8">an</word>
+<num id="le211450.b.unit.9"/>
+<num id="le211450.b.unit.10"/>
+<num id="le211450.b.unit.11"/>
+<sil BTlength="" id="le211450.b.unit.12"/>
+<num id="le211450.b.unit.13"/>
+<num id="le211450.b.unit.14"/>
+<num id="le211450.b.unit.15"/>
+<num id="le211450.b.unit.16"/>
+<num id="le211450.b.unit.17"/>
+<word id="le211450.b.unit.18">number</word>
+<word id="le211450.b.unit.19">cost</word>
+<word id="le211450.b.unit.20">if</word>
+<word id="le211450.b.unit.21">i</word>
+<word id="le211450.b.unit.22">phoned</word>
+<word id="le211450.b.unit.23">now</word>
+<word id="le211450.b.unit.24">please</word>
+<word id="le211450.b.unit.30">yes</word>
+<word id="le211450.b.unit.31">please</word>
+<word id="le211450.b.unit.39">um</word>
+<num id="le211450.b.unit.40"/>
+<num id="le211450.b.unit.41"/>
+<num id="le211450.b.unit.42"/>
+<num id="le211450.b.unit.43"/>
+<comment text="laugh" id="le211450.b.unit.59"/>
+<num id="le211450.b.unit.60"/>
+<word id="le211450.b.unit.61">pence</word>
+<word id="le211450.b.unit.62">a</word>
+<word id="le211450.b.unit.63">minute</word>
+<comment text="laugh" id="le211450.b.unit.69"/>
+<word id="le211450.b.unit.70">it's</word>
+<word id="le211450.b.unit.71">ok</word>
+<bcanchor id="le211450.bcanchorb.1"><nite:pointer href="le211450.a.lturn.xml#id(le211450.lturn.10.1)" role="bc"/></bcanchor>
+<word id="le211450.b.unit.75">oh</word>
+<partword id="le211450.b.unit.76">cup</partword>
+<word id="le211450.b.unit.77">thanks</word>
+<word id="le211450.b.unit.79">bye</word>
+</nite:root>

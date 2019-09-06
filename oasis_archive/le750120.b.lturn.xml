@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le750120.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le750120.lturn.2'>
+
+
+<utt id='le750120.utt.2'>
+
+<segment type='frag' sp-act='greet' id='le750120.frag.2'>
+<nite:child href='le750120.b.unit.xml#id(le750120.b.unit.2)'/>
+</segment>
+
+</utt>
+
+<utt id='le750120.utt.3'>
+
+<segment type='q_yn' sp-act='reqInfo' id='le750120.q_yn.1' alternative='yes'>
+<nite:child href='le750120.b.unit.xml#id(le750120.b.unit.3)..id(le750120.b.unit.25)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le750120.lturn.4'>
+
+
+<utt id='le750120.utt.5'>
+
+<segment type='yes' sp-act='ackn' id='le750120.yes.1'>
+<nite:child href='le750120.b.unit.xml#id(le750120.b.unit.39)..id(le750120.b.unit.40)'/>
+</segment>
+
+</utt>
+
+<utt id='le750120.utt.6'>
+
+<segment type='decl' sp-act='inform' id='le750120.decl.2' secondary-act='abandon'>
+<nite:child href='le750120.b.unit.xml#id(le750120.b.unit.41)'/>
+</segment>
+
+</utt>
+
+<utt id='le750120.utt.7'>
+
+<segment type='dm' sp-act='init' id='le750120.dm.2'>
+<nite:child href='le750120.b.unit.xml#id(le750120.b.unit.42)'/>
+</segment>
+
+<segment type='frag' sp-act='inform' id='le750120.frag.3'>
+<nite:child href='le750120.b.unit.xml#id(le750120.b.unit.43)..id(le750120.b.unit.55)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le750120.lturn.6'>
+
+
+<utt id='le750120.utt.10'>
+
+<segment type='decl' sp-act='answ' id='le750120.decl.3'>
+<nite:child href='le750120.b.unit.xml#id(le750120.b.unit.63)..id(le750120.b.unit.69)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le750120.lturn.8'>
+
+
+<utt id='le750120.utt.12'>
+
+<segment type='frag' sp-act='answElab' id='le750120.frag.5'>
+<nite:child href='le750120.b.unit.xml#id(le750120.b.unit.75)..id(le750120.b.unit.77)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le750120.lturn.10'>
+
+
+<utt id='le750120.utt.14'>
+
+<segment type='frag' sp-act='answElab' id='le750120.frag.7'>
+<nite:child href='le750120.b.unit.xml#id(le750120.b.unit.81)..id(le750120.b.unit.83)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le750120.lturn.11.1' type='backchannel'>
+
+<utt id='le750120.utt.15.1'>
+<segment type='backch' sp-act='' id='le750120.backch.1'>
+<nite:child href='le750120.b.unit.xml#id(le750120.b.unit.87)'/>
+</segment>
+</utt>
+</lturn>
+<lturn id='le750120.lturn.11.2' type='backchannel'>
+
+<utt id='le750120.utt.17.1'>
+<segment type='backch' sp-act='' id='le750120.backch.2'>
+<nite:child href='le750120.b.unit.xml#id(le750120.b.unit.99)'/>
+</segment>
+</utt>
+</lturn>
+</nite:root>

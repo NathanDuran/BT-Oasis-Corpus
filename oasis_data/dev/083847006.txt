@@ -1,0 +1,33 @@
+b|oh good morning|greet
+b|is is this the billing department|reqInfo
+a|um i can help you|inform
+a|yes|answ
+b|yes|ackn
+b|well|init
+b|we we had a problem yesterday with um having our phone cut off|inform
+b|we were told it was being put back on again we're still without a phone we had all sorts of problems we were told it would be put on in within two hours then we're told it was a line fault and it was we spent half the evening last evening trying to and then we're told it was still cut off because of billing having a sorted it out in the morning uh oh good question cause haven't got it in front of me let me just see if it's on this one oh i've got an order form here um can't see a customer number on there account number account number no that's probably not it because that's an old one oh yeah i'm looking at an old one i i don't think i've got anything in front of me uh it's probably in the office|inform
+b|we're still without a phone|inform
+a|oh dear|expressRegret
+a|i am sorry|expressRegret
+a|have you got the|reqInfo
+b|we had all sorts of problems|inform
+b|we were told it would be put on in within two hours|inform
+b|then we're told it was a line fault and it was|inform
+b|we spent half the evening last evening trying to|inform
+b|and then we're told it was still cut off because of billing having a sorted it out in the morning|inform
+a|right|backch
+b|uh oh good question cause haven't got it in front of me let me just see if it's on this one oh i've got an order form here um can't see a customer number on there account number account number no that's probably not it because that's an old one oh yeah i'm looking at an old one i i don't think i've got anything in front of me uh it's probably in the office|answ
+b|let me just see if it's on this one|informIntent
+b|oh i've got an order form here um can't see a customer number on there account number account number no that's probably not it because that's an old one oh yeah i'm looking at an old one i i don't think i've got anything in front of me uh it's probably in the office|inform
+b|um can't see a customer number on there account number|inform
+a|account number|echo
+b|account number no that's probably not it because that's an old one oh yeah i'm looking at an old one i i don't think i've got anything in front of me uh it's probably in the office|inform
+b|no|negate
+b|that's probably not it|inform
+b|because that's an old one oh|inform
+a|no|negate
+a|oh it's an old one is it|confirm
+b|yeah|ackn
+b|i'm looking at an old one|inform
+b|i i don't think i've got anything in front of me uh it's probably in the office|expressOpinion
+a|let me just have a look at that one|offer

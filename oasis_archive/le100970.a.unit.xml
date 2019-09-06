@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le100970.unit.a">
+<stdzcode id="le100970.a.unit.1" description="name"/>
+<word id="le100970.a.unit.18">i'm</word>
+<word id="le100970.a.unit.19">asking</word>
+<word id="le100970.a.unit.20">for</word>
+<lcode id="le100970.a.unit.21"/>
+<lcode id="le100970.a.unit.22"/>
+<lcode id="le100970.a.unit.23"/>
+<word id="le100970.a.unit.24">then</word>
+<word id="le100970.a.unit.25">i'll</word>
+<word id="le100970.a.unit.26">tell</word>
+<word id="le100970.a.unit.27">you</word>
+<word id="le100970.a.unit.28">how</word>
+<word id="le100970.a.unit.29">much</word>
+<word id="le100970.a.unit.30">it</word>
+<word id="le100970.a.unit.31">costs</word>
+<word id="le100970.a.unit.32">okay</word>
+<word id="le100970.a.unit.33">if</word>
+<word id="le100970.a.unit.34">you</word>
+<word id="le100970.a.unit.35">just</word>
+<word id="le100970.a.unit.36">hold</word>
+<word id="le100970.a.unit.37">the</word>
+<word id="le100970.a.unit.38">line</word>
+<word id="le100970.a.unit.39">please</word>
+<num id="le100970.a.unit.47"/>
+<num id="le100970.a.unit.48"/>
+<num id="le100970.a.unit.49"/>
+<num id="le100970.a.unit.50"/>
+<num id="le100970.a.unit.51"/>
+<word id="le100970.a.unit.56">sorry</word>
+<comment text="background_talking" id="le100970.a.unit.57"/>
+<word id="le100970.a.unit.58"/>
+<num id="le100970.a.unit.65"/>
+<sil BTlength="" id="le100970.a.unit.66"/>
+<num id="le100970.a.unit.67"/>
+<num id="le100970.a.unit.68"/>
+<sil BTlength="" id="le100970.a.unit.69"/>
+<num id="le100970.a.unit.70"/>
+<num id="le100970.a.unit.71"/>
+<num id="le100970.a.unit.72"/>
+<word id="le100970.a.unit.74">are</word>
+<word id="le100970.a.unit.75">they</word>
+<word id="le100970.a.unit.76">going</word>
+<word id="le100970.a.unit.77">to</word>
+<word id="le100970.a.unit.78">ring</word>
+<word id="le100970.a.unit.79">you</word>
+<word id="le100970.a.unit.80">back</word>
+<gap id="le100970.a.unit.81"/>
+<word id="le100970.a.unit.82">i'll</word>
+<word id="le100970.a.unit.83">pay</word>
+<word id="le100970.a.unit.84">you</word>
+<word id="le100970.a.unit.85">tomorrow</word>
+<word id="le100970.a.unit.86">morning</word>
+<word id="le100970.a.unit.87">don't</word>
+<word id="le100970.a.unit.88">panic</word>
+<word id="le100970.a.unit.89">mumbling</word>
+<word id="le100970.a.unit.90">sorry</word>
+<word id="le100970.a.unit.91">mam</word>
+<word id="le100970.a.unit.92">can</word>
+<word id="le100970.a.unit.93">you</word>
+<word id="le100970.a.unit.94">just</word>
+<word id="le100970.a.unit.95">confirm</word>
+<word id="le100970.a.unit.96">me</word>
+<word id="le100970.a.unit.97">that</word>
+<word id="le100970.a.unit.98">number</word>
+<word id="le100970.a.unit.99">again</word>
+<word id="le100970.a.unit.100">please</word>
+<num id="le100970.a.unit.102"/>
+<num id="le100970.a.unit.103"/>
+<num id="le100970.a.unit.104"/>
+<num id="le100970.a.unit.105"/>
+<num id="le100970.a.unit.106"/>
+<word id="le100970.a.unit.112">yeah</word>
+<num id="le100970.a.unit.116"/>
+<num id="le100970.a.unit.117"/>
+<num id="le100970.a.unit.118"/>
+<num id="le100970.a.unit.122"/>
+<num id="le100970.a.unit.123"/>
+<num id="le100970.a.unit.124"/>
+<sil BTlength="" id="le100970.a.unit.125"/>
+<word id="le100970.a.unit.126">thank</word>
+<word id="le100970.a.unit.127">you</word>
+<word id="le100970.a.unit.138">that's</word>
+<word id="le100970.a.unit.139">right</word>
+<word id="le100970.a.unit.140">yeah</word>
+<sil BTlength="3s" id="le100970.a.unit.141"/>
+<bcanchor id="le100970.bcanchora.5"><nite:pointer href="le100970.b.lturn.xml#id(le100970.lturn.17.1)" role="bc"/></bcanchor>
+<word id="le100970.a.unit.146">ringing</word>
+<word id="le100970.a.unit.147">for</word>
+<word id="le100970.a.unit.148">you</word>
+<word id="le100970.a.unit.149">now</word>
+<word id="le100970.a.unit.150">thank</word>
+<word id="le100970.a.unit.151">you</word>
+</nite:root>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le750120.unit.a">
+<stdzcode id="le750120.a.unit.1" description="name"/>
+<word id="le750120.a.unit.26">right</word>
+<word id="le750120.a.unit.27">you</word>
+<word id="le750120.a.unit.28">er</word>
+<word id="le750120.a.unit.29">think</word>
+<word id="le750120.a.unit.30">you've</word>
+<word id="le750120.a.unit.31">got</word>
+<word id="le750120.a.unit.32">a</word>
+<word id="le750120.a.unit.33">phone</word>
+<word id="le750120.a.unit.34">and</word>
+<word id="le750120.a.unit.35">it's</word>
+<word id="le750120.a.unit.36">off</word>
+<word id="le750120.a.unit.37">the</word>
+<word id="le750120.a.unit.38">hook</word>
+<word id="le750120.a.unit.56">right</word>
+<word id="le750120.a.unit.57">what's</word>
+<word id="le750120.a.unit.58">the</word>
+<word id="le750120.a.unit.59">code</word>
+<word id="le750120.a.unit.60">and</word>
+<word id="le750120.a.unit.61">number</word>
+<word id="le750120.a.unit.62">please</word>
+<num id="le750120.a.unit.70"/>
+<num id="le750120.a.unit.71"/>
+<num id="le750120.a.unit.72"/>
+<num id="le750120.a.unit.73"/>
+<num id="le750120.a.unit.74"/>
+<num id="le750120.a.unit.78"/>
+<num id="le750120.a.unit.79"/>
+<num id="le750120.a.unit.80"/>
+<num id="le750120.a.unit.84"/>
+<num id="le750120.a.unit.85"/>
+<num id="le750120.a.unit.86"/>
+<bcanchor id="le750120.bcanchora.1"><nite:pointer href="le750120.b.lturn.xml#id(le750120.lturn.11.1)" role="bc"/></bcanchor>
+<word id="le750120.a.unit.88">thank</word>
+<word id="le750120.a.unit.89">you</word>
+<sil BTlength="7s" id="le750120.a.unit.90"/>
+<word id="le750120.a.unit.91">can</word>
+<word id="le750120.a.unit.92">you</word>
+<word id="le750120.a.unit.93">hold</word>
+<word id="le750120.a.unit.94">the</word>
+<word id="le750120.a.unit.95">line</word>
+<word id="le750120.a.unit.96">a</word>
+<word id="le750120.a.unit.97">moment</word>
+<word id="le750120.a.unit.98">please</word>
+<bcanchor id="le750120.bcanchora.2"><nite:pointer href="le750120.b.lturn.xml#id(le750120.lturn.11.2)" role="bc"/></bcanchor>
+<word id="le750120.a.unit.100">thank</word>
+<word id="le750120.a.unit.101">you</word>
+<comment text="end-ok" id="le750120.a.unit.102"/>
+</nite:root>

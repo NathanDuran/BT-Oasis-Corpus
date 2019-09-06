@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le163570.unit.a">
+<stdzcode id="le163570.a.unit.1" description="name"/>
+<word id="le163570.a.unit.38">right</word>
+<word id="le163570.a.unit.39">what</word>
+<word id="le163570.a.unit.40">i'll</word>
+<word id="le163570.a.unit.41">have</word>
+<word id="le163570.a.unit.42">to</word>
+<word id="le163570.a.unit.43">do</word>
+<word id="le163570.a.unit.44">is</word>
+<word id="le163570.a.unit.45">put</word>
+<word id="le163570.a.unit.46">you</word>
+<word id="le163570.a.unit.47">through</word>
+<word id="le163570.a.unit.48">to</word>
+<word id="le163570.a.unit.49">faults</word>
+<word id="le163570.a.unit.50">and</word>
+<word id="le163570.a.unit.51">they'll</word>
+<word id="le163570.a.unit.52">call</word>
+<word id="le163570.a.unit.54">you</word>
+<word id="le163570.a.unit.55">back</word>
+<sil BTlength="" id="le163570.a.unit.56"/>
+<comment text="1.5s" id="le163570.a.unit.57"/>
+<word id="le163570.a.unit.59">hello</word>
+<comment text="end_-_ok" id="le163570.a.unit.60"/>
+</nite:root>

@@ -1,0 +1,17 @@
+b|yeah|ackn
+b|can i order an alarm call please|direct
+a|yes certainly|accept
+a|for what time|reqInfo
+b|um six forty five|answ
+a|six forty five|echo
+a|thank you|thank
+a|i'll just confirm that for you|informIntent
+b|thank you lovely thanks bye|thank
+a|thank you|thank
+a|that's booked then|inform
+a|we'll call you at six forty five|confirm
+b|lovely|appreciate
+b|thanks|thank
+b|bye|bye
+a|thank you|thank
+a|bye|bye

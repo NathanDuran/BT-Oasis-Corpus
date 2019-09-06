@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le714440.unit.a">
+<stdzcode id="le714440.a.unit.1" description="name"/>
+<word id="le714440.a.unit.7">sorry</word>
+<word id="le714440.a.unit.9">uh</word>
+<word id="le714440.a.unit.10">yes</word>
+<word id="le714440.a.unit.11">it</word>
+<word id="le714440.a.unit.12">is</word>
+<word id="le714440.a.unit.13">Monday</word>
+<word id="le714440.a.unit.14">caller</word>
+<comment text="creaking" id="le714440.a.unit.15"/>
+<word id="le714440.a.unit.19">yes</word>
+<word id="le714440.a.unit.20">it</word>
+<word id="le714440.a.unit.21">is</word>
+<word id="le714440.a.unit.22">Monday</word>
+<word id="le714440.a.unit.23">caller</word>
+<word id="le714440.a.unit.29">my</word>
+<word id="le714440.a.unit.30">pleasure</word>
+<word id="le714440.a.unit.33">byebye</word>
+<comment text="hang_up" id="le714440.a.unit.34"/>
+<comment text="end-ok" id="le714440.a.unit.35"/>
+</nite:root>

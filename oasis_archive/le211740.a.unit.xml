@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le211740.unit.a">
+<stdzcode id="le211740.a.unit.1" description="g"/>
+<word id="le211740.a.unit.36">right</word>
+<word id="le211740.a.unit.37">you</word>
+<word id="le211740.a.unit.38">want</word>
+<word id="le211740.a.unit.39">to</word>
+<word id="le211740.a.unit.40">find</word>
+<word id="le211740.a.unit.41">out</word>
+<word id="le211740.a.unit.42">the</word>
+<word id="le211740.a.unit.43">number</word>
+<word id="le211740.a.unit.44">concerning</word>
+<word id="le211740.a.unit.45">the</word>
+<word id="le211740.a.unit.46">shuttle</word>
+<word id="le211740.a.unit.48">right</word>
+<word id="le211740.a.unit.49">you'll</word>
+<word id="le211740.a.unit.50">need</word>
+<word id="le211740.a.unit.51">directory</word>
+<word id="le211740.a.unit.52">enquiries</word>
+<word id="le211740.a.unit.53">on</word>
+<num id="le211740.a.unit.54"/>
+<num id="le211740.a.unit.55"/>
+<num id="le211740.a.unit.56"/>
+<bcanchor id="le211740.bcanchora.1"><nite:pointer href="le211740.b.lturn.xml#id(le211740.lturn.5.1)" role="bc"/></bcanchor>
+<word id="le211740.a.unit.60">shall</word>
+<word id="le211740.a.unit.61">i</word>
+<word id="le211740.a.unit.62">put</word>
+<word id="le211740.a.unit.63">you</word>
+<word id="le211740.a.unit.64">through</word>
+<word id="le211740.a.unit.65">to</word>
+<word id="le211740.a.unit.66">them</word>
+<word id="le211740.a.unit.70">certainly</word>
+<word id="le211740.a.unit.71">hold</word>
+<word id="le211740.a.unit.72">the</word>
+<word id="le211740.a.unit.73">line</word>
+<bcanchor id="le211740.bcanchora.2"><nite:pointer href="le211740.b.lturn.xml#id(le211740.lturn.7.1)" role="bc"/></bcanchor>
+<word id="le211740.a.unit.75">please</word>
+<sil BTlength="6s" id="le211740.a.unit.76"/>
+<comment text="through_to_directory_enquiries" id="le211740.a.unit.77"/>
+<comment text="end_-_ok" id="le211740.a.unit.78"/>
+</nite:root>

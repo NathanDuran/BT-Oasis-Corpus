@@ -1,0 +1,50 @@
+b|hello|greet
+a|right|ackn
+a|just bear with me|hold
+a|and i'll be able to tell you the price|informIntent
+a|what your wanting to know|refer
+a|how much it would cost to phone now|reqInfo
+b|well|init
+b|yeah|answ
+b|after o'clock sort of time|answElab
+b|i mean i keep phoning up|inform
+b|and i just suddenly thought is my bill going to be ridiculous or not|inform
+a|yeah|backch
+a|i'll let you know right|informIntent
+a|if you're phoning after o'clock|inform
+a|it's point pence a minute|answ
+b|oh really|exclaim
+a|yeah|ackn
+a|you're best time to call is at the week-end when it's pence a minute|suggest
+b|right|ackn
+a|ok|init
+b|that's that's it's just outside is that all the same p a minute oh that's a bargain i was well shocked one lad just told me it would be about a quid a minute and i was about alright goes alright no it's home number well i hope she's given me a number i hope it's her home number right like yeah i'd only phone before six after six anyway well what a bargain thanks very much cheers bye|confirm
+b|is that all the same|reqInfo
+a|it|backch
+a|it's all the same anywhere anywhere um anywhere in the country with a different code to yours is for is the same price|answ
+a|yeah oh no no not unless you're calling a mobile you're not calling a mobile are you no just and it's just an ordinary number yeah it's point pence a minute it's pence a minute in the day time i e before six o'clock yeah yeah point pence a minute alright then thank you byebye|ackn
+b|oh that's a bargain|expressOpinion
+b|i was well shocked one lad just told me it would be about a quid a minute|inform
+a|oh no|negate
+b|alright|ackn
+a|no|backch
+a|you're not calling a mobile are you|reqInfo
+b|no|answ
+b|it's home number|answElab
+b|well|init
+b|i hope she's given me a number i hope it's her home number|expressWish
+a|no just and|backch
+a|it's just an ordinary number|confirm
+a|yeah|confirm
+a|it's point pence a minute|inform
+a|it's pence a minute in the day time i e before six o'clock|inform
+b|right like yeah|backch
+b|i'd only phone before six after six anyway|inform
+a|yeah yeah|ackn
+b|well|init
+b|what a bargain|exclaim
+b|thanks very much|thank
+b|cheers|thank
+b|bye|bye
+a|thank you|thank
+a|byebye|bye

@@ -1,0 +1,12 @@
+b|could you check a line please|direct
+a|certainly|accept
+a|what difficulties where you having|reqInfo
+b|er it's been engaged for three quarters of an hour now|answ
+a|oh i'm sorry|expressRegret
+a|what's the code and number|reqInfo
+b|double thanks|answElab
+a|double thank you can you hold the line for me thank you|echo
+a|thank you can you hold the line for me thank you|thank
+a|can you hold the line for me|hold
+b|thanks|thank
+a|thank you|thank

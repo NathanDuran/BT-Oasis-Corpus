@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le169430.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le169430.lturn.2'>
+
+
+<utt id='le169430.utt.2'>
+
+<segment type='frag' sp-act='greet' id='le169430.frag.2'>
+<nite:child href='le169430.b.unit.xml#id(le169430.b.unit.2)..id(le169430.b.unit.4)'/>
+</segment>
+
+</utt>
+
+<utt id='le169430.utt.3'>
+
+<segment type='decl' sp-act='direct' id='le169430.decl.1'>
+<nite:child href='le169430.b.unit.xml#id(le169430.b.unit.5)..id(le169430.b.unit.12)'/>
+</segment>
+
+</utt>
+
+<utt id='le169430.utt.4'>
+
+<segment type='decl' sp-act='inform' id='le169430.decl.2'>
+<nite:child href='le169430.b.unit.xml#id(le169430.b.unit.13)..id(le169430.b.unit.16)'/>
+</segment>
+
+</utt>
+
+<utt id='le169430.utt.5'>
+
+<segment type='decl' sp-act='inform' id='le169430.decl.3'>
+<nite:child href='le169430.b.unit.xml#id(le169430.b.unit.17)..id(le169430.b.unit.20)'/>
+</segment>
+
+</utt>
+
+<utt id='le169430.utt.6'>
+
+<segment type='decl' sp-act='expressOpinion' id='le169430.decl.4'>
+<nite:child href='le169430.b.unit.xml#id(le169430.b.unit.21)..id(le169430.b.unit.37)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le169430.lturn.4'>
+
+
+<utt id='le169430.utt.10'>
+
+<segment type='dm' sp-act='ackn' id='le169430.dm.2'>
+<nite:child href='le169430.b.unit.xml#id(le169430.b.unit.49)'/>
+</segment>
+
+<segment type='decl' sp-act='answ' id='le169430.decl.6'>
+<nite:child href='le169430.b.unit.xml#id(le169430.b.unit.50)..id(le169430.b.unit.56)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le169430.lturn.6'>
+
+
+<utt id='le169430.utt.12'>
+
+<segment type='decl' sp-act='answElab' id='le169430.decl.7'>
+<nite:child href='le169430.b.unit.xml#id(le169430.b.unit.61)..id(le169430.b.unit.66)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le169430.lturn.8'>
+
+
+<utt id='le169430.utt.14'>
+
+<segment type='frag' sp-act='answElab' id='le169430.frag.5'>
+<nite:child href='le169430.b.unit.xml#id(le169430.b.unit.70)..id(le169430.b.unit.72)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le169430.lturn.9.1' type='backchannel'>
+
+<utt id='le169430.utt.15.1'>
+<segment type='backch' sp-act='' id='le169430.backch.1'>
+<nite:child href='le169430.b.unit.xml#id(le169430.b.unit.76)'/>
+</segment>
+</utt>
+</lturn>
+<lturn id='le169430.lturn.10'>
+
+
+<utt id='le169430.utt.18'>
+
+<segment type='frag' sp-act='thank' id='le169430.frag.9'>
+<nite:child href='le169430.b.unit.xml#id(le169430.b.unit.88)..id(le169430.b.unit.89)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le169430.lturn.12'>
+
+
+<utt id='le169430.utt.20'>
+
+<segment type='frag' sp-act='exclaim' id='le169430.frag.10'>
+<nite:child href='le169430.b.unit.xml#id(le169430.b.unit.95)..id(le169430.b.unit.96)'/>
+</segment>
+
+<segment type='yes' sp-act='ackn' id='le169430.yes.1'>
+<nite:child href='le169430.b.unit.xml#id(le169430.b.unit.97)'/>
+</segment>
+
+</utt>
+
+<utt id='le169430.utt.21'>
+
+<segment type='frag' sp-act='thank' id='le169430.frag.11'>
+<nite:child href='le169430.b.unit.xml#id(le169430.b.unit.98)..id(le169430.b.unit.99)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

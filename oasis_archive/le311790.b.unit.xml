@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le311790.unit.b">
+<word id="le311790.b.unit.2">oh</word>
+<word id="le311790.b.unit.3">hello</word>
+<word id="le311790.b.unit.4">can</word>
+<word id="le311790.b.unit.5">you</word>
+<word id="le311790.b.unit.6">tell</word>
+<word id="le311790.b.unit.7">me</word>
+<word id="le311790.b.unit.8">please</word>
+<word id="le311790.b.unit.9">um</word>
+<word id="le311790.b.unit.10">er</word>
+<word id="le311790.b.unit.11">telephone</word>
+<word id="le311790.b.unit.12">number</word>
+<pncode type="town" id="le311790.b.unit.13"/>
+<num id="le311790.b.unit.14"/>
+<num id="le311790.b.unit.15"/>
+<num id="le311790.b.unit.16"/>
+<num id="le311790.b.unit.17"/>
+<num id="le311790.b.unit.18"/>
+<num id="le311790.b.unit.19"/>
+<sil BTlength="" id="le311790.b.unit.20"/>
+<word id="le311790.b.unit.21">can</word>
+<word id="le311790.b.unit.22">you</word>
+<word id="le311790.b.unit.23">tell</word>
+<word id="le311790.b.unit.24">me</word>
+<word id="le311790.b.unit.25">whereabouts</word>
+<word id="le311790.b.unit.26">it</word>
+<word id="le311790.b.unit.27">is</word>
+<word id="le311790.b.unit.28">please</word>
+<word id="le311790.b.unit.34">yes</word>
+<word id="le311790.b.unit.35">please</word>
+<word id="le311790.b.unit.43">um</word>
+<word id="le311790.b.unit.44">they</word>
+<word id="le311790.b.unit.45">normally</word>
+<word id="le311790.b.unit.46">do</word>
+<word id="le311790.b.unit.47">when</word>
+<word id="le311790.b.unit.48">you</word>
+<word id="le311790.b.unit.49">ring</word>
+<word id="le311790.b.unit.50">up</word>
+<bcanchor id="le311790.bcanchorb.1"><nite:pointer href="le311790.a.lturn.xml#id(le311790.lturn.6.1)" role="bc"/></bcanchor>
+<word id="le311790.b.unit.53">are</word>
+<word id="le311790.b.unit.54">you</word>
+<word id="le311790.b.unit.55">not</word>
+<word id="le311790.b.unit.56">allowed</word>
+<word id="le311790.b.unit.57">to</word>
+<word id="le311790.b.unit.79">but</word>
+<word id="le311790.b.unit.80">you</word>
+<word id="le311790.b.unit.81">couldn't</word>
+<word id="le311790.b.unit.82">tell</word>
+<word id="le311790.b.unit.83">me</word>
+<word id="le311790.b.unit.84">what</word>
+<word id="le311790.b.unit.85">part</word>
+<word id="le311790.b.unit.86">of</word>
+<pncode type="town" id="le311790.b.unit.87"/>
+<word id="le311790.b.unit.91">right</word>
+<word id="le311790.b.unit.92">ok</word>
+<word id="le311790.b.unit.93">then</word>
+<bcanchor id="le311790.bcanchorb.2"><nite:pointer href="le311790.a.lturn.xml#id(le311790.lturn.10.1)" role="bc"/></bcanchor>
+<word id="le311790.b.unit.95">thanks</word>
+<bcanchor id="le311790.bcanchorb.3"><nite:pointer href="le311790.a.lturn.xml#id(le311790.lturn.10.2)" role="bc"/></bcanchor>
+<word id="le311790.b.unit.97">very</word>
+<word id="le311790.b.unit.98">much</word>
+<comment text="hang_up" id="le311790.b.unit.99"/>
+<comment text="end-ok" id="le311790.b.unit.100"/>
+</nite:root>

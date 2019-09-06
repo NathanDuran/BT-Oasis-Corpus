@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le750250.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le750250.lturn.1'>
+
+
+<utt id='le750250.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='le750250.frag.1'>
+<nite:child href='le750250.a.unit.xml#id(le750250.a.unit.1)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le750250.lturn.3'>
+
+
+<utt id='le750250.utt.5'>
+
+<segment type='decl' sp-act='inform' id='le750250.decl.3'>
+<nite:child href='le750250.a.unit.xml#id(le750250.a.unit.13)..id(le750250.a.unit.19)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le750250.lturn.5'>
+
+
+<utt id='le750250.utt.8'>
+
+<segment type='frag' sp-act='thank' id='le750250.frag.5'>
+<nite:child href='le750250.a.unit.xml#id(le750250.a.unit.26)..id(le750250.a.unit.27)'/>
+</segment>
+
+</utt>
+
+<utt id='le750250.utt.9'>
+
+<segment type='frag' sp-act='bye' id='le750250.frag.6'>
+<nite:child href='le750250.a.unit.xml#id(le750250.a.unit.28)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

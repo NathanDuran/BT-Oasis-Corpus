@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le209030.unit.b">
+<word id="le209030.b.unit.2">hello</word>
+<partword id="le209030.b.unit.3">c</partword>
+<word id="le209030.b.unit.4">may</word>
+<word id="le209030.b.unit.5">i</word>
+<word id="le209030.b.unit.6">book</word>
+<word id="le209030.b.unit.7">an</word>
+<word id="le209030.b.unit.8">an</word>
+<word id="le209030.b.unit.9">early</word>
+<word id="le209030.b.unit.10">morning</word>
+<word id="le209030.b.unit.11">call</word>
+<word id="le209030.b.unit.12">please</word>
+<word id="le209030.b.unit.17">six</word>
+<word id="le209030.b.unit.18">o'clock</word>
+<word id="le209030.b.unit.19">please</word>
+<word id="le209030.b.unit.22">yeah</word>
+<word id="le209030.b.unit.32">oh</word>
+<word id="le209030.b.unit.33">no</word>
+<sil BTlength="" id="le209030.b.unit.34"/>
+<word id="le209030.b.unit.52">oh</word>
+<word id="le209030.b.unit.53">five</word>
+<word id="le209030.b.unit.54">minutes</word>
+<word id="le209030.b.unit.55">after</word>
+<word id="le209030.b.unit.59">ok</word>
+<word id="le209030.b.unit.62">ok</word>
+<word id="le209030.b.unit.80">lovely</word>
+<word id="le209030.b.unit.81">thank</word>
+<word id="le209030.b.unit.82">you</word>
+<word id="le209030.b.unit.85">bye</word>
+</nite:root>

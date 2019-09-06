@@ -1,0 +1,11 @@
+b|yes|ackn
+b|i actually wanted just to find a number|reqInfo
+b|is that you|reqInfo
+b|no|negate
+b|it isn't is it|reqInfo
+a|no|answ
+a|that's sir|answElab
+a|shall i connect you|offer
+b|thank you|thank
+b|hello|greet
+b|i want to|informIntent

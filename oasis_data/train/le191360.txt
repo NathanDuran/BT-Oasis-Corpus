@@ -1,0 +1,43 @@
+b|i've been trying a number for three days|inform
+b|it's constantly engaged|inform
+a|i'm sorry you're having that trouble|expressRegret
+a|what's the code and number you've been calling please|reqInfo
+b|it's er double cheers ah right i haven't i know they're sheet metal workers advertising in yellow pages that's all uh they're at in oh what is it possible they've moved do you think ah right i'm with you oh right then i'll have a look in yellow pages and get back on to directories thank you yeah oh right that's lovely thank you bye|answ
+a|thank you|thank
+a|i'll just look at that for you unfortunately caller i think that number's only ringing at the exchange um i believe we've no longer got a customer with that number right have you got the name and address of the people you are trying to contact uh right if you have the name of a company directories will be able to help you even if you didn't have the um street name or anything it could it might not be that they've moved um it may be that they've just either changed their number with or more likely gone to a cable company yeah yeah ok and if they still got that number um listed tell them the operator said it's stopped um and ask them to refund you for the money for the call and um then they'll investigate and take it off their list ok thank you bye|informIntent
+a|unfortunately caller i think that number's only ringing at the exchange|expressOpinion
+a|um i believe we've no longer got a customer with that number|expressOpinion
+b|cheers|backch
+b|ah right|ackn
+a|have you got the name and address of the people you are trying to contact|reqInfo
+b|i haven't|answ
+b|i know they're sheet metal workers advertising in yellow pages|inform
+b|that's all uh they're at in oh what is it possible they've moved do you think ah right i'm with you oh right then i'll have a look in yellow pages and get back on to directories thank you yeah oh right that's lovely thank you bye|inform
+b|uh they're at in oh what is it possible they've moved do you think ah right i'm with you oh right then i'll have a look in yellow pages and get back on to directories thank you yeah oh right that's lovely thank you bye|inform
+a|uh|backch
+a|right|ackn
+a|if you have the name of a company|inform
+a|directories will be able to help you|inform
+a|even if you didn't have the um street name or anything|inform
+b|oh what|exclaim
+b|is it possible they've moved do you think|reqInfo
+a|um it may be that they've just either changed their number with or more likely gone to a cable company|answElab
+b|ah right|ackn
+b|i'm with you|ackn
+b|oh right then i'll have a look in yellow pages and get back on to directories thank you yeah oh right that's lovely thank you bye|init
+b|i'll have a look in yellow pages and get back on to directories|informIntent
+a|yeah|backch
+a|yeah|ackn
+b|thank you|thank
+a|and if they still got that number um listed|inform
+a|tell them the operator said it's stopped um|suggest
+a|and ask them to refund you for the money for the call|suggest
+a|and um then they'll investigate and take it off their list|inform
+b|yeah|backch
+b|oh right|backch
+b|that's lovely|appreciate
+a|ok|init
+b|thank you|thank
+a|thank you|thank
+a|bye|bye
+b|bye|bye

@@ -1,0 +1,15 @@
+b|oh yes|ackn
+b|good morning|greet
+b|that was very quick|expressOpinion
+a|yeah|ackn
+a|we're doing a trial to make the call steering better|inform
+a|so|init
+a|okay|ackn
+a|hello|greet
+b|ah that's all right|accept
+b|yes|ackn
+b|can you hear|reqInfo
+b|good morning|greet
+b|my name is a mister uh i phoned several days ago regarding um having my daughters phone put on|identifySelf
+a|mister|echo
+b|uh i phoned several days ago regarding um having my daughters phone put on|inform

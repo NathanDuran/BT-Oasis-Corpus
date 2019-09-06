@@ -1,0 +1,28 @@
+b|hello|greet
+b|i've been dialling a number in in and er they say the number is not available now but it's double the name well there's no code from where i'm dialling but it's sorry oh is it thank you bye|inform
+b|and er they say the number is not available now but|inform
+a|yes|backch
+a|i'm sorry sir|expressRegret
+a|what code are you calling sir|reqInfo
+b|it's double the name well there's no code from where i'm dialling but it's sorry oh is it thank you bye|answ
+a|and could i have the|reqInfo
+b|the name|complete
+a|code you were dialling sir please|reqInfo
+b|well|init
+b|there's no code from where i'm dialling|inform
+b|but it's sorry oh is it thank you bye|inform
+a|yeah|ackn
+a|cause your speaking to you see that's alright|inform
+a|that's alright|inform
+a|no problem sir i'm sorry but this number is temporarily out of service alright thank you yes thank you bye|inform
+a|i'm sorry|expressRegret
+a|but this number is temporarily out of service|inform
+b|sorry|backch
+b|oh is it|ackn
+a|alright|init
+a|thank you|thank
+a|yes|ackn
+a|thank you|thank
+b|thank you|thank
+b|bye|bye
+a|bye|bye

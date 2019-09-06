@@ -1,0 +1,29 @@
+b|er good afternoon|greet
+a|good afternoon|greet
+b|i've been trying to get a a somebody in and all i get's a recorded message to try again i  it's double double that's it has it changed isn't there yep yes please well er er|inform
+b|and all i get's a recorded message to try again|inform
+a|i'm sorry about that|expressRegret
+a|i'll try the call for you|informIntent
+a|what's|reqInfo
+b|i  it's double double that's it has it changed isn't there yep yes please well er er|backch
+b|it's double double that's it has it changed isn't there yep yes please well er er|answ
+a|thank you hold the line please and can i just confirm that number as double i'm sorry there's no longer a customer with this number no you could try directories on see if it has changed shall i put you through thank you do you know who you're calling go ahead please go ahead please|thank
+a|hold the line please and can i just confirm that number as double i'm sorry there's no longer a customer with this number no you could try directories on see if it has changed shall i put you through thank you do you know who you're calling go ahead please go ahead please|hold
+a|and can i just confirm that number as double i'm sorry there's no longer a customer with this number no you could try directories on see if it has changed shall i put you through thank you do you know who you're calling go ahead please go ahead please|reqInfo
+b|that's it|ackn
+b|has it changed|reqInfo
+a|i'm sorry|expressRegret
+a|there's no longer a customer with this number|inform
+b|isn't there|reqInfo
+a|no|answ
+a|you could try directories on see if it has changed shall i put you through thank you do you know who you're calling go ahead please go ahead please|suggest
+a|see if it has changed|direct
+a|shall i put you through|offer
+b|yep|backch
+b|yes please|accept
+a|thank you|thank
+a|do you know who you're calling|reqInfo
+b|well er|init
+a|go ahead please|direct
+b|er|confirm
+a|go ahead please|direct

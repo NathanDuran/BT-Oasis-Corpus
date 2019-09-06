@@ -1,0 +1,16 @@
+b|yeah|ackn
+b|can i have an early morning call please|direct
+a|yeah sure|accept
+a|what time would you like it|reqDirect
+b|um o'clock in the morning|direct
+a|righty ho and that's going to the number that you're calling from is it okay yeah that's no problem that's seven o'clock booked for you then ok you're welcome byebye then|accept
+a|and that's going to the number that you're calling from is it|reqInfo
+b|yes|answ
+a|okay yeah|ackn
+a|that's no problem|accept
+a|that's seven o'clock booked for you then|inform
+b|lovely|appreciate
+a|ok|init
+b|thank you|thank
+a|you're welcome|ackn
+a|byebye then|bye

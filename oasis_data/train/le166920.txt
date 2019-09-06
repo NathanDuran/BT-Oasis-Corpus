@@ -1,0 +1,32 @@
+b|hi are you able to check a phone line please um every time i dial a number it just tells me a number aren't recognised um get the right number hang on a sec it's a works number er it was yeah it must be the phone er it's it's okay i don't need i was trying to dial out from there you see yeah yeah|greet
+b|are you able to check a phone line please|direct
+a|certainly|accept
+a|what seems to be the trouble when you're dialling a number|reqInfo
+b|um every time i dial a number it just tells me a number aren't recognised|answ
+a|i'm sorry you're having that problem|expressRegret
+a|what's the code and number you're calling please|reqInfo
+b|um get the right number hang on a sec|informIntent
+b|it's a works number er it was yeah it must be the phone er it's it's okay i don't need i was trying to dial out from there you see yeah yeah|answ
+a|thank you that's ringing for you now it was who was it you were calling yeah that is the correct number i'll leave it ringing for you okay oh it's every time you dial out from that number is it oh i can put you is it a business number hang on oh i can put you through to business customer faults just to make sure there is nothing wrong with the phone their number's ringing for you now|thank
+a|that's ringing for you now it was who was it you were calling yeah that is the correct number i'll leave it ringing for you okay oh it's every time you dial out from that number is it oh i can put you is it a business number hang on oh i can put you through to business customer faults just to make sure there is nothing wrong with the phone their number's ringing for you now|inform
+a|it was who was it you were calling yeah that is the correct number i'll leave it ringing for you okay oh it's every time you dial out from that number is it oh i can put you is it a business number hang on oh i can put you through to business customer faults just to make sure there is nothing wrong with the phone their number's ringing for you now|confirm
+b|it was|ackn
+b|yeah|ackn
+b|it must be the phone|expressOpinion
+a|who was it you were calling|reqInfo
+b|er it's it's okay i don't need i was trying to dial out from there you see yeah yeah|answ
+a|yeah|ackn
+a|that is the correct number|inform
+a|i'll leave it ringing for you okay|informIntent
+b|it's okay|refuse
+b|i don't need|inform
+b|i was trying to dial out from there you see|inform
+a|oh|exclaim
+a|it's every time you dial out from that number is it oh|reqInfo
+a|i can put you|offer
+a|is it a business number|reqInfo
+a|hang on|hold
+a|oh i can put you through to business customer faults just to make sure there is nothing wrong with the phone their number's ringing for you now|offer
+a|their number's ringing for you now|inform
+b|yeah|backch
+b|yeah|backch

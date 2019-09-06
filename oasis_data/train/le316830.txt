@@ -1,0 +1,25 @@
+b|hello|greet
+b|is that the operator|reqInfo
+a|it is|answ
+a|yes|answElab
+b|hello um i've just been given a telephone number um and when i try it it's unobtainable um i wonder if that's because they've gone cable or something like that can can you tell thank you it's disconnected okey dokey thank's very much indeed bye|greet
+b|um i've just been given a telephone number|inform
+b|um|inform
+b|and when i try it|inform
+b|it's unobtainable um i wonder if that's because they've gone cable or something like that can can you tell thank you it's disconnected okey dokey thank's very much indeed bye|inform
+b|um i wonder if that's because they've gone cable or something like that|reqInfo
+a|yeah|backch
+a|it shouldn't be|inform
+a|let me just check for you|offer
+b|can can you tell|backch
+b|thank you|thank
+a|it's actually been disconnected|inform
+a|nobody has that number any more|inform
+b|it's disconnected|confirm
+a|yeah|ackn
+a|and it's quite a while ago as well|inform
+b|okey dokey|ackn
+b|thank's very much indeed|thank
+b|bye|bye
+a|okay|backch
+a|byebye|bye

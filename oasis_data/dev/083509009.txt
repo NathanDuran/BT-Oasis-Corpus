@@ -1,3 +1,0 @@
-b|sorry i've got the wrong number|expressRegret
-b|i've got the wrong number|inform
-a|okay then|ackn

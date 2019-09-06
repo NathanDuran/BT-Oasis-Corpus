@@ -1,0 +1,10 @@
+b|hello|greet
+b|could i have a phone number please|reqInfo
+a|sorry|expressRegret
+a|you need do you want connection do you want connection thank you|inform
+a|do you want connection|offer
+b|tut|backch
+b|sorry|pardon
+a|do you want connection|offer
+b|yes please|accept
+a|thank you|thank

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le177370.unit.b">
+<word id="le177370.b.unit.2">hello</word>
+<word id="le177370.b.unit.3">i'm</word>
+<word id="le177370.b.unit.4">on</word>
+<word id="le177370.b.unit.5">cable</word>
+<word id="le177370.b.unit.6">and</word>
+<word id="le177370.b.unit.7">i'm</word>
+<word id="le177370.b.unit.8">trying</word>
+<word id="le177370.b.unit.9">to</word>
+<word id="le177370.b.unit.10">ring</word>
+<word id="le177370.b.unit.11">a</word>
+<word id="le177370.b.unit.12">bloke</word>
+<word id="le177370.b.unit.13">at</word>
+<pncode type="town" id="le177370.b.unit.14"/>
+<sil BTlength="" id="le177370.b.unit.15"/>
+<word id="le177370.b.unit.16">and</word>
+<word id="le177370.b.unit.17">all</word>
+<word id="le177370.b.unit.18">i</word>
+<word id="le177370.b.unit.19">keep</word>
+<word id="le177370.b.unit.20">getting</word>
+<word id="le177370.b.unit.21">back</word>
+<word id="le177370.b.unit.22">is</word>
+<word id="le177370.b.unit.23">that</word>
+<word id="le177370.b.unit.24">i'm</word>
+<word id="le177370.b.unit.25">ringing</word>
+<word id="le177370.b.unit.26">the</word>
+<word id="le177370.b.unit.27">wrong</word>
+<word id="le177370.b.unit.28">number</word>
+<num id="le177370.b.unit.39"/>
+<num id="le177370.b.unit.40"/>
+<num id="le177370.b.unit.41"/>
+<num id="le177370.b.unit.42"/>
+<num id="le177370.b.unit.43"/>
+<partword id="le177370.b.unit.49">er</partword>
+<sil BTlength="" id="le177370.b.unit.50"/>
+<num id="le177370.b.unit.51"/>
+<num id="le177370.b.unit.52"/>
+<num id="le177370.b.unit.53"/>
+<num id="le177370.b.unit.54"/>
+<num id="le177370.b.unit.55"/>
+<num id="le177370.b.unit.56"/>
+<word id="le177370.b.unit.63">yep</word>
+<word id="le177370.b.unit.78">really</word>
+<bcanchor id="le177370.bcanchorb.1"><nite:pointer href="le177370.a.lturn.xml#id(le177370.lturn.10.1)" role="bc"/></bcanchor>
+<word id="le177370.b.unit.80">oh</word>
+<word id="le177370.b.unit.81">right</word>
+<word id="le177370.b.unit.82">no</word>
+<word id="le177370.b.unit.83">wonder</word>
+<word id="le177370.b.unit.84">i'm</word>
+<word id="le177370.b.unit.85">not</word>
+<word id="le177370.b.unit.86">getting</word>
+<word id="le177370.b.unit.87">through</word>
+<word id="le177370.b.unit.88">then</word>
+<word id="le177370.b.unit.89">alright</word>
+<partword id="le177370.b.unit.90">than</partword>
+<word id="le177370.b.unit.92">thanks</word>
+<word id="le177370.b.unit.93">very</word>
+<word id="le177370.b.unit.94">much</word>
+<word id="le177370.b.unit.99">bye</word>
+<comment text="end-ok" id="le177370.b.unit.100"/>
+</nite:root>

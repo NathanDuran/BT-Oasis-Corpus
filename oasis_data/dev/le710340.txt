@@ -1,0 +1,17 @@
+b|hello do you think you could put me through to a number the problem is that they don't accept um calls from people who withheld their number ok then thanks a lot bye|greet
+b|do you think you could put me through to a number|direct
+a|yeah|accept
+a|what's the problem|reqInfo
+b|the problem is that they don't accept um calls from people who withheld their number|answ
+a|right|ackn
+a|i can't actually dial that because i i mean our number is automatically withheld you need to dial in front of the number you're dialling and it should accept it yes that's right ok thank you bye|inform
+a|you need to dial in front of the number you're dialling|suggest
+a|and it should accept it|inform
+a|yes|ackn
+a|that's right|ackn
+b|ok then|init
+a|ok|ackn
+a|thank you|thank
+a|bye|bye
+b|thanks a lot|thank
+b|bye|bye

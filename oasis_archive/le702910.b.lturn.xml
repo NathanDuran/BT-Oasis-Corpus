@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le702910.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le702910.lturn.2'>
+
+
+<utt id='le702910.utt.2'>
+
+<segment type='yes' sp-act='ackn' id='le702910.yes.1'>
+<nite:child href='le702910.b.unit.xml#id(le702910.b.unit.2)'/>
+</segment>
+
+</utt>
+
+<utt id='le702910.utt.3'>
+
+<segment type='decl' sp-act='direct' id='le702910.decl.1'>
+<nite:child href='le702910.b.unit.xml#id(le702910.b.unit.3)..id(le702910.b.unit.11)'/>
+</segment>
+
+</utt>
+
+<utt id='le702910.utt.4'>
+
+<segment type='q_yn' sp-act='direct' id='le702910.q_yn.1'>
+<nite:child href='le702910.b.unit.xml#id(le702910.b.unit.12)..id(le702910.b.unit.24)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le702910.lturn.4'>
+
+
+<utt id='le702910.utt.7'>
+
+<segment type='decl' sp-act='answ' id='le702910.decl.2'>
+<nite:child href='le702910.b.unit.xml#id(le702910.b.unit.32)..id(le702910.b.unit.34)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le702910.lturn.6'>
+
+
+<utt id='le702910.utt.10'>
+
+<segment type='decl' sp-act='inform' id='le702910.decl.4'>
+<nite:child href='le702910.b.unit.xml#id(le702910.b.unit.50)..id(le702910.b.unit.55)'/>
+</segment>
+
+</utt>
+
+<utt id='le702910.utt.11'>
+
+<segment type='decl' sp-act='inform' id='le702910.decl.5'>
+<nite:child href='le702910.b.unit.xml#id(le702910.b.unit.56)..id(le702910.b.unit.59)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le702910.lturn.8'>
+
+
+<utt id='le702910.utt.13'>
+
+<segment type='decl' sp-act='answ' id='le702910.decl.6'>
+<nite:child href='le702910.b.unit.xml#id(le702910.b.unit.70)..id(le702910.b.unit.78)'/>
+</segment>
+
+</utt>
+
+<utt id='le702910.utt.14'>
+
+<segment type='decl' sp-act='answElab' id='le702910.decl.7'>
+<nite:child href='le702910.b.unit.xml#id(le702910.b.unit.79)..id(le702910.b.unit.81)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le702910.lturn.10'>
+
+
+<utt id='le702910.utt.17'>
+
+<segment type='q_yn' sp-act='direct' id='le702910.q_yn.3'>
+<nite:child href='le702910.b.unit.xml#id(le702910.b.unit.92)..id(le702910.b.unit.99)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

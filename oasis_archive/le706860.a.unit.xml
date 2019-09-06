@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le706860.unit.a">
+<stdzcode id="le706860.a.unit.1" description="name"/>
+<word id="le706860.a.unit.23">what's</word>
+<bcanchor id="le706860.bcanchora.1"><nite:pointer href="le706860.b.lturn.xml#id(le706860.lturn.3.1)" role="bc"/></bcanchor>
+<word id="le706860.a.unit.25">the</word>
+<word id="le706860.a.unit.26">code</word>
+<num id="le706860.a.unit.31"/>
+<num id="le706860.a.unit.32"/>
+<num id="le706860.a.unit.34"/>
+<num id="le706860.a.unit.35"/>
+<word id="le706860.a.unit.37">um</word>
+<word id="le706860.a.unit.48">i</word>
+<word id="le706860.a.unit.49">think</word>
+<word id="le706860.a.unit.50">that's</word>
+<pncode type="town" id="le706860.a.unit.51"/>
+<word id="le706860.a.unit.52">just</word>
+<word id="le706860.a.unit.53">hold</word>
+<word id="le706860.a.unit.54">the</word>
+<word id="le706860.a.unit.55">line</word>
+<sil BTlength="6.3s" id="le706860.a.unit.56"/>
+<bcanchor id="le706860.bcanchora.5"><nite:pointer href="le706860.b.lturn.xml#id(le706860.lturn.5.1)" role="bc"/></bcanchor>
+<word id="le706860.a.unit.60">hello</word>
+<word id="le706860.a.unit.62">it's</word>
+<pncode type="town" id="le706860.a.unit.63"/>
+<word id="le706860.a.unit.77">i</word>
+<word id="le706860.a.unit.78">can't</word>
+<word id="le706860.a.unit.79">i'm</word>
+<word id="le706860.a.unit.80">afraid</word>
+<word id="le706860.a.unit.98">no</word>
+<word id="le706860.a.unit.99">i</word>
+<word id="le706860.a.unit.100">can't</word>
+<word id="le706860.a.unit.101">actually</word>
+<word id="le706860.a.unit.102">give</word>
+<word id="le706860.a.unit.103">out</word>
+<bcanchor id="le706860.bcanchora.6"><nite:pointer href="le706860.b.lturn.xml#id(le706860.lturn.11.1)" role="bc"/></bcanchor>
+<word id="le706860.a.unit.106">any</word>
+<word id="le706860.a.unit.107">more</word>
+<word id="le706860.a.unit.108">information</word>
+<word id="le706860.a.unit.109">than</word>
+<word id="le706860.a.unit.110">that</word>
+<sil BTlength="" id="le706860.a.unit.116"/>
+<word id="le706860.a.unit.117">i</word>
+<word id="le706860.a.unit.118">can</word>
+<word id="le706860.a.unit.119">confirm</word>
+<word id="le706860.a.unit.120">a</word>
+<word id="le706860.a.unit.121">name</word>
+<word id="le706860.a.unit.122">and</word>
+<word id="le706860.a.unit.123">address</word>
+<word id="le706860.a.unit.124">but</word>
+<word id="le706860.a.unit.125">i</word>
+<word id="le706860.a.unit.126">can't</word>
+<word id="le706860.a.unit.146">yeah</word>
+<word id="le706860.a.unit.177">no</word>
+<word id="le706860.a.unit.178">um</word>
+<word id="le706860.a.unit.179">no</word>
+<word id="le706860.a.unit.180">i'm</word>
+<word id="le706860.a.unit.181">sorry</word>
+<word id="le706860.a.unit.182">i</word>
+<word id="le706860.a.unit.183">can't</word>
+<word id="le706860.a.unit.184">actually</word>
+<word id="le706860.a.unit.185">give</word>
+<word id="le706860.a.unit.186">out</word>
+<word id="le706860.a.unit.187">any</word>
+<word id="le706860.a.unit.188">information</word>
+<word id="le706860.a.unit.189">like</word>
+<word id="le706860.a.unit.190">that</word>
+<word id="le706860.a.unit.195">ok</word>
+<word id="le706860.a.unit.200">bye</word>
+<word id="le706860.a.unit.201">now</word>
+<word id="le706860.a.unit.204">yeah</word>
+<comment text="end-ok" id="le706860.a.unit.205"/>
+</nite:root>

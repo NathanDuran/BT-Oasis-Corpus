@@ -1,0 +1,36 @@
+b|hello|greet
+b|just a quick question really|refer
+b|how does one cancel the call back service|reqInfo
+a|yes|backch
+a|what|reqInfo
+a|you booked yourself for reminder calls|reqInfo
+b|no uh i've booked a call back service i rang someone's number then i then i pressed number look a hash is it is it the star oh oh that's right there is one yeah ah ha so press that sorry that key and i love you thank you very much cheers byebye|answ
+b|uh i've booked a call back service|answElab
+b|i rang someone's number|inform
+a|yeah|ackn
+a|and pressed number right okay to cancel it you need to press hash hash no the hash is like the noughts and crosses box or the gate yeah then and then the that key again ok byebye|complete
+b|then i then i pressed number look a hash is it is it the star oh oh that's right there is one yeah ah ha so press that sorry that key and i love you thank you very much cheers byebye|inform
+a|right okay|ackn
+a|to cancel it|complete
+a|you need to press hash hash|inform
+b|look a hash|refer
+b|is it is it the star|reqInfo
+a|no|answ
+a|the hash is like the noughts and crosses box or the gate|answElab
+b|oh oh that's right|ackn
+b|there is one|inform
+b|yeah|ackn
+b|ah ha|exclaim
+b|so|init
+b|press that|confirm
+b|sorry|expressRegret
+a|yeah|backch
+a|then and then the that key again ok byebye|inform
+a|and then the that key again|inform
+b|that key|echo
+b|and i love you|appreciate
+b|thank you very much|thank
+a|ok|ackn
+b|cheers|thank
+b|byebye|bye
+a|byebye|bye

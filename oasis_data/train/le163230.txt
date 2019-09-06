@@ -1,0 +1,39 @@
+b|oh good morning|greet
+b|i'm trying to ring a number|informIntent
+b|and i'm getting um a message saying that it's out of order|inform
+b|do you think you could check the number for me please|direct
+a|i'm i'm sorry about that|expressRegret
+a|what's the code and number you're calling please|reqInfo
+b|it's thanks right how come you're aware of it cos i didn't think anybody had reported it yet oh i see oh i see oh brilliant ok and will it be sorted by today do you think   right ok right ok that's fine thank you very much then cheers bye|answ
+a|thank you|thank
+a|i'll just look it up for you|informIntent
+b|thanks|thank
+a|yeah|ackn
+a|there is a line fault on that line at present|inform
+a|we are aware of it|inform
+a|and the engineers will be working on it|inform
+b|right|ackn
+b|cos i didn't think anybody had reported it yet|expressOpinion
+a|so|init
+a|it's either|answElab
+b|oh i see|ackn
+a|self reporting|answElab
+a|i mean the engineers must know about for it to report it to me|answElab
+b|oh i see|backch
+b|oh|backch
+b|brilliant|appreciate
+b|ok|ackn
+b|and will it be sorted by today do you think|reqInfo
+a|um it it oh|answ
+a|hold on|hold
+a|i'll just have a quick look what sort of line it is usually with business lines i think they try the engineers try and get them working within by the end of the next working day i think that's the undertaking they usually take ok thank you bye|informIntent
+a|usually with business lines i think they try the engineers try and get them working within by the end of the next working day|expressOpinion
+a|i think that's the undertaking they usually take|expressOpinion
+b|right ok|backch
+b|right ok|ackn
+a|ok|init
+b|that's fine|accept
+b|thank you very much then|thank
+a|thank you|thank
+b|cheers bye|thank
+a|bye|bye

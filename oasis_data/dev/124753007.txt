@@ -1,0 +1,20 @@
+b|hello uh yeah sorry oh sorry i missed the oh um yeah i've been the the and uh i rang 'em sorta 'bout quarter to and they answered the phone and they put me on hold and i've been on hold now for sort of minutes and i've given up you know you know 'cking fed up with waiting that long um am i still gonna be charged for that call|greet
+b|uh yeah|ackn
+a|sorry|expressRegret
+a|it's my name's i know a lot of people do that's alright how can i help|correct
+b|sorry|expressRegret
+a|my name's i know a lot of people do that's alright how can i help|correct
+b|oh sorry i missed the oh um yeah i've been the the and uh i rang 'em sorta 'bout quarter to and they answered the phone and they put me on hold and i've been on hold now for sort of minutes and i've given up you know you know 'cking fed up with waiting that long um am i still gonna be charged for that call|confirm
+b|sorry|expressRegret
+b|i missed the oh um yeah i've been the the and uh i rang 'em sorta 'bout quarter to and they answered the phone and they put me on hold and i've been on hold now for sort of minutes and i've given up you know you know 'cking fed up with waiting that long um am i still gonna be charged for that call|inform
+a|that's alright|accept
+a|how can i help|offer
+b|um yeah|ackn
+b|i've been the the and uh i rang 'em sorta 'bout quarter to and they answered the phone and they put me on hold and i've been on hold now for sort of minutes and i've given up you know you know 'cking fed up with waiting that long um am i still gonna be charged for that call|inform
+b|and uh i rang 'em sorta 'bout quarter to and they answered the phone and they put me on hold and i've been on hold now for sort of minutes and i've given up you know you know 'cking fed up with waiting that long um am i still gonna be charged for that call|inform
+b|and they answered the phone|inform
+b|and they put me on hold|inform
+b|and i've been on hold now for sort of minutes and i've given up you know you know 'cking fed up with waiting that long um am i still gonna be charged for that call|inform
+b|and i've given up you know you know|inform
+b|'cking fed up with waiting that long|exclaim
+b|um am i still gonna be charged for that call|reqInfo

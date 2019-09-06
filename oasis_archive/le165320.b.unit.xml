@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le165320.unit.b">
+<word id="le165320.b.unit.2">hi</word>
+<word id="le165320.b.unit.3">i'm</word>
+<word id="le165320.b.unit.4">trying</word>
+<word id="le165320.b.unit.5">to</word>
+<word id="le165320.b.unit.6">get</word>
+<word id="le165320.b.unit.7">through</word>
+<word id="le165320.b.unit.8">to</word>
+<word id="le165320.b.unit.9">a</word>
+<word id="le165320.b.unit.10">telephone</word>
+<word id="le165320.b.unit.11">number</word>
+<word id="le165320.b.unit.12">in</word>
+<pncode type="town" id="le165320.b.unit.13"/>
+<bcanchor id="le165320.bcanchorb.1"><nite:pointer href="le165320.a.lturn.xml#id(le165320.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le165320.b.unit.15">and</word>
+<word id="le165320.b.unit.16">um</word>
+<word id="le165320.b.unit.17">i've</word>
+<word id="le165320.b.unit.18">looked</word>
+<word id="le165320.b.unit.19">through</word>
+<word id="le165320.b.unit.20">the</word>
+<word id="le165320.b.unit.21">Yellow</word>
+<word id="le165320.b.unit.22">Pages</word>
+<word id="le165320.b.unit.23">the</word>
+<word id="le165320.b.unit.24">number</word>
+<word id="le165320.b.unit.25">is</word>
+<word id="le165320.b.unit.26">correct</word>
+<word id="le165320.b.unit.27">um</word>
+<sil BTlength="" id="le165320.b.unit.28"/>
+<word id="le165320.b.unit.29">but</word>
+<word id="le165320.b.unit.30">it's</word>
+<word id="le165320.b.unit.31">coming</word>
+<word id="le165320.b.unit.32">up</word>
+<word id="le165320.b.unit.33">the</word>
+<word id="le165320.b.unit.34">number</word>
+<word id="le165320.b.unit.35">you</word>
+<word id="le165320.b.unit.36">have</word>
+<word id="le165320.b.unit.37">dialled</word>
+<word id="le165320.b.unit.38">has</word>
+<word id="le165320.b.unit.39">not</word>
+<word id="le165320.b.unit.40">been</word>
+<word id="le165320.b.unit.41">recognised</word>
+<word id="le165320.b.unit.55">right</word>
+<word id="le165320.b.unit.56">it's</word>
+<num id="le165320.b.unit.57"/>
+<num id="le165320.b.unit.58"/>
+<num id="le165320.b.unit.59"/>
+<num id="le165320.b.unit.60"/>
+<num id="le165320.b.unit.61"/>
+<num id="le165320.b.unit.67"/>
+<num id="le165320.b.unit.68"/>
+<num id="le165320.b.unit.69"/>
+<num id="le165320.b.unit.73"/>
+<num id="le165320.b.unit.74"/>
+<num id="le165320.b.unit.75"/>
+<word id="le165320.b.unit.95">it's</word>
+<word id="le165320.b.unit.96">the</word>
+<word id="le165320.b.unit.97">blue</word>
+<word id="le165320.b.unit.98">the</word>
+<word id="le165320.b.unit.99">new</word>
+<word id="le165320.b.unit.100">it's</word>
+<word id="le165320.b.unit.101">the</word>
+<word id="le165320.b.unit.102">blue</word>
+<word id="le165320.b.unit.103">um</word>
+<sil BTlength="" id="le165320.b.unit.104"/>
+<word id="le165320.b.unit.105">business</word>
+<word id="le165320.b.unit.106">and</word>
+<sil BTlength="" id="le165320.b.unit.107"/>
+<word id="le165320.b.unit.108">residential</word>
+<word id="le165320.b.unit.109">one</word>
+<word id="le165320.b.unit.110">so</word>
+<word id="le165320.b.unit.111">it's</word>
+<word id="le165320.b.unit.112">March</word>
+<num id="le165320.b.unit.113"/>
+<word id="le165320.b.unit.172">that'd</word>
+<word id="le165320.b.unit.173">be</word>
+<word id="le165320.b.unit.174">great</word>
+<word id="le165320.b.unit.178">thanks</word>
+<word id="le165320.b.unit.186">thank</word>
+<word id="le165320.b.unit.187">you</word>
+</nite:root>

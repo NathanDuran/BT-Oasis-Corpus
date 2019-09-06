@@ -1,0 +1,15 @@
+b|hi ya|greet
+b|i've been trying to contact a number|inform
+b|and it's been engaged for quite a long time|inform
+b|and i just wondered if it's been left off the hook or can you check for that hang on i've lost it it's yeah do you want me to hold or|reqInfo
+b|can you check for that|direct
+a|i'm sorry|expressRegret
+a|what's the code and number you were dialling|reqInfo
+b|hang on|hold
+b|i've lost it|inform
+b|it's yeah do you want me to hold or|answ
+a|thank you yes if you could just hold the line for me for just a moment|thank
+b|yeah|backch
+b|do you want me to hold or|reqDirect
+a|yes|direct
+a|if you could just hold the line for me for just a moment|hold

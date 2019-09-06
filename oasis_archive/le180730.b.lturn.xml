@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le180730.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le180730.lturn.2'>
+
+
+<utt id='le180730.utt.2'>
+
+<segment type='yes' sp-act='ackn' id='le180730.yes.1'>
+<nite:child href='le180730.b.unit.xml#id(le180730.b.unit.2)'/>
+</segment>
+
+</utt>
+
+<utt id='le180730.utt.3'>
+
+<segment type='frag' sp-act='greet' id='le180730.frag.2'>
+<nite:child href='le180730.b.unit.xml#id(le180730.b.unit.3)..id(le180730.b.unit.4)'/>
+</segment>
+
+</utt>
+
+<utt id='le180730.utt.4'>
+
+<segment type='q_yn' sp-act='direct' id='le180730.q_yn.1'>
+<nite:child href='le180730.b.unit.xml#id(le180730.b.unit.5)..id(le180730.b.unit.14)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le180730.lturn.4'>
+
+
+<utt id='le180730.utt.7'>
+
+<segment type='frag' sp-act='direct' id='le180730.frag.3'>
+<nite:child href='le180730.b.unit.xml#id(le180730.b.unit.23)..id(le180730.b.unit.26)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le180730.lturn.5.1' type='backchannel'>
+
+<utt id='le180730.utt.8.1'>
+<segment type='backch' sp-act='' id='le180730.backch.1'>
+<nite:child href='le180730.b.unit.xml#id(le180730.b.unit.29)'/>
+</segment>
+</utt>
+</lturn>
+<lturn id='le180730.lturn.6'>
+
+
+<utt id='le180730.utt.11'>
+
+<segment type='decl' sp-act='answ' id='le180730.decl.2'>
+<nite:child href='le180730.b.unit.xml#id(le180730.b.unit.43)..id(le180730.b.unit.45)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le180730.lturn.8'>
+
+
+<utt id='le180730.utt.15'>
+
+<segment type='decl' sp-act='appreciate' id='le180730.decl.5'>
+<nite:child href='le180730.b.unit.xml#id(le180730.b.unit.58)..id(le180730.bcanchorb.2)'/>
+</segment>
+
+</utt>
+
+<utt id='le180730.utt.16'>
+
+<segment type='frag' sp-act='thank' id='le180730.frag.6'>
+<nite:child href='le180730.b.unit.xml#id(le180730.b.unit.61)..id(le180730.b.unit.63)'/>
+</segment>
+
+</utt>
+
+<utt id='le180730.utt.17'>
+
+<segment type='frag' sp-act='bye' id='le180730.frag.7'>
+<nite:child href='le180730.b.unit.xml#id(le180730.b.unit.64)..id(le180730.b.unit.66)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root xmlns:nite='http://nite.sourceforge.net/' id='le212650'>
+<turn_pointer id='le212650.lturn_pointer.1'><nite:child href='le212650.a.lturn.xml#id(le212650.lturn.1)'/></turn_pointer>
+<turn_pointer id='le212650.lturn_pointer.2'><nite:child href='le212650.b.lturn.xml#id(le212650.lturn.2)'/></turn_pointer>
+<turn_pointer id='le212650.lturn_pointer.3'><nite:child href='le212650.a.lturn.xml#id(le212650.lturn.3)'/></turn_pointer>
+<turn_pointer id='le212650.lturn_pointer.4'><nite:child href='le212650.b.lturn.xml#id(le212650.lturn.4)'/></turn_pointer>
+</nite:root>

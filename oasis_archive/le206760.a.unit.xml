@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le206760.unit.a">
+<stdzcode id="le206760.a.unit.1" description="name"/>
+<word id="le206760.a.unit.17">what</word>
+<word id="le206760.a.unit.18">difficulty</word>
+<word id="le206760.a.unit.19">you're</word>
+<word id="le206760.a.unit.20">having</word>
+<word id="le206760.a.unit.21">with</word>
+<word id="le206760.a.unit.22">the</word>
+<word id="le206760.a.unit.23">number</word>
+<word id="le206760.a.unit.24">please</word>
+<word id="le206760.a.unit.43">i'm</word>
+<word id="le206760.a.unit.44">sorry</word>
+<word id="le206760.a.unit.45">i'll</word>
+<word id="le206760.a.unit.46">try</word>
+<word id="le206760.a.unit.47">the</word>
+<word id="le206760.a.unit.48">call</word>
+<word id="le206760.a.unit.49">for</word>
+<word id="le206760.a.unit.50">you</word>
+<word id="le206760.a.unit.51">what</word>
+<word id="le206760.a.unit.52">code</word>
+<word id="le206760.a.unit.53">and</word>
+<word id="le206760.a.unit.54">number</word>
+<word id="le206760.a.unit.55">are</word>
+<word id="le206760.a.unit.56">you</word>
+<word id="le206760.a.unit.57">calling</word>
+<num id="le206760.a.unit.64"/>
+<num id="le206760.a.unit.65"/>
+<num id="le206760.a.unit.66"/>
+<num id="le206760.a.unit.67"/>
+<num id="le206760.a.unit.68"/>
+<num id="le206760.a.unit.72"/>
+<num id="le206760.a.unit.73"/>
+<num id="le206760.a.unit.74"/>
+<num id="le206760.a.unit.78"/>
+<num id="le206760.a.unit.79"/>
+<num id="le206760.a.unit.80"/>
+<word id="le206760.a.unit.81">thank</word>
+<word id="le206760.a.unit.82">you</word>
+<sil BTlength="5s" id="le206760.a.unit.83"/>
+<comment text="ringing" id="le206760.a.unit.84"/>
+<word id="le206760.a.unit.85">it's</word>
+<word id="le206760.a.unit.86">ringing</word>
+<word id="le206760.a.unit.87">for</word>
+<word id="le206760.a.unit.88">you</word>
+<word id="le206760.a.unit.89">now</word>
+<word id="le206760.a.unit.92">you're</word>
+<word id="le206760.a.unit.93">welcome</word>
+</nite:root>

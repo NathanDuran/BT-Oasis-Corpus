@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le301940.unit.a">
+<stdzcode id="le301940.a.unit.1" description="name"/>
+<word id="le301940.a.unit.18">yeah</word>
+<word id="le301940.a.unit.19">call</word>
+<word id="le301940.a.unit.20">minder</word>
+<word id="le301940.a.unit.21">yeah</word>
+<partword id="le301940.a.unit.34">b</partword>
+<word id="le301940.a.unit.35">how</word>
+<word id="le301940.a.unit.36">do</word>
+<word id="le301940.a.unit.37">you</word>
+<word id="le301940.a.unit.38">get</word>
+<word id="le301940.a.unit.39">your</word>
+<word id="le301940.a.unit.40">message</word>
+<bcanchor id="le301940.bcanchora.1"><nite:pointer href="le301940.b.lturn.xml#id(le301940.lturn.5.1)" role="bc"/></bcanchor>
+<num id="le301940.a.unit.42"/>
+<num id="le301940.a.unit.43"/>
+<num id="le301940.a.unit.44"/>
+<num id="le301940.a.unit.45"/>
+<word id="le301940.a.unit.50">yeah</word>
+<word id="le301940.a.unit.52">thank</word>
+<word id="le301940.a.unit.53">you</word>
+<word id="le301940.a.unit.54">bye</word>
+</nite:root>

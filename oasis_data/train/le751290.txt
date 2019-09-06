@@ -1,0 +1,8 @@
+b|huh could you give me the phone number of the oh what's the name of that place yes thank you|reqInfo
+b|oh what's the name of that place|selfTalk
+a|ok erm|ackn
+a|the service you actually require is would you like me to connect you thank you|inform
+a|would you like me to connect you|offer
+b|yes|accept
+b|thank you|thank
+a|thank you|thank

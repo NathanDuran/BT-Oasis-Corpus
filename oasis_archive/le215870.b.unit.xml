@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le215870.unit.b">
+<word id="le215870.b.unit.2">hello</word>
+<word id="le215870.b.unit.3">could</word>
+<word id="le215870.b.unit.4">you</word>
+<word id="le215870.b.unit.5">give</word>
+<word id="le215870.b.unit.6">me</word>
+<word id="le215870.b.unit.7">the</word>
+<word id="le215870.b.unit.8">number</word>
+<word id="le215870.b.unit.9">for</word>
+<lcode id="le215870.b.unit.10"/>
+<lcode id="le215870.b.unit.11"/>
+<word id="le215870.b.unit.12">wake</word>
+<word id="le215870.b.unit.13">up</word>
+<word id="le215870.b.unit.14">call</word>
+<word id="le215870.b.unit.15">please</word>
+<word id="le215870.b.unit.32">uh</word>
+<word id="le215870.b.unit.33">to</word>
+<word id="le215870.b.unit.34">do</word>
+<word id="le215870.b.unit.35">it</word>
+<word id="le215870.b.unit.36">on</word>
+<word id="le215870.b.unit.37">my</word>
+<word id="le215870.b.unit.38">own</word>
+<word id="le215870.b.unit.39">phone</word>
+<word id="le215870.b.unit.40">please</word>
+<word id="le215870.b.unit.58">right</word>
+<word id="le215870.b.unit.59">cheers</word>
+<comment text="tone" id="le215870.b.unit.60"/>
+<word id="le215870.b.unit.74">say</word>
+<word id="le215870.b.unit.75">it</word>
+<word id="le215870.b.unit.76">again</word>
+<word id="le215870.b.unit.77">please</word>
+<word id="le215870.b.unit.79">yeah</word>
+<word id="le215870.b.unit.82">yeah</word>
+<word id="le215870.b.unit.84">yeah</word>
+<word id="le215870.b.unit.96">yeah</word>
+<word id="le215870.b.unit.103">right</word>
+<word id="le215870.b.unit.104">ok</word>
+<word id="le215870.b.unit.105">then</word>
+<word id="le215870.b.unit.107">yep</word>
+<word id="le215870.b.unit.108">thanks</word>
+<word id="le215870.b.unit.109">very</word>
+<word id="le215870.b.unit.110">much</word>
+<word id="le215870.b.unit.114">bye</word>
+<comment text="end-ok" id="le215870.b.unit.115"/>
+</nite:root>

@@ -1,0 +1,15 @@
+b|hi there|greet
+b|i was wondering if you can give me the number for operator number|reqInfo
+b|if i can ring it from a different phone|reqInfo
+a|right|ackn
+a|unfortunately we don't have that information here|inform
+a|i'm afraid all the numbers that we have for them are ex-directory|inform
+a|what you would need to do is to contact directories on and they should be able to find you a number would you like me to put you through thank you|suggest
+a|and they should be able to find you a number|inform
+b|oh right ok|backch
+b|oh brilliant|appreciate
+b|thanks very much|thank
+a|would you like me to put you through|offer
+b|that'd be great|accept
+b|thank you|thank
+a|thank you|thank

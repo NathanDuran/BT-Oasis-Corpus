@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le214780.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le214780.lturn.1'>
+
+
+<utt id='le214780.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='le214780.frag.1'>
+<nite:child href='le214780.a.unit.xml#id(le214780.a.unit.1)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le214780.lturn.3'>
+
+
+<utt id='le214780.utt.3'>
+
+<segment type='dm' sp-act='pardon' id='le214780.dm.1'>
+<nite:child href='le214780.a.unit.xml#id(le214780.a.unit.14)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le214780.lturn.5'>
+
+
+<utt id='le214780.utt.6'>
+
+<segment type='yes' sp-act='answ' id='le214780.yes.1'>
+<nite:child href='le214780.a.unit.xml#id(le214780.a.unit.21)'/>
+</segment>
+
+</utt>
+
+<utt id='le214780.utt.7'>
+
+<segment type='decl' sp-act='answElab' id='le214780.decl.1'>
+<nite:child href='le214780.a.unit.xml#id(le214780.a.unit.22)..id(le214780.a.unit.23)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le214780.lturn.7'>
+
+
+<utt id='le214780.utt.9'>
+
+<segment type='decl' sp-act='inform' id='le214780.decl.2'>
+<nite:child href='le214780.a.unit.xml#id(le214780.a.unit.28)..id(le214780.a.unit.34)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le214780.lturn.9'>
+
+
+<utt id='le214780.utt.11'>
+
+<segment type='q_yn' sp-act='offer' id='le214780.q_yn.3'>
+<nite:child href='le214780.a.unit.xml#id(le214780.a.unit.37)..id(le214780.a.unit.40)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

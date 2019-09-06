@@ -1,0 +1,32 @@
+b|oh hi|greet
+b|i'm trying to get a number|informIntent
+a|and what difficulty are you having|reqInfo
+b|well|init
+b|it seems to just give me a buzz|answ
+b|i think it may be a fax as well|expressOpinion
+a|i see|ackn
+a|i'm sorry|expressRegret
+a|what's the code and number you were actually dialling|reqInfo
+b|it's yeah no i haven't but i looked it up in the er telephone directory though i must admit it was um oh right okay right shall i try directory enquiries then yeah okay thanks very much|answ
+a|thank you|thank
+a|just try the call for you hello have you spoken to people on that line before you haven't right now i would imagine that it's just a temporary measure then they are there are just using it as a fax or a modem on a computer well i can put you through o directory enquiries just in case they have got another number for you|informIntent
+a|hello|greet
+a|have you spoken to people on that line before|reqInfo
+b|yeah|backch
+b|no|answ
+b|i haven't|answElab
+b|but i looked it up in the er telephone directory|inform
+b|though i must admit it was um|inform
+a|you haven't|backch
+a|right|ackn
+a|now|init
+a|i would imagine that it's just a temporary measure then|expressOpinion
+a|they are there are just using it as a fax or a modem on a computer|inform
+b|oh right okay|backch
+b|right|ackn
+b|shall i try directory enquiries then|reqInfo
+a|well|init
+a|i can put you through o directory enquiries just in case they have got another number for you|offer
+b|yeah|accept
+b|okay|accept
+b|thanks very much|thank

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le713990.unit.a">
+<stdzcode id="le713990.a.unit.1" description="name"/>
+<word id="le713990.a.unit.13">mm</word>
+<word id="le713990.a.unit.42">not</word>
+<word id="le713990.a.unit.43">where</word>
+<word id="le713990.a.unit.44">it</word>
+<word id="le713990.a.unit.45">was</word>
+<word id="le713990.a.unit.46">no</word>
+<word id="le713990.a.unit.50">no</word>
+<word id="le713990.a.unit.51">we</word>
+<word id="le713990.a.unit.52">can't</word>
+<word id="le713990.a.unit.53">give</word>
+<word id="le713990.a.unit.54">you</word>
+<word id="le713990.a.unit.55">the</word>
+<word id="le713990.a.unit.56">exact</word>
+<word id="le713990.a.unit.57">location</word>
+<word id="le713990.a.unit.58">details</word>
+<word id="le713990.a.unit.59">unfortunately</word>
+<word id="le713990.a.unit.65">i</word>
+<word id="le713990.a.unit.66">can</word>
+<word id="le713990.a.unit.67">tell</word>
+<word id="le713990.a.unit.68">you</word>
+<word id="le713990.a.unit.69">where</word>
+<partword id="le713990.a.unit.70">i</partword>
+<word id="le713990.a.unit.71">if</word>
+<word id="le713990.a.unit.72">you've</word>
+<word id="le713990.a.unit.73">got</word>
+<word id="le713990.a.unit.74">a</word>
+<word id="le713990.a.unit.75">district</word>
+<word id="le713990.a.unit.76">listed</word>
+<word id="le713990.a.unit.77">for</word>
+<word id="le713990.a.unit.78">it</word>
+<word id="le713990.a.unit.79">i</word>
+<word id="le713990.a.unit.80">can</word>
+<word id="le713990.a.unit.81">give</word>
+<word id="le713990.a.unit.82">you</word>
+<word id="le713990.a.unit.83">that</word>
+<word id="le713990.a.unit.88">don't</word>
+<num id="le713990.a.unit.93"/>
+<num id="le713990.a.unit.94"/>
+<num id="le713990.a.unit.95"/>
+<num id="le713990.a.unit.96"/>
+<num id="le713990.a.unit.97"/>
+<num id="le713990.a.unit.101"/>
+<word id="le713990.a.unit.102">double</word>
+<num id="le713990.a.unit.103"/>
+<num id="le713990.a.unit.107"/>
+<num id="le713990.a.unit.108"/>
+<num id="le713990.a.unit.109"/>
+<word id="le713990.a.unit.110">thank</word>
+<word id="le713990.a.unit.111">you</word>
+<sil BTlength="8s" id="le713990.a.unit.112"/>
+<word id="le713990.a.unit.113">and</word>
+<word id="le713990.a.unit.114">it</word>
+<word id="le713990.a.unit.115">was</word>
+<sil BTlength="" id="le713990.a.unit.116"/>
+<word id="le713990.a.unit.117">a</word>
+<word id="le713990.a.unit.118">payphone</word>
+<word id="le713990.a.unit.121">yeah</word>
+<word id="le713990.a.unit.122">you</word>
+<word id="le713990.a.unit.123">can't</word>
+<word id="le713990.a.unit.124">ring</word>
+<word id="le713990.a.unit.125">it</word>
+<word id="le713990.a.unit.126">because</word>
+<word id="le713990.a.unit.127">it's</word>
+<word id="le713990.a.unit.128">incoming</word>
+<word id="le713990.a.unit.129">calls</word>
+<word id="le713990.a.unit.130">barred</word>
+<word id="le713990.a.unit.131">that's</word>
+<word id="le713990.a.unit.132">why</word>
+<word id="le713990.a.unit.133">you</word>
+<word id="le713990.a.unit.134">can't</word>
+<word id="le713990.a.unit.135">ring</word>
+<word id="le713990.a.unit.136">it</word>
+<word id="le713990.a.unit.137">it's</word>
+<word id="le713990.a.unit.138">in</word>
+<pncode type="town" id="le713990.a.unit.139"/>
+<pncode type="region" id="le713990.a.unit.140"/>
+<word id="le713990.a.unit.154">no</word>
+<word id="le713990.a.unit.155">all</word>
+<word id="le713990.a.unit.156">we</word>
+<word id="le713990.a.unit.157">can</word>
+<word id="le713990.a.unit.158">actually</word>
+<word id="le713990.a.unit.159">give</word>
+<word id="le713990.a.unit.160">you</word>
+<word id="le713990.a.unit.161">is</word>
+<pncode type="town" id="le713990.a.unit.162"/>
+<pncode type="region" id="le713990.a.unit.163"/>
+<word id="le713990.a.unit.168">yeah</word>
+<word id="le713990.a.unit.172">ok</word>
+<word id="le713990.a.unit.177">sorry</word>
+<word id="le713990.a.unit.178">about</word>
+<word id="le713990.a.unit.179">that</word>
+<bcanchor id="le713990.bcanchora.3"><nite:pointer href="le713990.b.lturn.xml#id(le713990.lturn.23.1)" role="bc"/></bcanchor>
+<word id="le713990.a.unit.181">bye</word>
+<comment text="end-ok" id="le713990.a.unit.182"/>
+</nite:root>

@@ -1,0 +1,7 @@
+b|hi|greet
+b|could i have the number for directory enquiries please|reqInfo
+a|it's oh thank you|answ
+b|oh is it to|ackn
+b|cheers|thank
+a|oh|exclaim
+a|thank you|thank

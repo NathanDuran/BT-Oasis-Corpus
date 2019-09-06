@@ -1,0 +1,9 @@
+b|hello|greet
+b|which number is it to uh find other people's numbers|reqInfo
+a|it's caller|answ
+b|right|ackn
+b|thanks|thank
+b|bye|bye
+a|thank you|thank
+a|bye bye|bye
+b|bye|bye

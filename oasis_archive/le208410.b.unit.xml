@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le208410.unit.b">
+<word id="le208410.b.unit.2">hello</word>
+<word id="le208410.b.unit.3">uh</word>
+<word id="le208410.b.unit.4">is</word>
+<word id="le208410.b.unit.5">it</word>
+<word id="le208410.b.unit.6">possible</word>
+<word id="le208410.b.unit.7">that</word>
+<word id="le208410.b.unit.8">you</word>
+<word id="le208410.b.unit.9">could</word>
+<word id="le208410.b.unit.10">tell</word>
+<word id="le208410.b.unit.11">me</word>
+<word id="le208410.b.unit.12">what</word>
+<word id="le208410.b.unit.13">area</word>
+<word id="le208410.b.unit.14">this</word>
+<word id="le208410.b.unit.15">number's</word>
+<word id="le208410.b.unit.16">from</word>
+<word id="le208410.b.unit.17">er</word>
+<word id="le208410.b.unit.18">somebody's</word>
+<word id="le208410.b.unit.19">phoned</word>
+<word id="le208410.b.unit.20">earlier</word>
+<word id="le208410.b.unit.21">tonight</word>
+<word id="le208410.b.unit.22">um</word>
+<word id="le208410.b.unit.23">i</word>
+<word id="le208410.b.unit.24">think</word>
+<word id="le208410.b.unit.25">it</word>
+<word id="le208410.b.unit.26">might</word>
+<word id="le208410.b.unit.27">be</word>
+<word id="le208410.b.unit.28">a</word>
+<word id="le208410.b.unit.29">dodgy</word>
+<word id="le208410.b.unit.30">call</word>
+<sil BTlength="" id="le208410.b.unit.31"/>
+<word id="le208410.b.unit.32">i</word>
+<word id="le208410.b.unit.33">just</word>
+<word id="le208410.b.unit.34">want</word>
+<word id="le208410.b.unit.35">an</word>
+<word id="le208410.b.unit.36">area</word>
+<word id="le208410.b.unit.37">i</word>
+<word id="le208410.b.unit.38">mean</word>
+<word id="le208410.b.unit.39">obviously</word>
+<word id="le208410.b.unit.40">you</word>
+<word id="le208410.b.unit.41">can't</word>
+<word id="le208410.b.unit.42">give</word>
+<word id="le208410.b.unit.43">me</word>
+<word id="le208410.b.unit.44">the</word>
+<word id="le208410.b.unit.45">person</word>
+<word id="le208410.b.unit.46">who</word>
+<word id="le208410.b.unit.47">it</word>
+<word id="le208410.b.unit.48">is</word>
+<word id="le208410.b.unit.49">but</word>
+<word id="le208410.b.unit.50">um</word>
+<word id="le208410.b.unit.58">yeah</word>
+<word id="le208410.b.unit.59">it's</word>
+<word id="le208410.b.unit.60">uh</word>
+<word id="le208410.b.unit.61">well</word>
+<word id="le208410.b.unit.62">basically</word>
+<word id="le208410.b.unit.63">it's</word>
+<num id="le208410.b.unit.64"/>
+<num id="le208410.b.unit.65"/>
+<num id="le208410.b.unit.66"/>
+<num id="le208410.b.unit.67"/>
+<word id="le208410.b.unit.71">yeah</word>
+<word id="le208410.b.unit.72">double</word>
+<num id="le208410.b.unit.73"/>
+<num id="le208410.b.unit.74"/>
+<word id="le208410.b.unit.94">directories</word>
+<word id="le208410.b.unit.96">uh</word>
+<word id="le208410.b.unit.97">thank</word>
+<word id="le208410.b.unit.98">you</word>
+<comment text="hangs_up" id="le208410.b.unit.100"/>
+<comment text="end-ok" id="le208410.b.unit.101"/>
+</nite:root>

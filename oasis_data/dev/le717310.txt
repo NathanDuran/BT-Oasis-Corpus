@@ -1,0 +1,33 @@
+b|hello|greet
+b|yes|ackn
+b|can you tell me|reqInfo
+b|i've just come in you know and done the old and the number come up it starts with is that a mobile or what oh so it's a mobile is it yes don't code that don't mean nothing does it cause before i phone it back i don't know who it is oh no that's alright no that's alright my lovey thank you bye|inform
+b|and the number come up it starts with is that a mobile or what oh so it's a mobile is it yes don't code that don't mean nothing does it cause before i phone it back i don't know who it is oh no that's alright no that's alright my lovey thank you bye|inform
+b|is that a mobile or what|reqInfo
+a|hello|backch
+a|i'll just have a look|inform
+a|possibly|answ
+a|yes|answElab
+a|thank you|thank
+a|one moment please yes it is Vodaphone yeah no it doesn't it doesn't no it doesn't mean anything to me i mean even if it did i'm not allowed to give you that information i'm afraid thanks bye|hold
+a|yes|init
+a|it is Vodaphone|inform
+b|oh so|init
+b|it's a mobile is it yes|confirm
+b|that don't mean nothing does it|reqInfo
+a|yeah|backch
+a|no|answ
+a|it doesn't it doesn't|answElab
+b|cause before i phone it back|inform
+b|i don't know who it is|inform
+a|no|accept
+a|it doesn't mean anything to me|inform
+a|i mean even if it did i'm not allowed to give you that information i'm afraid|inform
+b|oh no|ackn
+b|that's alright|accept
+b|no|ackn
+b|that's alright my lovey|accept
+b|thank you|thank
+a|thanks|thank
+a|bye|bye
+b|bye|bye

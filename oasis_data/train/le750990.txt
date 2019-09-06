@@ -1,0 +1,32 @@
+b|oh no what i'm doing is dialling quick dial and it keeps coming back to the operator be yes yes yes well it's never happened before and i've had it for months and months and months no okay|exclaim
+b|what i'm doing is dialling quick dial and it keeps coming back to the operator be yes yes yes well it's never happened before and i've had it for months and months and months no okay|inform
+a|right|ackn
+a|and it keeps coming back to the operator|inform
+a|right|ackn
+a|that must be your memory thing no you say you're doing quick dial which means that you're just pressing for a quick dial and that's you've got a telephone that you can enter numbers in corresponding to numbers on your keypad and therefore you can go through to your numbers quicker than dialling the number in full well it must mean that the number that you're pressing as a quick dial is has actually been programmed in on your telephone for which is why you keep coming through to us when you keep doing quick dial right and has it been unplugged recently it hasn't right well i can only say that you'd need to reset it then and it's a problem with the equipment you have and you'll need to reprogramme it okay hmm thanks thank you bye bye|inform
+b|and it keeps coming back to the operator|backch
+b|be yes yes yes well it's never happened before and i've had it for months and months and months no okay|confirm
+a|no|negate
+a|you say you're doing quick dial|confirm
+a|which means that you're just pressing for a quick dial and that's you've got a telephone that you can enter numbers in corresponding to numbers on your keypad|inform
+a|and therefore you can go through to your numbers quicker than dialling the number in full|inform
+a|well|init
+a|it must mean that the number that you're pressing as a quick dial is has actually been programmed in on your telephone for which is why you keep coming through to us when you keep doing quick dial right and has it been unplugged recently it hasn't right well i can only say that you'd need to reset it then and it's a problem with the equipment you have and you'll need to reprogramme it okay hmm thanks thank you bye bye|inform
+b|yes|backch
+b|yes|backch
+b|yes|backch
+b|well|init
+b|it's never happened before and i've had it for months and months and months|inform
+a|right|ackn
+a|and has it been unplugged recently|reqInfo
+b|no|answ
+a|it hasn't|confirm
+a|right|ackn
+a|well|init
+a|i can only say that you'd need to reset it then and it's a problem with the equipment you have|suggest
+a|and you'll need to reprogramme it|suggest
+b|okay|ackn
+a|okay|init
+a|hmm thanks|thank
+a|thank you|thank
+a|bye bye|bye

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le713110.unit.a">
+<stdzcode id="le713110.a.unit.1" description="name"/>
+<word id="le713110.a.unit.47">yes</word>
+<word id="le713110.a.unit.84">yes</word>
+<word id="le713110.a.unit.85">that</word>
+<word id="le713110.a.unit.86">yes</word>
+<word id="le713110.a.unit.87">that</word>
+<word id="le713110.a.unit.88">you</word>
+<word id="le713110.a.unit.89">can</word>
+<word id="le713110.a.unit.90">let</word>
+<word id="le713110.a.unit.91">me</word>
+<word id="le713110.a.unit.92">uh</word>
+<word id="le713110.a.unit.93">connect</word>
+<word id="le713110.a.unit.94">you</word>
+<word id="le713110.a.unit.95">to</word>
+<lcode id="le713110.a.unit.96"/>
+<lcode id="le713110.a.unit.97"/>
+<word id="le713110.a.unit.98">customer</word>
+<word id="le713110.a.unit.99">service</word>
+<word id="le713110.a.unit.100">and</word>
+<word id="le713110.a.unit.101">they'll</word>
+<word id="le713110.a.unit.102">deal</word>
+<word id="le713110.a.unit.103">with</word>
+<word id="le713110.a.unit.104">it</word>
+<word id="le713110.a.unit.105">for</word>
+<word id="le713110.a.unit.106">you</word>
+<word id="le713110.a.unit.109">and</word>
+<word id="le713110.a.unit.110">you</word>
+<word id="le713110.a.unit.111">are</word>
+<word id="le713110.a.unit.112">a</word>
+<word id="le713110.a.unit.113">residential</word>
+<word id="le713110.a.unit.114">customer</word>
+<word id="le713110.a.unit.115">are</word>
+<word id="le713110.a.unit.116">you</word>
+<word id="le713110.a.unit.122">yeah</word>
+<word id="le713110.a.unit.157">yes</word>
+<word id="le713110.a.unit.158">i'll</word>
+<word id="le713110.a.unit.159">put</word>
+<word id="le713110.a.unit.160">you</word>
+<word id="le713110.a.unit.161">through</word>
+<word id="le713110.a.unit.162">to</word>
+<lcode id="le713110.a.unit.163"/>
+<bcanchor id="le713110.bcanchora.2"><nite:pointer href="le713110.b.lturn.xml#id(le713110.lturn.9.1)" role="bc"/></bcanchor>
+<lcode id="le713110.a.unit.165"/>
+<bcanchor id="le713110.bcanchora.3"><nite:pointer href="le713110.b.lturn.xml#id(le713110.lturn.9.2)" role="bc"/></bcanchor>
+<word id="le713110.a.unit.167">customer</word>
+<word id="le713110.a.unit.168">service</word>
+<word id="le713110.a.unit.169">for</word>
+<comment text="ringing" id="le713110.a.unit.170"/>
+<word id="le713110.a.unit.171">more</word>
+<word id="le713110.a.unit.172">information</word>
+<word id="le713110.a.unit.175">it's</word>
+<word id="le713110.a.unit.176">ringing</word>
+<word id="le713110.a.unit.177">for</word>
+<word id="le713110.a.unit.178">you</word>
+</nite:root>

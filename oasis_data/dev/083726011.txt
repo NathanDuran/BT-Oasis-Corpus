@@ -1,0 +1,34 @@
+b|uh i'd like to get in touch with billing uh pardon me uh i've got a bill due in shortly and we'd be away for a month so i won't be here when the bill comes in uh double yeah i'll be about the fourteenth of August right that's good thank you thank you very much right bye|direct
+b|uh pardon me uh i've got a bill due in shortly and we'd be away for a month so i won't be here when the bill comes in uh double yeah i'll be about the fourteenth of August right that's good thank you thank you very much right bye|expressRegret
+b|uh i've got a bill due in shortly|inform
+b|and we'd be away for a month|inform
+b|so i won't be here when the bill comes in|inform
+a|right okay|ackn
+a|what's your telephone number please sir|reqInfo
+b|uh double yeah i'll be about the fourteenth of August right that's good thank you thank you very much right bye|answ
+a|right|ackn
+a|i'll just get your details|informIntent
+a|can you confirm your full name and address for me|reqInfo
+a|mm hmm|backch
+a|do you know the postcode mister lovely thank you right okay your bill's actually due on the twenty third of July so and you're going to be away for a month so are you at the fourteenth of August okay that's no problem what i'll do mister is i'll put a note on your account to say that you'll actually pay the bill once you return okay you're very welcome byebye bye|reqInfo
+a|lovely|appreciate
+a|thank you|thank
+a|right okay|init
+a|your bill's actually due on the twenty third of July so and you're going to be away for a month so are you at the fourteenth of August okay that's no problem what i'll do mister is i'll put a note on your account to say that you'll actually pay the bill once you return okay you're very welcome byebye bye|inform
+a|so|init
+a|and you're going to be away for a month so are you|confirm
+b|yeah|ackn
+b|i'll be about the fourteenth of August|informIntent
+a|at the fourteenth of August|confirm
+a|okay|ackn
+a|that's no problem|accept
+a|what i'll do mister is i'll put a note on your account to say that you'll actually pay the bill once you return|informIntent
+b|right|ackn
+b|that's good|appreciate
+a|okay|ackn
+b|thank you|thank
+a|you're very welcome|ackn
+a|byebye|bye
+b|right|ackn
+b|bye|bye
+a|bye|bye

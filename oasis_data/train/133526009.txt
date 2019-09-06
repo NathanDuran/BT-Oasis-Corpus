@@ -1,9 +1,0 @@
-b|yeah|ackn
-b|good afternoon|greet
-b|i'm just ringing to confirm we will be moving house and closing a line down uh as from Wednesday|informIntent
-a|uh have you got your account number there please|reqInfo
-b|yeah|answ
-b|it's double|answElab
-a|yeah|ackn
-a|yeah|ackn
-a|thank you|thank

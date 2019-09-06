@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le711360.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le711360.lturn.2'>
+
+
+<utt id='le711360.utt.2'>
+
+<segment type='frag' sp-act='greet' id='le711360.frag.2'>
+<nite:child href='le711360.b.unit.xml#id(le711360.b.unit.2)..id(le711360.b.unit.3)'/>
+</segment>
+
+</utt>
+
+<utt id='le711360.utt.3'>
+
+<segment type='q_yn' sp-act='direct' id='le711360.q_yn.1'>
+<nite:child href='le711360.b.unit.xml#id(le711360.b.unit.4)..id(le711360.b.unit.17)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le711360.lturn.4'>
+
+
+<utt id='le711360.utt.6'>
+
+<segment type='frag' sp-act='thank' id='le711360.frag.4'>
+<nite:child href='le711360.b.unit.xml#id(le711360.b.unit.36)..id(le711360.b.unit.37)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le711360.lturn.5.1' type='backchannel'>
+
+<utt id='le711360.utt.9.1'>
+<segment type='backch' sp-act='' id='le711360.backch.2'>
+<nite:child href='le711360.b.unit.xml#id(le711360.b.unit.57)'/>
+</segment>
+</utt>
+</lturn>
+<lturn id='le711360.lturn.6'>
+
+
+<utt id='le711360.utt.10'>
+
+<segment type='frag' sp-act='direct' id='le711360.frag.5'>
+<nite:child href='le711360.b.unit.xml#id(le711360.b.unit.59)..id(le711360.b.unit.61)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le711360.lturn.8'>
+
+
+<utt id='le711360.utt.12'>
+
+<segment type='yes' sp-act='accept' id='le711360.yes.1'>
+<nite:child href='le711360.b.unit.xml#id(le711360.b.unit.74)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le711360.lturn.10'>
+
+
+<utt id='le711360.utt.15'>
+
+<segment type='dm' sp-act='ackn' id='le711360.dm.2'>
+<nite:child href='le711360.b.unit.xml#id(le711360.b.unit.85)'/>
+</segment>
+
+</utt>
+
+<utt id='le711360.utt.16'>
+
+<segment type='frag' sp-act='thank' id='le711360.frag.6'>
+<nite:child href='le711360.b.unit.xml#id(le711360.b.unit.86)..id(le711360.b.unit.89)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le711360.lturn.11.1' type='backchannel'>
+
+<utt id='le711360.utt.18.1'>
+<segment type='backch' sp-act='' id='le711360.backch.3'>
+<nite:child href='le711360.b.unit.xml#id(le711360.b.unit.93)'/>
+</segment>
+</utt>
+</lturn>
+</nite:root>

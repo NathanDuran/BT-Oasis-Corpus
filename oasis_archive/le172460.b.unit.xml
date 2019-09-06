@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le172460.unit.b">
+<word id="le172460.b.unit.2">hello</word>
+<word id="le172460.b.unit.3">love</word>
+<word id="le172460.b.unit.4">erm</word>
+<word id="le172460.b.unit.5">could</word>
+<word id="le172460.b.unit.6">you</word>
+<word id="le172460.b.unit.7">give</word>
+<partword id="le172460.b.unit.8">m</partword>
+<word id="le172460.b.unit.9">erm</word>
+<word id="le172460.b.unit.10">find</word>
+<word id="le172460.b.unit.11">out</word>
+<word id="le172460.b.unit.12">what's</word>
+<word id="le172460.b.unit.13">happened</word>
+<word id="le172460.b.unit.14">on</word>
+<word id="le172460.b.unit.15">line</word>
+<num id="le172460.b.unit.16"/>
+<num id="le172460.b.unit.17"/>
+<num id="le172460.b.unit.18"/>
+<pncode type="town" id="le172460.b.unit.19"/>
+<word id="le172460.b.unit.20">that</word>
+<word id="le172460.b.unit.21">is</word>
+<sil BTlength="" id="le172460.b.unit.22"/>
+<num id="le172460.b.unit.23"/>
+<word id="le172460.b.unit.24">double</word>
+<num id="le172460.b.unit.25"/>
+<bcanchor id="le172460.bcanchorb.1"><nite:pointer href="le172460.a.lturn.xml#id(le172460.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le172460.b.unit.29">i've</word>
+<word id="le172460.b.unit.30">been</word>
+<word id="le172460.b.unit.31">ringing</word>
+<pncode type="business" id="le172460.b.unit.32"/>
+<pncode type="business" id="le172460.b.unit.33"/>
+<word id="le172460.b.unit.34">all</word>
+<word id="le172460.b.unit.35">day</word>
+<sil BTlength="" id="le172460.b.unit.36"/>
+<word id="le172460.b.unit.37">the</word>
+<word id="le172460.b.unit.38">phone</word>
+<word id="le172460.b.unit.39">is</word>
+<word id="le172460.b.unit.40">ringing</word>
+<word id="le172460.b.unit.41">ring</word>
+<word id="le172460.b.unit.42">ring</word>
+<word id="le172460.b.unit.43">ring</word>
+<word id="le172460.b.unit.44">and</word>
+<word id="le172460.b.unit.45">then</word>
+<word id="le172460.b.unit.46">nobody's</word>
+<word id="le172460.b.unit.47">picking</word>
+<word id="le172460.b.unit.48">up</word>
+<word id="le172460.b.unit.49">or</word>
+<word id="le172460.b.unit.50">answering</word>
+<word id="le172460.b.unit.61">none</word>
+<word id="le172460.b.unit.62">at</word>
+<word id="le172460.b.unit.63">all</word>
+<word id="le172460.b.unit.75">hello</word>
+<word id="le172460.b.unit.103">hmm</word>
+<word id="le172460.b.unit.104">i've</word>
+<word id="le172460.b.unit.105">been</word>
+<word id="le172460.b.unit.106">ringing</word>
+<word id="le172460.b.unit.107">from</word>
+<word id="le172460.b.unit.108">ten</word>
+<word id="le172460.b.unit.109">o</word>
+<word id="le172460.b.unit.110">clock</word>
+<word id="le172460.b.unit.111">this</word>
+<word id="le172460.b.unit.112">morning</word>
+<word id="le172460.b.unit.113">they</word>
+<word id="le172460.b.unit.114">just</word>
+<word id="le172460.b.unit.115">don't</word>
+<word id="le172460.b.unit.116">pick</word>
+<word id="le172460.b.unit.117">up</word>
+<word id="le172460.b.unit.118">the</word>
+<word id="le172460.b.unit.119">call</word>
+<sil BTlength="26s" id="le172460.b.unit.120"/>
+<word id="le172460.b.unit.131">okay</word>
+<word id="le172460.b.unit.132">sweetheart</word>
+<word id="le172460.b.unit.133">thank</word>
+<word id="le172460.b.unit.134">you</word>
+<word id="le172460.b.unit.135">this</word>
+<word id="le172460.b.unit.136">is</word>
+<word id="le172460.b.unit.137">better</word>
+<word id="le172460.b.unit.138">than</word>
+<word id="le172460.b.unit.139">not</word>
+<comment text="mumble" id="le172460.b.unit.140"/>
+<bcanchor id="le172460.bcanchorb.3"><nite:pointer href="le172460.a.lturn.xml#id(le172460.lturn.8.1)" role="bc"/></bcanchor>
+<comment text="end-ok" id="le172460.b.unit.142"/>
+</nite:root>

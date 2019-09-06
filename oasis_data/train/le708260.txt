@@ -1,0 +1,10 @@
+b|could you give me how do you dial er how do you dial and thank you bye|direct
+b|how do you dial er how do you dial and thank you bye|reqInfo
+a|sorry|pardon
+b|how do you dial and thank you bye|reqInfo
+a|it's either or that's right thank you bye|answ
+a|that's right|ackn
+b|thank you|thank
+a|thank you|thank
+b|bye|bye
+a|bye|bye

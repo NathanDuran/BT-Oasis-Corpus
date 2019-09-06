@@ -1,0 +1,32 @@
+b|yes|ackn
+b|wonder if you can|direct
+b|i just um checking my bank account on the internet|inform
+b|and i've just noticed um i don't know my i'm not phoning from home so i don't know my um account number|inform
+b|just looking on here|inform
+b|it's got direct debit for a hundred and twenty five pounds|inform
+b|i just wondered if you could check it out|direct
+b|it shouldn't be that much|inform
+a|have you got your account number on you|reqInfo
+b|i haven't|answ
+b|sorry|expressRegret
+b|i've my|inform
+a|without that i can't um i can't discuss that side of your um account is|inform
+b|is is this number that's on the um is this my account number that or is that just a direct debit number that they've take they use to take out treble treble what what do you yes it's missus telephone number yes oh right is it right|reqInfo
+b|is this my account number that or is that just a direct debit number that they've take they use to take out treble treble what what do you yes it's missus telephone number yes oh right is it right|reqInfo
+a|what was that number again|reqInfo
+a|sorry|pardon
+a|let's have a look and uh have you got your details there please sorry your name and address yeah ok missus the and the first eight digits that number you quoted me that's your customer account number|informIntent
+a|and uh have you got your details there please|reqInfo
+b|what what do you|reqInfo
+a|sorry|expressRegret
+a|your name and address|correct
+b|yes|answ
+b|it's missus telephone number yes oh right is it right|answElab
+a|yeah|backch
+a|the and the first eight digits|refer
+a|that number you quoted me|refer
+a|that's your customer account number|inform
+b|yes|backch
+b|oh right|ackn
+b|is it|ackn
+b|right|ackn

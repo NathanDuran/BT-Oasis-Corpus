@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le207940.unit.b">
+<word id="le207940.b.unit.2">ah</word>
+<word id="le207940.b.unit.3">hello</word>
+<sil BTlength="" id="le207940.b.unit.4"/>
+<word id="le207940.b.unit.5">could</word>
+<word id="le207940.b.unit.6">you</word>
+<word id="le207940.b.unit.7">tell</word>
+<word id="le207940.b.unit.8">me</word>
+<word id="le207940.b.unit.9">how</word>
+<word id="le207940.b.unit.10">to</word>
+<word id="le207940.b.unit.11">book</word>
+<word id="le207940.b.unit.12">a</word>
+<word id="le207940.b.unit.13">reminder</word>
+<word id="le207940.b.unit.14">call</word>
+<word id="le207940.b.unit.15">please</word>
+<word id="le207940.b.unit.21">yep</word>
+<word id="le207940.b.unit.29">yep</word>
+<word id="le207940.b.unit.34">thank</word>
+<word id="le207940.b.unit.35">you</word>
+<word id="le207940.b.unit.36">very</word>
+<word id="le207940.b.unit.37">much</word>
+<word id="le207940.b.unit.40">bye</word>
+<comment text="hangs_up" id="le207940.b.unit.42"/>
+<comment text="end-ok" id="le207940.b.unit.43"/>
+</nite:root>

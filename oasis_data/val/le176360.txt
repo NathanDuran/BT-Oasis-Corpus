@@ -1,0 +1,10 @@
+b|yeah|ackn
+b|i've been trying a number for the last about forty minutes|inform
+b|and i get the engaged tone all the time|inform
+a|i'm sorry|expressRegret
+a|i'll try that for you|informIntent
+a|what code and number is it please|reqInfo
+b|er double|answ
+b|double|inform
+a|double thank you|echo
+a|thank you|thank

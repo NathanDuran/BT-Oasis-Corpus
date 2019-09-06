@@ -1,0 +1,7 @@
+b|um hi|greet
+b|i've been trying a number now for about the last three hours|inform
+b|and it's just constantly engaged|inform
+a|i'm sorry|expressRegret
+a|i'll try it for you|informIntent
+a|what code and number is it please|reqInfo
+b|it's|answ

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le177920.unit.b">
+<word id="le177920.b.unit.2">hello</word>
+<word id="le177920.b.unit.3">there</word>
+<word id="le177920.b.unit.4">er</word>
+<word id="le177920.b.unit.5">i'm</word>
+<word id="le177920.b.unit.6">been</word>
+<word id="le177920.b.unit.7">trying</word>
+<word id="le177920.b.unit.8">to</word>
+<word id="le177920.b.unit.9">get</word>
+<word id="le177920.b.unit.10">a</word>
+<word id="le177920.b.unit.11">number</word>
+<word id="le177920.b.unit.12">um</word>
+<word id="le177920.b.unit.13">in</word>
+<pncode type="town" id="le177920.b.unit.14"/>
+<sil BTlength="" id="le177920.b.unit.15"/>
+<word id="le177920.b.unit.16">and</word>
+<word id="le177920.b.unit.17">um</word>
+<sil BTlength="" id="le177920.b.unit.18"/>
+<word id="le177920.b.unit.19">they</word>
+<word id="le177920.b.unit.20">keep</word>
+<word id="le177920.b.unit.21">picking</word>
+<word id="le177920.b.unit.22">it</word>
+<word id="le177920.b.unit.23">up</word>
+<sil BTlength="" id="le177920.b.unit.24"/>
+<word id="le177920.b.unit.25">but</word>
+<word id="le177920.b.unit.26">there's</word>
+<word id="le177920.b.unit.27">no</word>
+<sil BTlength="" id="le177920.b.unit.28"/>
+<word id="le177920.b.unit.29">sound</word>
+<partword id="le177920.b.unit.41">the</partword>
+<word id="le177920.b.unit.42">the</word>
+<word id="le177920.b.unit.43">number</word>
+<word id="le177920.b.unit.46">is</word>
+<partword id="le177920.b.unit.47">um</partword>
+<word id="le177920.b.unit.48">what's</word>
+<word id="le177920.b.unit.49">the</word>
+<word id="le177920.b.unit.50">code</word>
+<sil BTlength="" id="le177920.b.unit.51"/>
+<num id="le177920.b.unit.52"/>
+<num id="le177920.b.unit.53"/>
+<num id="le177920.b.unit.54"/>
+<num id="le177920.b.unit.55"/>
+<num id="le177920.b.unit.56"/>
+<word id="le177920.b.unit.62">yeah</word>
+<bcanchor id="le177920.bcanchorb.1"><nite:pointer href="le177920.a.lturn.xml#id(le177920.lturn.8.1)" role="bc"/></bcanchor>
+<num id="le177920.b.unit.64"/>
+<partword id="le177920.b.unit.65">f</partword>
+<sil BTlength="" id="le177920.b.unit.66"/>
+<word id="le177920.b.unit.67">oh</word>
+<word id="le177920.b.unit.68">sorry</word>
+<num id="le177920.b.unit.69"/>
+<num id="le177920.b.unit.70"/>
+<num id="le177920.b.unit.71"/>
+<num id="le177920.b.unit.75"/>
+<num id="le177920.b.unit.76"/>
+<num id="le177920.b.unit.77"/>
+<word id="le177920.b.unit.90">right</word>
+<word id="le177920.b.unit.95">hello</word>
+<word id="le177920.b.unit.123">alright</word>
+<word id="le177920.b.unit.124">thank</word>
+<word id="le177920.b.unit.125">you</word>
+<comment text="end-ok" id="le177920.b.unit.126"/>
+</nite:root>

@@ -1,0 +1,21 @@
+b|yeah|ackn
+b|hi|greet
+b|i'm moving house at the end of the week|inform
+b|so|init
+b|i need to um stop the account on my current property and set up a new one|direct
+a|yes certainly|accept
+a|and what's your existing number please|reqInfo
+b|my existing number is   yeah my name is the address is number on Friday yes|answ
+a|yeah|ackn
+a|yeah|ackn
+a|thank you|thank
+a|and could you confirm your full name and the address including the postcode please|reqInfo
+b|yeah|answ
+b|my name is|answElab
+b|the address is number on Friday yes|answElab
+a|mm hmm|backch
+a|thank you miss and when do you actually move this Friday which is the fourteenth yeah|thank
+a|and when do you actually move|reqInfo
+b|on Friday yes|answ
+a|this Friday which is the fourteenth yeah|confirm
+b|yes|ackn

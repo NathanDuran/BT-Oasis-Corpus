@@ -1,0 +1,11 @@
+b|yes|ackn
+b|i've got um i i've checked last night on a a line|inform
+b|it's a number|inform
+a|is this your number|reqInfo
+b|it it's my internet um computer line number for home|answ
+a|right|ackn
+b|um i've got a block on outgoing|inform
+b|i can receive calls|inform
+b|but i can't get outgoing calls|inform
+b|they've asked me to phone an number which i've tried a few times|inform
+b|and it's engaged|inform

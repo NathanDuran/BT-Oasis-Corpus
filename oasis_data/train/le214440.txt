@@ -1,0 +1,21 @@
+b|um operator i'm trying to get through this number|informIntent
+a|pardon|pardon
+b|i'm trying sorry i'm trying to get this number is this um is this international which one do i need for um international yes please go on then thanks yes ok thanks|informIntent
+b|is this um is this international which one do i need for um international yes please go on then thanks yes ok thanks|reqInfo
+a|ye|ackn
+b|is this international|reqInfo
+a|no|answ
+a|it isn't|answElab
+b|which one do i need for um international|reqInfo
+a|you want international|confirm
+a|it's shall i transfer you thank you thank you are queuing your call now|answ
+a|shall i transfer you thank you thank you are queuing your call now|offer
+b|yes please|accept
+b|go on then|direct
+a|thank you|thank
+b|thanks yes ok thanks|thank
+a|thank you|thank
+a|are queuing your call now|inform
+b|yes|backch
+b|ok|ackn
+b|thanks|thank

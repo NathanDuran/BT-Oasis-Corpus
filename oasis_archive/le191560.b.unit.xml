@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le191560.unit.b">
+<word id="le191560.b.unit.2">hello</word>
+<word id="le191560.b.unit.3">do</word>
+<word id="le191560.b.unit.4">you</word>
+<word id="le191560.b.unit.5">try</word>
+<word id="le191560.b.unit.6">a</word>
+<word id="le191560.b.unit.7">number</word>
+<word id="le191560.b.unit.8">i</word>
+<word id="le191560.b.unit.9">can't</word>
+<word id="le191560.b.unit.10">seem</word>
+<word id="le191560.b.unit.11">to</word>
+<word id="le191560.b.unit.12">get</word>
+<word id="le191560.b.unit.13">hold</word>
+<word id="le191560.b.unit.14">of</word>
+<pncode type="town" id="le191560.b.unit.25"/>
+<word id="le191560.b.unit.26">shop</word>
+<word id="le191560.b.unit.39">er</word>
+<word id="le191560.b.unit.40">i'm</word>
+<word id="le191560.b.unit.41">getting</word>
+<sil BTlength="" id="le191560.b.unit.42"/>
+<word id="le191560.b.unit.43">no</word>
+<word id="le191560.b.unit.44">reply</word>
+<word id="le191560.b.unit.45">some</word>
+<bcanchor id="le191560.bcanchorb.1"><nite:pointer href="le191560.a.lturn.xml#id(le191560.lturn.6.1)" role="bc"/></bcanchor>
+<word id="le191560.b.unit.48">i</word>
+<word id="le191560.b.unit.49">tried</word>
+<word id="le191560.b.unit.50">yesterday</word>
+<word id="le191560.b.unit.51">and</word>
+<word id="le191560.b.unit.52">today</word>
+<word id="le191560.b.unit.53">so</word>
+<word id="le191560.b.unit.54">far</word>
+<word id="le191560.b.unit.67">its'</word>
+<num id="le191560.b.unit.68"/>
+<num id="le191560.b.unit.69"/>
+<num id="le191560.b.unit.70"/>
+<num id="le191560.b.unit.71"/>
+<num id="le191560.b.unit.72"/>
+<word id="le191560.b.unit.73">from</word>
+<pncode type="town" id="le191560.b.unit.74"/>
+<num id="le191560.b.unit.81"/>
+<num id="le191560.b.unit.82"/>
+<num id="le191560.b.unit.83"/>
+<num id="le191560.b.unit.84"/>
+<num id="le191560.b.unit.85"/>
+<num id="le191560.b.unit.86"/>
+<word id="le191560.b.unit.115">uh</word>
+<word id="le191560.b.unit.116">stamps</word>
+<word id="le191560.b.unit.117">and</word>
+<word id="le191560.b.unit.118">stuff</word>
+<comment text="laugh" id="le191560.b.unit.119"/>
+<word id="le191560.b.unit.125">there's</word>
+<word id="le191560.b.unit.126">a</word>
+<word id="le191560.b.unit.127">funny</word>
+<word id="le191560.b.unit.128">one</word>
+<word id="le191560.b.unit.129">isn't</word>
+<word id="le191560.b.unit.130">it</word>
+<stdzcode id="le191560.b.unit.131" description="name"/>
+<word id="le191560.b.unit.132">did</word>
+<word id="le191560.b.unit.133">you</word>
+<word id="le191560.b.unit.134">say</word>
+<word id="le191560.b.unit.135">you</word>
+<word id="le191560.b.unit.136">were</word>
+<word id="le191560.b.unit.147">ta</word>
+<sil BTlength="12s" id="le191560.b.unit.148"/>
+<word id="le191560.b.unit.159">um</word>
+<word id="le191560.b.unit.160">yes</word>
+<word id="le191560.b.unit.161">and</word>
+<word id="le191560.b.unit.162">yesterday</word>
+<word id="le191560.b.unit.163">i</word>
+<word id="le191560.b.unit.164">thought</word>
+<word id="le191560.b.unit.165">well</word>
+<word id="le191560.b.unit.166">yesterday</word>
+<word id="le191560.b.unit.167">it</word>
+<word id="le191560.b.unit.168">might</word>
+<word id="le191560.b.unit.169">be</word>
+<word id="le191560.b.unit.170">a</word>
+<word id="le191560.b.unit.171">half</word>
+<word id="le191560.b.unit.172">closing</word>
+<word id="le191560.b.unit.173">or</word>
+<word id="le191560.b.unit.174">something</word>
+<word id="le191560.b.unit.178">um</word>
+<word id="le191560.b.unit.183">but</word>
+<word id="le191560.b.unit.184">that's</word>
+<partword id="le191560.b.unit.185">sn</partword>
+<word id="le191560.b.unit.222">alright</word>
+<comment text="ring" id="le191560.b.unit.223"/>
+<sil BTlength="" id="le191560.b.unit.224"/>
+</nite:root>

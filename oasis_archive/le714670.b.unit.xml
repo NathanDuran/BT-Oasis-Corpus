@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le714670.unit.b">
+<word id="le714670.b.unit.2">hello</word>
+<word id="le714670.b.unit.3">could</word>
+<word id="le714670.b.unit.4">you</word>
+<word id="le714670.b.unit.5">give</word>
+<word id="le714670.b.unit.6">me</word>
+<word id="le714670.b.unit.7">information</word>
+<word id="le714670.b.unit.8">about</word>
+<word id="le714670.b.unit.9">lines</word>
+<word id="le714670.b.unit.10">to</word>
+<pncode type="country" id="le714670.b.unit.11"/>
+<pncode type="town" id="le714670.b.unit.12"/>
+<word id="le714670.b.unit.13">are</word>
+<word id="le714670.b.unit.14">they</word>
+<word id="le714670.b.unit.15">ok</word>
+<word id="le714670.b.unit.16">just</word>
+<word id="le714670.b.unit.17">now</word>
+<word id="le714670.b.unit.21">telephone</word>
+<word id="le714670.b.unit.22">lines</word>
+<word id="le714670.b.unit.23">to</word>
+<pncode type="country" id="le714670.b.unit.24"/>
+<sil BTlength="" id="le714670.b.unit.25"/>
+<bcanchor id="le714670.bcanchorb.1"><nite:pointer href="le714670.a.lturn.xml#id(le714670.lturn.4.1)" role="bc"/></bcanchor>
+<word id="le714670.b.unit.27">to</word>
+<pncode type="town" id="le714670.b.unit.28"/>
+<word id="le714670.b.unit.30">are</word>
+<word id="le714670.b.unit.31">they</word>
+<word id="le714670.b.unit.32">ok</word>
+<word id="le714670.b.unit.33">from</word>
+<pncode type="country" id="le714670.b.unit.34"/>
+<word id="le714670.b.unit.46">yes</word>
+<word id="le714670.b.unit.47">we</word>
+<word id="le714670.b.unit.48">we</word>
+<word id="le714670.b.unit.49">have</word>
+<word id="le714670.b.unit.50">our</word>
+<word id="le714670.b.unit.51">guest</word>
+<word id="le714670.b.unit.52">here</word>
+<word id="le714670.b.unit.53">at</word>
+<word id="le714670.b.unit.54">a</word>
+<word id="le714670.b.unit.55">hotel</word>
+<word id="le714670.b.unit.56">who's</word>
+<word id="le714670.b.unit.57">been</word>
+<word id="le714670.b.unit.58">trying</word>
+<word id="le714670.b.unit.59">to</word>
+<word id="le714670.b.unit.60">call</word>
+<pncode type="country" id="le714670.b.unit.61"/>
+<word id="le714670.b.unit.62">and</word>
+<sil BTlength="" id="le714670.b.unit.63"/>
+<word id="le714670.b.unit.64">after</word>
+<word id="le714670.b.unit.65">she</word>
+<word id="le714670.b.unit.66">dials</word>
+<word id="le714670.b.unit.67">the</word>
+<word id="le714670.b.unit.68">number</word>
+<word id="le714670.b.unit.69">she's</word>
+<word id="le714670.b.unit.70">just</word>
+<word id="le714670.b.unit.71">getting</word>
+<word id="le714670.b.unit.72">a</word>
+<word id="le714670.b.unit.73">kind</word>
+<word id="le714670.b.unit.74">of</word>
+<word id="le714670.b.unit.75">unobtainable</word>
+<word id="le714670.b.unit.76">call</word>
+<word id="le714670.b.unit.83">ok</word>
+<word id="le714670.b.unit.84">thank</word>
+<word id="le714670.b.unit.85">you</word>
+</nite:root>

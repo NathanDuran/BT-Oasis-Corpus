@@ -1,0 +1,29 @@
+b|oh hello|greet
+b|i wonder if you could help|direct
+b|i'm trying to get in contact with i've got a telephone number here|inform
+b|and it says it's um it's not available|inform
+a|i'm sorry|expressRegret
+a|what's the code and number you were actually dialling|reqInfo
+a|double thank you and who is it you were trying to contact i see let me just try the call for you yeah i'm afraid the line is temporarily out of service but there isn't actually a fault on the line but it isn't operating for the moment no there's no fault on the line okay bye|echo
+a|thank you and who is it you were trying to contact i see let me just try the call for you yeah i'm afraid the line is temporarily out of service but there isn't actually a fault on the line but it isn't operating for the moment no there's no fault on the line okay bye|thank
+a|and who is it you were trying to contact|reqInfo
+b|it's um it's a mr but i think it's his sister's property i i've got the address and everything sorry there is a fault there's no fault right i get you yeah thank you very much bye|answ
+b|but i think it's his sister's property|expressOpinion
+b|i i've got the address and everything|inform
+a|i see|backch
+a|let me just try the call for you yeah|offer
+a|i'm afraid the line is temporarily out of service|inform
+a|but there isn't actually a fault on the line|inform
+a|but it isn't operating for the moment|inform
+b|sorry|pardon
+b|there is a fault|reqInfo
+a|no|answ
+a|there's no fault on the line|answElab
+b|there's no fault|echo
+b|right|ackn
+b|i get you|ackn
+a|okay|init
+b|yeah|ackn
+b|thank you very much|thank
+b|bye|bye
+a|bye|bye

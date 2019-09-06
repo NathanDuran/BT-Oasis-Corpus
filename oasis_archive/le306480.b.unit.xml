@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le306480.unit.b">
+<word id="le306480.b.unit.2">er</word>
+<sil BTlength="" id="le306480.b.unit.3"/>
+<word id="le306480.b.unit.4">could</word>
+<word id="le306480.b.unit.5">you</word>
+<word id="le306480.b.unit.6">help</word>
+<word id="le306480.b.unit.7">me</word>
+<word id="le306480.b.unit.8">i</word>
+<word id="le306480.b.unit.9">want</word>
+<word id="le306480.b.unit.10">to</word>
+<word id="le306480.b.unit.11">send</word>
+<word id="le306480.b.unit.12">a</word>
+<word id="le306480.b.unit.13">telegram</word>
+<word id="le306480.b.unit.14">to</word>
+<pncode type="country" id="le306480.b.unit.15"/>
+<sil BTlength="" id="le306480.b.unit.16"/>
+<word id="le306480.b.unit.17">how</word>
+<word id="le306480.b.unit.18">do</word>
+<word id="le306480.b.unit.19">i</word>
+<word id="le306480.b.unit.20">do</word>
+<word id="le306480.b.unit.21">it</word>
+<word id="le306480.b.unit.32">ah</word>
+<word id="le306480.b.unit.34">telemessage</word>
+<word id="le306480.b.unit.42">yes</word>
+<word id="le306480.b.unit.46">yes</word>
+<num id="le306480.b.unit.50"/>
+<num id="le306480.b.unit.51"/>
+<num id="le306480.b.unit.52"/>
+<word id="le306480.b.unit.56">many</word>
+<word id="le306480.b.unit.57">thanks</word>
+<word id="le306480.b.unit.62">goodbye</word>
+<comment text="end-ok" id="le306480.b.unit.63"/>
+</nite:root>

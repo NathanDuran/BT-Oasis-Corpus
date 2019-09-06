@@ -1,0 +1,16 @@
+b|yeah|ackn
+b|i was wondering if you could help me can you put me through to the erm please i don't love i can't get through to them and it's an emergency what i mean is i can't through to them it's ringing out can you do that for me|direct
+b|can you put me through to the erm please|direct
+a|well|init
+a|do you have the telephone number|reqInfo
+b|i don't love|answ
+a|yeah|ackn
+a|i'm sorry you'd have to obtain it then from directory enquiries|suggest
+b|i can't get through to them|inform
+b|and it's an emergency|inform
+a|what do you mean you can't get through to them|reqInfo
+b|what i mean is i can't through to them|answ
+b|it's ringing out|answElab
+a|well|init
+a|all i can do is try directories for you|offer
+b|can you do that for me|direct

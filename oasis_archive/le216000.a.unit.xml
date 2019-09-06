@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le216000.unit.a">
+<stdzcode id="le216000.a.unit.1" description="name"/>
+<word id="le216000.a.unit.6">good</word>
+<word id="le216000.a.unit.7">evening</word>
+<word id="le216000.a.unit.24">yeah</word>
+<word id="le216000.a.unit.34">right</word>
+<word id="le216000.a.unit.50">mm</word>
+<word id="le216000.a.unit.63">yes</word>
+<word id="le216000.a.unit.64">what's</word>
+<word id="le216000.a.unit.65">the</word>
+<word id="le216000.a.unit.66">number</word>
+<num id="le216000.a.unit.73"/>
+<num id="le216000.a.unit.74"/>
+<num id="le216000.a.unit.75"/>
+<num id="le216000.a.unit.76"/>
+<num id="le216000.a.unit.77"/>
+<word id="le216000.a.unit.87">no</word>
+<word id="le216000.a.unit.88">that's</word>
+<word id="le216000.a.unit.89">not</word>
+<word id="le216000.a.unit.90">a</word>
+<word id="le216000.a.unit.91">correct</word>
+<word id="le216000.a.unit.92">number</word>
+<word id="le216000.a.unit.97">no</word>
+<word id="le216000.a.unit.108">alright</word>
+<word id="le216000.a.unit.109">ok</word>
+<word id="le216000.a.unit.111">bye</word>
+<comment text="end-ok" id="le216000.a.unit.112"/>
+</nite:root>

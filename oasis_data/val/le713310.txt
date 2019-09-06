@@ -1,0 +1,42 @@
+b|hello|greet
+b|i've been trying to get through to a number for a little while now and its constantly engaged|inform
+b|i wonder if you can tell me if there's a conversation going on or|reqInfo
+a|yes|accept
+a|i'm sorry|expressRegret
+a|i'll try the call for you|informIntent
+a|what code and number are you calling please|reqInfo
+b|it's double ok thank you ok i think i've got a crossed line cause i've got on the phone here oh is that why is that why i've got the oh right ok that's alright i never thought of that it's um that's alright no problem yeah that's not a problem i'll try again later yeah alright bye|answ
+a|thank you can you hold the line please i need to make further enquiries for you sorry to keep you no the number that you're calling doesn't belong to it's um a cable company so i have to check with them sorry to keep you sorry about this i'm sorry ah i'm sorry at the moment i'm getting no answer from the cable company operator and it's um causing unnecessary delay to the call can you please try later byebye|thank
+a|can you hold the line please|hold
+a|i need to make further enquiries for you|inform
+b|ok|ackn
+b|thank you ok i think i've got a crossed line cause i've got on the phone here oh is that why is that why i've got the oh right ok that's alright i never thought of that it's um that's alright no problem yeah that's not a problem i'll try again later yeah alright bye|thank
+a|sorry to keep you|expressRegret
+b|ok|accept
+b|i think i've got a crossed line cause i've got on the phone here oh is that why is that why i've got the oh right ok that's alright i never thought of that it's um that's alright no problem yeah that's not a problem i'll try again later yeah alright bye|expressOpinion
+a|no|negate
+a|the number that you're calling doesn't belong to it's um a cable company so i have to check with them sorry to keep you sorry about this i'm sorry ah i'm sorry at the moment i'm getting no answer from the cable company operator and it's um causing unnecessary delay to the call can you please try later byebye|inform
+a|it's um|informDisc
+b|oh is that why|reqInfo
+a|a cable company|informCont
+a|so|init
+a|i have to check with them|informIntent-hold
+b|is that why i've got the|reqInfo
+b|oh right ok that's alright i never thought of that it's um that's alright no problem yeah that's not a problem i'll try again later yeah alright bye|ackn
+a|sorry to keep you|expressRegret
+b|that's alright|accept
+b|i never thought of that it's um that's alright no problem yeah that's not a problem i'll try again later yeah alright bye|selfTalk
+b|it's um that's alright no problem yeah that's not a problem i'll try again later yeah alright bye|selfTalk
+a|sorry about this|expressRegret
+b|that's alright|accept
+b|no problem yeah that's not a problem i'll try again later yeah alright bye|accept
+a|i'm sorry ah i'm sorry at the moment i'm getting no answer from the cable company operator and it's um causing unnecessary delay to the call can you please try later byebye|expressRegret
+a|ah i'm sorry|expressRegret
+a|at the moment i'm getting no answer from the cable company operator|inform
+a|and it's um causing unnecessary delay to the call|inform
+a|can you please try later|direct
+b|yeah|accept
+b|that's not a problem|accept
+b|i'll try again later yeah alright|informIntent
+b|bye|bye
+a|byebye|bye

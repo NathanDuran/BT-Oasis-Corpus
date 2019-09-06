@@ -1,0 +1,21 @@
+b|hello love|greet
+b|can i er book an early morning call please|direct
+a|early morning call|echo
+a|what time would you like the call please|reqDirect
+b|uh seven forty five please|direct
+a|seven forty five|echo
+a|if you'd just like to hold the line while i confirm that for you that's fine that's booked for you at seven forty five thank you no it comes comes up automatically when you call in thank you bye|informIntent
+a|that's fine|accept
+a|that's booked for you at seven forty five|inform
+b|thank you|backch
+b|lovely|appreciate
+a|thank you|thank
+b|you you don't need the number do you|reqInfo
+a|no|answ
+a|it comes comes up automatically when you call in|answElab
+b|oh|backch
+b|ok lovely|appreciate
+b|thank you|thank
+b|byebye|bye
+a|thank you|backch
+a|bye|bye

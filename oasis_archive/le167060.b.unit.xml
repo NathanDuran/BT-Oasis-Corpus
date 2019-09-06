@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le167060.unit.b">
+<word id="le167060.b.unit.2">oh</word>
+<word id="le167060.b.unit.3">hello</word>
+<word id="le167060.b.unit.4">i'm</word>
+<word id="le167060.b.unit.5">trying</word>
+<word id="le167060.b.unit.6">to</word>
+<sil BTlength="" id="le167060.b.unit.7"/>
+<word id="le167060.b.unit.8">er</word>
+<word id="le167060.b.unit.9">er</word>
+<word id="le167060.b.unit.10">i've</word>
+<partword id="le167060.b.unit.11">g</partword>
+<word id="le167060.b.unit.12">on</word>
+<word id="le167060.b.unit.13">telephone</word>
+<word id="le167060.b.unit.14">number</word>
+<word id="le167060.b.unit.15">out</word>
+<word id="le167060.b.unit.16">of</word>
+<word id="le167060.b.unit.17">the</word>
+<word id="le167060.b.unit.18">er</word>
+<pncode type="town" id="le167060.b.unit.19"/>
+<word id="le167060.b.unit.20">directory</word>
+<word id="le167060.b.unit.21">for</word>
+<word id="le167060.b.unit.22">the</word>
+<word id="le167060.b.unit.23">benefits</word>
+<word id="le167060.b.unit.24">agency</word>
+<bcanchor id="le167060.bcanchorb.1"><nite:pointer href="le167060.a.lturn.xml#id(le167060.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le167060.b.unit.27">and</word>
+<word id="le167060.b.unit.28">it</word>
+<word id="le167060.b.unit.29">just</word>
+<word id="le167060.b.unit.30">saying</word>
+<word id="le167060.b.unit.31">that</word>
+<word id="le167060.b.unit.32">the</word>
+<word id="le167060.b.unit.33">number's</word>
+<word id="le167060.b.unit.34">not</word>
+<word id="le167060.b.unit.35">recognised</word>
+<word id="le167060.b.unit.47">um</word>
+<word id="le167060.b.unit.48">it's</word>
+<num id="le167060.b.unit.49"/>
+<num id="le167060.b.unit.50"/>
+<num id="le167060.b.unit.51"/>
+<num id="le167060.b.unit.52"/>
+<num id="le167060.b.unit.53"/>
+<num id="le167060.b.unit.59"/>
+<num id="le167060.b.unit.60"/>
+<num id="le167060.b.unit.61"/>
+<num id="le167060.b.unit.65"/>
+<num id="le167060.b.unit.66"/>
+<num id="le167060.b.unit.67"/>
+<word id="le167060.b.unit.101">so</word>
+<word id="le167060.b.unit.102">you</word>
+<word id="le167060.b.unit.103">don't</word>
+<word id="le167060.b.unit.104">have</word>
+<word id="le167060.b.unit.105">another</word>
+<word id="le167060.b.unit.106">number</word>
+<word id="le167060.b.unit.125">okay</word>
+<word id="le167060.b.unit.126">thank</word>
+<word id="le167060.b.unit.127">you</word>
+</nite:root>

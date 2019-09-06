@@ -1,0 +1,8 @@
+b|people are pissing me off i want to talk to one of you're people who do you know who the guy was who was listening to my music was i don't know he didn't tell me i i|raiseIssue
+a|caller have you got nothing better to do|raiseIssue
+b|i want to talk to one of you're people|direct
+a|you want to what what was his name|reqInfo
+b|who do you know who the guy was who was listening to my music was|reqInfo
+a|what was his name|reqInfo
+b|i don't know|inform
+b|he didn't tell me i i|inform

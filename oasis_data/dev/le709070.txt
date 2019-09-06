@@ -1,0 +1,32 @@
+b|hello|greet
+b|yeah uh|ackn
+b|if i give you a phone number|inform
+b|can you tell me if its from a phone box please|reqInfo
+a|yeah|answ
+a|we can do that|answElab
+a|that's no problem|answElab
+b|yeah|backch
+b|ok|ackn
+a|what's the code and number please|reqInfo
+b|the code is double is that is a payphone can you give me the location at all you can't do that but it's it's definitely a payphone right nice one cheers mate thanks bye|answ
+a|ok yeah that is a payphone yeah no we can't do that no it is yeah cheers thank you bye|ackn
+a|yeah|init
+a|that is a payphone|inform
+b|that is a payphone|echo
+b|can you give me the location at all|reqInfo
+a|yeah|backch
+a|no|answ
+a|we can't do that|answElab
+b|you can't do that|confirm
+a|no|ackn
+b|but it's it's definitely a payphone|reqInfo
+a|it is|answ
+a|yeah|answElab
+b|right|ackn
+b|nice one|appreciate
+b|cheers mate|thank
+a|cheers|thank
+b|thanks|thank
+b|bye|bye
+a|thank you|thank
+a|bye|bye

@@ -59,13 +59,31 @@ def process_transcript(turn_list, a_words_file, a_da_file, b_words_file, b_da_fi
                     continue
 
                 # Get the DA
-                if utt['da'] not in excluded_tags:
-                    da = utt['da']
+
                 # If it is the empty string use the type instead (backch)
-                elif utt['da'] == '':
-                        da = utt['utt_type']
-                # Else skip this utterance
+                if utt['da'] == '':
+                    da = utt['utt_type']
+                # Collapse some of the expanded DA
+                elif utt['da'] == 'inform-expressRegret':
+                    da = 'expressRegret'
+                # There are some typos in the Lancs_BT100 data
+                elif utt['da'] == 'iinform':
+                    da = 'inform'
+                elif utt['da'] == 'expressRregret-inform' or utt['da'] == 'expressRegret-inform ':
+                    da = 'expressRegret'
+                elif utt['da'] == 'answf' or utt['da'] == 'answ-Disc':
+                    da = 'answ'
+                elif utt['da'] == 'answElaby':
+                    da = 'answElab'
+                elif utt['da'] == 'reqInfot':
+                    da = 'reqInfo'
+                elif utt['da'] == 'suggestCont' or utt['da'] == 'suggestDisc':
+                    da = 'suggest'
                 else:
+                    da = utt['da']
+
+                # Check final DA is valid
+                if da == '' or da in excluded_tags:
                     continue
 
                 # Create an utterance
@@ -129,11 +147,13 @@ def get_da_and_word_segments(da_file):
 
                     # Get the start and end unit (word) id's for this utterance
                     next_line = da_file[i + 1]
-                    start_id = next_line.split("(")[1].split(")")[0]
-                    stop_id = next_line.split("(")[-1][:-1].split(")")[0]
-                    segment['start_id'] = start_id
-                    segment['stop_id'] = stop_id
-                    segments.append(segment)
+                    # Check next line is present (there are a few segments with none)
+                    if next_line:
+                        start_id = next_line.split("(")[1].split(")")[0]
+                        stop_id = next_line.split("(")[-1][:-1].split(")")[0]
+                        segment['start_id'] = start_id
+                        segment['stop_id'] = stop_id
+                        segments.append(segment)
 
             turn_segments[turn] = segments
     return turn_segments

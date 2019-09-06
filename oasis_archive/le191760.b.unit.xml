@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le191760.unit.b">
+<word id="le191760.b.unit.2">good</word>
+<word id="le191760.b.unit.3">morning</word>
+<word id="le191760.b.unit.4">could</word>
+<word id="le191760.b.unit.5">i</word>
+<word id="le191760.b.unit.6">please</word>
+<word id="le191760.b.unit.7">check</word>
+<word id="le191760.b.unit.8">a</word>
+<word id="le191760.b.unit.9">number</word>
+<word id="le191760.b.unit.10">i'm</word>
+<word id="le191760.b.unit.11">ringing</word>
+<word id="le191760.b.unit.12">the</word>
+<pncode type="business" id="le191760.b.unit.13"/>
+<pncode type="business" id="le191760.b.unit.14"/>
+<pncode type="business" id="le191760.b.unit.15"/>
+<pncode type="business" id="le191760.b.unit.16"/>
+<word id="le191760.b.unit.26">a</word>
+<word id="le191760.b.unit.27">a</word>
+<word id="le191760.b.unit.28">steady</word>
+<word id="le191760.b.unit.29">tone</word>
+<word id="le191760.b.unit.30">there's</word>
+<word id="le191760.b.unit.31">no</word>
+<word id="le191760.b.unit.32">ring</word>
+<word id="le191760.b.unit.33">at</word>
+<word id="le191760.b.unit.34">all</word>
+<bcanchor id="le191760.bcanchorb.1"><nite:pointer href="le191760.a.lturn.xml#id(le191760.lturn.4.1)" role="bc"/></bcanchor>
+<word id="le191760.b.unit.36">it's</word>
+<word id="le191760.b.unit.37">just</word>
+<word id="le191760.b.unit.38">goes</word>
+<word id="le191760.b.unit.39">straight</word>
+<word id="le191760.b.unit.40">to</word>
+<word id="le191760.b.unit.41">a</word>
+<word id="le191760.b.unit.42">steady</word>
+<word id="le191760.b.unit.43">tone</word>
+<word id="le191760.b.unit.56">the</word>
+<partword id="le191760.b.unit.57">co</partword>
+<word id="le191760.b.unit.58">er</word>
+<sil BTlength="" id="le191760.b.unit.59"/>
+<word id="le191760.b.unit.60">the</word>
+<word id="le191760.b.unit.61">code</word>
+<word id="le191760.b.unit.62">is</word>
+<num id="le191760.b.unit.63"/>
+<num id="le191760.b.unit.64"/>
+<num id="le191760.b.unit.65"/>
+<num id="le191760.b.unit.66"/>
+<word id="le191760.b.unit.67">er</word>
+<word id="le191760.b.unit.68">sorry</word>
+<num id="le191760.b.unit.69"/>
+<num id="le191760.b.unit.70"/>
+<num id="le191760.b.unit.71"/>
+<num id="le191760.b.unit.72"/>
+<word id="le191760.b.unit.77">the</word>
+<word id="le191760.b.unit.78">number</word>
+<word id="le191760.b.unit.79">is</word>
+<num id="le191760.b.unit.80"/>
+<num id="le191760.b.unit.81"/>
+<num id="le191760.b.unit.82"/>
+<num id="le191760.b.unit.86"/>
+<num id="le191760.b.unit.87"/>
+<num id="le191760.b.unit.88"/>
+<num id="le191760.b.unit.89"/>
+<word id="le191760.b.unit.103">thanks</word>
+<sil BTlength="14s" id="le191760.b.unit.104"/>
+<comment text="talking_to_other" id="le191760.b.unit.105"/>
+<word id="le191760.b.unit.108">yeah</word>
+<word id="le191760.b.unit.123">thank</word>
+<word id="le191760.b.unit.124">you</word>
+<word id="le191760.b.unit.125">very</word>
+<word id="le191760.b.unit.126">much</word>
+<num id="le191760.b.unit.152"/>
+<word id="le191760.b.unit.153">double</word>
+<num id="le191760.b.unit.154"/>
+<num id="le191760.b.unit.155"/>
+<num id="le191760.b.unit.156"/>
+<word id="le191760.b.unit.208">but</word>
+<word id="le191760.b.unit.209">it</word>
+<word id="le191760.b.unit.210">is</word>
+<word id="le191760.b.unit.211">a</word>
+<word id="le191760.b.unit.212">fault</word>
+<word id="le191760.b.unit.213">is</word>
+<word id="le191760.b.unit.214">it</word>
+<word id="le191760.b.unit.231">okay</word>
+<word id="le191760.b.unit.232">that's</word>
+<word id="le191760.b.unit.233">great</word>
+<word id="le191760.b.unit.238">that's</word>
+<word id="le191760.b.unit.239">alright</word>
+<word id="le191760.b.unit.240">bye</word>
+<comment text="end-ok" id="le191760.b.unit.241"/>
+</nite:root>

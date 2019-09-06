@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le703500.unit.b">
+<word id="le703500.b.unit.2">hi</word>
+<word id="le703500.b.unit.3">er</word>
+<word id="le703500.b.unit.4">can</word>
+<word id="le703500.b.unit.5">i</word>
+<word id="le703500.b.unit.6">do</word>
+<word id="le703500.b.unit.7">an</word>
+<partword id="le703500.b.unit.8">al</partword>
+<word id="le703500.b.unit.9">an</word>
+<word id="le703500.b.unit.10">a</word>
+<sil BTlength="" id="le703500.b.unit.11"/>
+<word id="le703500.b.unit.12">alarm</word>
+<word id="le703500.b.unit.13">call</word>
+<word id="le703500.b.unit.14">please</word>
+<word id="le703500.b.unit.22">er</word>
+<word id="le703500.b.unit.23">four</word>
+<word id="le703500.b.unit.24">fifteen</word>
+<word id="le703500.b.unit.27">yep</word>
+<word id="le703500.b.unit.37">right</word>
+<word id="le703500.b.unit.38">that's</word>
+<word id="le703500.b.unit.39">wonderful</word>
+<word id="le703500.b.unit.40">i</word>
+<word id="le703500.b.unit.41">think</word>
+<bcanchor id="le703500.bcanchorb.2"><nite:pointer href="le703500.a.lturn.xml#id(le703500.lturn.6.1)" role="bc"/></bcanchor>
+<word id="le703500.b.unit.43">thanks</word>
+<word id="le703500.b.unit.44">very</word>
+<word id="le703500.b.unit.45">much</word>
+<word id="le703500.b.unit.46">good</word>
+<word id="le703500.b.unit.47">night</word>
+</nite:root>

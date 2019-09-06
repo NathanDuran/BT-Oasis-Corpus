@@ -1,0 +1,36 @@
+b|hello|greet
+b|i wonder if you could check me a number out please|direct
+a|certainly|accept
+a|what difficulties are you having|reqInfo
+b|erm well|init
+b|it just said this number is not obtainable and|inform
+b|also on the fax number and i've got a yeah sorry yeah no i bet they've gone out of business i've got a fax line yes oh right yes please|inform
+a|i'm sorry about that|expressRegret
+a|i'll try the call for you|informIntent
+a|what's the code and number you're dialling please|reqInfo
+a|thank you|thank
+a|what's the rest of the number please|reqInfo
+b|yeah|backch
+b|sorry|expressRegret
+b|yeah|accept
+a|thank you|thank
+a|okay|init
+a|i'm sorry|expressRegret
+a|there's no longer a customer with that number|inform
+a|do you want me|reqDirect
+b|no|direct
+b|i bet they've gone out of business|expressOpinion
+a|do you want me to check the second number for you|reqDirect
+a|i thought you said there was a fax number as well|confirm
+b|i've got a fax line|inform
+b|yes|ackn
+a|thank you|thank
+a|yep|init
+a|there's no longer a customer with this number either|inform
+a|you could try directories on to see if they have a new number listed|suggest
+a|or your current phone directory|suggest
+a|either one|refer
+a|would you like me to put you through|offer
+b|oh right|backch
+b|yes please|accept
+a|thank you|thank

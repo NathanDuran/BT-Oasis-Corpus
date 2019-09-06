@@ -1,0 +1,61 @@
+b|um right|ackn
+b|i've been trying to phone my mother and they've been doing some work on her phone today and all i can get is a operating er the the answering service but it's not even giving her time to answer she couldn't possibly be answering it just gets locks in to the locks in to the you know it's got a answering service it's not an answerphone and it locks into that straight away as soon as you get as soon as you phone her you get that you don't get a chance to speak to pardon it's never been set up that way well it is but it means that i can't speak to her well i don't know report it something no she hasn't set it up that way it i phoned her last night you know it there's no there's time for her to answer and then the answering service locks in there's no way that she's done that she wouldn't well i reall object cause she's an old lady on her own and i can't even speak to her my sister's tried speaking to her she can't speak to her either we can't get through to her and there's been a you know there's been um there's been a new pole and cabling there today and there's obviously something wrong you know i mean i cannot speak to her there the it doesn't allow me to speak to her well maybe you can report it i don't know well you're being|inform
+b|and they've been doing some work on her phone today|inform
+b|and all i can get is a operating er the the answering service|inform
+b|but it's not even giving her time to answer|inform
+b|she couldn't possibly be answering it|inform
+b|just gets locks in to the locks in to the|inform
+b|you know it's got a answering service|inform
+b|it's not an answerphone and it locks into that straight away as soon as you get as soon as you phone her you get that you don't get a chance to speak to pardon it's never been set up that way well it is but it means that i can't speak to her well i don't know report it something no she hasn't set it up that way it i phoned her last night you know it there's no there's time for her to answer and then the answering service locks in there's no way that she's done that she wouldn't well i reall object cause she's an old lady on her own and i can't even speak to her my sister's tried speaking to her she can't speak to her either we can't get through to her and there's been a you know there's been um there's been a new pole and cabling there today and there's obviously something wrong you know i mean i cannot speak to her there the it doesn't allow me to speak to her well maybe you can report it i don't know well you're being|inform
+b|and it locks into that straight away|inform
+b|as soon as you get as soon as you phone her|refer
+b|you get that|inform
+b|you don't get a chance to speak to|inform
+a|yeah|ackn
+a|well|init
+a|you can set it up that way|inform
+b|pardon|pardon
+a|you can set it up that way|inform
+b|it's never been set up that way|inform
+a|well|init
+a|it's obviously the way it's set up now isn't it|expressOpinion
+b|well|init
+b|it is|accept
+b|but it means that i can't speak to her|raiseIssue
+a|well|init
+a|what would you like me to do about it|reqDirect
+b|well|init
+b|i don't know|inform
+b|report it something|direct
+a|what report that your mum's set up her answering service up that way|reqDirect
+b|no|refuse
+b|she hasn't set it up that way|inform
+b|it i phoned her last night you know|inform
+b|there's no there's time for her to answer|inform
+b|and then the answering service locks in|inform
+b|there's no way that she's done that|inform
+b|she wouldn't|inform
+a|well|init
+a|i don't really know what i can do to be honest|raiseIssue
+b|well|init
+b|i reall object cause she's an old lady on her own|raiseIssue
+b|and i can't even speak to her|inform
+b|my sister's tried speaking to her|inform
+b|she can't speak to her either|inform
+b|we can't get through to her|inform
+b|and there's been a you know there's been um there's been a new pole and cabling there today|inform
+b|and there's obviously something wrong you know|expressOpinion
+b|i mean i cannot speak to her|inform
+b|there the it doesn't allow me to speak to her|inform
+a|i know|accept
+a|but i mean what can i do exactly|reqDirect
+b|well|init
+b|maybe you can report it|suggest
+b|i don't know|inform
+a|report what that she's set her answering machine up that way|reqDirect
+a|she hasn't|negate
+a|now|init
+a|hang on|direct
+a|just who do you think you're shouting at|raiseIssue
+b|well|init
+b|you're being|expressOpinion

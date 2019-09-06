@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le711500.unit.b">
+<word id="le711500.b.unit.2">is</word>
+<partword id="le711500.b.unit.3">al</partword>
+<word id="le711500.b.unit.4">alarm</word>
+<word id="le711500.b.unit.5">clock</word>
+<word id="le711500.b.unit.6">please</word>
+<word id="le711500.b.unit.8">an</word>
+<word id="le711500.b.unit.9">alarm</word>
+<word id="le711500.b.unit.10">clock</word>
+<word id="le711500.b.unit.15">yes</word>
+<word id="le711500.b.unit.16">love</word>
+<word id="le711500.b.unit.25">this</word>
+<word id="le711500.b.unit.26">morning</word>
+<word id="le711500.b.unit.27">half</word>
+<word id="le711500.b.unit.28">past</word>
+<word id="le711500.b.unit.29">six</word>
+<word id="le711500.b.unit.33">yes</word>
+<word id="le711500.b.unit.34">love</word>
+<partword id="le711500.b.unit.49">yay</partword>
+<word id="le711500.b.unit.50">this</word>
+<word id="le711500.b.unit.51">morn'</word>
+<phonword id="le711500.b.unit.52">saddam</phonword>
+<phonword id="le711500.b.unit.53">hussein</phonword>
+<word id="le711500.b.unit.63">ok</word>
+<word id="le711500.b.unit.83">if</word>
+<word id="le711500.b.unit.84">six</word>
+<word id="le711500.b.unit.85">twenty</word>
+<word id="le711500.b.unit.86">five</word>
+<word id="le711500.b.unit.89">ok</word>
+<word id="le711500.b.unit.90">love</word>
+<word id="le711500.b.unit.96">yeah</word>
+<word id="le711500.b.unit.97">ok</word>
+<word id="le711500.b.unit.98">love</word>
+<word id="le711500.b.unit.103">bye</word>
+<word id="le711500.b.unit.104">bye</word>
+<word id="le711500.b.unit.105">bye</word>
+<comment text="hang_up" id="le711500.b.unit.106"/>
+<comment text="end-ok" id="le711500.b.unit.107"/>
+</nite:root>

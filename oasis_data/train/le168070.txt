@@ -1,0 +1,39 @@
+b|i don't know whether you can help me to be truthful er i got a call from a mobile and he gave me his mobile number er which i've tried and er it is there's no response do you have the more popular they all have the same prefix numbers don't they these different systems do they not the well that's what i meant actually yeah ee i was given treble yes i don't know treble please yes just that thank you very much|expressOpinion
+b|er i got a call from a mobile and he gave me his mobile number er which i've tried and er it is there's no response do you have the more popular they all have the same prefix numbers don't they these different systems do they not the well that's what i meant actually yeah ee i was given treble yes i don't know treble please yes just that thank you very much|inform
+b|and he gave me his mobile number er which i've tried|inform
+b|and er it is there's no response do you have the more popular they all have the same prefix numbers don't they these different systems do they not the well that's what i meant actually yeah ee i was given treble yes i don't know treble please yes just that thank you very much|inform
+b|do you have the more popular they all have the same prefix numbers don't they these different systems do they not the well that's what i meant actually yeah ee i was given treble yes i don't know treble please yes just that thank you very much|reqInfo
+b|they all have the same prefix numbers don't they these different systems|reqInfo
+a|mm|backch
+a|no|answ
+a|they don't sir|answElab
+b|do they not the|confirm
+a|no|ackn
+a|each each company has different prefixes what|inform
+b|well|init
+b|that's what i meant actually|inform
+b|yeah|ackn
+a|yeah|ackn
+b|ee i was given treble yes i don't know treble please yes just that thank you very much|answ
+a|yeah|ackn
+a|and what's the rest of the number please|reqInfo
+b|yes|backch
+a|let me try it for you sir it might be because you're dialling from a switchboard it might not let you dial that number actually i don't know if that's too short treble treble yes yeah it actually belongs to i can give you the er number for if you like thank you if you hold the line please the number you require is double double just that sir that's correct thank you bye bye|informIntent
+a|it might be because you're dialling from a switchboard it might not let you dial that number|inform
+a|actually i don't know if that's too short treble treble yes yeah it actually belongs to i can give you the er number for if you like thank you if you hold the line please the number you require is double double just that sir that's correct thank you bye bye|inform
+b|i don't know|backch
+a|yes|ackn
+a|yeah|ackn
+a|it actually belongs to i can give you the er number for if you like thank you if you hold the line please the number you require is double double just that sir that's correct thank you bye bye|inform
+a|i can give you the er number for if you like|offer
+a|thank you|thank
+a|if you hold the line please the number you require is double double just that sir that's correct thank you bye bye|hold
+a|the number you require is double double just that sir that's correct thank you bye bye|inform
+b|please|backch
+b|yes|backch
+b|just that|confirm
+b|thank you very much|thank
+a|just that sir|backch
+a|that's correct|backch
+a|thank you|thank
+a|bye bye|bye

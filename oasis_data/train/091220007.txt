@@ -1,0 +1,19 @@
+b|hi|greet
+b|could i speak to someone with a query on my Friends And Family please|direct
+a|um yes|accept
+a|uh what's your telephone number|reqInfo
+b|uh breaths out okay okay okay yep it's|answ
+a|i'm afraid i can't do anything on my|inform
+a|oh computer's just locked me out|inform
+a|hold on righty ho if you just bear with me a moment i'll have to transfer you i'm afraid through to a colleague because i can't dial anything on my on my um keypad if you just bear with me a moment|hold
+a|righty ho|ackn
+a|if you just bear with me a moment|hold
+a|i'll have to transfer you i'm afraid through to a colleague|expressRegret
+a|because i can't dial anything on my on my um keypad|inform
+a|if you just bear with me a moment|hold
+b|breaths out|backch
+b|okay|backch
+b|okay|backch
+b|okay|backch
+b|yep|ackn
+b|it's|inform

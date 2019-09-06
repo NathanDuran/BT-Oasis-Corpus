@@ -1,0 +1,12 @@
+b|oh good afternoon|greet
+b|three times i've dialled this number|inform
+b|and it rings and then just all of a sudden cuts off|inform
+b|and nobody's at the other end|inform
+a|i'm sorry|expressRegret
+a|what's the code and number you were dialling please|reqInfo
+b|that's okay then|answ
+a|thank you i'll just try the call for you can you hold the line for me a moment thank you|thank
+a|i'll just try the call for you|informIntent
+a|can you hold the line for me a moment|hold
+a|thank you|thank
+b|okay then|backch

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le769810.unit.b">
+<word id="le769810.b.unit.2">can</word>
+<word id="le769810.b.unit.3">you</word>
+<word id="le769810.b.unit.4">tell</word>
+<word id="le769810.b.unit.5">me</word>
+<word id="le769810.b.unit.6">the</word>
+<word id="le769810.b.unit.7">number</word>
+<word id="le769810.b.unit.8">of</word>
+<word id="le769810.b.unit.9">um</word>
+<sil BTlength="" id="le769810.b.unit.10"/>
+<word id="le769810.b.unit.11">a</word>
+<word id="le769810.b.unit.12">name</word>
+<stdzcode id="le769810.b.unit.13" description="name"/>
+<pncode type="surname" id="le769810.b.unit.14"/>
+<word id="le769810.b.unit.29">yes</word>
+<word id="le769810.b.unit.30">please</word>
+</nite:root>

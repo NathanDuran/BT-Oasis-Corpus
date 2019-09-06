@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le213430.unit.b">
+<word id="le213430.b.unit.2">hello</word>
+<word id="le213430.b.unit.3">yes</word>
+<word id="le213430.b.unit.4">could</word>
+<word id="le213430.b.unit.5">i</word>
+<word id="le213430.b.unit.6">have</word>
+<word id="le213430.b.unit.7">a</word>
+<word id="le213430.b.unit.8">number</word>
+<word id="le213430.b.unit.9">for</word>
+<pncode type="business" id="le213430.b.unit.10"/>
+<pncode type="business" id="le213430.b.unit.11"/>
+<pncode type="business" id="le213430.b.unit.12"/>
+<pncode type="business" id="le213430.b.unit.13"/>
+<word id="le213430.b.unit.14">please</word>
+<word id="le213430.b.unit.33">yes</word>
+<word id="le213430.b.unit.34">please</word>
+<word id="le213430.b.unit.37">sorry</word>
+<word id="le213430.b.unit.38">about</word>
+<word id="le213430.b.unit.39">that</word>
+<comment text="through_to_directories" id="le213430.b.unit.40"/>
+<comment text="end-ok" id="le213430.b.unit.41"/>
+</nite:root>

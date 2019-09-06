@@ -1,0 +1,13 @@
+b|could i have an alarm call for a half eight in the morning please|direct
+a|for half eight|confirm
+a|okay|accept
+a|just hold while i confirm the booking for you please okay that's booked for you then and we'll call you at eight thirty thank you bye|informIntent
+a|okay|init
+a|that's booked for you then|inform
+a|and we'll call you at eight thirty|informIntent
+b|yeah|backch
+b|right okay|ackn
+b|thanks a lot|thank
+a|thank you|thank
+a|bye|bye
+b|bye|bye

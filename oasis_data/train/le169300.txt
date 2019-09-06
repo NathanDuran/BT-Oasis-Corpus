@@ -1,0 +1,21 @@
+b|hi ya i'm trying to phone the um in and every time i ring it it it rings er it seems as though it's answered and then there's just a weird weird noise then is it's not an answer phone or anything it's you thank you thanks|greet
+b|i'm trying to phone the um in|informIntent
+b|and every time i ring it it it rings er it seems as though it's answered and then there's just a weird weird noise then is it's not an answer phone or anything it's you thank you thanks|inform
+b|er it seems as though it's answered and then there's just a weird weird noise then is it's not an answer phone or anything it's you thank you thanks|inform
+b|and then there's just a weird weird noise|inform
+b|it's not an answer phone or anything|inform
+a|right|backch
+a|i'm sorry|backch
+a|what's the code and number you were dialling please|reqInfo
+b|it's you thank you thanks|answ
+a|thank you i'll just try that call one more time for you the first time i tried the call it seemed as though the receiver was picked up and then put down again but then there was no reply the second time so if you hold on a moment for me i'll put you through to the faults and they'll do some more tests on the line for you|thank
+a|i'll just try that call one more time for you|informIntent
+b|you|backch
+b|thank you thanks|thank
+a|the first time i tried the call it seemed as though the receiver was picked up and then put down again|inform
+a|but then there was no reply the second time|inform
+a|so|init
+a|if you hold on a moment for me|hold
+a|i'll put you through to the faults|informIntent
+a|and they'll do some more tests on the line for you|informIntent
+b|thanks|thank

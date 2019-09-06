@@ -1,0 +1,9 @@
+b|ah hello|greet
+b|um uh i've tried the um|inform
+b|and i can't seem to get the number of railway station|inform
+a|mm|backch
+a|right well|ackn
+a|you need directory enquiries|inform
+a|shall i connect you|offer
+b|please|accept
+a|thank you|thank

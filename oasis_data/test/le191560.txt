@@ -1,0 +1,34 @@
+b|hello|greet
+b|do you try a number i can't seem to get hold of|reqInfo
+a|certainly|answ
+a|is it engaged all the while or is it|reqInfo
+a|it's a shop is it|confirm
+a|and what's happening when you dial them|reqInfo
+b|er i'm getting no reply some|answ
+b|i tried yesterday and today so far|inform
+a|alright them|backch
+a|i'm sorry about that|expressRegret
+a|what was the number you were calling please|reqInfo
+b|its' from uh stamps and stuff there's a funny one isn't it did you say you were ta um yes and yesterday i thought well yesterday it might be a half closing or something um but that's alright|answ
+b|from uh stamps and stuff there's a funny one isn't it did you say you were ta um yes and yesterday i thought well yesterday it might be a half closing or something um but that's alright|refer
+a|yep|ackn
+a|lets have a look at that for you and what's the name of the business you're trying to get through to stamps and stuff is it yes that's right let's just try that for you you've left it ringing for a little while have you hmm but they're not in again today either by the sounds of it right what i'll do is put you through to our fault department and they'll test the line for you to make sure their phone's ringing at the other end good morning um|informIntent
+a|and what's the name of the business you're trying to get through to|reqInfo
+b|uh stamps and stuff there's a funny one isn't it did you say you were ta um yes and yesterday i thought well yesterday it might be a half closing or something um but that's alright|answ
+a|stamps and stuff is it|confirm
+b|there's a funny one isn't it|expressOpinion
+a|yes|ackn
+a|that's right let's just try that for you you've left it ringing for a little while have you hmm but they're not in again today either by the sounds of it right what i'll do is put you through to our fault department and they'll test the line for you to make sure their phone's ringing at the other end good morning um|ackn
+a|let's just try that for you|informIntent
+b|ta um yes and yesterday i thought well yesterday it might be a half closing or something um but that's alright|thank
+a|you've left it ringing for a little while have you|reqInfo
+b|um yes|answ
+b|and yesterday i thought well yesterday it might be a half closing or something|inform
+a|hmm|ackn
+a|but they're not in again today either by the sounds of it right|inform
+a|what i'll do is put you through to our fault department|informIntent
+a|and they'll test the line for you to make sure their phone's ringing at the other end|inform
+b|um|backch
+b|but that's|backch
+b|alright|ackn
+a|good morning um|greet

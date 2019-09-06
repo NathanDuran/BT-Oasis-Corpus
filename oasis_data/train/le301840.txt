@@ -1,0 +1,32 @@
+b|hello can you check a number for me it keeps coming back as not being recognised and i know it's a phone box i've rung it before me daughter's waiting near it you see it's it's in it's i know it's what's the code for then it's um no it's not where is it now um not the one further up that's it   oh i've got it the wrong way round right thanks a lot|greet
+b|can you check a number for me|direct
+b|it keeps coming back as not being recognised|inform
+b|and i know it's a phone box|inform
+b|i've rung it before|inform
+a|yes|accept
+b|me daughter's waiting near it you see|inform
+a|what's the code and number|reqInfo
+b|it's it's in it's i know it's what's the code for then it's um no it's not where is it now um not the one further up that's it   oh i've got it the wrong way round right thanks a lot|answ
+b|it's i know it's what's the code for then it's um no it's not where is it now um not the one further up that's it   oh i've got it the wrong way round right thanks a lot|answElab
+a|thank you is where abouts in   i don't i say it's no good asking me about i don't know it oh dear oh um yeah alright thanks bye|thank
+b|i know it's what's the code for then it's um no it's not where is it now um not the one further up that's it   oh i've got it the wrong way round right thanks a lot|inform
+a|where abouts in   i don't i say it's no good asking me about i don't know it oh dear oh um yeah alright thanks bye|reqInfo
+b|it's um no it's not where is it now um not the one further up that's it   oh i've got it the wrong way round right thanks a lot|answ
+b|no|negate
+b|it's not|negate
+b|where is it now|selfTalk
+b|um not the one further up that's it   oh i've got it the wrong way round right thanks a lot|selfTalk
+b|the one further up|selfTalk
+b|that's it|inform
+a|i say it's no good asking me about i don't know it oh dear oh um yeah alright thanks bye|inform
+a|i don't know it oh dear oh um yeah alright thanks bye|inform
+a|oh dear|exclaim
+a|oh um yeah alright thanks bye|confirm
+b|oh|exclaim
+b|i've got it the wrong way round|inform
+a|yeah|ackn
+b|right|ackn
+b|thanks a lot|thank
+a|alright|init
+a|thanks|thank
+a|bye|bye

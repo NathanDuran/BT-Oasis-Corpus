@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le300020.unit.b">
+<word id="le300020.b.unit.2">ah</word>
+<word id="le300020.b.unit.3">good</word>
+<word id="le300020.b.unit.4">afternoon</word>
+<word id="le300020.b.unit.5">i</word>
+<word id="le300020.b.unit.6">don't</word>
+<word id="le300020.b.unit.7">know</word>
+<word id="le300020.b.unit.8">whether</word>
+<word id="le300020.b.unit.9">you</word>
+<word id="le300020.b.unit.10">you</word>
+<word id="le300020.b.unit.11">can</word>
+<word id="le300020.b.unit.12">help</word>
+<word id="le300020.b.unit.13">us</word>
+<word id="le300020.b.unit.14">in</word>
+<word id="le300020.b.unit.15">any</word>
+<word id="le300020.b.unit.16">way</word>
+<sil BTlength="" id="le300020.b.unit.17"/>
+<bcanchor id="le300020.bcanchorb.1"><nite:pointer href="le300020.a.lturn.xml#id(le300020.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le300020.b.unit.19">but</word>
+<word id="le300020.b.unit.20">um</word>
+<word id="le300020.b.unit.21">we're</word>
+<pncode type="business" id="le300020.b.unit.22"/>
+<pncode type="business" id="le300020.b.unit.23"/>
+<word id="le300020.b.unit.24">in</word>
+<pncode type="road" id="le300020.b.unit.25"/>
+<pncode type="road" id="le300020.b.unit.26"/>
+<pncode type="road" id="le300020.b.unit.29"/>
+<pncode type="road" id="le300020.b.unit.30"/>
+<sil BTlength="" id="le300020.b.unit.31"/>
+<word id="le300020.b.unit.32">outside</word>
+<word id="le300020.b.unit.33">our</word>
+<word id="le300020.b.unit.34">shop</word>
+<bcanchor id="le300020.bcanchorb.2"><nite:pointer href="le300020.a.lturn.xml#id(le300020.lturn.4.1)" role="bc"/></bcanchor>
+<word id="le300020.b.unit.36">there's</word>
+<word id="le300020.b.unit.37">a</word>
+<word id="le300020.b.unit.38">green</word>
+<word id="le300020.b.unit.39">box</word>
+<sil BTlength="" id="le300020.b.unit.40"/>
+<bcanchor id="le300020.bcanchorb.3"><nite:pointer href="le300020.a.lturn.xml#id(le300020.lturn.4.2)" role="bc"/></bcanchor>
+<word id="le300020.b.unit.42">now</word>
+<word id="le300020.b.unit.43">somebody's</word>
+<word id="le300020.b.unit.44">broke</word>
+<word id="le300020.b.unit.45">into</word>
+<word id="le300020.b.unit.46">it</word>
+<word id="le300020.b.unit.49">the</word>
+<word id="le300020.b.unit.50">lock</word>
+<word id="le300020.b.unit.51">is</word>
+<word id="le300020.b.unit.52">off</word>
+<word id="le300020.b.unit.53">and</word>
+<word id="le300020.b.unit.54">it</word>
+<word id="le300020.b.unit.55">the</word>
+<word id="le300020.b.unit.56">wind's</word>
+<word id="le300020.b.unit.57">blowing</word>
+<word id="le300020.b.unit.58">and</word>
+<word id="le300020.b.unit.59">you</word>
+<word id="le300020.b.unit.60">see</word>
+<word id="le300020.b.unit.61">all</word>
+<word id="le300020.b.unit.62">the</word>
+<word id="le300020.b.unit.63">anybody</word>
+<word id="le300020.b.unit.64">go</word>
+<word id="le300020.b.unit.65">along</word>
+<word id="le300020.b.unit.66">and</word>
+<word id="le300020.b.unit.67">pull</word>
+<word id="le300020.b.unit.68">all</word>
+<word id="le300020.b.unit.69">the</word>
+<word id="le300020.b.unit.70">lines</word>
+<word id="le300020.b.unit.71">out</word>
+<word id="le300020.b.unit.85">yeah</word>
+<word id="le300020.b.unit.91">right</word>
+<word id="le300020.b.unit.92">thank</word>
+<word id="le300020.b.unit.93">you</word>
+<word id="le300020.b.unit.94">very</word>
+<word id="le300020.b.unit.95">much</word>
+<word id="le300020.b.unit.96">for</word>
+<word id="le300020.b.unit.97">calling</word>
+<word id="le300020.b.unit.98">i'll</word>
+<word id="le300020.b.unit.99">pass</word>
+<word id="le300020.b.unit.100">that</word>
+<word id="le300020.b.unit.101">through</word>
+<word id="le300020.b.unit.102">to</word>
+<word id="le300020.b.unit.103">the</word>
+<word id="le300020.b.unit.104">engineers</word>
+<word id="le300020.b.unit.105">on</word>
+<num id="le300020.b.unit.106"/>
+<num id="le300020.b.unit.107"/>
+<num id="le300020.b.unit.108"/>
+<phonword id="le300020.b.unit.109">rightyo</phonword>
+<word id="le300020.b.unit.110">thanks</word>
+<word id="le300020.b.unit.111">a</word>
+<word id="le300020.b.unit.112">lot</word>
+<word id="le300020.b.unit.113">goodbye</word>
+</nite:root>

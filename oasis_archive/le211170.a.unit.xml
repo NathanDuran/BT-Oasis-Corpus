@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le211170.unit.a">
+<stdzcode id="le211170.a.unit.1" description="g"/>
+<word id="le211170.a.unit.18">sorry</word>
+<word id="le211170.a.unit.25">um</word>
+<word id="le211170.a.unit.26">yes</word>
+<word id="le211170.a.unit.27">it</word>
+<word id="le211170.a.unit.28">is</word>
+<word id="le211170.a.unit.29">indeed</word>
+<word id="le211170.a.unit.31">yes</word>
+<word id="le211170.a.unit.32">it</word>
+<word id="le211170.a.unit.33">is</word>
+<word id="le211170.a.unit.34">indeed</word>
+<word id="le211170.a.unit.41">the</word>
+<word id="le211170.a.unit.42">date</word>
+<word id="le211170.a.unit.43">is</word>
+<word id="le211170.a.unit.44">the</word>
+<word id="le211170.a.unit.45">twenty</word>
+<word id="le211170.a.unit.46">eighth</word>
+<word id="le211170.a.unit.51">you're</word>
+<word id="le211170.a.unit.52">welcome</word>
+<word id="le211170.a.unit.56">byebye</word>
+<comment text="hangs_up" id="le211170.a.unit.57"/>
+<comment text="end_-ok" id="le211170.a.unit.58"/>
+</nite:root>

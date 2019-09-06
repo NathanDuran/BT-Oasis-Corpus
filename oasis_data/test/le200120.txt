@@ -1,0 +1,20 @@
+b|right|ackn
+b|hello|greet
+b|i'm just wanting to enquire|reqInfo
+b|i've got that thing on my phone|inform
+b|er er people have to reveal their phone number before they can get through|inform
+b|how is it that if someone's ex directory|reqInfo
+b|what code do they have to press to sort of ring me first so that i can accept their call|reqInfo
+a|they need to press sorry is have you got it on your line before you dial the number okay bye bye|answ
+a|sorry|expressRegret
+a|is have you got it on your line|reqInfo
+b|yes|answ
+b|i have|answElab
+b|it's just that my sister she's also ex directory|inform
+b|and we didn't know what number she had to dial so that i could accept her call|inform
+b|okay|ackn
+b|that's lovely|appreciate
+b|thanks very much then|thank
+b|bye|bye
+a|okay|backch
+a|bye bye|bye

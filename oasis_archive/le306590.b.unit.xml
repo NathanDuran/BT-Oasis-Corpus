@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le306590.unit.b">
+<word id="le306590.b.unit.2">hello</word>
+<word id="le306590.b.unit.3">could</word>
+<word id="le306590.b.unit.4">i</word>
+<word id="le306590.b.unit.5">have</word>
+<word id="le306590.b.unit.6">a</word>
+<word id="le306590.b.unit.7">number</word>
+<word id="le306590.b.unit.8">for</word>
+<pncode type="business" id="le306590.b.unit.9"/>
+<word id="le306590.b.unit.10">please</word>
+<word id="le306590.b.unit.29">no</word>
+<word id="le306590.b.unit.30">it's</word>
+<word id="le306590.b.unit.31">alright</word>
+<word id="le306590.b.unit.32">i'll</word>
+<word id="le306590.b.unit.33">do</word>
+<word id="le306590.b.unit.34">it</word>
+<word id="le306590.b.unit.35">myself</word>
+<word id="le306590.b.unit.39">pardon</word>
+<word id="le306590.b.unit.49">the</word>
+<pncode type="region" id="le306590.b.unit.50"/>
+<word id="le306590.b.unit.51">i</word>
+<word id="le306590.b.unit.52">didn't</word>
+<word id="le306590.b.unit.53">say</word>
+<pncode type="region" id="le306590.b.unit.54"/>
+<word id="le306590.b.unit.55">i</word>
+<word id="le306590.b.unit.56">said</word>
+<pncode type="business" id="le306590.b.unit.57"/>
+<word id="le306590.b.unit.61"/>
+<comment text="laughs" id="le306590.b.unit.62"/>
+<word id="le306590.b.unit.63"/>
+<word id="le306590.b.unit.66">alright</word>
+<word id="le306590.b.unit.67">ta</word>
+<word id="le306590.b.unit.68">ta</word>
+</nite:root>

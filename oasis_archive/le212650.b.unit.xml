@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le212650.unit.b">
+<word id="le212650.b.unit.2">hello</word>
+<word id="le212650.b.unit.3">can</word>
+<word id="le212650.b.unit.4">you</word>
+<word id="le212650.b.unit.5">give</word>
+<word id="le212650.b.unit.6">me</word>
+<word id="le212650.b.unit.7">the</word>
+<word id="le212650.b.unit.8">number</word>
+<word id="le212650.b.unit.9">of</word>
+<partword id="le212650.b.unit.10">l</partword>
+<pncode type="business" id="le212650.b.unit.11"/>
+<pncode type="business" id="le212650.b.unit.12"/>
+<partword id="le212650.b.unit.13">air</partword>
+<pncode type="business" id="le212650.b.unit.14"/>
+<word id="le212650.b.unit.15">please</word>
+<word id="le212650.b.unit.32">yes</word>
+<word id="le212650.b.unit.33">please</word>
+<comment text="transfer" id="le212650.b.unit.34"/>
+<comment text="end_-_ok" id="le212650.b.unit.35"/>
+</nite:root>

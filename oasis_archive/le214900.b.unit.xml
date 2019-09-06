@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le214900.unit.b">
+<word id="le214900.b.unit.2">hello</word>
+<partword id="le214900.b.unit.3">um</partword>
+<sil BTlength="" id="le214900.b.unit.4"/>
+<word id="le214900.b.unit.5">i</word>
+<word id="le214900.b.unit.6">was</word>
+<word id="le214900.b.unit.7">wondering</word>
+<word id="le214900.b.unit.8">how</word>
+<word id="le214900.b.unit.9">much</word>
+<word id="le214900.b.unit.10">it</word>
+<word id="le214900.b.unit.11">would</word>
+<word id="le214900.b.unit.12">cost</word>
+<word id="le214900.b.unit.13">a</word>
+<word id="le214900.b.unit.14">minute</word>
+<word id="le214900.b.unit.15">for</word>
+<word id="le214900.b.unit.16">a</word>
+<word id="le214900.b.unit.17">call</word>
+<word id="le214900.b.unit.18">to</word>
+<pncode type="town" id="le214900.b.unit.19"/>
+<word id="le214900.b.unit.20">or</word>
+<word id="le214900.b.unit.21">just</word>
+<word id="le214900.b.unit.22">outside</word>
+<pncode type="town" id="le214900.b.unit.23"/>
+<word id="le214900.b.unit.24">from</word>
+<sil BTlength="" id="le214900.b.unit.25"/>
+<pncode type="town" id="le214900.b.unit.26"/>
+<word id="le214900.b.unit.55">well</word>
+<word id="le214900.b.unit.56">yeah</word>
+<word id="le214900.b.unit.57">after</word>
+<num id="le214900.b.unit.58"/>
+<word id="le214900.b.unit.59">o'clock</word>
+<bcanchor id="le214900.bcanchorb.1"><nite:pointer href="le214900.a.lturn.xml#id(le214900.lturn.4.1)" role="bc"/></bcanchor>
+<word id="le214900.b.unit.61">sort</word>
+<word id="le214900.b.unit.62">of</word>
+<word id="le214900.b.unit.63">time</word>
+<word id="le214900.b.unit.64">i</word>
+<word id="le214900.b.unit.65">mean</word>
+<word id="le214900.b.unit.66">i</word>
+<word id="le214900.b.unit.67">keep</word>
+<word id="le214900.b.unit.68">phoning</word>
+<word id="le214900.b.unit.69">up</word>
+<word id="le214900.b.unit.70">and</word>
+<word id="le214900.b.unit.71">i</word>
+<word id="le214900.b.unit.72">just</word>
+<word id="le214900.b.unit.73">suddenly</word>
+<word id="le214900.b.unit.74">thought</word>
+<word id="le214900.b.unit.75">is</word>
+<word id="le214900.b.unit.76">my</word>
+<word id="le214900.b.unit.77">bill</word>
+<word id="le214900.b.unit.78">going</word>
+<word id="le214900.b.unit.79">to</word>
+<word id="le214900.b.unit.80">be</word>
+<word id="le214900.b.unit.81">ridiculous</word>
+<word id="le214900.b.unit.82">or</word>
+<word id="le214900.b.unit.83">not</word>
+<word id="le214900.b.unit.108">oh</word>
+<word id="le214900.b.unit.109">really</word>
+<word id="le214900.b.unit.126">right</word>
+<word id="le214900.b.unit.128">that's</word>
+<bcanchor id="le214900.bcanchorb.2"><nite:pointer href="le214900.a.lturn.xml#id(le214900.lturn.10.1)" role="bc"/></bcanchor>
+<word id="le214900.b.unit.130">that's</word>
+<word id="le214900.b.unit.131">it's</word>
+<pncode type="region" id="le214900.b.unit.132"/>
+<word id="le214900.b.unit.133">just</word>
+<word id="le214900.b.unit.134">outside</word>
+<pncode type="town" id="le214900.b.unit.135"/>
+<word id="le214900.b.unit.136">is</word>
+<word id="le214900.b.unit.137">that</word>
+<word id="le214900.b.unit.138">all</word>
+<word id="le214900.b.unit.139">the</word>
+<word id="le214900.b.unit.140">same</word>
+<num id="le214900.b.unit.168"/>
+<word id="le214900.b.unit.169">p</word>
+<word id="le214900.b.unit.170">a</word>
+<word id="le214900.b.unit.171">minute</word>
+<word id="le214900.b.unit.174">oh</word>
+<word id="le214900.b.unit.175">that's</word>
+<word id="le214900.b.unit.176">a</word>
+<word id="le214900.b.unit.177">bargain</word>
+<word id="le214900.b.unit.178">i</word>
+<word id="le214900.b.unit.179">was</word>
+<word id="le214900.b.unit.180">well</word>
+<word id="le214900.b.unit.181">shocked</word>
+<word id="le214900.b.unit.182">one</word>
+<word id="le214900.b.unit.183">lad</word>
+<word id="le214900.b.unit.184">just</word>
+<word id="le214900.b.unit.185">told</word>
+<word id="le214900.b.unit.186">me</word>
+<word id="le214900.b.unit.187">it</word>
+<word id="le214900.b.unit.188">would</word>
+<word id="le214900.b.unit.189">be</word>
+<word id="le214900.b.unit.190">about</word>
+<word id="le214900.b.unit.191">a</word>
+<word id="le214900.b.unit.192">quid</word>
+<word id="le214900.b.unit.193">a</word>
+<word id="le214900.b.unit.194">minute</word>
+<word id="le214900.b.unit.195">and</word>
+<word id="le214900.b.unit.196">i</word>
+<word id="le214900.b.unit.197">was</word>
+<word id="le214900.b.unit.198">about</word>
+<word id="le214900.b.unit.201">alright</word>
+<bcanchor id="le214900.bcanchorb.3"><nite:pointer href="le214900.a.lturn.xml#id(le214900.lturn.16.1)" role="bc"/></bcanchor>
+<word id="le214900.b.unit.203">goes</word>
+<word id="le214900.b.unit.204">alright</word>
+<word id="le214900.b.unit.219">no</word>
+<word id="le214900.b.unit.220">it's</word>
+<word id="le214900.b.unit.221">home</word>
+<word id="le214900.b.unit.222">number</word>
+<word id="le214900.b.unit.223">well</word>
+<bcanchor id="le214900.bcanchorb.4"><nite:pointer href="le214900.a.lturn.xml#id(le214900.lturn.18.1)" role="bc"/></bcanchor>
+<word id="le214900.b.unit.228">i</word>
+<word id="le214900.b.unit.229">hope</word>
+<word id="le214900.b.unit.230">she's</word>
+<word id="le214900.b.unit.231">given</word>
+<word id="le214900.b.unit.232">me</word>
+<word id="le214900.b.unit.233">a</word>
+<word id="le214900.b.unit.234">number</word>
+<word id="le214900.b.unit.235">i</word>
+<word id="le214900.b.unit.236">hope</word>
+<word id="le214900.b.unit.237">it's</word>
+<word id="le214900.b.unit.238">her</word>
+<word id="le214900.b.unit.239">home</word>
+<word id="le214900.b.unit.240">number</word>
+<word id="le214900.b.unit.263">right</word>
+<word id="le214900.b.unit.264">like</word>
+<word id="le214900.b.unit.265">yeah</word>
+<word id="le214900.b.unit.271">i'd</word>
+<word id="le214900.b.unit.272">only</word>
+<word id="le214900.b.unit.273">phone</word>
+<word id="le214900.b.unit.274">before</word>
+<word id="le214900.b.unit.275">six</word>
+<partword id="le214900.b.unit.276">any</partword>
+<word id="le214900.b.unit.277">after</word>
+<word id="le214900.b.unit.278">six</word>
+<word id="le214900.b.unit.279">anyway</word>
+<word id="le214900.b.unit.288">well</word>
+<word id="le214900.b.unit.289">what</word>
+<word id="le214900.b.unit.290">a</word>
+<word id="le214900.b.unit.291">bargain</word>
+<word id="le214900.b.unit.292">thanks</word>
+<word id="le214900.b.unit.293">very</word>
+<word id="le214900.b.unit.294">much</word>
+<word id="le214900.b.unit.298">cheers</word>
+<word id="le214900.b.unit.299">bye</word>
+</nite:root>

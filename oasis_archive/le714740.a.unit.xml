@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le714740.unit.a">
+<stdzcode id="le714740.a.unit.1" description="name"/>
+<word id="le714740.a.unit.9">its</word>
+<word id="le714740.a.unit.10">Monday</word>
+<word id="le714740.a.unit.11">today</word>
+<word id="le714740.a.unit.12">caller</word>
+<word id="le714740.a.unit.16">it's</word>
+<word id="le714740.a.unit.17">Monday</word>
+<word id="le714740.a.unit.21">the</word>
+<word id="le714740.a.unit.22">time</word>
+<word id="le714740.a.unit.23">is</word>
+<sil BTlength="" id="le714740.a.unit.24"/>
+<word id="le714740.a.unit.25">seven</word>
+<word id="le714740.a.unit.26">past</word>
+<word id="le714740.a.unit.27">seven</word>
+<word id="le714740.a.unit.28">in</word>
+<word id="le714740.a.unit.29">the</word>
+<word id="le714740.a.unit.30">evening</word>
+<word id="le714740.a.unit.34">welcome</word>
+<gap id="le714740.a.unit.35"/>
+<word id="le714740.a.unit.36"/>
+<partword id="le714740.a.unit.38">m</partword>
+<word id="le714740.a.unit.39">my</word>
+<word id="le714740.a.unit.40">pleasure</word>
+<comment text="hang_up" id="le714740.a.unit.41"/>
+<comment text="end-ok" id="le714740.a.unit.42"/>
+</nite:root>

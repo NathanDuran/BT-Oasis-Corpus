@@ -1,0 +1,21 @@
+b|hello|greet
+b|can you tell me about the car call divert please|reqInfo
+a|how it works|reqInfo
+b|yeah|answ
+b|and if i wanted to go on it|inform
+b|could i go on it as soon as possible|reqInfo
+a|call diversion you mean do you|reqInfo
+b|yeah|answ
+a|yeah|answ
+a|it's four pound a quarter including vat|answElab
+b|right|ackn
+a|it's for a minimum term of months|answElab
+b|right|ackn
+a|uh we can get it put on the line pretty quickly for you|answElab
+b|yeah|ackn
+b|cause i it's sort of quite urgent really|inform
+b|so|init
+b|really i'd like it as soon as|direct
+a|okay|accept
+a|let's take you're telephone number please|reqInfo
+b|if that's possible|directElab

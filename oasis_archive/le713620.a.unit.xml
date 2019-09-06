@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le713620.unit.a">
+<stdzcode id="le713620.a.unit.1" description="name"/>
+<word id="le713620.a.unit.43">certainly</word>
+<word id="le713620.a.unit.44">if</word>
+<word id="le713620.a.unit.45">i</word>
+<word id="le713620.a.unit.46">can</word>
+<word id="le713620.a.unit.47">take</word>
+<word id="le713620.a.unit.48">the</word>
+<word id="le713620.a.unit.49">code</word>
+<word id="le713620.a.unit.50">and</word>
+<word id="le713620.a.unit.51">number</word>
+<word id="le713620.a.unit.52">please</word>
+<num id="le713620.a.unit.60"/>
+<num id="le713620.a.unit.61"/>
+<num id="le713620.a.unit.62"/>
+<word id="le713620.a.unit.63">double</word>
+<num id="le713620.a.unit.64"/>
+<num id="le713620.a.unit.67"/>
+<num id="le713620.a.unit.68"/>
+<num id="le713620.a.unit.73"/>
+<num id="le713620.a.unit.74"/>
+<num id="le713620.a.unit.75"/>
+<num id="le713620.a.unit.76"/>
+<word id="le713620.a.unit.77">thank</word>
+<word id="le713620.a.unit.78">you</word>
+<sil BTlength="7s" id="le713620.a.unit.79"/>
+<word id="le713620.a.unit.80">right</word>
+<word id="le713620.a.unit.81">unfortunately</word>
+<word id="le713620.a.unit.82">i'm</word>
+<word id="le713620.a.unit.83">getting</word>
+<word id="le713620.a.unit.84">an</word>
+<word id="le713620.a.unit.85">engaged</word>
+<word id="le713620.a.unit.86">also</word>
+<word id="le713620.a.unit.87">if</word>
+<word id="le713620.a.unit.88">you</word>
+<word id="le713620.a.unit.89">bear</word>
+<word id="le713620.a.unit.90">with</word>
+<word id="le713620.a.unit.91">me</word>
+<word id="le713620.a.unit.92">i</word>
+<word id="le713620.a.unit.93">will</word>
+<word id="le713620.a.unit.94">make</word>
+<word id="le713620.a.unit.95">enquiries</word>
+<word id="le713620.a.unit.96">for</word>
+<word id="le713620.a.unit.97">you</word>
+<word id="le713620.a.unit.104">good</word>
+<word id="le713620.a.unit.105">afternoon</word>
+<word id="le713620.a.unit.106">this</word>
+<word id="le713620.a.unit.107">is</word>
+<lcode id="le713620.a.unit.108"/>
+<lcode id="le713620.a.unit.109"/>
+<pncode type="town" id="le713620.a.unit.110"/>
+<word id="le713620.a.unit.111">here</word>
+<word id="le713620.a.unit.112">with</word>
+<word id="le713620.a.unit.113">a</word>
+<word id="le713620.a.unit.114">customer</word>
+<word id="le713620.a.unit.115">on</word>
+<word id="le713620.a.unit.116">line</word>
+<word id="le713620.a.unit.117">can</word>
+<word id="le713620.a.unit.118">you</word>
+<word id="le713620.a.unit.119">check</word>
+<word id="le713620.a.unit.120">for</word>
+<word id="le713620.a.unit.121">engaged</word>
+<word id="le713620.a.unit.122">please</word>
+<word id="le713620.a.unit.124">it's</word>
+<word id="le713620.a.unit.125">on</word>
+<num id="le713620.a.unit.126"/>
+<num id="le713620.a.unit.127"/>
+<num id="le713620.a.unit.128"/>
+<word id="le713620.a.unit.129">double</word>
+<num id="le713620.a.unit.130"/>
+<num id="le713620.a.unit.136"/>
+<num id="le713620.a.unit.137"/>
+<num id="le713620.a.unit.138"/>
+<num id="le713620.a.unit.142"/>
+<num id="le713620.a.unit.143"/>
+<num id="le713620.a.unit.144"/>
+<word id="le713620.a.unit.152">thank</word>
+<word id="le713620.a.unit.153">you</word>
+<sil BTlength="8s" id="le713620.a.unit.154"/>
+<word id="le713620.a.unit.158">hello</word>
+<word id="le713620.a.unit.165">it</word>
+<word id="le713620.a.unit.166">is</word>
+<bcanchor id="le713620.bcanchora.1"><nite:pointer href="le713620.x.lturn.xml#id(le713620.lturn.24.1)" role="bc"/></bcanchor>
+<word id="le713620.a.unit.168">thank</word>
+<word id="le713620.a.unit.169">you</word>
+<word id="le713620.a.unit.170">very</word>
+<word id="le713620.a.unit.171">much</word>
+<word id="le713620.a.unit.174">byebye</word>
+<sil BTlength="" id="le713620.a.unit.175"/>
+<word id="le713620.a.unit.176">hello</word>
+<word id="le713620.a.unit.178">that</word>
+<word id="le713620.a.unit.179">line</word>
+<word id="le713620.a.unit.180">is</word>
+<word id="le713620.a.unit.181">engaged</word>
+<word id="le713620.a.unit.182">in</word>
+<word id="le713620.a.unit.183">speech</word>
+<word id="le713620.a.unit.184">at</word>
+<word id="le713620.a.unit.185">the</word>
+<word id="le713620.a.unit.186">moment</word>
+<word id="le713620.a.unit.190">ok</word>
+<word id="le713620.a.unit.193">bye</word>
+<comment text="end-ok" id="le713620.a.unit.194"/>
+</nite:root>

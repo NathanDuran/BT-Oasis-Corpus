@@ -1,0 +1,37 @@
+b|oh hello|greet
+b|the okay|greet
+a|an alarm call|confirm
+a|what time would you like the call|reqDirect
+b|er o clock|direct
+b|yeah|accept
+a|hold the line while i confirm that please|informIntent
+b|ok|accept
+b|and it'll be rough tomorrow and Sunday yeah please yes same time yes please the twenty fifth and twenty sixth yes lovely ok then that's it is it ok then thank you goodbye|inform
+a|right|ackn
+a|that's booked for tomorrow|inform
+b|yeah|ackn
+a|ok|init
+a|you want to book another one for Sunday|confirm
+b|please|direct
+b|yes same time yes please the twenty fifth and twenty sixth yes lovely ok then that's it is it ok then thank you goodbye|directElab
+a|ok is that for the same time so that'll be the twenty sixth yep ok that one's booked for you at the twenty sixth ok right thank you thanks bye|accept
+a|is that for the same time|reqInfo
+b|same time|answ
+b|yes please the twenty fifth and twenty sixth yes lovely ok then that's it is it ok then thank you goodbye|answElab
+a|so|init
+a|that'll be the twenty sixth|confirm
+b|the twenty fifth and twenty sixth yes|confirm
+a|yep ok that one's booked for you at the twenty sixth ok right thank you thanks bye|accept
+a|ok|ackn
+a|that one's booked for you at the twenty sixth|inform
+b|lovely|appreciate
+a|ok|init
+b|ok then|init
+b|that's it is it|reqInfo
+a|right|ackn
+a|thank you|thank
+b|ok then|init
+b|thank you|thank
+b|goodbye|bye
+a|thanks|thank
+a|bye|bye

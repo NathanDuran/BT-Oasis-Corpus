@@ -1,0 +1,18 @@
+b|oh could you get me a telephone number please|direct
+a|certainly|accept
+a|what difficulties were you having with the number|reqInfo
+b|pardon|pardon
+a|sorry|expressRegret
+a|you have a number and you're having trouble with it or you're after a|confirm
+b|i just i just do it|inform
+b|i think it's changed the|expressOpinion
+b|i've been using it|inform
+b|and i it i i can't get any reply|inform
+a|what was the number please|reqInfo
+b|the number i want is thank you if you will please|answ
+a|right|ackn
+a|you'll need directory enquiries on shall i put you through to them thank you|inform
+a|shall i put you through to them|offer
+b|thank you|thank
+b|if you will please|accept
+a|thank you|backch

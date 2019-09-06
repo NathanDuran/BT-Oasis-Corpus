@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le209030.unit.a">
+<stdzcode id="le209030.a.unit.1" description="g"/>
+<word id="le209030.a.unit.13">certainly</word>
+<word id="le209030.a.unit.14">for</word>
+<word id="le209030.a.unit.15">what</word>
+<word id="le209030.a.unit.16">time</word>
+<word id="le209030.a.unit.20">six</word>
+<word id="le209030.a.unit.21">o'clock</word>
+<bcanchor id="le209030.bcanchora.1"><nite:pointer href="le209030.b.lturn.xml#id(le209030.lturn.5.1)" role="bc"/></bcanchor>
+<word id="le209030.a.unit.23">oh</word>
+<sil BTlength="7s" id="le209030.a.unit.24"/>
+<word id="le209030.a.unit.25">do</word>
+<word id="le209030.a.unit.26">you</word>
+<word id="le209030.a.unit.27">have</word>
+<word id="le209030.a.unit.28">an</word>
+<word id="le209030.a.unit.29">answering</word>
+<word id="le209030.a.unit.30">machine</word>
+<word id="le209030.a.unit.31">please</word>
+<word id="le209030.a.unit.35">ok</word>
+<word id="le209030.a.unit.36">right</word>
+<word id="le209030.a.unit.37">i'm</word>
+<word id="le209030.a.unit.38">afraid</word>
+<word id="le209030.a.unit.39">six</word>
+<word id="le209030.a.unit.40">is</word>
+<word id="le209030.a.unit.41">fully</word>
+<word id="le209030.a.unit.42">booked</word>
+<word id="le209030.a.unit.43">can</word>
+<word id="le209030.a.unit.44">we</word>
+<word id="le209030.a.unit.45">call</word>
+<word id="le209030.a.unit.46">you</word>
+<word id="le209030.a.unit.47">five</word>
+<word id="le209030.a.unit.48">minutes</word>
+<word id="le209030.a.unit.49">before</word>
+<word id="le209030.a.unit.50">or</word>
+<word id="le209030.a.unit.51">after</word>
+<word id="le209030.a.unit.56">five</word>
+<word id="le209030.a.unit.57">minutes</word>
+<word id="le209030.a.unit.58">after</word>
+<word id="le209030.a.unit.60">one</word>
+<word id="le209030.a.unit.61">moment</word>
+<bcanchor id="le209030.bcanchora.2"><nite:pointer href="le209030.b.lturn.xml#id(le209030.lturn.11.1)" role="bc"/></bcanchor>
+<word id="le209030.a.unit.63">lets</word>
+<word id="le209030.a.unit.64">get</word>
+<word id="le209030.a.unit.65">it</word>
+<word id="le209030.a.unit.66">confirmed</word>
+<word id="le209030.a.unit.67">right</word>
+<word id="le209030.a.unit.68">that's</word>
+<word id="le209030.a.unit.69">done</word>
+<word id="le209030.a.unit.70">for</word>
+<word id="le209030.a.unit.71">you</word>
+<word id="le209030.a.unit.72">we'll</word>
+<word id="le209030.a.unit.73">call</word>
+<word id="le209030.a.unit.74">you</word>
+<word id="le209030.a.unit.75">at</word>
+<word id="le209030.a.unit.76">five</word>
+<word id="le209030.a.unit.77">minutes</word>
+<word id="le209030.a.unit.78">past</word>
+<word id="le209030.a.unit.79">six</word>
+<word id="le209030.a.unit.83">thank</word>
+<word id="le209030.a.unit.84">you</word>
+<word id="le209030.a.unit.86">bye</word>
+<comment text="end_-_ok" id="le209030.a.unit.87"/>
+</nite:root>

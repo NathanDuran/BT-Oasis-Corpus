@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le752390.unit.b">
+<word id="le752390.b.unit.2">hello</word>
+<word id="le752390.b.unit.3">i've</word>
+<word id="le752390.b.unit.4">got</word>
+<word id="le752390.b.unit.5">this</word>
+<sil BTlength="" id="le752390.b.unit.6"/>
+<word id="le752390.b.unit.7">um</word>
+<sil BTlength="" id="le752390.b.unit.8"/>
+<word id="le752390.b.unit.9">callminder</word>
+<word id="le752390.b.unit.10">service</word>
+<word id="le752390.b.unit.11">on</word>
+<word id="le752390.b.unit.12">i've</word>
+<word id="le752390.b.unit.13">recorded</word>
+<word id="le752390.b.unit.14">a</word>
+<word id="le752390.b.unit.15">greeting</word>
+<word id="le752390.b.unit.16">on</word>
+<word id="le752390.b.unit.17">it</word>
+<sil BTlength="" id="le752390.b.unit.18"/>
+<word id="le752390.b.unit.19">and</word>
+<word id="le752390.b.unit.20">it</word>
+<word id="le752390.b.unit.21">won't</word>
+<word id="le752390.b.unit.22">recognise</word>
+<word id="le752390.b.unit.23">it</word>
+<sil BTlength="" id="le752390.b.unit.24"/>
+<word id="le752390.b.unit.25">i</word>
+<word id="le752390.b.unit.26">don't</word>
+<word id="le752390.b.unit.27">know</word>
+<word id="le752390.b.unit.28">what</word>
+<word id="le752390.b.unit.29">i've</word>
+<word id="le752390.b.unit.30">done</word>
+<word id="le752390.b.unit.31">wrong</word>
+<word id="le752390.b.unit.32">what</word>
+<word id="le752390.b.unit.33">buttons</word>
+<word id="le752390.b.unit.34">i've</word>
+<word id="le752390.b.unit.35">pressed</word>
+<word id="le752390.b.unit.36">wrong</word>
+<bcanchor id="le752390.bcanchorb.1"><nite:pointer href="le752390.a.lturn.xml#id(le752390.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le752390.b.unit.38">is</word>
+<word id="le752390.b.unit.39">it</word>
+<word id="le752390.b.unit.40">possible</word>
+<word id="le752390.b.unit.41">to</word>
+<word id="le752390.b.unit.42">get</word>
+<word id="le752390.b.unit.43">back</word>
+<word id="le752390.b.unit.44">to</word>
+<word id="le752390.b.unit.65">thank</word>
+<word id="le752390.b.unit.66">you</word>
+<sil BTlength="17s" id="le752390.b.unit.67"/>
+</nite:root>

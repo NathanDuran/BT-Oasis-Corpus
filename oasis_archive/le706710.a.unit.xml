@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le706710.unit.a">
+<stdzcode id="le706710.a.unit.1" description="name"/>
+<num id="le706710.a.unit.24"/>
+<num id="le706710.a.unit.25"/>
+<num id="le706710.a.unit.26"/>
+<num id="le706710.a.unit.27"/>
+<num id="le706710.a.unit.28"/>
+<word id="le706710.a.unit.29">have</word>
+<word id="le706710.a.unit.30">you</word>
+<word id="le706710.a.unit.31">got</word>
+<word id="le706710.a.unit.32">a</word>
+<word id="le706710.a.unit.33">full</word>
+<word id="le706710.a.unit.34">address</word>
+<word id="le706710.a.unit.43">right</word>
+<word id="le706710.a.unit.44">i</word>
+<word id="le706710.a.unit.45">don't</word>
+<word id="le706710.a.unit.46">know</word>
+<word id="le706710.a.unit.47">that</word>
+<word id="le706710.a.unit.48">off</word>
+<word id="le706710.a.unit.49">the</word>
+<word id="le706710.a.unit.50">top</word>
+<word id="le706710.a.unit.51">of</word>
+<word id="le706710.a.unit.52">my</word>
+<word id="le706710.a.unit.53">head</word>
+<word id="le706710.a.unit.54">um</word>
+<sil BTlength="" id="le706710.a.unit.55"/>
+<word id="le706710.a.unit.56">what</word>
+<word id="le706710.a.unit.57">you're</word>
+<word id="le706710.a.unit.58">going</word>
+<word id="le706710.a.unit.59">to</word>
+<word id="le706710.a.unit.60">need</word>
+<word id="le706710.a.unit.61">to</word>
+<word id="le706710.a.unit.62">do</word>
+<word id="le706710.a.unit.63">is</word>
+<word id="le706710.a.unit.64">have</word>
+<word id="le706710.a.unit.65">a</word>
+<word id="le706710.a.unit.66">look</word>
+<word id="le706710.a.unit.67">in</word>
+<word id="le706710.a.unit.68">uh</word>
+<word id="le706710.a.unit.69">have</word>
+<word id="le706710.a.unit.70">you</word>
+<word id="le706710.a.unit.71">got</word>
+<word id="le706710.a.unit.72">a</word>
+<partword id="le706710.a.unit.73">ph</partword>
+<word id="le706710.a.unit.74">if</word>
+<bcanchor id="le706710.bcanchora.1"><nite:pointer href="le706710.b.lturn.xml#id(le706710.lturn.5.1)" role="bc"/></bcanchor>
+<word id="le706710.a.unit.83">you've</word>
+<word id="le706710.a.unit.84">got</word>
+<word id="le706710.a.unit.85">a</word>
+<word id="le706710.a.unit.86">local</word>
+<word id="le706710.a.unit.87">phone</word>
+<word id="le706710.a.unit.88">directory</word>
+<word id="le706710.a.unit.89">yeah</word>
+<word id="le706710.a.unit.90">have</word>
+<word id="le706710.a.unit.91">a</word>
+<word id="le706710.a.unit.92">look</word>
+<word id="le706710.a.unit.93">in</word>
+<word id="le706710.a.unit.94">the</word>
+<word id="le706710.a.unit.95">back</word>
+<word id="le706710.a.unit.96">it's</word>
+<word id="le706710.a.unit.97">got</word>
+<word id="le706710.a.unit.98">all</word>
+<word id="le706710.a.unit.99">the</word>
+<word id="le706710.a.unit.100">codes</word>
+<word id="le706710.a.unit.101">and</word>
+<word id="le706710.a.unit.102">areas</word>
+<word id="le706710.a.unit.103">in</word>
+<word id="le706710.a.unit.104">there</word>
+<comment text="mumbles" id="le706710.a.unit.124"/>
+<word id="le706710.a.unit.125">just</word>
+<word id="le706710.a.unit.126">wait</word>
+<word id="le706710.a.unit.127">there</word>
+<word id="le706710.a.unit.128">a</word>
+<word id="le706710.a.unit.129">moment</word>
+<comment text="cough" id="le706710.a.unit.130"/>
+<sil BTlength="20.3s" id="le706710.a.unit.131"/>
+<word id="le706710.a.unit.132">hello</word>
+<word id="le706710.a.unit.134">that's</word>
+<pncode type="town" id="le706710.a.unit.135"/>
+<word id="le706710.a.unit.138">yeah</word>
+<word id="le706710.a.unit.143">bye</word>
+<word id="le706710.a.unit.144">now</word>
+<comment text="talks_to_himself" id="le706710.a.unit.148"/>
+<comment text="end-ok" id="le706710.a.unit.149"/>
+</nite:root>

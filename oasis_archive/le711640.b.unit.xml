@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le711640.unit.b">
+<word id="le711640.b.unit.2">hi</word>
+<word id="le711640.b.unit.3">i'll</word>
+<word id="le711640.b.unit.4">ask</word>
+<word id="le711640.b.unit.5">you</word>
+<word id="le711640.b.unit.6">to</word>
+<word id="le711640.b.unit.7">put</word>
+<word id="le711640.b.unit.8">an</word>
+<partword id="le711640.b.unit.9">er</partword>
+<word id="le711640.b.unit.10">an</word>
+<word id="le711640.b.unit.11">early</word>
+<word id="le711640.b.unit.12">morning</word>
+<word id="le711640.b.unit.13">alarm</word>
+<word id="le711640.b.unit.14">call</word>
+<word id="le711640.b.unit.15">please</word>
+<word id="le711640.b.unit.29">quarter</word>
+<word id="le711640.b.unit.30">to</word>
+<word id="le711640.b.unit.31">seven</word>
+<word id="le711640.b.unit.48">ok</word>
+<sil BTlength="3s" id="le711640.b.unit.49"/>
+<word id="le711640.b.unit.50">bang</word>
+<comment text="clearing_throat" id="le711640.b.unit.51"/>
+<sil BTlength="3s" id="le711640.b.unit.52"/>
+<word id="le711640.b.unit.68">ok</word>
+<word id="le711640.b.unit.69">and</word>
+<word id="le711640.b.unit.70">thanks</word>
+<word id="le711640.b.unit.73">bye</word>
+</nite:root>

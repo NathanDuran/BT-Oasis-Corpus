@@ -1,0 +1,40 @@
+b|er good morning um|greet
+b|i wonder if you can help me please|direct
+b|we've got callminder on our telephone and um uh|inform
+b|could you possibly remind me how to access messages when we're out or or do i need another number mm thank you mmmm  yes ring own number yeah star star right um i think i remember what it is is there any way i can ring somebody to check i've got the right one if i tell them what it is but they must have a record of that mustn't they there isn't okay what number do i have to ring if i want to find that out right oh that's lovely thank you very much bye bye|reqInfo
+b|or or do i need another number|reqInfo
+a|access messaged when you're out|confirm
+a|just hold the line and|hold
+a|let me have a look|informIntent
+a|i don't know if i've got that information right if you're from another phone you ring your own number then star star then you enter your pin number i think you pick you're own pin number don't you um possibly yes but there's nobody there today i'm afraid it's only open Monday to Saturday well if you dial er if you dial we can connect you through to the call centre help line  okay bye|inform
+a|right|init
+a|if you're from another phone|inform
+a|you ring your own number then star star then you enter your pin number i think you pick you're own pin number don't you um possibly yes but there's nobody there today i'm afraid it's only open Monday to Saturday well if you dial er if you dial we can connect you through to the call centre help line  okay bye|inform
+b|mm|backch
+b|thank you|backch
+b|mmmm  yes ring own number yeah star star right um i think i remember what it is is there any way i can ring somebody to check i've got the right one if i tell them what it is but they must have a record of that mustn't they there isn't okay what number do i have to ring if i want to find that out right oh that's lovely thank you very much bye bye|backch
+b|yes|backch
+b|ring own number yeah|backch
+b|star star|echo
+a|then you enter your pin number|inform
+b|right|ackn
+b|um i think i remember what it is|expressOpinion
+b|is there any way i can ring somebody to check i've got the right one|reqInfo
+b|if i tell them what it is|inform
+a|i think you pick you're own pin number don't you um|expressOpinion
+b|but they must have a record of that mustn't they|reqInfo
+a|possibly|answ
+a|yes|answElab
+a|but there's nobody there today i'm afraid|inform
+a|it's only open Monday to Saturday|inform
+b|there isn't|backch
+b|okay|ackn
+b|what number do i have to ring if i want to find that out|reqInfo
+a|well|init
+a|if you dial er if you dial we can connect you through to the call centre help line  okay bye|answ
+a|we can connect you through to the call centre help line|answElab
+b|right|backch
+b|oh that's lovely|appreciate
+b|thank you very much|thank
+b|bye bye|bye
+a|bye|bye

@@ -1,0 +1,39 @@
+b|oh hello|greet
+b|good evening what's the number young lady that i dial for er that er telegram type of letter er it replaced it replaced the telegram what number sorry oh no i'll get one perhaps i should have thought sorry like that i thought it would be a number like or something like this double that means it's a free call yes can i repeat that young lady thank you bye bye|greet
+b|what's the number young lady that i dial for er that er telegram type of letter|reqInfo
+a|good evening|backch
+a|oh for telemessage service is that what you wanted it sir that's correct yes yes do you have a pen handy have you got a pen handy yeah it's just a little bit longer so yes that's no problem so the number is double yes it is and it's again you can yes thank you bye bye|confirm
+a|is that what you wanted it sir|reqInfo
+b|er|backch
+b|it replaced it replaced the telegram|confirm
+a|that's correct|ackn
+a|yes|ackn
+b|what number|reqInfo
+a|yes|ackn
+a|do you have a pen handy|reqInfo
+a|have you got a pen handy|reqInfo
+b|sorry|backch
+b|oh no|answ
+b|i'll get one perhaps|informIntent
+b|sorry|expressRegret
+b|like that i thought it would be a number like or something like this|expressOpinion
+a|yeah|ackn
+a|it's just a little bit longer|inform
+a|so|init
+a|yes|ackn
+a|that's no problem|accept
+a|so|init
+a|the number is double yes it is and it's again you can yes thank you bye bye|answ
+b|that means it's a free call|confirm
+a|yes|ackn
+a|it is|ackn
+a|and it's again you can yes thank you bye bye|inform
+b|yes|backch
+b|can i repeat that young lady|reqModal
+a|you can|accept
+a|yes|accept
+b|thank you|thank
+a|thank you|thank
+a|bye bye|bye
+b|bye|bye
+b|bye|bye

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le704030.unit.a">
+<comment text="baby_crying_throughout_call" id="le704030.a.unit.1"/>
+<stdzcode id="le704030.a.unit.2" description="name"/>
+<word id="le704030.a.unit.15">seven</word>
+<word id="le704030.a.unit.16">o'clock</word>
+<sil BTlength="5.1s" id="le704030.a.unit.18"/>
+<word id="le704030.a.unit.19">ah</word>
+<bcanchor id="le704030.bcanchora.1"><nite:pointer href="le704030.b.lturn.xml#id(le704030.lturn.5.1)" role="bc"/></bcanchor>
+<sil BTlength="" id="le704030.a.unit.21"/>
+<word id="le704030.a.unit.22">don't</word>
+<word id="le704030.a.unit.23">sound</word>
+<word id="le704030.a.unit.24">very</word>
+<word id="le704030.a.unit.25">old</word>
+<sil BTlength="" id="le704030.a.unit.26"/>
+<word id="le704030.a.unit.28">don't</word>
+<word id="le704030.a.unit.29">sound</word>
+<word id="le704030.a.unit.30">the</word>
+<word id="le704030.a.unit.31">baby</word>
+<word id="le704030.a.unit.32">don't</word>
+<word id="le704030.a.unit.33">sound</word>
+<word id="le704030.a.unit.34">very</word>
+<word id="le704030.a.unit.35">old</word>
+<word id="le704030.a.unit.38">ah</word>
+<word id="le704030.a.unit.39">bless</word>
+<sil BTlength="" id="le704030.a.unit.40"/>
+<word id="le704030.a.unit.41">ah</word>
+<word id="le704030.a.unit.46">is</word>
+<word id="le704030.a.unit.47">she</word>
+<comment text="laughs" id="le704030.a.unit.48"/>
+<word id="le704030.a.unit.54">you</word>
+<word id="le704030.a.unit.55">can</word>
+<gap id="le704030.a.unit.56"/>
+<sil BTlength="" id="le704030.a.unit.57"/>
+<word id="le704030.a.unit.58">oh</word>
+<word id="le704030.a.unit.59">dear</word>
+<word id="le704030.a.unit.73">oh</word>
+<word id="le704030.a.unit.74">is</word>
+<word id="le704030.a.unit.75">she</word>
+<word id="le704030.a.unit.76">and</word>
+<word id="le704030.a.unit.77">you've</word>
+<word id="le704030.a.unit.78">still</word>
+<word id="le704030.a.unit.79">got</word>
+<word id="le704030.a.unit.80">to</word>
+<word id="le704030.a.unit.81">get</word>
+<word id="le704030.a.unit.82">her</word>
+<word id="le704030.a.unit.83">up</word>
+<word id="le704030.a.unit.84">as</word>
+<word id="le704030.a.unit.85">well</word>
+<word id="le704030.a.unit.89">oh</word>
+<word id="le704030.a.unit.90">dear</word>
+<word id="le704030.a.unit.91">never</word>
+<word id="le704030.a.unit.92">mind</word>
+<word id="le704030.a.unit.93">i've</word>
+<word id="le704030.a.unit.94">booked</word>
+<word id="le704030.a.unit.95">it</word>
+<word id="le704030.a.unit.96">for</word>
+<word id="le704030.a.unit.97">you</word>
+<word id="le704030.a.unit.100">ok</word>
+<word id="le704030.a.unit.105">bye</word>
+<comment text="receiver_replaced" id="le704030.a.unit.106"/>
+<comment text="end-ok" id="le704030.a.unit.107"/>
+</nite:root>

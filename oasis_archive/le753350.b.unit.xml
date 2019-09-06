@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le753350.unit.b">
+<word id="le753350.b.unit.2">um</word>
+<word id="le753350.b.unit.3">can</word>
+<word id="le753350.b.unit.4">i</word>
+<word id="le753350.b.unit.5">have</word>
+<word id="le753350.b.unit.6">an</word>
+<word id="le753350.b.unit.7">alarm</word>
+<word id="le753350.b.unit.8">call</word>
+<word id="le753350.b.unit.9">please</word>
+<word id="le753350.b.unit.20">four</word>
+<word id="le753350.b.unit.21">forty</word>
+<word id="le753350.b.unit.22">five</word>
+<word id="le753350.b.unit.23">a</word>
+<word id="le753350.b.unit.24">m</word>
+<word id="le753350.b.unit.25">please</word>
+<comment text="aside" id="le753350.b.unit.36"/>
+<stdzcode id="le753350.b.unit.37" description="name"/>
+<word id="le753350.b.unit.38">if</word>
+<word id="le753350.b.unit.39">the</word>
+<word id="le753350.b.unit.40">phone</word>
+<word id="le753350.b.unit.41">rings</word>
+<word id="le753350.b.unit.42">in</word>
+<word id="le753350.b.unit.43">the</word>
+<word id="le753350.b.unit.44">morning</word>
+<word id="le753350.b.unit.45">don't</word>
+<word id="le753350.b.unit.46">answer</word>
+<word id="le753350.b.unit.47">it</word>
+<word id="le753350.b.unit.48">yeah</word>
+<sil BTlength="" id="le753350.b.unit.49"/>
+<word id="le753350.b.unit.50">huh</word>
+<word id="le753350.b.unit.62">okay</word>
+<word id="le753350.b.unit.63">thank</word>
+<word id="le753350.b.unit.64">you</word>
+<word id="le753350.b.unit.69">thanks</word>
+<word id="le753350.b.unit.70">brilliant</word>
+<word id="le753350.b.unit.71">bye</word>
+<comment text="end-ok" id="le753350.b.unit.72"/>
+</nite:root>

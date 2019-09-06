@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le202059.unit.a">
+<stdzcode id="le202059.a.unit.1" description="name"/>
+<num id="le202059.a.unit.30"/>
+<num id="le202059.a.unit.31"/>
+<num id="le202059.a.unit.32"/>
+<num id="le202059.a.unit.33"/>
+<num id="le202059.a.unit.34"/>
+<num id="le202059.a.unit.38"/>
+<num id="le202059.a.unit.39"/>
+<num id="le202059.a.unit.40"/>
+<num id="le202059.a.unit.44"/>
+<num id="le202059.a.unit.45"/>
+<num id="le202059.a.unit.46"/>
+<word id="le202059.a.unit.56">mm</word>
+<word id="le202059.a.unit.57">right</word>
+<comment text="?_?_?" id="le202059.a.unit.66"/>
+<word id="le202059.a.unit.67">i'm</word>
+<word id="le202059.a.unit.68">sorry</word>
+<word id="le202059.a.unit.69">you're</word>
+<word id="le202059.a.unit.70">having</word>
+<word id="le202059.a.unit.71">trouble</word>
+<word id="le202059.a.unit.72">one</word>
+<word id="le202059.a.unit.73">moment</word>
+<sil BTlength="" id="le202059.a.unit.74"/>
+<comment text="network_announcement" id="le202059.a.unit.75"/>
+<sil BTlength="17s" id="le202059.a.unit.76"/>
+<word id="le202059.a.unit.118">hello</word>
+<partword id="le202059.a.unit.120">ri</partword>
+<comment text="right?" id="le202059.a.unit.121"/>
+<word id="le202059.a.unit.122">you</word>
+<word id="le202059.a.unit.123">shouldn't</word>
+<word id="le202059.a.unit.124">worry</word>
+<word id="le202059.a.unit.125">it</word>
+<word id="le202059.a.unit.126">is</word>
+<word id="le202059.a.unit.127">off</word>
+<word id="le202059.a.unit.128">the</word>
+<word id="le202059.a.unit.129">hook</word>
+<bcanchor id="le202059.bcanchora.5"><nite:pointer href="le202059.b.lturn.xml#id(le202059.lturn.7.1)" role="bc"/></bcanchor>
+<word id="le202059.a.unit.131">uh</word>
+<word id="le202059.a.unit.132">she</word>
+<word id="le202059.a.unit.133">has</word>
+<word id="le202059.a.unit.134">left</word>
+<word id="le202059.a.unit.135">it</word>
+<word id="le202059.a.unit.136">off</word>
+<word id="le202059.a.unit.137">the</word>
+<word id="le202059.a.unit.138">hook</word>
+<word id="le202059.a.unit.139">but</word>
+<word id="le202059.a.unit.140">in</word>
+<word id="le202059.a.unit.141">fact</word>
+<word id="le202059.a.unit.142">she's</word>
+<word id="le202059.a.unit.143">talking</word>
+<word id="le202059.a.unit.144">to</word>
+<word id="le202059.a.unit.145">another</word>
+<word id="le202059.a.unit.146">person</word>
+<word id="le202059.a.unit.147">uh</word>
+<word id="le202059.a.unit.148">in</word>
+<word id="le202059.a.unit.149">the</word>
+<word id="le202059.a.unit.150">sitting</word>
+<word id="le202059.a.unit.151">room</word>
+<word id="le202059.a.unit.152">wherever</word>
+<word id="le202059.a.unit.153">they</word>
+<word id="le202059.a.unit.154">are</word>
+<partword id="le202059.a.unit.168">b</partword>
+<partword id="le202059.a.unit.169">b</partword>
+<partword id="le202059.a.unit.170">b</partword>
+<word id="le202059.a.unit.171">but</word>
+<word id="le202059.a.unit.172">the</word>
+<word id="le202059.a.unit.173">phone</word>
+<word id="le202059.a.unit.174">itself</word>
+<word id="le202059.a.unit.175">is</word>
+<word id="le202059.a.unit.176">definitely</word>
+<word id="le202059.a.unit.177">off</word>
+<word id="le202059.a.unit.178">the</word>
+<word id="le202059.a.unit.179">hook</word>
+<word id="le202059.a.unit.183">ok</word>
+<word id="le202059.a.unit.185">bye</word>
+<comment text="replaced_receiver" id="le202059.a.unit.186"/>
+<comment text="end-ok" id="le202059.a.unit.187"/>
+</nite:root>

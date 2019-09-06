@@ -1,0 +1,54 @@
+b|yes|ackn
+b|hello|greet
+b|i wonder if you can help me i'm trying to get in touch with my mother in thing is er she's i think she's changed her number and it's ex directory is there any way at all that i can get in touch with her it's just that i'm in and my mother lives in and i've had a phone call you know that she's quite seriously ill no i haven't no so you wouldn't be able to do it at all right i mean i i mean i know her address and everything it's just about all yeah they said it's ex directory she's i think she's had to get he number changed because of hassle she's getting in and i'm really quite concerned about her and the whole thing is i mean i've got her address and everything even if you could phone the number and put me through you wouldn't no is there any way i can get her number at all or the police could the police apart from that no alright then thanks for your help then okay bye|direct
+b|i'm trying to get in touch with my mother in thing is er she's i think she's changed her number and it's ex directory is there any way at all that i can get in touch with her it's just that i'm in and my mother lives in and i've had a phone call you know that she's quite seriously ill no i haven't no so you wouldn't be able to do it at all right i mean i i mean i know her address and everything it's just about all yeah they said it's ex directory she's i think she's had to get he number changed because of hassle she's getting in and i'm really quite concerned about her and the whole thing is i mean i've got her address and everything even if you could phone the number and put me through you wouldn't no is there any way i can get her number at all or the police could the police apart from that no alright then thanks for your help then okay bye|informIntent
+b|thing is er she's i think she's changed her number and it's ex directory|inform
+b|is there any way at all that i can get in touch with her|reqInfo
+a|no|answ
+a|if it's ex directory|answElab
+a|it you know we can't actually provide you with the number|answElab
+b|it's just that i'm in and my mother lives in and i've had a phone call you know that she's quite seriously ill no i haven't no so you wouldn't be able to do it at all right i mean i i mean i know her address and everything it's just about all yeah they said it's ex directory she's i think she's had to get he number changed because of hassle she's getting in and i'm really quite concerned about her and the whole thing is i mean i've got her address and everything even if you could phone the number and put me through you wouldn't no is there any way i can get her number at all or the police could the police apart from that no alright then thanks for your help then okay bye|inform
+b|and i've had a phone call you know that she's quite seriously ill|inform
+a|right|ackn
+a|have you got no friends or relatives who might give you the number|reqInfo
+b|no|answ
+b|i haven't|answElab
+b|no|answElab
+a|no|confirm
+a|we've got no way of being able to find the number if it's ex directory|inform
+b|so|init
+b|you wouldn't be able to do it at all right|reqInfo
+a|no|backch
+a|i mean are you positive it's ex directory|reqInfo
+b|i mean i i mean i know her address and everything|inform
+b|it's just about all|inform
+a|i mean have you tried ringing though|reqInfo
+b|yeah|answ
+b|they said it's ex directory|answElab
+b|she's i think she's had to get he number changed because of hassle she's getting in and i'm really quite concerned about her and the whole thing is i mean i've got her address and everything even if you could phone the number and put me through you wouldn't no is there any way i can get her number at all or the police could the police apart from that no alright then thanks for your help then okay bye|expressOpinion
+b|and i'm really quite concerned about her|inform
+b|and the whole thing is i mean i've got her address and everything|inform
+a|no|refuse
+a|i mean the only way we'd find the number is we'd go through to directories|inform
+a|but if it's ex directory|inform
+a|there's no way we could get the number at all|inform
+b|you wouldn't|confirm
+b|no|answ
+b|is there any way i can get her number at all|reqInfo
+a|apart from phoning a friend or relative or something|answ
+b|or the police|complete
+b|could the police|reqInfo
+a|um well|init
+a|the police wouldn't be able to find the number for you|inform
+a|i mean if they thought her health was at risk or her safety was at risk|inform
+a|they might go round and knock on the door to see if she was alright|expressPossibility
+a|but apart from that|refer
+b|apart from that|echo
+b|no|confirm
+b|alright then|ackn
+b|thanks for your help then|thank
+b|okay|init
+a|okay|init
+a|you're welcome|ackn
+a|bye|bye
+b|bye|bye

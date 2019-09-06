@@ -1,0 +1,8 @@
+b|oh could i have registry office please|direct
+a|i'm sorry|expressRegret
+a|can you please dial for directory enquiries|direct
+b|oh sorry|expressRegret
+b|bye|bye
+a|would you like me to connect you|offer
+b|okay|accept
+b|yeah please|accept

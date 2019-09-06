@@ -1,0 +1,9 @@
+b|hello|greet
+b|i'm trying to get through to of of sorry treble double yeah and it's ringing and then sounds as though someone is picking it up and then it's just sort of nothing okay thanks|informIntent
+b|yeah and it's ringing and then sounds as though someone is picking it up and then it's just sort of nothing okay thanks|ackn
+b|and it's ringing and then sounds as though someone is picking it up|inform
+b|and then it's just sort of nothing|inform
+a|i'm sorry|expressRegret
+a|i'll just try the call for you|informIntent
+b|okay|accept
+b|thanks|thank

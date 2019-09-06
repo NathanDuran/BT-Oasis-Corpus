@@ -1,0 +1,13 @@
+b|could you tell me|reqInfo
+b|you know erm that do an answering phone service|raiseIssue
+a|yeah|ackn
+a|call minder|inform
+a|yeah|ackn
+b|yeah|ackn
+b|how do you actually get it pick up any message|reqInfo
+b|yeah|backch
+a|yeah|ackn
+b|thanks|thank
+a|thank you|thank
+a|bye|bye
+b|bye|bye

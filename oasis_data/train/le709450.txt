@@ -1,0 +1,27 @@
+b|oh yes|ackn
+b|hello|greet
+b|i've been trying to get in touch with um double treble treble and i rang 'bout uh a couple of hours ago about two or three times and it was engaged and it still is engaged it's the now i would have thought they'd have more than one line right thank you ah there we go right thank you very much ah good afternoon yes um|inform
+b|treble treble and i rang 'bout uh a couple of hours ago about two or three times and it was engaged and it still is engaged it's the now i would have thought they'd have more than one line right thank you ah there we go right thank you very much ah good afternoon yes um|inform
+a|treble treble right mm right still engaged mm i'll just try the call for you you answer it now ok|echo
+b|treble and i rang 'bout uh a couple of hours ago about two or three times and it was engaged and it still is engaged it's the now i would have thought they'd have more than one line right thank you ah there we go right thank you very much ah good afternoon yes um|inform
+a|treble right mm right still engaged mm i'll just try the call for you you answer it now ok|echo
+a|right|ackn
+b|and i rang 'bout uh a couple of hours ago about two or three times|inform
+b|and it was engaged and|inform
+b|it still is engaged|inform
+a|mm|backch
+a|right|backch
+a|still engaged|echo
+b|it's the now i would have thought they'd have more than one line right thank you ah there we go right thank you very much ah good afternoon yes um|inform
+b|now|init
+b|i would have thought they'd have more than one line|expressOpinion
+a|mm i'll just try the call for you you answer it now ok|ackn
+a|i'll just try the call for you|informIntent
+b|right|ackn
+b|thank you ah there we go right thank you very much ah good afternoon yes um|thank
+b|ah there we go|exclaim
+a|you answer it now ok|direct
+b|right|accept
+b|thank you very much|thank
+b|ah good afternoon|greet
+b|yes um|ackn

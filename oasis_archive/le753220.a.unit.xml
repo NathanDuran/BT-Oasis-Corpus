@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le753220.unit.a">
+<stdzcode id="le753220.a.unit.1" description="name"/>
+<word id="le753220.a.unit.12">right</word>
+<word id="le753220.a.unit.13">what</word>
+<word id="le753220.a.unit.14">time</word>
+<word id="le753220.a.unit.15">do</word>
+<word id="le753220.a.unit.16">you</word>
+<word id="le753220.a.unit.17">want</word>
+<word id="le753220.a.unit.18">to</word>
+<word id="le753220.a.unit.19">book</word>
+<word id="le753220.a.unit.20">it</word>
+<word id="le753220.a.unit.21">for</word>
+<word id="le753220.a.unit.24">five</word>
+<word id="le753220.a.unit.25">hold</word>
+<word id="le753220.a.unit.26">on</word>
+<word id="le753220.a.unit.27">please</word>
+<sil BTlength="9s" id="le753220.a.unit.28"/>
+<word id="le753220.a.unit.29">right</word>
+<word id="le753220.a.unit.30">we'll</word>
+<word id="le753220.a.unit.31">call</word>
+<word id="le753220.a.unit.32">you</word>
+<word id="le753220.a.unit.33">at</word>
+<word id="le753220.a.unit.34">five</word>
+<word id="le753220.a.unit.35">o'clock</word>
+<word id="le753220.a.unit.36">in</word>
+<word id="le753220.a.unit.37">the</word>
+<word id="le753220.a.unit.38">morning</word>
+<word id="le753220.a.unit.45">thank</word>
+<word id="le753220.a.unit.46">you</word>
+<word id="le753220.a.unit.47">bye</word>
+<comment text="end-ok" id="le753220.a.unit.48"/>
+</nite:root>

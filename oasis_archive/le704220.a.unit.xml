@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le704220.unit.a">
+<stdzcode id="le704220.a.unit.1" description="name"/>
+<word id="le704220.a.unit.16">sorry</word>
+<word id="le704220.a.unit.32">you</word>
+<word id="le704220.a.unit.33">having</word>
+<word id="le704220.a.unit.34">difficulty</word>
+<word id="le704220.a.unit.35">with</word>
+<word id="le704220.a.unit.36">it</word>
+<word id="le704220.a.unit.53">it's</word>
+<word id="le704220.a.unit.54">cut</word>
+<word id="le704220.a.unit.55">off</word>
+<bcanchor id="le704220.bcanchora.1"><nite:pointer href="le704220.b.lturn.xml#id(le704220.lturn.7.1)" role="bc"/></bcanchor>
+<sil BTlength="" id="le704220.a.unit.58"/>
+<word id="le704220.a.unit.59">but</word>
+<word id="le704220.a.unit.60">it's</word>
+<word id="le704220.a.unit.61">still</word>
+<word id="le704220.a.unit.62">getting</word>
+<word id="le704220.a.unit.65">it's</word>
+<word id="le704220.a.unit.66">not</word>
+<word id="le704220.a.unit.67">one</word>
+<word id="le704220.a.unit.68">of</word>
+<word id="le704220.a.unit.69">our</word>
+<word id="le704220.a.unit.70">lines</word>
+<word id="le704220.a.unit.71">so</word>
+<word id="le704220.a.unit.72">i</word>
+<word id="le704220.a.unit.73">can</word>
+<word id="le704220.a.unit.74">try</word>
+<word id="le704220.a.unit.75">it</word>
+<word id="le704220.a.unit.76">for</word>
+<word id="le704220.a.unit.77">you</word>
+<word id="le704220.a.unit.78">but</word>
+<comment text="ringing" id="le704220.a.unit.79"/>
+<comment text="network_message" id="le704220.a.unit.80"/>
+<word id="le704220.a.unit.81">must</word>
+<word id="le704220.a.unit.82">be</word>
+<word id="le704220.a.unit.83">a</word>
+<pncode type="business" id="le704220.a.unit.84"/>
+<word id="le704220.a.unit.85">number</word>
+</nite:root>

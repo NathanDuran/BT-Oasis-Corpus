@@ -1,0 +1,13 @@
+b|yes er|ackn
+b|what number do i dial for directory enquiries|reqInfo
+a|shall i transfer you|offer
+b|er yes|accept
+b|is that a free phonenumber|reqInfo
+a|no|answ
+a|it is a chargeable call|answElab
+b|okay|ackn
+b|thank you|thank
+a|shall i put you through|offer
+b|yes|accept
+b|thank you|thank
+a|thank you|thank

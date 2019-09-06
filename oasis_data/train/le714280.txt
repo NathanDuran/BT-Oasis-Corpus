@@ -1,0 +1,30 @@
+b|hello|greet
+b|good evening|greet
+b|i've just been through to various people trying a number|inform
+b|erm i've been told it's not listed|inform
+b|but i've used it pretty regularly|inform
+b|and they said to try you to see if it's out of order|inform
+a|mm hmm|backch
+a|yeah sure|accept
+a|what's the code and number please|reqInfo
+b|it's double thank you oh i've just been through to directory enquiries and then through to somebody else ok fine alright well thank you very much indeed thanks byebye|answ
+a|yep|ackn
+a|i'll just check that for you|informIntent
+b|thank you oh i've just been through to directory enquiries and then through to somebody else ok fine alright well thank you very much indeed thanks byebye|thank
+a|right|init
+a|the line's actually been stopped caller right do you want me to put you through to directory enquiries oh or have you just been through to them right the information that we've got is that there is no longer a customer with that number i'm afraid pleasure byebye|inform
+b|oh|exclaim
+a|right|init
+a|do you want me to put you through to directory enquiries|reqDirect
+a|oh or have you just been through to them|reqInfo
+b|i've just been through to directory enquiries and then through to somebody else|inform
+a|right|ackn
+a|the information that we've got is that there is no longer a customer with that number|inform
+a|i'm afraid|expressRegret
+b|ok fine|accept
+b|alright well|init
+b|thank you very much indeed|thank
+a|pleasure|ackn
+b|thanks|thank
+b|byebye|bye
+a|byebye|bye

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le708350.unit.a">
+<stdzcode id="le708350.a.unit.1" description="name"/>
+<word id="le708350.a.unit.19">yeah</word>
+<word id="le708350.a.unit.23">yeah</word>
+<word id="le708350.a.unit.31">how</word>
+<word id="le708350.a.unit.32">do</word>
+<word id="le708350.a.unit.33">you</word>
+<word id="le708350.a.unit.34">cancel</word>
+<word id="le708350.a.unit.35">one</word>
+<word id="le708350.a.unit.36">of</word>
+<word id="le708350.a.unit.37">those</word>
+<word id="le708350.a.unit.38">um</word>
+<sil BTlength="" id="le708350.a.unit.39"/>
+<word id="le708350.a.unit.40">bear</word>
+<word id="le708350.a.unit.41">with</word>
+<word id="le708350.a.unit.42">me</word>
+<word id="le708350.a.unit.43">a</word>
+<word id="le708350.a.unit.44">second</word>
+<word id="le708350.a.unit.45">i'll</word>
+<word id="le708350.a.unit.46">tell</word>
+<word id="le708350.a.unit.47">you</word>
+<bcanchor id="le708350.bcanchora.3"><nite:pointer href="le708350.b.lturn.xml#id(le708350.lturn.3.1)" role="bc"/></bcanchor>
+<sil BTlength="7s" id="le708350.a.unit.49"/>
+<word id="le708350.a.unit.50">to</word>
+<word id="le708350.a.unit.51">cancel</word>
+<word id="le708350.a.unit.52">it</word>
+<word id="le708350.a.unit.53">it's</word>
+<word id="le708350.a.unit.54">hash</word>
+<sil BTlength="" id="le708350.a.unit.55"/>
+<num id="le708350.a.unit.56"/>
+<word id="le708350.a.unit.57">hash</word>
+<word id="le708350.a.unit.65">ok</word>
+<word id="le708350.a.unit.66">thank</word>
+<word id="le708350.a.unit.67">you</word>
+<word id="le708350.a.unit.68">bye</word>
+<comment text="end-ok" id="le708350.a.unit.69"/>
+</nite:root>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le709070.unit.a">
+<stdzcode id="le709070.a.unit.1" description="name"/>
+<word id="le709070.a.unit.23">yeah</word>
+<word id="le709070.a.unit.24">we</word>
+<word id="le709070.a.unit.25">can</word>
+<word id="le709070.a.unit.26">do</word>
+<word id="le709070.a.unit.27">that</word>
+<bcanchor id="le709070.bcanchora.1"><nite:pointer href="le709070.b.lturn.xml#id(le709070.lturn.3.1)" role="bc"/></bcanchor>
+<word id="le709070.a.unit.29">that's</word>
+<word id="le709070.a.unit.30">no</word>
+<word id="le709070.a.unit.31">problem</word>
+<word id="le709070.a.unit.33">what's</word>
+<word id="le709070.a.unit.34">the</word>
+<word id="le709070.a.unit.35">code</word>
+<word id="le709070.a.unit.36">and</word>
+<word id="le709070.a.unit.37">number</word>
+<word id="le709070.a.unit.38">please</word>
+<num id="le709070.a.unit.47"/>
+<num id="le709070.a.unit.48"/>
+<num id="le709070.a.unit.49"/>
+<num id="le709070.a.unit.50"/>
+<num id="le709070.a.unit.51"/>
+<num id="le709070.a.unit.55"/>
+<word id="le709070.a.unit.56">double</word>
+<num id="le709070.a.unit.57"/>
+<num id="le709070.a.unit.61"/>
+<num id="le709070.a.unit.62"/>
+<num id="le709070.a.unit.63"/>
+<word id="le709070.a.unit.64">ok</word>
+<sil BTlength="6.3s" id="le709070.a.unit.65"/>
+<word id="le709070.a.unit.66">yeah</word>
+<word id="le709070.a.unit.67">that</word>
+<word id="le709070.a.unit.68">is</word>
+<word id="le709070.a.unit.69">a</word>
+<word id="le709070.a.unit.70">payphone</word>
+<word id="le709070.a.unit.76">yeah</word>
+<word id="le709070.a.unit.85">no</word>
+<word id="le709070.a.unit.86">we</word>
+<word id="le709070.a.unit.87">can't</word>
+<word id="le709070.a.unit.88">do</word>
+<word id="le709070.a.unit.89">that</word>
+<word id="le709070.a.unit.94">no</word>
+<word id="le709070.a.unit.101">it</word>
+<word id="le709070.a.unit.102">is</word>
+<word id="le709070.a.unit.103">yeah</word>
+<word id="le709070.a.unit.109">cheers</word>
+<word id="le709070.a.unit.112">thank</word>
+<word id="le709070.a.unit.113">you</word>
+<word id="le709070.a.unit.114">bye</word>
+<comment text="end-ok" id="le709070.a.unit.115"/>
+</nite:root>

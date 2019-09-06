@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le714340.unit.b">
+<word id="le714340.b.unit.2">hi</word>
+<word id="le714340.b.unit.3">is</word>
+<word id="le714340.b.unit.4">there</word>
+<word id="le714340.b.unit.5">something</word>
+<word id="le714340.b.unit.6">like</word>
+<word id="le714340.b.unit.7">a</word>
+<word id="le714340.b.unit.8">directory</word>
+<word id="le714340.b.unit.9">assistance</word>
+<word id="le714340.b.unit.10">but</word>
+<word id="le714340.b.unit.11">more</word>
+<word id="le714340.b.unit.12">of</word>
+<word id="le714340.b.unit.13">a</word>
+<word id="le714340.b.unit.14">business</word>
+<word id="le714340.b.unit.15">related</word>
+<word id="le714340.b.unit.16">one</word>
+<bcanchor id="le714340.bcanchorb.1"><nite:pointer href="le714340.a.lturn.xml#id(le714340.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le714340.b.unit.18">cause</word>
+<word id="le714340.b.unit.19">i'm</word>
+<word id="le714340.b.unit.20">looking</word>
+<word id="le714340.b.unit.21">for</word>
+<word id="le714340.b.unit.22">recruitment</word>
+<word id="le714340.b.unit.23">agencies</word>
+<word id="le714340.b.unit.24">in</word>
+<pncode type="town" id="le714340.b.unit.25"/>
+<partword id="le714340.b.unit.36">bu</partword>
+<word id="le714340.b.unit.44">ah</word>
+<word id="le714340.b.unit.45">i</word>
+<word id="le714340.b.unit.46">tried</word>
+<word id="le714340.b.unit.47">but</word>
+<word id="le714340.b.unit.48">they</word>
+<word id="le714340.b.unit.49">weren't</word>
+<word id="le714340.b.unit.50">very</word>
+<word id="le714340.b.unit.51">good</word>
+<word id="le714340.b.unit.52">last</word>
+<word id="le714340.b.unit.53">time</word>
+<comment text="laugh" id="le714340.b.unit.54"/>
+<bcanchor id="le714340.bcanchorb.3"><nite:pointer href="le714340.a.lturn.xml#id(le714340.lturn.4.1)" role="bc"/></bcanchor>
+<word id="le714340.b.unit.56">ok</word>
+<word id="le714340.b.unit.57">is</word>
+<word id="le714340.b.unit.58">there</word>
+<word id="le714340.b.unit.59">not</word>
+<word id="le714340.b.unit.60">a</word>
+<word id="le714340.b.unit.61">business</word>
+<num id="le714340.b.unit.62"/>
+<num id="le714340.b.unit.63"/>
+<num id="le714340.b.unit.64"/>
+<bcanchor id="le714340.bcanchorb.4"><nite:pointer href="le714340.a.lturn.xml#id(le714340.lturn.4.2)" role="bc"/></bcanchor>
+<num id="le714340.b.unit.66"/>
+<num id="le714340.b.unit.67"/>
+<num id="le714340.b.unit.68"/>
+<num id="le714340.b.unit.69"/>
+<num id="le714340.b.unit.70"/>
+<word id="le714340.b.unit.71">is</word>
+<word id="le714340.b.unit.72">that</word>
+<word id="le714340.b.unit.95">ok</word>
+<word id="le714340.b.unit.97">thank</word>
+<word id="le714340.b.unit.98">you</word>
+<word id="le714340.b.unit.100">bye</word>
+<sil BTlength="" id="le714340.b.unit.101"/>
+<word id="le714340.b.unit.102">are</word>
+<word id="le714340.b.unit.103">you</word>
+<word id="le714340.b.unit.104">going</word>
+<word id="le714340.b.unit.105">to</word>
+<word id="le714340.b.unit.106">connect</word>
+<word id="le714340.b.unit.107">me</word>
+<word id="le714340.b.unit.108">or</word>
+<word id="le714340.b.unit.109">shall</word>
+<word id="le714340.b.unit.110">i</word>
+<word id="le714340.b.unit.111">do</word>
+<word id="le714340.b.unit.112">it</word>
+<word id="le714340.b.unit.123">ok</word>
+<word id="le714340.b.unit.124">thanks</word>
+<comment text="laugh" id="le714340.b.unit.125"/>
+<sil BTlength="" id="le714340.b.unit.126"/>
+<word id="le714340.b.unit.127">cheers</word>
+<comment text="transfer" id="le714340.b.unit.128"/>
+<comment text="end-ok" id="le714340.b.unit.129"/>
+</nite:root>

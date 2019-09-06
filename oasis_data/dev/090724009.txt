@@ -1,0 +1,19 @@
+b|oh hello|greet
+b|it's mister here|identifySelf
+a|hello mister yes certainly there's no problem with that at all could i take the telephone number uh hm yeah i'm sorry about that mister could you just repeat that number i think i must have transposed the figures yes double sorry about that|greet
+b|um can i speak to you about when uh about um stopping a B T Chargecard|reqModal
+a|yes certainly|accept
+a|there's no problem with that at all|accept
+a|could i take the telephone number|reqInfo
+b|my number is yes it's double and i'm mister now i've just got a bill double okay|answ
+a|uh hm|ackn
+a|yeah|ackn
+b|and i'm mister now i've just got a bill double okay|inform
+b|now|init
+b|i've just got a bill|inform
+a|i'm sorry about that mister could you just repeat that number i think i must have transposed the figures yes double sorry about that|expressRegret
+a|could you just repeat that number|reqInfo
+a|i think i must have transposed the figures|inform
+a|yes|ackn
+a|sorry about that|expressRegret
+b|okay|accept

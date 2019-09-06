@@ -1,0 +1,40 @@
+b|hello|greet
+b|i've got a code here and i don't know where it's from and i think there's a on the end she wakes up hello right ok can you tell me what part of it is cos i've got um i've got i've got some of i've got the phone number as well you can't you can't say what like no it's just that my friend has phoned at half four on the on the morning on this number but we don't know who it is but the thing is it was phoned on a mobile so you have to know the mobile number to ring ring a mobile ok that's ok ok thank you very much bye|inform
+b|and i don't know where it's from|inform
+a|what's the code|reqInfo
+b|and i think there's a on the end|expressOpinion
+a|um|backch
+a|i think that's just hold the line hello it's i can't i'm afraid no i can't actually give out any more information than that i can confirm a name and address but i can't yeah no um no i'm sorry i can't actually give out any information like that ok bye now yeah|expressOpinion
+a|just hold the line|hold
+a|hello|greet
+b|she wakes up|backch
+b|hello|greet
+a|it's i can't i'm afraid no i can't actually give out any more information than that i can confirm a name and address but i can't yeah no um no i'm sorry i can't actually give out any information like that ok bye now yeah|inform
+b|ok|init
+b|can you tell me what part of it is|reqInfo
+a|i can't i'm afraid|answ
+b|cos i've got um i've got i've got some of i've got the phone number as well|inform
+a|no|negate
+a|i can't actually give out any more information than that|inform
+b|you can't|backch
+b|you can't say what like|reqInfo
+a|but i can't|inform
+b|no|ackn
+b|it's just that my friend has phoned at half four on the on the morning on this number|inform
+b|but we don't know who it is|inform
+b|but the thing is it was phoned on a mobile|inform
+b|so|init
+b|you have to know the mobile number to ring ring a mobile|inform
+a|yeah|backch
+a|no um no|refuse
+a|i'm sorry|expressRegret
+a|i can't actually give out any information like that|inform
+b|ok that's ok ok thank you very much bye|ackn
+b|that's ok|accept
+a|ok|ackn
+b|ok|ackn
+b|thank you very|thank
+a|bye now|bye
+b|much|thank
+b|bye|bye
+a|yeah|ackn

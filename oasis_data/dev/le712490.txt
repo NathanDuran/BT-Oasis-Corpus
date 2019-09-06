@@ -1,0 +1,10 @@
+b|can you put me through to uh sales love please|direct
+b|this operator keeps asking me questions|expressOpinion
+b|she's confusing me|inform
+a|yes yes|ackn
+a|it is very confusing|expressOpinion
+a|i'll put you straight through to a um customer service representative|informIntent
+a|just a moment|hold
+b|i want this disconnection on the twenty twenty ninth thirtieth|expressWish
+a|it's ringing for you|direct
+b|right|ackn

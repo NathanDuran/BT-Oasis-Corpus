@@ -1,0 +1,31 @@
+b|ah good morning|greet
+b|i was trying to get through to your billing department|inform
+a|hello|backch
+a|yeah|ackn
+a|i can help you with that sir|inform
+a|what was the phone number we're talking about|reqInfo
+b|oh right|backch
+b|oh i just want to cancel a payment that i make for you internet services|answ
+a|oh right|ackn
+a|so|init
+a|it's actually to do with the internet|confirm
+b|yes|ackn
+b|but i rang before and they told me to come through to the billing department|inform
+a|is it a Surftime payment you're making to get the unlimited evening and weekend calls|reqInfo
+b|i've already got that|inform
+b|yes|ackn
+a|you want to cancel that|confirm
+a|that's fine|accept
+a|and what's your number please|reqInfo
+b|yes|backch
+b|uh it's a cable number|answ
+a|oh i can't do it from a cable i'm afraid|inform
+b|no|negate
+b|it's i've got the internet service|inform
+b|but i've got a cable number|inform
+a|yeah|backch
+a|you're actually with internet as your service provider|confirm
+b|yes yes|ackn
+a|right|ackn
+a|but you've got a cable line|confirm
+b|yes|ackn

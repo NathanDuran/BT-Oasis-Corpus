@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le750660.unit.a">
+<stdzcode id="le750660.a.unit.1" description="name"/>
+<word id="le750660.a.unit.41">what</word>
+<word id="le750660.a.unit.42">code</word>
+<word id="le750660.a.unit.43">and</word>
+<word id="le750660.a.unit.44">number</word>
+<word id="le750660.a.unit.45">were</word>
+<word id="le750660.a.unit.46">you</word>
+<word id="le750660.a.unit.47">dialling</word>
+<word id="le750660.a.unit.48">please</word>
+<num id="le750660.a.unit.61"/>
+<num id="le750660.a.unit.62"/>
+<num id="le750660.a.unit.63"/>
+<num id="le750660.a.unit.64"/>
+<num id="le750660.a.unit.65"/>
+<num id="le750660.a.unit.66"/>
+<word id="le750660.a.unit.81">i'll</word>
+<word id="le750660.a.unit.82">just</word>
+<word id="le750660.a.unit.83">have</word>
+<word id="le750660.a.unit.84">a</word>
+<word id="le750660.a.unit.85">look</word>
+<word id="le750660.a.unit.86">for</word>
+<word id="le750660.a.unit.87">you</word>
+<comment text="phone_rings" id="le750660.a.unit.88"/>
+<comment text="end_-_ok" id="le750660.a.unit.89"/>
+</nite:root>

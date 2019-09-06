@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le708350.unit.b">
+<word id="le708350.b.unit.2">hi</word>
+<word id="le708350.b.unit.3">you</word>
+<word id="le708350.b.unit.4">know</word>
+<word id="le708350.b.unit.5">um</word>
+<word id="le708350.b.unit.6">the</word>
+<word id="le708350.b.unit.7">ringback</word>
+<word id="le708350.b.unit.8">function</word>
+<word id="le708350.b.unit.9">where</word>
+<word id="le708350.b.unit.10">you</word>
+<word id="le708350.b.unit.11">press</word>
+<num id="le708350.b.unit.12"/>
+<word id="le708350.b.unit.13">and</word>
+<word id="le708350.b.unit.14">it</word>
+<word id="le708350.b.unit.15">tells</word>
+<word id="le708350.b.unit.16">you</word>
+<word id="le708350.b.unit.17">when</word>
+<word id="le708350.b.unit.18">they're</word>
+<bcanchor id="le708350.bcanchorb.1"><nite:pointer href="le708350.a.lturn.xml#id(le708350.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le708350.b.unit.20">not</word>
+<word id="le708350.b.unit.21">engaged</word>
+<sil BTlength="" id="le708350.b.unit.22"/>
+<bcanchor id="le708350.bcanchorb.2"><nite:pointer href="le708350.a.lturn.xml#id(le708350.lturn.2.2)" role="bc"/></bcanchor>
+<word id="le708350.b.unit.24">how</word>
+<word id="le708350.b.unit.25">do</word>
+<word id="le708350.b.unit.26">you</word>
+<word id="le708350.b.unit.27">cancel</word>
+<word id="le708350.b.unit.28">one</word>
+<word id="le708350.b.unit.29">of</word>
+<word id="le708350.b.unit.30">those</word>
+<word id="le708350.b.unit.48">cheers</word>
+<word id="le708350.b.unit.58">yep</word>
+<word id="le708350.b.unit.59">ok</word>
+<word id="le708350.b.unit.60">then</word>
+<word id="le708350.b.unit.61">thanks</word>
+<word id="le708350.b.unit.62">a</word>
+<word id="le708350.b.unit.63">lot</word>
+<word id="le708350.b.unit.64">tadda</word>
+</nite:root>

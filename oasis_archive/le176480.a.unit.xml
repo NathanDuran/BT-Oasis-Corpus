@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le176480.unit.a">
+<stdzcode id="le176480.a.unit.1" description="g"/>
+<word id="le176480.a.unit.45">right</word>
+<sil BTlength="" id="le176480.a.unit.46"/>
+<word id="le176480.a.unit.47">sorry</word>
+<num id="le176480.a.unit.48"/>
+<num id="le176480.a.unit.49"/>
+<num id="le176480.a.unit.50"/>
+<word id="le176480.a.unit.54">yeah</word>
+<word id="le176480.a.unit.59">thank</word>
+<word id="le176480.a.unit.60">you</word>
+<word id="le176480.a.unit.61">let</word>
+<word id="le176480.a.unit.62">me</word>
+<word id="le176480.a.unit.63">just</word>
+<word id="le176480.a.unit.64">check</word>
+<word id="le176480.a.unit.65">that</word>
+<word id="le176480.a.unit.66">for</word>
+<word id="le176480.a.unit.67">you</word>
+<sil BTlength="" id="le176480.a.unit.68"/>
+<word id="le176480.a.unit.69">and</word>
+<word id="le176480.a.unit.70">that's</word>
+<num id="le176480.a.unit.71"/>
+<num id="le176480.a.unit.72"/>
+<num id="le176480.a.unit.73"/>
+<num id="le176480.a.unit.74"/>
+<word id="le176480.a.unit.80">thank</word>
+<word id="le176480.a.unit.81">you</word>
+<sil BTlength="" id="le176480.a.unit.82"/>
+<word id="le176480.a.unit.83">hello</word>
+<bcanchor id="le176480.bcanchora.2"><nite:pointer href="le176480.b.lturn.xml#id(le176480.lturn.7.1)" role="bc"/></bcanchor>
+<word id="le176480.a.unit.85">it</word>
+<word id="le176480.a.unit.86">is</word>
+<word id="le176480.a.unit.87">just</word>
+<word id="le176480.a.unit.88">a</word>
+<word id="le176480.a.unit.89">very</word>
+<word id="le176480.a.unit.90">busy</word>
+<word id="le176480.a.unit.91">line</word>
+<word id="le176480.a.unit.92">i'm</word>
+<word id="le176480.a.unit.93">afraid</word>
+<word id="le176480.a.unit.100">it</word>
+<word id="le176480.a.unit.101">is</word>
+<word id="le176480.a.unit.102">yeah</word>
+<word id="le176480.a.unit.122">thank</word>
+<word id="le176480.a.unit.123">you</word>
+<word id="le176480.a.unit.124">then</word>
+<word id="le176480.a.unit.125">bye</word>
+<word id="le176480.a.unit.126">bye</word>
+</nite:root>

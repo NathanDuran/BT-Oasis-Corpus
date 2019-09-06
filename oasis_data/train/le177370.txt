@@ -1,0 +1,21 @@
+b|hello|greet
+b|i'm on cable|inform
+b|and i'm trying to ring a bloke at and all i keep getting back is that i'm ringing the wrong number yep really oh right no wonder i'm not getting through then alright thanks very much bye|inform
+b|and all i keep getting back is that i'm ringing the wrong number|inform
+a|right|ackn
+a|what's the code and number that you're calling please|reqInfo
+b|yep|accept
+a|thank you right that's a disconnected line nobody has that number any more yeah okay thank you bye bye|thank
+a|right|init
+a|that's a disconnected line|inform
+a|nobody has that number any more|inform
+b|really|reqInfo
+b|oh right|ackn
+b|no wonder i'm not getting through then|exclaim
+b|alright|init
+a|yeah|backch
+a|okay|init
+b|thanks very much|thank
+a|thank you|thank
+a|bye bye|bye
+b|bye|bye

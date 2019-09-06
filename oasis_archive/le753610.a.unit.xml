@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le753610.unit.a">
+<stdzcode id="le753610.a.unit.1" description="name"/>
+<comment text="man_going_to_toilet_throughout_call" id="le753610.a.unit.2"/>
+<word id="le753610.a.unit.12">an</word>
+<word id="le753610.a.unit.13">alarm</word>
+<word id="le753610.a.unit.14">call</word>
+<word id="le753610.a.unit.15">what</word>
+<word id="le753610.a.unit.16">time</word>
+<word id="le753610.a.unit.17">do</word>
+<word id="le753610.a.unit.18">you</word>
+<word id="le753610.a.unit.19">what</word>
+<word id="le753610.a.unit.20">time</word>
+<word id="le753610.a.unit.21">do</word>
+<word id="le753610.a.unit.22">you</word>
+<word id="le753610.a.unit.23">want</word>
+<word id="le753610.a.unit.24">it</word>
+<word id="le753610.a.unit.25">for</word>
+<word id="le753610.a.unit.29">hang</word>
+<word id="le753610.a.unit.30">on</word>
+<word id="le753610.a.unit.31">please</word>
+<sil BTlength="2.2s" id="le753610.a.unit.32"/>
+<comment text="toilet_flushing" id="le753610.a.unit.33"/>
+<word id="le753610.a.unit.34">right</word>
+<word id="le753610.a.unit.35">we'll</word>
+<word id="le753610.a.unit.36">call</word>
+<word id="le753610.a.unit.37">you</word>
+<word id="le753610.a.unit.38">at</word>
+<word id="le753610.a.unit.39">three</word>
+<word id="le753610.a.unit.40">thirty</word>
+<word id="le753610.a.unit.41">this</word>
+<word id="le753610.a.unit.42">morning</word>
+<word id="le753610.a.unit.46">thank</word>
+<word id="le753610.a.unit.47">you</word>
+<word id="le753610.a.unit.48">byebye</word>
+</nite:root>

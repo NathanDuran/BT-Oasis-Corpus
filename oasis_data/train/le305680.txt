@@ -1,0 +1,7 @@
+b|hello|greet
+b|would you be able to give me a phone number of um yes please|reqInfo
+a|i'm sorry|expressRegret
+a|but for a phone number you need for directory assistance|inform
+a|would you like me to connect you|offer
+b|yes please|accept
+a|thank you|thank

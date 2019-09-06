@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le704300.unit.b">
+<word id="le704300.b.unit.2">hi</word>
+<sil BTlength="" id="le704300.b.unit.3"/>
+<word id="le704300.b.unit.4">um</word>
+<word id="le704300.b.unit.5">i've</word>
+<word id="le704300.b.unit.6">got</word>
+<word id="le704300.b.unit.7">a</word>
+<word id="le704300.b.unit.8">ringback</word>
+<word id="le704300.b.unit.9">service</word>
+<word id="le704300.b.unit.10">on</word>
+<word id="le704300.b.unit.11">my</word>
+<word id="le704300.b.unit.12">phone</word>
+<sil BTlength="" id="le704300.b.unit.13"/>
+<word id="le704300.b.unit.14">well</word>
+<word id="le704300.b.unit.15">you</word>
+<word id="le704300.b.unit.16">know</word>
+<word id="le704300.b.unit.17">it's</word>
+<word id="le704300.b.unit.18">not</word>
+<word id="le704300.b.unit.19">going</word>
+<word id="le704300.b.unit.20">to</word>
+<word id="le704300.b.unit.21">be</word>
+<num id="le704300.b.unit.22"/>
+<word id="le704300.b.unit.23">it</word>
+<word id="le704300.b.unit.24">how</word>
+<word id="le704300.b.unit.25">much</word>
+<word id="le704300.b.unit.26">is</word>
+<word id="le704300.b.unit.27">the</word>
+<word id="le704300.b.unit.28">call</word>
+<word id="le704300.b.unit.29">charges</word>
+<sil BTlength="" id="le704300.b.unit.30"/>
+<word id="le704300.b.unit.31">you</word>
+<word id="le704300.b.unit.32">know</word>
+<word id="le704300.b.unit.33">after</word>
+<word id="le704300.b.unit.34">every</word>
+<word id="le704300.b.unit.35">call</word>
+<word id="le704300.b.unit.36">you've</word>
+<word id="le704300.b.unit.37">made</word>
+<bcanchor id="le704300.bcanchorb.1"><nite:pointer href="le704300.a.lturn.xml#id(le704300.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le704300.b.unit.40">it</word>
+<word id="le704300.b.unit.41">rings</word>
+<word id="le704300.b.unit.42">you</word>
+<word id="le704300.b.unit.43">back</word>
+<word id="le704300.b.unit.44">telling</word>
+<word id="le704300.b.unit.45">you</word>
+<sil BTlength="" id="le704300.b.unit.46"/>
+<bcanchor id="le704300.bcanchorb.2"><nite:pointer href="le704300.a.lturn.xml#id(le704300.lturn.2.2)" role="bc"/></bcanchor>
+<word id="le704300.b.unit.48">yeah</word>
+<word id="le704300.b.unit.49">now</word>
+<word id="le704300.b.unit.50">i'm</word>
+<word id="le704300.b.unit.51">just</word>
+<word id="le704300.b.unit.52">wondering</word>
+<word id="le704300.b.unit.53">i</word>
+<word id="le704300.b.unit.54">want</word>
+<word id="le704300.b.unit.55">to</word>
+<word id="le704300.b.unit.56">make</word>
+<word id="le704300.b.unit.57">a</word>
+<word id="le704300.b.unit.58">call</word>
+<word id="le704300.b.unit.59">now</word>
+<word id="le704300.b.unit.60">how</word>
+<word id="le704300.b.unit.61">do</word>
+<word id="le704300.b.unit.62">i</word>
+<word id="le704300.b.unit.63">switch</word>
+<word id="le704300.b.unit.64">it</word>
+<word id="le704300.b.unit.65">off</word>
+<word id="le704300.b.unit.75">you</word>
+<word id="le704300.b.unit.76">for</word>
+<word id="le704300.b.unit.77">every</word>
+<word id="le704300.b.unit.78">call</word>
+<word id="le704300.b.unit.90">yeah</word>
+<word id="le704300.b.unit.109">mm</word>
+<word id="le704300.b.unit.118">it'd</word>
+<word id="le704300.b.unit.119">be</word>
+<word id="le704300.b.unit.120">in</word>
+<word id="le704300.b.unit.121">one</word>
+<word id="le704300.b.unit.122">of</word>
+<word id="le704300.b.unit.123">the</word>
+<word id="le704300.b.unit.124">select</word>
+<word id="le704300.b.unit.125">papers</word>
+<word id="le704300.b.unit.126">wouldn't</word>
+<word id="le704300.b.unit.127">it</word>
+<word id="le704300.b.unit.134">yeah</word>
+<word id="le704300.b.unit.135">that's</word>
+<word id="le704300.b.unit.136">right</word>
+<sil BTlength="9.5s" id="le704300.b.unit.137"/>
+<word id="le704300.b.unit.150">hash</word>
+<num id="le704300.b.unit.151"/>
+<num id="le704300.b.unit.152"/>
+<num id="le704300.b.unit.153"/>
+<word id="le704300.b.unit.154">hash</word>
+<word id="le704300.b.unit.161">oh</word>
+<word id="le704300.b.unit.162">right</word>
+<word id="le704300.b.unit.163">then</word>
+<comment text="mumbles" id="le704300.b.unit.164"/>
+<word id="le704300.b.unit.165">alright</word>
+<word id="le704300.b.unit.166">then</word>
+<word id="le704300.b.unit.168">thank</word>
+<word id="le704300.b.unit.169">you</word>
+</nite:root>

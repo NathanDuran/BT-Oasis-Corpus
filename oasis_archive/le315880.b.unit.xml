@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le315880.unit.b">
+<word id="le315880.b.unit.2">yes</word>
+<word id="le315880.b.unit.3">i</word>
+<word id="le315880.b.unit.4">wondered</word>
+<word id="le315880.b.unit.5">if</word>
+<word id="le315880.b.unit.6">you</word>
+<word id="le315880.b.unit.7">could</word>
+<word id="le315880.b.unit.8">tell</word>
+<word id="le315880.b.unit.9">me</word>
+<word id="le315880.b.unit.10">how</word>
+<word id="le315880.b.unit.11">you</word>
+<word id="le315880.b.unit.12">can</word>
+<word id="le315880.b.unit.13">er</word>
+<word id="le315880.b.unit.14">dial</word>
+<word id="le315880.b.unit.15">on</word>
+<word id="le315880.b.unit.16">your</word>
+<word id="le315880.b.unit.17">touch</word>
+<word id="le315880.b.unit.18">tone</word>
+<word id="le315880.b.unit.19">telephone</word>
+<word id="le315880.b.unit.20">the</word>
+<word id="le315880.b.unit.21">alarm</word>
+<word id="le315880.b.unit.22">call</word>
+<word id="le315880.b.unit.23">in</word>
+<word id="le315880.b.unit.24">the</word>
+<word id="le315880.b.unit.25">morning</word>
+<word id="le315880.b.unit.42">thank</word>
+<word id="le315880.b.unit.43">you</word>
+<word id="le315880.b.unit.73">yeah</word>
+<word id="le315880.b.unit.74">that's</word>
+<word id="le315880.b.unit.75">fine</word>
+<word id="le315880.b.unit.76">yeah</word>
+<word id="le315880.b.unit.92">yeah</word>
+<word id="le315880.b.unit.110">right</word>
+<word id="le315880.b.unit.111">right</word>
+<word id="le315880.b.unit.126">right</word>
+<word id="le315880.b.unit.127">yeah</word>
+<word id="le315880.b.unit.129">yep</word>
+<word id="le315880.b.unit.134">right</word>
+<word id="le315880.b.unit.140">ok</word>
+<word id="le315880.b.unit.165">no</word>
+<word id="le315880.b.unit.166">no</word>
+<word id="le315880.b.unit.167">that'll</word>
+<word id="le315880.b.unit.168">be</word>
+<word id="le315880.b.unit.169">alright</word>
+<word id="le315880.b.unit.171">ok</word>
+<word id="le315880.b.unit.172">then</word>
+<word id="le315880.b.unit.175">thank</word>
+<word id="le315880.b.unit.176">you</word>
+<bcanchor id="le315880.bcanchorb.3"><nite:pointer href="le315880.a.lturn.xml#id(le315880.lturn.20.1)" role="bc"/></bcanchor>
+<word id="le315880.b.unit.178">byebye</word>
+<comment text="hang_up" id="le315880.b.unit.179"/>
+<comment text="end-ok" id="le315880.b.unit.180"/>
+</nite:root>

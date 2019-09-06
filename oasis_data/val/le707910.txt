@@ -1,0 +1,22 @@
+b|oh good|greet
+b|um i've just been talking to your other lady on the another line and she said would you check this number out for me please um i keep dialing it and i keep getting it's not available oh they've stopped in the last few weeks have they oh right i'll just have to write a letter it's about a bereavement all right thank you bye|inform
+b|and she said|inform
+b|would you check this number out for me please|direct
+a|what's the number|reqInfo
+a|yeah|backch
+a|right|ackn
+a|what's the problem with the number|reqInfo
+b|um i keep dialing it|answ
+b|and i keep getting it's not available|answElab
+a|yeah|ackn
+a|that line has been stopped|inform
+a|there is no longer a customer with that number|inform
+b|oh they've stopped in the last few weeks have they|reqInfo
+a|yeah|answ
+b|i'll just have to write a letter|informIntent
+b|it's about a bereavement|inform
+b|all right|ackn
+b|thank you|thank
+b|bye|bye
+a|no problem|ackn
+a|bye now|bye

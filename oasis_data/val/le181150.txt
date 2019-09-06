@@ -1,0 +1,37 @@
+b|hello|greet
+b|can you tell me if number are engaged or off the hook|reqInfo
+a|er yes|answ
+a|i can try|answElab
+a|what number is it that you're trying to get through|reqInfo
+a|yeah|backch
+a|hold on|hold
+a|cause i think that's a number ain't it|confirm
+b|yep|backch
+b|yeah|ackn
+b|it is|ackn
+a|right|init
+a|hold on|hold
+a|i'll just check with the operator|informIntent
+a|see if we can find out|informIntent
+a|won't be a moment|hold
+b|thank you|backch
+b|thanks hello huh alright then thank you see you bye|thank
+a|oh hello|greet
+a|it's here|identifySelf
+a|can you just verify busy on one of your numbers for us|direct
+a|it's double oh great thanks a lot then byebye hello there right i've just checked with apparently there is a conversation on the line ok you're welcome byebye|inform
+a|oh great|appreciate
+a|thanks a lot then|thank
+a|byebye hello there right i've just checked with apparently there is a conversation on the line ok you're welcome byebye|bye
+a|hello there|greet
+b|hello|greet
+a|right|init
+a|i've just checked with apparently there is a conversation on the line ok you're welcome byebye|inform
+a|apparently there is a conversation on the line|inform
+b|huh alright then|ackn
+a|ok|init
+b|thank you|thank
+a|you're welcome|ackn
+b|see you|bye
+a|byebye|bye
+b|bye|bye

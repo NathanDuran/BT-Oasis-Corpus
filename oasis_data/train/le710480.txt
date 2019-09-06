@@ -1,0 +1,16 @@
+b|hello|greet
+a|early morning call|echo
+a|what time would you like the call please|reqDirect
+b|two o'clock please|direct
+a|for two o'clock|confirm
+a|if you'd just like to hold the line while i confirm that for you|informIntent
+b|yep|backch
+b|thank you ok thanks very much bye|thank
+a|that's fine|inform
+a|i can call you at two o'clock|inform
+b|ok|ackn
+b|thanks very much|thank
+b|bye|bye
+a|ok then|ackn
+a|thank you|thank
+a|bye|bye

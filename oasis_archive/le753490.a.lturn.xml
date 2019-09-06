@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le753490.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le753490.lturn.1'>
+
+
+<utt id='le753490.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='le753490.frag.1'>
+<nite:child href='le753490.a.unit.xml#id(le753490.a.unit.1)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le753490.lturn.3'>
+
+
+<utt id='le753490.utt.4'>
+
+<segment type='q_wh' sp-act='reqInfo' id='le753490.q_wh.1'>
+<nite:child href='le753490.a.unit.xml#id(le753490.a.unit.10)..id(le753490.a.unit.12)'/>
+</segment>
+
+</utt>
+
+<utt id='le753490.utt.5'>
+
+<segment type='dm' sp-act='pardon' id='le753490.dm.1'>
+<nite:child href='le753490.a.unit.xml#id(le753490.a.unit.13)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le753490.lturn.5'>
+
+
+<utt id='le753490.utt.7'>
+
+<segment type='frag' sp-act='echo' id='le753490.frag.4'>
+<nite:child href='le753490.a.unit.xml#id(le753490.a.unit.18)..id(le753490.bcanchora.1)'/>
+</segment>
+
+</utt>
+
+<utt id='le753490.utt.8'>
+
+<segment type='imp' sp-act='hold' id='le753490.a.imp.1'>
+<nite:child href='le753490.a.unit.xml#id(le753490.a.unit.22)..id(le753490.a.unit.27)'/>
+</segment>
+
+</utt>
+
+<utt id='le753490.utt.9'>
+
+<segment type='decl' sp-act='informIntent' id='le753490.decl.1'>
+<nite:child href='le753490.a.unit.xml#id(le753490.a.unit.28)..id(le753490.a.unit.33)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

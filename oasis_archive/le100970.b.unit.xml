@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le100970.unit.b">
+<word id="le100970.b.unit.2">hello</word>
+<partword id="le100970.b.unit.3">co</partword>
+<word id="le100970.b.unit.4">could</word>
+<word id="le100970.b.unit.5">i</word>
+<word id="le100970.b.unit.6">have</word>
+<lcode id="le100970.b.unit.7"/>
+<lcode id="le100970.b.unit.8"/>
+<lcode id="le100970.b.unit.9"/>
+<word id="le100970.b.unit.10">on</word>
+<word id="le100970.b.unit.11">a</word>
+<word id="le100970.b.unit.12">phone</word>
+<word id="le100970.b.unit.13">call</word>
+<word id="le100970.b.unit.14">to</word>
+<pncode type="region" id="le100970.b.unit.15"/>
+<word id="le100970.b.unit.16">please</word>
+<sil BTlength="" id="le100970.b.unit.17"/>
+<bcanchor id="le100970.bcanchorb.1"><nite:pointer href="le100970.a.lturn.xml#id(le100970.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le100970.b.unit.40">yeah</word>
+<word id="le100970.b.unit.41">it's</word>
+<num id="le100970.b.unit.42"/>
+<num id="le100970.b.unit.43"/>
+<num id="le100970.b.unit.44"/>
+<num id="le100970.b.unit.45"/>
+<num id="le100970.b.unit.46"/>
+<num id="le100970.b.unit.52"/>
+<num id="le100970.b.unit.53"/>
+<num id="le100970.b.unit.54"/>
+<num id="le100970.b.unit.55"/>
+<bcanchor id="le100970.bcanchorb.2"><nite:pointer href="le100970.a.lturn.xml#id(le100970.lturn.6.1)" role="bc"/></bcanchor>
+<num id="le100970.b.unit.59"/>
+<partword id="le100970.b.unit.60">se</partword>
+<sil BTlength="" id="le100970.b.unit.61"/>
+<num id="le100970.b.unit.62"/>
+<num id="le100970.b.unit.63"/>
+<num id="le100970.b.unit.64"/>
+<word id="le100970.b.unit.73">yeah</word>
+<bcanchor id="le100970.bcanchorb.3"><nite:pointer href="le100970.a.lturn.xml#id(le100970.lturn.8.1)" role="bc"/></bcanchor>
+<word id="le100970.b.unit.101">er</word>
+<num id="le100970.b.unit.107"/>
+<num id="le100970.b.unit.108"/>
+<num id="le100970.b.unit.109"/>
+<num id="le100970.b.unit.110"/>
+<num id="le100970.b.unit.111"/>
+<bcanchor id="le100970.bcanchorb.4"><nite:pointer href="le100970.a.lturn.xml#id(le100970.lturn.12.1)" role="bc"/></bcanchor>
+<num id="le100970.b.unit.113"/>
+<num id="le100970.b.unit.114"/>
+<num id="le100970.b.unit.115"/>
+<num id="le100970.b.unit.119"/>
+<num id="le100970.b.unit.120"/>
+<num id="le100970.b.unit.121"/>
+<word id="le100970.b.unit.128">er</word>
+<word id="le100970.b.unit.129">and</word>
+<word id="le100970.b.unit.130">can</word>
+<word id="le100970.b.unit.131">i</word>
+<word id="le100970.b.unit.132">have</word>
+<lcode id="le100970.b.unit.133"/>
+<lcode id="le100970.b.unit.134"/>
+<lcode id="le100970.b.unit.135"/>
+<word id="le100970.b.unit.136">on</word>
+<word id="le100970.b.unit.137">it</word>
+<word id="le100970.b.unit.142">advice</word>
+<word id="le100970.b.unit.143">bureau</word>
+<gap id="le100970.b.unit.144"/>
+<word id="le100970.b.unit.145"/>
+<comment text="telephone_tone" id="le100970.b.unit.152"/>
+<comment text="end_-_ok" id="le100970.b.unit.153"/>
+</nite:root>

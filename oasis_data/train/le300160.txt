@@ -1,0 +1,47 @@
+b|hello there|greet
+b|yeah um|init
+b|i've just used the facility to get a a number of the last person who called|inform
+b|erm and tried to press and then pressed after the er after they gave the number and it was just coming up unobtainable so i took a note of the number and it's still coming up unobtainable yeah it's yeah ok thank you ok thanks a lot ok thank you very much thanks now byebye|inform
+b|and it was just coming up unobtainable|inform
+b|so|init
+b|i took a note of the number|inform
+b|and it's still coming up unobtainable|inform
+a|hello|backch
+a|yeah|backch
+a|sorry|expressRegret
+a|what number please|reqInfo
+a|i'll try it|informIntent
+b|yeah|ackn
+b|it's yeah ok thank you ok thanks a lot ok thank you very much thanks now byebye|answElab
+a|thank you sorry i'm getting the same as well it's so i'll just go through to the operator thanks good afternoon it's here we're calling hi and we're getting unobtainable please thanks won't keep you a moment there thank you you're welcome hi there ok thanks bye sorry about that if you'd like to try it later thanks bye you're welcome|thank
+a|sorry|expressRegret
+a|i'm getting the same as well|inform
+a|it's so i'll just go through to the operator thanks good afternoon it's here we're calling hi and we're getting unobtainable please thanks won't keep you a moment there thank you you're welcome hi there ok thanks bye sorry about that if you'd like to try it later thanks bye you're welcome|inform
+a|so|init
+a|i'll just go through to the operator|informIntent
+b|yeah|backch
+b|ok|ackn
+b|thank you|thank
+a|thanks good afternoon it's here we're calling hi and we're getting unobtainable please thanks won't keep you a moment there thank you you're welcome hi there ok thanks bye sorry about that if you'd like to try it later thanks bye you're welcome|thank
+a|good afternoon|greet
+a|it's here|identifySelf
+a|we're calling hi and we're getting unobtainable please thanks won't keep you a moment there thank you you're welcome hi there ok thanks bye sorry about that if you'd like to try it later thanks bye you're welcome|inform
+a|and we're getting unobtainable please|inform
+a|thanks won't keep you a moment there thank you you're welcome hi there ok thanks bye sorry about that if you'd like to try it later thanks bye you're welcome|thank
+b|ok|accept
+b|thanks a lot|thank
+a|thank you|thank
+a|you're welcome hi there ok thanks bye sorry about that if you'd like to try it later thanks bye you're welcome|ackn
+a|hi there|backch
+a|ok|ackn
+a|thanks|thank
+a|bye|bye
+a|sorry about that|expressRegret
+a|if you'd like to try it later|suggest
+b|ok|accept
+b|thank you very much|thank
+a|thanks|thank
+a|bye|bye
+b|thanks now|thank
+b|byebye|bye
+a|you're welcome|ackn

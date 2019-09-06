@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le752430.unit.a">
+<stdzcode id="le752430.a.unit.1" description="name"/>
+<sil BTlength="" id="le752430.a.unit.2"/>
+<sil BTlength="" id="le752430.a.unit.3"/>
+<word id="le752430.a.unit.4">hello</word>
+<pncode type="town" id="le752430.a.unit.18"/>
+<word id="le752430.a.unit.19">Police</word>
+<word id="le752430.a.unit.20">Station</word>
+<word id="le752430.a.unit.21">you</word>
+<bcanchor id="le752430.bcanchora.1"><nite:pointer href="le752430.b.lturn.xml#id(le752430.lturn.3.1)" role="bc"/></bcanchor>
+<word id="le752430.a.unit.23">want</word>
+<word id="le752430.a.unit.24">the</word>
+<word id="le752430.a.unit.25">number</word>
+<bcanchor id="le752430.bcanchora.2"><nite:pointer href="le752430.b.lturn.xml#id(le752430.lturn.3.2)" role="bc"/></bcanchor>
+<word id="le752430.a.unit.27">i</word>
+<word id="le752430.a.unit.28">can</word>
+<word id="le752430.a.unit.29">put</word>
+<word id="le752430.a.unit.30">you</word>
+<word id="le752430.a.unit.31">through</word>
+<word id="le752430.a.unit.32">to</word>
+<word id="le752430.a.unit.33">directories</word>
+<word id="le752430.a.unit.42">just</word>
+<word id="le752430.a.unit.43">a</word>
+<word id="le752430.a.unit.44">moment</word>
+<word id="le752430.a.unit.45">then</word>
+<word id="le752430.a.unit.46">please</word>
+<sil BTlength="" id="le752430.a.unit.47"/>
+<word id="le752430.a.unit.55">yeah</word>
+<word id="le752430.a.unit.56">this</word>
+<word id="le752430.a.unit.57">is</word>
+<lcode id="le752430.a.unit.58"/>
+<lcode id="le752430.a.unit.59"/>
+<pncode type="town" id="le752430.a.unit.60"/>
+<word id="le752430.a.unit.61">i'm</word>
+<word id="le752430.a.unit.62">looking</word>
+<word id="le752430.a.unit.63">for</word>
+<word id="le752430.a.unit.64">the</word>
+<word id="le752430.a.unit.65">number</word>
+<word id="le752430.a.unit.66">of</word>
+<pncode type="town" id="le752430.a.unit.67"/>
+<word id="le752430.a.unit.68">Police%</word>
+<word id="le752430.a.unit.69">Station</word>
+<word id="le752430.a.unit.70">please</word>
+<word id="le752430.a.unit.77">yep</word>
+<word id="le752430.a.unit.81">yep</word>
+<num id="le752430.a.unit.94"/>
+<num id="le752430.a.unit.95"/>
+<num id="le752430.a.unit.96"/>
+<word id="le752430.a.unit.97">double</word>
+<num id="le752430.a.unit.98"/>
+<word id="le752430.a.unit.102">double</word>
+<num id="le752430.a.unit.103"/>
+<num id="le752430.a.unit.104"/>
+<num id="le752430.a.unit.108"/>
+<num id="le752430.a.unit.109"/>
+<num id="le752430.a.unit.110"/>
+<word id="le752430.a.unit.111">okay</word>
+<word id="le752430.a.unit.112">then</word>
+<word id="le752430.a.unit.113">thanks</word>
+<word id="le752430.a.unit.114">a</word>
+<word id="le752430.a.unit.115">lot</word>
+<word id="le752430.a.unit.119">bye</word>
+<sil BTlength="" id="le752430.a.unit.120"/>
+<word id="le752430.a.unit.121">okay</word>
+<word id="le752430.a.unit.122">i've</word>
+<word id="le752430.a.unit.123">got</word>
+<word id="le752430.a.unit.124">the</word>
+<word id="le752430.a.unit.125">number</word>
+<word id="le752430.a.unit.126">do</word>
+<word id="le752430.a.unit.127">you</word>
+<word id="le752430.a.unit.128">want</word>
+<word id="le752430.a.unit.129">me</word>
+<word id="le752430.a.unit.130">to</word>
+<word id="le752430.a.unit.131">connect</word>
+<word id="le752430.a.unit.132">you</word>
+<bcanchor id="le752430.bcanchora.5"><nite:pointer href="le752430.x.lturn.xml#id(le752430.lturn.15.1)" role="bc"/></bcanchor>
+<word id="le752430.a.unit.135">that's</word>
+<word id="le752430.a.unit.136">ringing</word>
+<word id="le752430.a.unit.137">for</word>
+<word id="le752430.a.unit.138">you</word>
+<word id="le752430.a.unit.139">thank</word>
+<word id="le752430.a.unit.140">you</word>
+<comment text="end-ok" id="le752430.a.unit.141"/>
+</nite:root>

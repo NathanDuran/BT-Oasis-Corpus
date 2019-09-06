@@ -1,0 +1,11 @@
+b|yeah|ackn
+b|can i have uh place an early morning call please o'clock pardon thank you bye|direct
+a|what time please|reqInfo
+a|that's booked for you|inform
+a|we'll call you at seven|informIntent
+b|pardon|pardon
+a|we'll call you at seven|informIntent
+b|thank you|thank
+a|ok|ackn
+b|bye|bye
+a|bye|bye

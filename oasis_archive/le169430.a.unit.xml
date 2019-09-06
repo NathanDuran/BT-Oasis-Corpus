@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le169430.unit.a">
+<stdzcode id="le169430.a.unit.1" description="name"/>
+<word id="le169430.a.unit.38">certainly</word>
+<word id="le169430.a.unit.39">i'm</word>
+<word id="le169430.a.unit.40">sorry</word>
+<word id="le169430.a.unit.41">what's</word>
+<word id="le169430.a.unit.42">the</word>
+<word id="le169430.a.unit.43">code</word>
+<word id="le169430.a.unit.44">and</word>
+<word id="le169430.a.unit.45">number</word>
+<word id="le169430.a.unit.46">you</word>
+<word id="le169430.a.unit.47">are</word>
+<word id="le169430.a.unit.48">dialling</word>
+<num id="le169430.a.unit.57"/>
+<num id="le169430.a.unit.58"/>
+<word id="le169430.a.unit.59">treble</word>
+<num id="le169430.a.unit.60"/>
+<num id="le169430.a.unit.67"/>
+<num id="le169430.a.unit.68"/>
+<num id="le169430.a.unit.69"/>
+<num id="le169430.a.unit.73"/>
+<word id="le169430.a.unit.74">double</word>
+<num id="le169430.a.unit.75"/>
+<bcanchor id="le169430.bcanchora.1"><nite:pointer href="le169430.b.lturn.xml#id(le169430.lturn.9.1)" role="bc"/></bcanchor>
+<word id="le169430.a.unit.77">thank</word>
+<word id="le169430.a.unit.78">you</word>
+<sil BTlength="3.8s" id="le169430.a.unit.79"/>
+<word id="le169430.a.unit.80">just</word>
+<word id="le169430.a.unit.81">just</word>
+<word id="le169430.a.unit.82">try</word>
+<word id="le169430.a.unit.83">the</word>
+<word id="le169430.a.unit.84">call</word>
+<word id="le169430.a.unit.85">for</word>
+<word id="le169430.a.unit.86">you</word>
+<comment text="ringing" id="le169430.a.unit.87"/>
+<word id="le169430.a.unit.90">ah</word>
+<word id="le169430.a.unit.91">that's</word>
+<word id="le169430.a.unit.92">ringing</word>
+<word id="le169430.a.unit.93">for</word>
+<word id="le169430.a.unit.94">you</word>
+</nite:root>

@@ -1,0 +1,16 @@
+a|hello|greet
+b|sorry|expressRegret
+b|i was expecting an automated service um first things first could you have a look at my account please uh no i've got me phone number it's|inform
+a|i'm sorry|expressRegret
+b|could you have a look at my account please|direct
+a|yeah certainly|accept
+a|have you got your account number|reqInfo
+b|uh no|answ
+b|i've got me phone number|inform
+a|okay|backch
+a|okay|ackn
+a|what's the phone number then please|reqInfo
+b|it's|answ
+a|yeah|ackn
+a|yeah|ackn
+a|thank you|thank

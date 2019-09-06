@@ -1,0 +1,9 @@
+b|ah good afternoon|greet
+b|could you please get me a number for the oh sorry is that alright yes please|direct
+a|i am sorry|expressRegret
+a|to obtain numbers you'll need directories on|inform
+a|would you like me to put you through|offer
+b|oh sorry|backch
+b|is that alright|reqInfo
+a|shall i put you through|offer
+b|yes please|accept

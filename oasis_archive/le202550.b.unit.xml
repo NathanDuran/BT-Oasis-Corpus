@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le202550.unit.b">
+<word id="le202550.b.unit.2">could</word>
+<word id="le202550.b.unit.3">i</word>
+<word id="le202550.b.unit.4">have</word>
+<word id="le202550.b.unit.5">an</word>
+<word id="le202550.b.unit.6">alarm</word>
+<word id="le202550.b.unit.7">call</word>
+<word id="le202550.b.unit.8">for</word>
+<word id="le202550.b.unit.9">a</word>
+<partword id="le202550.b.unit.10">hal</partword>
+<word id="le202550.b.unit.11">half</word>
+<word id="le202550.b.unit.12">eight</word>
+<word id="le202550.b.unit.13">in</word>
+<word id="le202550.b.unit.14">the</word>
+<word id="le202550.b.unit.15">morning</word>
+<word id="le202550.b.unit.16">please</word>
+<word id="le202550.b.unit.21">yeah</word>
+<word id="le202550.b.unit.47">right</word>
+<word id="le202550.b.unit.48">okay</word>
+<word id="le202550.b.unit.49">thanks</word>
+<word id="le202550.b.unit.50">a</word>
+<word id="le202550.b.unit.51">lot</word>
+<word id="le202550.b.unit.55">bye</word>
+<comment text="receiver_replaced" id="le202550.b.unit.56"/>
+<comment text="end-ok" id="le202550.b.unit.57"/>
+</nite:root>

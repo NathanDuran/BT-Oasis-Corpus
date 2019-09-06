@@ -1,0 +1,13 @@
+b|hello|greet
+b|can you try a number for me um|direct
+b|er it's out of service okay thanks a lot bye|inform
+a|yeah|backch
+a|thank you yep that line's temporarily out of service sir yeah bye|thank
+a|yep|init
+a|that line's temporarily out of service sir|inform
+b|out of service|echo
+b|okay|ackn
+b|thanks a lot|thank
+b|bye|bye
+a|yeah|backch
+a|bye|bye

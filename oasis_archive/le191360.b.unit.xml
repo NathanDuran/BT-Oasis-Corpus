@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le191360.unit.b">
+<stdzcode id="le191360.b.unit.2" description="name"/>
+<word id="le191360.b.unit.3">i</word>
+<word id="le191360.b.unit.4">wonder</word>
+<word id="le191360.b.unit.5">if</word>
+<word id="le191360.b.unit.6">you</word>
+<word id="le191360.b.unit.7">can</word>
+<word id="le191360.b.unit.8">help</word>
+<word id="le191360.b.unit.9">me</word>
+<word id="le191360.b.unit.10">i've</word>
+<word id="le191360.b.unit.11">been</word>
+<word id="le191360.b.unit.12">trying</word>
+<word id="le191360.b.unit.13">a</word>
+<word id="le191360.b.unit.14">number</word>
+<word id="le191360.b.unit.15">for</word>
+<word id="le191360.b.unit.16">three</word>
+<word id="le191360.b.unit.17">days</word>
+<word id="le191360.b.unit.18">it's</word>
+<word id="le191360.b.unit.19">constantly</word>
+<word id="le191360.b.unit.20">engaged</word>
+<word id="le191360.b.unit.36">it's</word>
+<word id="le191360.b.unit.37">er</word>
+<num id="le191360.b.unit.38"/>
+<num id="le191360.b.unit.39"/>
+<num id="le191360.b.unit.40"/>
+<num id="le191360.b.unit.41"/>
+<num id="le191360.b.unit.42"/>
+<num id="le191360.b.unit.48"/>
+<word id="le191360.b.unit.49">double</word>
+<num id="le191360.b.unit.50"/>
+<num id="le191360.b.unit.54"/>
+<num id="le191360.b.unit.55"/>
+<num id="le191360.b.unit.56"/>
+<word id="le191360.b.unit.62">cheers</word>
+<word id="le191360.b.unit.95">ah</word>
+<word id="le191360.b.unit.96">right</word>
+<word id="le191360.b.unit.114">i</word>
+<word id="le191360.b.unit.115">haven't</word>
+<word id="le191360.b.unit.116">i</word>
+<word id="le191360.b.unit.117">know</word>
+<word id="le191360.b.unit.118">they're</word>
+<word id="le191360.b.unit.119">sheet</word>
+<word id="le191360.b.unit.120">metal</word>
+<word id="le191360.b.unit.121">workers</word>
+<word id="le191360.b.unit.122">advertising</word>
+<word id="le191360.b.unit.123">in</word>
+<word id="le191360.b.unit.124">yellow</word>
+<word id="le191360.b.unit.125">pages</word>
+<word id="le191360.b.unit.126">that's</word>
+<word id="le191360.b.unit.127">all</word>
+<sil BTlength="" id="le191360.b.unit.128"/>
+<word id="le191360.b.unit.129">uh</word>
+<bcanchor id="le191360.bcanchorb.2"><nite:pointer href="le191360.a.lturn.xml#id(le191360.lturn.12.1)" role="bc"/></bcanchor>
+<word id="le191360.b.unit.131">they're</word>
+<word id="le191360.b.unit.132">at</word>
+<pncode type="town" id="le191360.b.unit.133"/>
+<pncode type="town" id="le191360.b.unit.134"/>
+<word id="le191360.b.unit.135">in</word>
+<pncode type="town" id="le191360.b.unit.136"/>
+<word id="le191360.b.unit.164">oh</word>
+<word id="le191360.b.unit.165">what</word>
+<word id="le191360.b.unit.166">is</word>
+<word id="le191360.b.unit.167">it</word>
+<word id="le191360.b.unit.168">possible</word>
+<word id="le191360.b.unit.169">they've</word>
+<word id="le191360.b.unit.170">moved</word>
+<word id="le191360.b.unit.171">do</word>
+<word id="le191360.b.unit.172">you</word>
+<word id="le191360.b.unit.173">think</word>
+<word id="le191360.b.unit.208">ah</word>
+<word id="le191360.b.unit.209">right</word>
+<word id="le191360.b.unit.210">i'm</word>
+<word id="le191360.b.unit.211">with</word>
+<word id="le191360.b.unit.212">you</word>
+<bcanchor id="le191360.bcanchorb.3"><nite:pointer href="le191360.a.lturn.xml#id(le191360.lturn.16.1)" role="bc"/></bcanchor>
+<word id="le191360.b.unit.214">oh</word>
+<word id="le191360.b.unit.215">right</word>
+<word id="le191360.b.unit.216">then</word>
+<stdzcode id="le191360.b.unit.217" description="name"/>
+<word id="le191360.b.unit.218">i'll</word>
+<word id="le191360.b.unit.219">have</word>
+<word id="le191360.b.unit.220">a</word>
+<word id="le191360.b.unit.221">look</word>
+<word id="le191360.b.unit.222">in</word>
+<word id="le191360.b.unit.223">yellow</word>
+<word id="le191360.b.unit.224">pages</word>
+<word id="le191360.b.unit.225">and</word>
+<word id="le191360.b.unit.226">get</word>
+<word id="le191360.b.unit.227">back</word>
+<word id="le191360.b.unit.228">on</word>
+<word id="le191360.b.unit.229">to</word>
+<word id="le191360.b.unit.230">directories</word>
+<word id="le191360.b.unit.234">thank</word>
+<word id="le191360.b.unit.235">you</word>
+<word id="le191360.b.unit.245">yeah</word>
+<word id="le191360.b.unit.269">oh</word>
+<word id="le191360.b.unit.270">right</word>
+<word id="le191360.b.unit.280">that's</word>
+<word id="le191360.b.unit.281">lovely</word>
+<word id="le191360.b.unit.283">thank</word>
+<word id="le191360.b.unit.284">you</word>
+<word id="le191360.b.unit.288">bye</word>
+<comment text="hang_up" id="le191360.b.unit.289"/>
+<comment text="end-ok" id="le191360.b.unit.290"/>
+</nite:root>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le192280.unit.b">
+<word id="le192280.b.unit.2">um</word>
+<word id="le192280.b.unit.3">good</word>
+<word id="le192280.b.unit.4">morning</word>
+<word id="le192280.b.unit.5">i'm</word>
+<word id="le192280.b.unit.6">trying</word>
+<word id="le192280.b.unit.7">to</word>
+<word id="le192280.b.unit.8">make</word>
+<word id="le192280.b.unit.9">a</word>
+<word id="le192280.b.unit.10">phone</word>
+<word id="le192280.b.unit.11">call</word>
+<word id="le192280.b.unit.12">to</word>
+<pncode type="town" id="le192280.b.unit.13"/>
+<word id="le192280.b.unit.14">and</word>
+<word id="le192280.b.unit.15">i</word>
+<bcanchor id="le192280.bcanchorb.1"><nite:pointer href="le192280.a.lturn.xml#id(le192280.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le192280.b.unit.17">keep</word>
+<word id="le192280.b.unit.18">on</word>
+<word id="le192280.b.unit.19">getting</word>
+<sil BTlength="" id="le192280.b.unit.20"/>
+<word id="le192280.b.unit.21">er</word>
+<word id="le192280.b.unit.22">please</word>
+<word id="le192280.b.unit.23">try</word>
+<word id="le192280.b.unit.24">again</word>
+<word id="le192280.b.unit.25">this</word>
+<word id="le192280.b.unit.26">this</word>
+<word id="le192280.b.unit.27">is</word>
+<word id="le192280.b.unit.28">a</word>
+<word id="le192280.b.unit.29">wrong</word>
+<word id="le192280.b.unit.30">number</word>
+<word id="le192280.b.unit.47">well</word>
+<word id="le192280.b.unit.48">it's</word>
+<pncode type="town" id="le192280.b.unit.49"/>
+<word id="le192280.b.unit.55">'ccause</word>
+<word id="le192280.b.unit.56">i</word>
+<word id="le192280.b.unit.57">mean</word>
+<word id="le192280.b.unit.58">i</word>
+<word id="le192280.b.unit.59">mean</word>
+<word id="le192280.b.unit.60">i'm</word>
+<word id="le192280.b.unit.61">in</word>
+<word id="le192280.b.unit.62">the</word>
+<word id="le192280.b.unit.63">area</word>
+<sil BTlength="" id="le192280.b.unit.64"/>
+<bcanchor id="le192280.bcanchorb.2"><nite:pointer href="le192280.a.lturn.xml#id(le192280.lturn.6.1)" role="bc"/></bcanchor>
+<word id="le192280.b.unit.66">it's</word>
+<num id="le192280.b.unit.67"/>
+<num id="le192280.b.unit.68"/>
+<num id="le192280.b.unit.69"/>
+<num id="le192280.b.unit.73"/>
+<num id="le192280.b.unit.74"/>
+<num id="le192280.b.unit.75"/>
+<word id="le192280.b.unit.100">but</word>
+<partword id="le192280.b.unit.101">th</partword>
+<partword id="le192280.b.unit.102">th</partword>
+<word id="le192280.b.unit.103">this</word>
+<word id="le192280.b.unit.104">is</word>
+<pncode type="other" id="le192280.b.unit.105"/>
+<word id="le192280.b.unit.106">place</word>
+<pncode type="other" id="le192280.b.unit.107"/>
+<word id="le192280.b.unit.108">County</word>
+<pncode type="other" id="le192280.b.unit.109"/>
+<word id="le192280.b.unit.110">Council</word>
+<word id="le192280.b.unit.111">this</word>
+<word id="le192280.b.unit.112">is</word>
+<word id="le192280.b.unit.113">the</word>
+<partword id="le192280.b.unit.114">ed</partword>
+<word id="le192280.b.unit.115">education</word>
+<word id="le192280.b.unit.116">department</word>
+<word id="le192280.b.unit.137">but</word>
+<word id="le192280.b.unit.158">but</word>
+<word id="le192280.b.unit.159">you</word>
+<word id="le192280.b.unit.160">see</word>
+<word id="le192280.b.unit.161">this</word>
+<word id="le192280.b.unit.162">is</word>
+<word id="le192280.b.unit.163">a</word>
+<word id="le192280.b.unit.164">letter</word>
+<word id="le192280.b.unit.165">which</word>
+<word id="le192280.b.unit.166">came</word>
+<word id="le192280.b.unit.167">yesterday</word>
+<bcanchor id="le192280.bcanchorb.4"><nite:pointer href="le192280.a.lturn.xml#id(le192280.lturn.12.1)" role="bc"/></bcanchor>
+<word id="le192280.b.unit.170">and</word>
+<word id="le192280.b.unit.171">i'm</word>
+<word id="le192280.b.unit.172">phoning</word>
+<word id="le192280.b.unit.173">back</word>
+<word id="le192280.b.unit.174">the</word>
+<word id="le192280.b.unit.175">lady</word>
+<word id="le192280.b.unit.176">who</word>
+<word id="le192280.b.unit.177">who</word>
+<word id="le192280.b.unit.178">who</word>
+<word id="le192280.b.unit.179">wrote</word>
+<word id="le192280.b.unit.180">the</word>
+<word id="le192280.b.unit.181">letter</word>
+<sil BTlength="" id="le192280.b.unit.182"/>
+<word id="le192280.b.unit.183">with</word>
+<word id="le192280.b.unit.184">the</word>
+<word id="le192280.b.unit.185">direct</word>
+<word id="le192280.b.unit.186">dial</word>
+<word id="le192280.b.unit.187">number</word>
+<sil BTlength="" id="le192280.b.unit.188"/>
+<word id="le192280.b.unit.189">which</word>
+<word id="le192280.b.unit.190">is</word>
+<word id="le192280.b.unit.191">simply</word>
+<num id="le192280.b.unit.192"/>
+<num id="le192280.b.unit.193"/>
+<num id="le192280.b.unit.194"/>
+<num id="le192280.b.unit.195"/>
+<num id="le192280.b.unit.196"/>
+<num id="le192280.b.unit.197"/>
+<num id="le192280.b.unit.198"/>
+<num id="le192280.b.unit.199"/>
+<sil BTlength="" id="le192280.b.unit.200"/>
+<word id="le192280.b.unit.201">i</word>
+<word id="le192280.b.unit.202">mean</word>
+<word id="le192280.b.unit.203">it's</word>
+<word id="le192280.b.unit.204">just</word>
+<word id="le192280.b.unit.205">instant</word>
+<word id="le192280.b.unit.206">you</word>
+<word id="le192280.b.unit.207">know</word>
+<word id="le192280.b.unit.208">what</word>
+<word id="le192280.b.unit.209">i</word>
+<word id="le192280.b.unit.210">mean</word>
+<word id="le192280.b.unit.245">yeah</word>
+<word id="le192280.b.unit.253">what</word>
+<word id="le192280.b.unit.254">shall</word>
+<word id="le192280.b.unit.255">i</word>
+<word id="le192280.b.unit.256">do</word>
+<sil BTlength="" id="le192280.b.unit.277"/>
+<word id="le192280.b.unit.278">ok</word>
+<word id="le192280.b.unit.279">ok</word>
+<bcanchor id="le192280.bcanchorb.6"><nite:pointer href="le192280.a.lturn.xml#id(le192280.lturn.16.1)" role="bc"/></bcanchor>
+<word id="le192280.b.unit.281">yes</word>
+<word id="le192280.b.unit.282">surely</word>
+<word id="le192280.b.unit.290">thank</word>
+<word id="le192280.b.unit.291">you</word>
+<comment text="ringing" id="le192280.b.unit.292"/>
+</nite:root>

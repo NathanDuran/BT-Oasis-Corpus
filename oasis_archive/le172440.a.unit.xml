@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le172440.unit.a">
+<stdzcode id="le172440.a.unit.1" description="g"/>
+<word id="le172440.a.unit.37">i'm</word>
+<word id="le172440.a.unit.38">sorry</word>
+<word id="le172440.a.unit.39">what's</word>
+<word id="le172440.a.unit.40">the</word>
+<word id="le172440.a.unit.41">code</word>
+<word id="le172440.a.unit.42">and</word>
+<word id="le172440.a.unit.43">number</word>
+<word id="le172440.a.unit.44">you</word>
+<word id="le172440.a.unit.45">were</word>
+<word id="le172440.a.unit.46">dialling</word>
+<word id="le172440.a.unit.47">please</word>
+<num id="le172440.a.unit.54"/>
+<word id="le172440.a.unit.55">double</word>
+<num id="le172440.a.unit.56"/>
+<num id="le172440.a.unit.57"/>
+<num id="le172440.a.unit.61"/>
+<num id="le172440.a.unit.62"/>
+<num id="le172440.a.unit.63"/>
+<num id="le172440.a.unit.68"/>
+<word id="le172440.a.unit.69">double</word>
+<num id="le172440.a.unit.70"/>
+<num id="le172440.a.unit.71"/>
+<word id="le172440.a.unit.72">thank</word>
+<word id="le172440.a.unit.73">you</word>
+<sil BTlength="8s" id="le172440.a.unit.74"/>
+<word id="le172440.a.unit.75">i'll</word>
+<word id="le172440.a.unit.76">just</word>
+<word id="le172440.a.unit.77">try</word>
+<word id="le172440.a.unit.78">the</word>
+<word id="le172440.a.unit.79">call</word>
+<word id="le172440.a.unit.80">for</word>
+<word id="le172440.a.unit.81">you</word>
+<sil BTlength="" id="le172440.a.unit.82"/>
+<word id="le172440.a.unit.83">yes</word>
+<word id="le172440.a.unit.84">i'm</word>
+<word id="le172440.a.unit.85">afraid</word>
+<word id="le172440.a.unit.86">i'm</word>
+<word id="le172440.a.unit.87">also</word>
+<word id="le172440.a.unit.88">getting</word>
+<word id="le172440.a.unit.89">unobtainable</word>
+<word id="le172440.a.unit.90">if</word>
+<word id="le172440.a.unit.91">you</word>
+<word id="le172440.a.unit.92">hold</word>
+<word id="le172440.a.unit.93">the</word>
+<word id="le172440.a.unit.94">line</word>
+<word id="le172440.a.unit.95">for</word>
+<word id="le172440.a.unit.96">me</word>
+<word id="le172440.a.unit.97">i'll</word>
+<word id="le172440.a.unit.98">need</word>
+<word id="le172440.a.unit.99">to</word>
+<word id="le172440.a.unit.100">make</word>
+<word id="le172440.a.unit.101">some</word>
+<word id="le172440.a.unit.102">enquiries</word>
+<word id="le172440.a.unit.103">with</word>
+<word id="le172440.a.unit.104">another</word>
+<word id="le172440.a.unit.105">operator</word>
+<word id="le172440.a.unit.106">cause</word>
+<word id="le172440.a.unit.107">it's</word>
+<word id="le172440.a.unit.108">a</word>
+<word id="le172440.a.unit.109">cable</word>
+<word id="le172440.a.unit.110">line</word>
+<bcanchor id="le172440.bcanchora.1"><nite:pointer href="le172440.b.lturn.xml#id(le172440.lturn.9.1)" role="bc"/></bcanchor>
+<word id="le172440.a.unit.123">good</word>
+<word id="le172440.a.unit.124">afternoon</word>
+<word id="le172440.a.unit.125">it's</word>
+<lcode id="le172440.a.unit.126"/>
+<lcode id="le172440.a.unit.127"/>
+<pncode type="town" id="le172440.a.unit.128"/>
+<word id="le172440.a.unit.129">could</word>
+<word id="le172440.a.unit.130">you</word>
+<word id="le172440.a.unit.131">please</word>
+<word id="le172440.a.unit.132">check</word>
+<word id="le172440.a.unit.133">for</word>
+<word id="le172440.a.unit.134">unobtainable</word>
+<bcanchor id="le172440.bcanchora.2"><nite:pointer href="le172440.x.lturn.xml#id(le172440.lturn.11.1)" role="bc"/></bcanchor>
+<word id="le172440.a.unit.136">its</word>
+<num id="le172440.a.unit.137"/>
+<word id="le172440.a.unit.138">double</word>
+<num id="le172440.a.unit.139"/>
+<bcanchor id="le172440.bcanchora.3"><nite:pointer href="le172440.x.lturn.xml#id(le172440.lturn.11.2)" role="bc"/></bcanchor>
+<num id="le172440.a.unit.141"/>
+<num id="le172440.a.unit.142"/>
+<num id="le172440.a.unit.143"/>
+<bcanchor id="le172440.bcanchora.4"><nite:pointer href="le172440.x.lturn.xml#id(le172440.lturn.11.3)" role="bc"/></bcanchor>
+<num id="le172440.a.unit.145"/>
+<word id="le172440.a.unit.146">double</word>
+<num id="le172440.a.unit.147"/>
+<num id="le172440.a.unit.148"/>
+<word id="le172440.a.unit.159">okay</word>
+<word id="le172440.a.unit.173">certainly</word>
+<word id="le172440.a.unit.174">thank</word>
+<word id="le172440.a.unit.175">you</word>
+<sil BTlength="43s" id="le172440.a.unit.176"/>
+<word id="le172440.a.unit.197">it's</word>
+<word id="le172440.a.unit.198">idle</word>
+<word id="le172440.a.unit.199">and</word>
+<word id="le172440.a.unit.200">silent</word>
+<word id="le172440.a.unit.201">and</word>
+<word id="le172440.a.unit.202">waiting</word>
+<word id="le172440.a.unit.203">for</word>
+<word id="le172440.a.unit.204">a</word>
+<word id="le172440.a.unit.205">call</word>
+<word id="le172440.a.unit.206">to</word>
+<word id="le172440.a.unit.207">go</word>
+<word id="le172440.a.unit.208">through</word>
+<bcanchor id="le172440.bcanchora.6"><nite:pointer href="le172440.x.lturn.xml#id(le172440.lturn.15.1)" role="bc"/></bcanchor>
+<word id="le172440.a.unit.210">right</word>
+<word id="le172440.a.unit.211">so</word>
+</nite:root>

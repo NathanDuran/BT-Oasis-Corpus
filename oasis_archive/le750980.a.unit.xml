@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le750980.unit.a">
+<stdzcode id="le750980.a.unit.1" description="name"/>
+<word id="le750980.a.unit.20">yes</word>
+<word id="le750980.a.unit.24">right</word>
+<word id="le750980.a.unit.58">yeah</word>
+<word id="le750980.a.unit.68">yeah</word>
+<word id="le750980.a.unit.70">hmm</word>
+<word id="le750980.a.unit.71">hmm</word>
+<word id="le750980.a.unit.76">hmm</word>
+<word id="le750980.a.unit.85">nobody's</word>
+<word id="le750980.a.unit.86">answered</word>
+<bcanchor id="le750980.bcanchora.7"><nite:pointer href="le750980.b.lturn.xml#id(le750980.lturn.3.1)" role="bc"/></bcanchor>
+<word id="le750980.a.unit.88">right</word>
+<word id="le750980.a.unit.89">what</word>
+<word id="le750980.a.unit.90">was</word>
+<word id="le750980.a.unit.91">the</word>
+<word id="le750980.a.unit.92">code</word>
+<word id="le750980.a.unit.93">and</word>
+<word id="le750980.a.unit.94">number</word>
+<word id="le750980.a.unit.95">please</word>
+<num id="le750980.a.unit.100"/>
+<word id="le750980.a.unit.101">double</word>
+<num id="le750980.a.unit.102"/>
+<num id="le750980.a.unit.103"/>
+<num id="le750980.a.unit.107"/>
+<num id="le750980.a.unit.108"/>
+<num id="le750980.a.unit.109"/>
+<num id="le750980.a.unit.114"/>
+<num id="le750980.a.unit.115"/>
+<num id="le750980.a.unit.116"/>
+<num id="le750980.a.unit.117"/>
+<word id="le750980.a.unit.118">thank</word>
+<word id="le750980.a.unit.119">you</word>
+<word id="le750980.a.unit.130">it's</word>
+<word id="le750980.a.unit.131">actually</word>
+<word id="le750980.a.unit.132">a</word>
+<word id="le750980.a.unit.133">public</word>
+<word id="le750980.a.unit.134">payphone</word>
+<word id="le750980.a.unit.140">you</word>
+<word id="le750980.a.unit.141">don't</word>
+<word id="le750980.a.unit.142">know</word>
+<word id="le750980.a.unit.143">anyone</word>
+<word id="le750980.a.unit.144">who</word>
+<word id="le750980.a.unit.145">lives</word>
+<word id="le750980.a.unit.146">in</word>
+<pncode type="town" id="le750980.a.unit.147"/>
+<word id="le750980.a.unit.151">oh</word>
+<word id="le750980.a.unit.152">right</word>
+<word id="le750980.a.unit.177">i</word>
+<word id="le750980.a.unit.178">suppose</word>
+<word id="le750980.a.unit.179">they</word>
+<word id="le750980.a.unit.180">must</word>
+<word id="le750980.a.unit.181">have</word>
+<word id="le750980.a.unit.186">thanks</word>
+<word id="le750980.a.unit.187">bye</word>
+</nite:root>

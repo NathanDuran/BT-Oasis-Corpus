@@ -1,0 +1,13 @@
+b|hi|greet
+b|er can i do an an a alarm call please|direct
+a|what time would you like your call|reqDirect
+b|er four fifteen|direct
+a|four fifteen thank you we'll call you at four fifteen okay good bye|echo
+a|thank you|thank
+a|we'll call you at four fifteen|informIntent
+b|yep|backch
+b|right|ackn
+b|that's wonderful i think|appreciate
+b|thanks very much|thank
+b|good night|bye
+a|okay|backch

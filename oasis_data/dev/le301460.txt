@@ -1,0 +1,6 @@
+b|hello|greet
+b|could i have the number for please|reqInfo
+a|you need directory enquiries would you like me to connect you thank you|inform
+a|would you like me to connect you|offer
+b|please|accept
+a|thank you|thank

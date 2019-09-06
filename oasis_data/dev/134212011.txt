@@ -1,5 +1,0 @@
-b|hello|greet
-a|hello|greet
-a|how can i help|offer
-b|um who've i got through to|reqInfo
-b|oh i wanted an extension please of my phone bill please|direct

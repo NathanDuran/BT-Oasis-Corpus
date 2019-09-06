@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le754150.unit.b">
+<word id="le754150.b.unit.2">good</word>
+<word id="le754150.b.unit.3">morning</word>
+<word id="le754150.b.unit.4">is</word>
+<word id="le754150.b.unit.5">it</word>
+<partword id="le754150.b.unit.6">poss</partword>
+<word id="le754150.b.unit.7">possible</word>
+<word id="le754150.b.unit.8">you</word>
+<word id="le754150.b.unit.9">can</word>
+<word id="le754150.b.unit.10">check</word>
+<word id="le754150.b.unit.11">me</word>
+<word id="le754150.b.unit.12">a</word>
+<word id="le754150.b.unit.13">line</word>
+<word id="le754150.b.unit.14">out</word>
+<word id="le754150.b.unit.15">please</word>
+<word id="le754150.b.unit.23">uh</word>
+<word id="le754150.b.unit.24">we</word>
+<word id="le754150.b.unit.25">he's</word>
+<sil BTlength="" id="le754150.b.unit.26"/>
+<word id="le754150.b.unit.27">um</word>
+<word id="le754150.b.unit.28">every</word>
+<word id="le754150.b.unit.29">time</word>
+<word id="le754150.b.unit.30">you</word>
+<word id="le754150.b.unit.31">ring</word>
+<word id="le754150.b.unit.32">him</word>
+<word id="le754150.b.unit.33">like</word>
+<word id="le754150.b.unit.34">after</word>
+<word id="le754150.b.unit.35">about</word>
+<word id="le754150.b.unit.36">three</word>
+<word id="le754150.b.unit.37">rings</word>
+<word id="le754150.b.unit.38">his</word>
+<word id="le754150.b.unit.39">answerphone</word>
+<word id="le754150.b.unit.40">comes</word>
+<word id="le754150.b.unit.41">on</word>
+<bcanchor id="le754150.bcanchorb.1"><nite:pointer href="le754150.a.lturn.xml#id(le754150.lturn.4.1)" role="bc"/></bcanchor>
+<word id="le754150.b.unit.44">right</word>
+<word id="le754150.b.unit.45">um</word>
+<word id="le754150.b.unit.46">but</word>
+<word id="le754150.b.unit.47">it's</word>
+<word id="le754150.b.unit.48">not</word>
+<word id="le754150.b.unit.49">on</word>
+<word id="le754150.b.unit.50">now</word>
+<word id="le754150.b.unit.51">and</word>
+<word id="le754150.b.unit.52">it</word>
+<word id="le754150.b.unit.53">just</word>
+<word id="le754150.b.unit.54">keeps</word>
+<word id="le754150.b.unit.55">ringing</word>
+<word id="le754150.b.unit.56">and</word>
+<word id="le754150.b.unit.57">ringing</word>
+<word id="le754150.b.unit.58">and</word>
+<word id="le754150.b.unit.59">ringing</word>
+<word id="le754150.b.unit.73">it's</word>
+<num id="le754150.b.unit.74"/>
+<num id="le754150.b.unit.75"/>
+<num id="le754150.b.unit.76"/>
+<num id="le754150.b.unit.77"/>
+<num id="le754150.b.unit.78"/>
+<num id="le754150.b.unit.84"/>
+<num id="le754150.b.unit.85"/>
+<word id="le754150.b.unit.86">double</word>
+<num id="le754150.b.unit.87"/>
+<num id="le754150.b.unit.88"/>
+<num id="le754150.b.unit.89"/>
+<word id="le754150.b.unit.125">thank</word>
+<word id="le754150.b.unit.126">you</word>
+<comment text="ringing_18s" id="le754150.b.unit.127"/>
+<word id="le754150.b.unit.175">hello</word>
+<word id="le754150.b.unit.201">ok</word>
+<word id="le754150.b.unit.202">then</word>
+<word id="le754150.b.unit.204">thank</word>
+<word id="le754150.b.unit.205">you</word>
+<bcanchor id="le754150.bcanchorb.2"><nite:pointer href="le754150.a.lturn.xml#id(le754150.lturn.23.1)" role="bc"/></bcanchor>
+<word id="le754150.b.unit.208">bye</word>
+<comment text="end-ok" id="le754150.b.unit.209"/>
+</nite:root>

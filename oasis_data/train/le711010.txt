@@ -1,0 +1,23 @@
+b|oh hello|greet
+b|i've just tried to book an early morning alarm call doing star star double and i do the star and they say sorry this is not been oh sorry right my fault oh right thank right thank you very much thank you bye|inform
+b|and i do the star|inform
+b|and they say sorry this is not been|inform
+a|yes|backch
+a|yeah|ackn
+a|it's not oh star|inform
+a|it' s star star|inform
+b|oh sorry|expressRegret
+b|right|ackn
+b|my fault|inform
+b|oh right|ackn
+b|thank|thank
+a|it|backch
+a|and then and then you have to|inform
+a|you should get a recording telling you what to do|inform
+a|you must wait till the recording's finished before you put the time in|inform
+b|right|ackn
+b|thank you very much thank you|thank
+a|ok|ackn
+a|you're welcome|ackn
+b|bye|bye
+a|bye|bye

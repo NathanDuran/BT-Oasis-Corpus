@@ -1,0 +1,12 @@
+b|hi|greet
+b|can you check a number for me please|direct
+a|yeah|accept
+a|what happens when you try it please|reqInfo
+b|it's been engaged for about an hour|answ
+b|and i just wondered if maybe if it's off the hook|reqInfo
+b|i don't want you to put me through to them though|direct
+a|okay|backch
+a|oh no no|accept
+a|i won't do|accept
+a|no|accept
+a|what number are you trying to get|reqInfo

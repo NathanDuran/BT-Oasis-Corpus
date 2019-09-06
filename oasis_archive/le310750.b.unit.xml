@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le310750.unit.b">
+<word id="le310750.b.unit.2">um</word>
+<sil BTlength="" id="le310750.b.unit.3"/>
+<word id="le310750.b.unit.4">it's</word>
+<word id="le310750.b.unit.5">er</word>
+<word id="le310750.b.unit.6">um</word>
+<word id="le310750.b.unit.7">um</word>
+<word id="le310750.b.unit.8">a</word>
+<word id="le310750.b.unit.9">mr</word>
+<word id="le310750.b.unit.10">a</word>
+<stdzcode id="le310750.b.unit.11" description="name"/>
+<pncode type="surname" id="le310750.b.unit.12"/>
+<word id="le310750.b.unit.15">um</word>
+<sil BTlength="" id="le310750.b.unit.16"/>
+<word id="le310750.b.unit.17">i'm</word>
+<word id="le310750.b.unit.18">only</word>
+<word id="le310750.b.unit.19">know</word>
+<word id="le310750.b.unit.20">roughly</word>
+<word id="le310750.b.unit.21">where</word>
+<word id="le310750.b.unit.22">he</word>
+<word id="le310750.b.unit.23">lives</word>
+<word id="le310750.b.unit.24">i</word>
+<word id="le310750.b.unit.25">don't</word>
+<word id="le310750.b.unit.26">know</word>
+<word id="le310750.b.unit.27">a</word>
+<word id="le310750.b.unit.28">telephone</word>
+<bcanchor id="le310750.bcanchorb.1"><nite:pointer href="le310750.a.lturn.xml#id(le310750.lturn.4.1)" role="bc"/></bcanchor>
+<word id="le310750.b.unit.34">i</word>
+<word id="le310750.b.unit.35">wanting</word>
+<word id="le310750.b.unit.36">his</word>
+<word id="le310750.b.unit.37">number</word>
+<word id="le310750.b.unit.38">is</word>
+<word id="le310750.b.unit.39">it</word>
+<word id="le310750.b.unit.41">is</word>
+<word id="le310750.b.unit.42">that</word>
+<num id="le310750.b.unit.43"/>
+<num id="le310750.b.unit.44"/>
+<word id="le310750.b.unit.53">yeah</word>
+<word id="le310750.b.unit.54">okay</word>
+<word id="le310750.b.unit.55">thank</word>
+<word id="le310750.b.unit.56">you</word>
+<word id="le310750.b.unit.60">bye</word>
+</nite:root>

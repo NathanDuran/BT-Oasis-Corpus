@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le211730.unit.b">
+<word id="le211730.b.unit.2">um</word>
+<word id="le211730.b.unit.3">i</word>
+<word id="le211730.b.unit.4">don't</word>
+<word id="le211730.b.unit.5">know</word>
+<word id="le211730.b.unit.6">if</word>
+<word id="le211730.b.unit.7">you</word>
+<word id="le211730.b.unit.8">can</word>
+<word id="le211730.b.unit.9">help</word>
+<word id="le211730.b.unit.10">i'm</word>
+<word id="le211730.b.unit.11">trying</word>
+<word id="le211730.b.unit.12">to</word>
+<word id="le211730.b.unit.13">find</word>
+<word id="le211730.b.unit.14">a</word>
+<word id="le211730.b.unit.15">number</word>
+<sil BTlength="" id="le211730.b.unit.16"/>
+<word id="le211730.b.unit.17">um</word>
+<word id="le211730.b.unit.18">it's</word>
+<pncode type="business" id="le211730.b.unit.19"/>
+<pncode type="business" id="le211730.b.unit.20"/>
+<pncode type="business" id="le211730.b.unit.21"/>
+<word id="le211730.b.unit.29">well</word>
+<partword id="le211730.b.unit.30">i</partword>
+<partword id="le211730.b.unit.31">i</partword>
+<word id="le211730.b.unit.32">i've</word>
+<word id="le211730.b.unit.33">got</word>
+<word id="le211730.b.unit.34">the</word>
+<word id="le211730.b.unit.35">address</word>
+<word id="le211730.b.unit.36">i've</word>
+<word id="le211730.b.unit.37">wrote</word>
+<word id="le211730.b.unit.38">them</word>
+<word id="le211730.b.unit.39">a</word>
+<word id="le211730.b.unit.40">letter</word>
+<word id="le211730.b.unit.41">but</word>
+<word id="le211730.b.unit.42">i</word>
+<word id="le211730.b.unit.43">don't</word>
+<word id="le211730.b.unit.44">seem</word>
+<word id="le211730.b.unit.45">to</word>
+<word id="le211730.b.unit.46">get</word>
+<word id="le211730.b.unit.47">any</word>
+<sil BTlength="" id="le211730.b.unit.48"/>
+<word id="le211730.b.unit.49">luck</word>
+<word id="le211730.b.unit.50">so</word>
+<word id="le211730.b.unit.51">i</word>
+<word id="le211730.b.unit.52">don't</word>
+<word id="le211730.b.unit.53">really</word>
+<word id="le211730.b.unit.54">know</word>
+<word id="le211730.b.unit.55">if</word>
+<word id="le211730.b.unit.56">they're</word>
+<word id="le211730.b.unit.57">on</word>
+<word id="le211730.b.unit.58">the</word>
+<word id="le211730.b.unit.59">phone</word>
+<word id="le211730.b.unit.60">or</word>
+<word id="le211730.b.unit.61">not</word>
+<sil BTlength="" id="le211730.b.unit.62"/>
+<word id="le211730.b.unit.63">so</word>
+<word id="le211730.b.unit.64">have</word>
+<word id="le211730.b.unit.65">you</word>
+<word id="le211730.b.unit.66">got</word>
+<word id="le211730.b.unit.67">a</word>
+<word id="le211730.b.unit.68">number</word>
+<bcanchor id="le211730.bcanchorb.1"><nite:pointer href="le211730.a.lturn.xml#id(le211730.lturn.4.1)" role="bc"/></bcanchor>
+<word id="le211730.b.unit.70">or</word>
+<word id="le211730.b.unit.89">er</word>
+<word id="le211730.b.unit.90">yes</word>
+<word id="le211730.b.unit.91">please</word>
+</nite:root>

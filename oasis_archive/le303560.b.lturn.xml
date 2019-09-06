@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le303560.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le303560.lturn.2'>
+
+
+<utt id='le303560.utt.2'>
+
+<segment type='q_yn' sp-act='direct' id='le303560.q_yn.1'>
+<nite:child href='le303560.b.unit.xml#id(le303560.b.unit.2)..id(le303560.b.unit.11)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le303560.lturn.4'>
+
+
+<utt id='le303560.utt.5'>
+
+<segment type='dm' sp-act='expressRegret' id='le303560.dm.1'>
+<nite:child href='le303560.b.unit.xml#id(le303560.b.unit.24)..id(le303560.b.unit.25)'/>
+</segment>
+
+</utt>
+
+<utt id='le303560.utt.6'>
+
+<segment type='frag' sp-act='bye' id='le303560.frag.2'>
+<nite:child href='le303560.b.unit.xml#id(le303560.b.unit.26)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le303560.lturn.6'>
+
+
+<utt id='le303560.utt.8'>
+
+<segment type='dm' sp-act='accept' id='le303560.dm.2'>
+<nite:child href='le303560.b.unit.xml#id(le303560.b.unit.34)'/>
+</segment>
+
+</utt>
+
+<utt id='le303560.utt.9'>
+
+<segment type='yes' sp-act='accept' id='le303560.yes.1'>
+<nite:child href='le303560.b.unit.xml#id(le303560.b.unit.35)..id(le303560.b.unit.37)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

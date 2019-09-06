@@ -1,0 +1,5 @@
+a|no|answ
+a|do you want them|reqDirect
+b|yeah|direct
+a|you need i'll just put you through|inform
+a|i'll just put you through|informIntent

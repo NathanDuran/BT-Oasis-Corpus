@@ -1,0 +1,22 @@
+b|hello|greet
+b|if i was to buy a fax machine|inform
+b|what charges would i incur for using it|reqInfo
+a|mm hmm|backch
+a|um fax calls are charged at the same rate as telephone calls|answ
+b|yeah|ackn
+a|so|init
+a|depending on on what um discount package or what um discount package or whatever you're using|inform
+b|ah ha|ackn
+b|do i pay for incoming or just outgoing|reqInfo
+a|just outgoing|answ
+b|just outgoing aha right and if i had an answer machine with it what would that|echo
+a|yes|ackn
+a|it's just as if you were receiving a telephone call|inform
+b|aha|ackn
+a|if you if you receive a fax|inform
+b|right|ackn
+b|and if i had an answer machine with it|inform
+b|what would that|reqInfo
+a|um exactly the same|answ
+a|i mean you wouldn't pay for any incoming calls ah or anything like that|inform
+a|you'd only be paying for your you know sending outgoing faxes|inform

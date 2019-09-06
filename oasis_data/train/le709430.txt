@@ -1,0 +1,13 @@
+b|hello|greet
+b|can i have the phone numbers to the um the phone box um in please at the oval|reqInfo
+a|sorry|pardon
+a|you want the phone number|reqInfo
+a|you need to dial for directory enquiries|inform
+a|shall i connect you|offer
+b|um no thanks|refuse
+b|ok|ackn
+a|are you are you sure|reqDirect
+b|yeah|refuse
+a|ok|accept
+b|bye|bye
+a|bye|bye

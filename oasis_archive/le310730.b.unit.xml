@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le310730.unit.b">
+<word id="le310730.b.unit.2">hi</word>
+<word id="le310730.b.unit.3">i'm</word>
+<word id="le310730.b.unit.4">after</word>
+<word id="le310730.b.unit.5">the</word>
+<word id="le310730.b.unit.6">number</word>
+<word id="le310730.b.unit.7">of</word>
+<word id="le310730.b.unit.8">er</word>
+<word id="le310730.b.unit.9">ah</word>
+<word id="le310730.b.unit.10">ah</word>
+<word id="le310730.b.unit.11">a</word>
+<word id="le310730.b.unit.12">family</word>
+<word id="le310730.b.unit.13">that</word>
+<word id="le310730.b.unit.14">live</word>
+<word id="le310730.b.unit.15">in</word>
+<word id="le310730.b.unit.16">erm</word>
+<pncode type="town" id="le310730.b.unit.17"/>
+<pncode type="town" id="le310730.b.unit.18"/>
+<word id="le310730.b.unit.19">in</word>
+<word id="le310730.b.unit.20">erm</word>
+<sil BTlength="" id="le310730.b.unit.21"/>
+<pncode type="region" id="le310730.b.unit.22"/>
+<sil BTlength="" id="le310730.b.unit.23"/>
+<word id="le310730.b.unit.24">um</word>
+<word id="le310730.b.unit.25">i</word>
+<word id="le310730.b.unit.26">can</word>
+<word id="le310730.b.unit.27">remember</word>
+<word id="le310730.b.unit.28">all</word>
+<word id="le310730.b.unit.29">the</word>
+<word id="le310730.b.unit.30">number</word>
+<word id="le310730.b.unit.31">except</word>
+<word id="le310730.b.unit.32">the</word>
+<word id="le310730.b.unit.33">last</word>
+<word id="le310730.b.unit.34">three</word>
+<word id="le310730.b.unit.35">digits</word>
+<bcanchor id="le310730.bcanchorb.1"><nite:pointer href="le310730.a.lturn.xml#id(le310730.lturn.2.1)" role="bc"/></bcanchor>
+<sil BTlength="" id="le310730.b.unit.38"/>
+<word id="le310730.b.unit.39">erm</word>
+<word id="le310730.b.unit.40">their</word>
+<word id="le310730.b.unit.41">surname</word>
+<word id="le310730.b.unit.42">is</word>
+<pncode type="surname" id="le310730.b.unit.43"/>
+<word id="le310730.b.unit.44">i</word>
+<word id="le310730.b.unit.45">wonder</word>
+<word id="le310730.b.unit.46">if</word>
+<word id="le310730.b.unit.47">you</word>
+<word id="le310730.b.unit.48">can</word>
+<word id="le310730.b.unit.49">help</word>
+<word id="le310730.b.unit.50">me</word>
+<word id="le310730.b.unit.51">out</word>
+<word id="le310730.b.unit.61">is</word>
+<word id="le310730.b.unit.62">it</word>
+<word id="le310730.b.unit.63">right</word>
+<word id="le310730.b.unit.64">well</word>
+<word id="le310730.b.unit.65">i</word>
+<word id="le310730.b.unit.66">just</word>
+<word id="le310730.b.unit.67">wondered</word>
+<word id="le310730.b.unit.68">if</word>
+<word id="le310730.b.unit.69">you</word>
+<word id="le310730.b.unit.70">could</word>
+<word id="le310730.b.unit.71">help</word>
+<word id="le310730.b.unit.72">me</word>
+<word id="le310730.b.unit.73">out</word>
+<word id="le310730.b.unit.93">okay</word>
+<word id="le310730.b.unit.94">then</word>
+<word id="le310730.b.unit.107">er</word>
+<word id="le310730.b.unit.108">please</word>
+</nite:root>

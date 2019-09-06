@@ -23,11 +23,6 @@ a|it's not showing Home Highway|inform
 a|just bear with me|hold
 a|let me have a look and see if there're any other orders there|informIntent
 b|thank you|thank
-b|cos that's the idea|thirdParty
-b|so that if i'm working upstairs and i wanna plug the laptop in|thirdParty
-b|that's fine|thirdParty
-b|i'm gonna be in my office|thirdParty
-b|but let's say that something's going on and i need to sit in here or something right listen change of plan we've just changed our minds okay sorry to bother you we're gonna do something different now|thirdParty
 a|yeah|ackn
 a|you see with Home Highway|refer
 a|you go you can um have three you know|inform

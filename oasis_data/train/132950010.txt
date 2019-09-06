@@ -1,5 +1,3 @@
-a|thank|thirdParty
-a|uh|thirdParty
 a|how can i help you|offer
 b|yes|ackn
 b|i've got a fault on the line|inform

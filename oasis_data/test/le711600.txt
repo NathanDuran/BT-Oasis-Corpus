@@ -1,0 +1,17 @@
+b|yeah um|ackn
+b|can i have an early morning call please|direct
+a|an early morning call|echo
+a|what time would you like the call please|reqDirect
+b|uh half nine please|direct
+a|half nine|echo
+a|if you'd just like to hold the line while i try and confirm that for you please|informIntent
+b|thank you have you got the number yeah oh right oh right then thank you bye|thank
+a|that's fine|accept
+a|that's booked for you at half nine|inform
+b|have you got the number yeah|reqInfo
+a|yeah|answ
+b|oh right oh right then|ackn
+b|thank you|thank
+a|thank you|thank
+a|byebye|bye
+b|bye|bye

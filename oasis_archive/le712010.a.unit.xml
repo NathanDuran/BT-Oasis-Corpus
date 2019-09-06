@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le712010.unit.a">
+<stdzcode id="le712010.a.unit.1" description="name"/>
+<word id="le712010.a.unit.3">hello</word>
+<word id="le712010.a.unit.16">sorry</word>
+<word id="le712010.a.unit.17">you</word>
+<word id="le712010.a.unit.18">need</word>
+<word id="le712010.a.unit.19">to</word>
+<word id="le712010.a.unit.20">speak</word>
+<word id="le712010.a.unit.21">to</word>
+<num id="le712010.a.unit.22"/>
+<num id="le712010.a.unit.23"/>
+<num id="le712010.a.unit.24"/>
+<word id="le712010.a.unit.25">would</word>
+<word id="le712010.a.unit.26">you</word>
+<word id="le712010.a.unit.27">like</word>
+<word id="le712010.a.unit.28">me</word>
+<word id="le712010.a.unit.29">to</word>
+<word id="le712010.a.unit.30">put</word>
+<word id="le712010.a.unit.31">you</word>
+<word id="le712010.a.unit.32">through</word>
+<word id="le712010.a.unit.36">thank</word>
+<word id="le712010.a.unit.37">you</word>
+<sil BTlength="" id="le712010.a.unit.38"/>
+<comment text="transfer" id="le712010.a.unit.39"/>
+<comment text="end-ok" id="le712010.a.unit.40"/>
+</nite:root>

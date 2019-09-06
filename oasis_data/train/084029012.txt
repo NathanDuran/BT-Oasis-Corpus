@@ -11,7 +11,7 @@ a|that's fine|appreciate
 a|thank you|thank
 a|that's all i need|inform
 a|and if you can confirm your name and your address please|reqInfo
-b|my name is you can see it okay uh it is|answf
+b|my name is you can see it okay uh it is|answ
 b|you can see it|confirm
 a|mm hmm|backch
 a|yes|ackn

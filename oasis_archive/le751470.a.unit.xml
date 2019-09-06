@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le751470.unit.a">
+<stdzcode id="le751470.a.unit.1" description="name"/>
+<num id="le751470.a.unit.23"/>
+<num id="le751470.a.unit.24"/>
+<num id="le751470.a.unit.25"/>
+<word id="le751470.a.unit.29">and</word>
+<word id="le751470.a.unit.30">is</word>
+<word id="le751470.a.unit.31">that</word>
+<word id="le751470.a.unit.32">local</word>
+<bcanchor id="le751470.bcanchora.1"><nite:pointer href="le751470.b.lturn.xml#id(le751470.lturn.5.1)" role="bc"/></bcanchor>
+<word id="le751470.a.unit.34">that's</word>
+<word id="le751470.a.unit.35">all</word>
+<word id="le751470.a.unit.36">i'd</word>
+<word id="le751470.a.unit.37">be</word>
+<word id="le751470.a.unit.38">able</word>
+<word id="le751470.a.unit.39">to</word>
+<word id="le751470.a.unit.40">tell</word>
+<word id="le751470.a.unit.41">you</word>
+<word id="le751470.a.unit.42">the</word>
+<word id="le751470.a.unit.43">area</word>
+<word id="le751470.a.unit.44">that</word>
+<word id="le751470.a.unit.45">it's</word>
+<word id="le751470.a.unit.46">in</word>
+<bcanchor id="le751470.bcanchora.2"><nite:pointer href="le751470.b.lturn.xml#id(le751470.lturn.5.2)" role="bc"/></bcanchor>
+<word id="le751470.a.unit.49">i</word>
+<word id="le751470.a.unit.50">can't</word>
+<word id="le751470.a.unit.51">tell</word>
+<word id="le751470.a.unit.52">you</word>
+<word id="le751470.a.unit.53">more</word>
+<word id="le751470.a.unit.54">than</word>
+<word id="le751470.a.unit.55">that</word>
+<word id="le751470.a.unit.56">i'm</word>
+<word id="le751470.a.unit.57">afraid</word>
+<word id="le751470.a.unit.60">okay</word>
+<comment text="end_-_ok" id="le751470.a.unit.61"/>
+</nite:root>

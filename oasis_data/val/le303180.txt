@@ -1,0 +1,20 @@
+b|oh hello|greet
+b|um can you try my line please i've been the number i'm calling from is yep well yeah because i've actually dialled and the call has not been recognised right okay then|direct
+a|what|reqInfo
+a|the the line you're calling from|reqInfo
+b|the number i'm calling from is yep well yeah because i've actually dialled and the call has not been recognised right okay then|inform
+a|yeah|ackn
+a|is that the one you want testing|reqDirect
+b|yep|direct
+a|right|accept
+a|you need to speak to would you like me to connect you yeah it's hold the line i'll try and connect you|inform
+a|would you like me to connect you|offer
+b|well|init
+b|yeah|accept
+b|because i've actually dialled and the call has not been recognised right okay then|inform
+b|and the call has not been recognised right okay then|inform
+a|yeah|ackn
+a|it's hold the line i'll try and connect you|inform
+b|right okay then|ackn
+a|hold the line|hold
+a|i'll try and connect you|informIntent

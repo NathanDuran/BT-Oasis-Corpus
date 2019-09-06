@@ -1,0 +1,18 @@
+b|oh hi|greet
+b|i've got an enquiry|inform
+b|i don't know whether you're the people to ask|inform
+b|um i've been accessing my uh replies on my answer phone remotely um which just involves dialling my number and then putting in a in a password digit|inform
+a|mm|backch
+a|yes|ackn
+a|star sign and then your pin yeah|refer
+b|yep|ackn
+a|yes|ackn
+b|what do i do|reqInfo
+a|right|ackn
+a|you need to speak to customer services on um they know the procedure to use that would you might like me to put you through ok one moment please|answ
+b|right|ackn
+a|um they know the procedure to use that|inform
+a|would you might like me to put you through|offer
+b|yes please|accept
+a|ok|accept
+a|one moment please|hold

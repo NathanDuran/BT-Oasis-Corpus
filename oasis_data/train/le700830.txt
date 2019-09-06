@@ -1,0 +1,8 @@
+b|em freephone cucumber please|direct
+a|freephone cucumber|confirm
+b|yeah|ackn
+b|i think that's it|expressOpinion
+a|yeah|ackn
+a|if you wait a minute|inform
+a|you'll just be connected|inform
+b|thank you|thank

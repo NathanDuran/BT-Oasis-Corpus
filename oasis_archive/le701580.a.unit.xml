@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le701580.unit.a">
+<stdzcode id="le701580.a.unit.1" description="name"/>
+<word id="le701580.a.unit.53">right</word>
+<word id="le701580.a.unit.54">i</word>
+<word id="le701580.a.unit.55">will</word>
+<word id="le701580.a.unit.56">try</word>
+<word id="le701580.a.unit.57">and</word>
+<word id="le701580.a.unit.58">call</word>
+<word id="le701580.a.unit.59">you</word>
+<word id="le701580.a.unit.60">back</word>
+<word id="le701580.a.unit.61">then</word>
+<bcanchor id="le701580.bcanchora.1"><nite:pointer href="le701580.b.lturn.xml#id(le701580.lturn.3.1)" role="bc"/></bcanchor>
+<word id="le701580.a.unit.63">straight</word>
+<word id="le701580.a.unit.64">away</word>
+<word id="le701580.a.unit.72">bye</word>
+<comment text="end-ok" id="le701580.a.unit.73"/>
+</nite:root>

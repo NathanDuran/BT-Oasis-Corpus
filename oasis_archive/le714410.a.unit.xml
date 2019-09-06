@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le714410.unit.a">
+<stdzcode id="le714410.a.unit.1" description="name"/>
+<word id="le714410.a.unit.12">yes</word>
+<word id="le714410.a.unit.13">certainly</word>
+<sil BTlength="" id="le714410.a.unit.14"/>
+<word id="le714410.a.unit.15">just</word>
+<word id="le714410.a.unit.16">bear</word>
+<word id="le714410.a.unit.17">with</word>
+<word id="le714410.a.unit.18">me</word>
+<word id="le714410.a.unit.19">one</word>
+<word id="le714410.a.unit.20">moment</word>
+<sil BTlength="" id="le714410.a.unit.21"/>
+<word id="le714410.a.unit.22">right</word>
+<word id="le714410.a.unit.23">what's</word>
+<word id="le714410.a.unit.24">the</word>
+<word id="le714410.a.unit.25">code</word>
+<word id="le714410.a.unit.26">and</word>
+<word id="le714410.a.unit.27">number</word>
+<word id="le714410.a.unit.28">you</word>
+<word id="le714410.a.unit.29">require</word>
+<num id="le714410.a.unit.35"/>
+<num id="le714410.a.unit.36"/>
+<num id="le714410.a.unit.37"/>
+<num id="le714410.a.unit.38"/>
+<num id="le714410.a.unit.39"/>
+<num id="le714410.a.unit.44"/>
+<num id="le714410.a.unit.45"/>
+<num id="le714410.a.unit.46"/>
+<num id="le714410.a.unit.47"/>
+<num id="le714410.a.unit.50"/>
+<num id="le714410.a.unit.51"/>
+<sil BTlength="12s" id="le714410.a.unit.52"/>
+<comment text="ringing_until_end_of_call" id="le714410.a.unit.53"/>
+<word id="le714410.a.unit.54">doing</word>
+<word id="le714410.a.unit.55">it</word>
+<word id="le714410.a.unit.56">for</word>
+<word id="le714410.a.unit.57">you</word>
+<word id="le714410.a.unit.58">now</word>
+<word id="le714410.a.unit.59">caller</word>
+<sil BTlength="9s" id="le714410.a.unit.60"/>
+<word id="le714410.a.unit.61">uh</word>
+<word id="le714410.a.unit.62">don't</word>
+<word id="le714410.a.unit.63">don't</word>
+<word id="le714410.a.unit.64">eat</word>
+<word id="le714410.a.unit.65">it</word>
+<word id="le714410.a.unit.66">what</word>
+<word id="le714410.a.unit.67">did</word>
+<word id="le714410.a.unit.68">what</word>
+<word id="le714410.a.unit.69">did</word>
+<word id="le714410.a.unit.70">she</word>
+<word id="le714410.a.unit.71">say</word>
+<comment text="end-ok" id="le714410.a.unit.72"/>
+</nite:root>

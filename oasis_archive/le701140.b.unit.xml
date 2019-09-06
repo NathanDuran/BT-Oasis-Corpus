@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le701140.unit.b">
+<word id="le701140.b.unit.2">hi</word>
+<word id="le701140.b.unit.3">can</word>
+<word id="le701140.b.unit.4">you</word>
+<word id="le701140.b.unit.5">check</word>
+<word id="le701140.b.unit.6">a</word>
+<word id="le701140.b.unit.7">number</word>
+<word id="le701140.b.unit.8">for</word>
+<word id="le701140.b.unit.9">me</word>
+<word id="le701140.b.unit.10">please</word>
+<word id="le701140.b.unit.19">it's</word>
+<word id="le701140.b.unit.20">been</word>
+<word id="le701140.b.unit.21">engaged</word>
+<word id="le701140.b.unit.22">for</word>
+<word id="le701140.b.unit.23">about</word>
+<word id="le701140.b.unit.24">an</word>
+<word id="le701140.b.unit.25">hour</word>
+<word id="le701140.b.unit.26">and</word>
+<word id="le701140.b.unit.27">i</word>
+<word id="le701140.b.unit.28">just</word>
+<word id="le701140.b.unit.29">wondered</word>
+<word id="le701140.b.unit.30">if</word>
+<word id="le701140.b.unit.31">maybe</word>
+<word id="le701140.b.unit.32">if</word>
+<word id="le701140.b.unit.33">it's</word>
+<word id="le701140.b.unit.34">off</word>
+<word id="le701140.b.unit.35">the</word>
+<word id="le701140.b.unit.36">hook</word>
+<bcanchor id="le701140.bcanchorb.1"><nite:pointer href="le701140.a.lturn.xml#id(le701140.lturn.4.1)" role="bc"/></bcanchor>
+<word id="le701140.b.unit.38">i</word>
+<word id="le701140.b.unit.39">don't</word>
+<word id="le701140.b.unit.40">want</word>
+<word id="le701140.b.unit.41">you</word>
+<word id="le701140.b.unit.42">to</word>
+<word id="le701140.b.unit.43">put</word>
+<word id="le701140.b.unit.44">me</word>
+<word id="le701140.b.unit.45">through</word>
+<word id="le701140.b.unit.46">to</word>
+<word id="le701140.b.unit.47">them</word>
+<word id="le701140.b.unit.48">though</word>
+<num id="le701140.b.unit.63"/>
+<num id="le701140.b.unit.64"/>
+<num id="le701140.b.unit.65"/>
+<num id="le701140.b.unit.66"/>
+<num id="le701140.b.unit.67"/>
+<num id="le701140.b.unit.73"/>
+<num id="le701140.b.unit.74"/>
+<num id="le701140.b.unit.75"/>
+<num id="le701140.b.unit.79"/>
+<num id="le701140.b.unit.80"/>
+<num id="le701140.b.unit.81"/>
+</nite:root>

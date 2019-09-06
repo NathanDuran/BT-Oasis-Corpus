@@ -1,0 +1,32 @@
+b|hi um i've got a ringback service on my phone well you know it's not going to be it how much is the call charges you know after every call you've made it rings you back telling you yeah now i'm just wondering i want to make a call now how do i switch it off you for every call yeah mm it'd be in one of the select papers wouldn't it yeah that's right hash hash oh right then alright then thank you|greet
+b|um i've got a ringback service on my phone well you know it's not going to be it how much is the call charges you know after every call you've made it rings you back telling you yeah now i'm just wondering i want to make a call now how do i switch it off you for every call yeah mm it'd be in one of the select papers wouldn't it yeah that's right hash hash oh right then alright then thank you|inform
+b|well|init
+b|how much is the call charges you know after every call you've made|reqInfo
+b|it rings you back telling you yeah|inform
+b|now|init
+b|i want to make a call now|inform
+b|how do i switch it off|reqInfo
+a|oh yeah|backch
+a|mm|backch
+a|um it's the one where you've asked for all for every an on every call|reqInfo
+b|you for every call|backch
+b|yeah|answ
+a|right|ackn
+a|just a moment normally you put a hash where the star was when you turned it on let me just have a check sorry it's charge advice is it right to cancel it it's it's hash hash and that takes it off altogether ok bye|hold
+a|normally you put a hash where the star was when you turned it on|inform
+a|let me just have a check|informIntent
+b|mm|backch
+b|it'd be in one of the select papers wouldn't it|reqInfo
+a|sorry|pardon
+a|it's charge advice is it|reqInfo
+b|yeah|answ
+b|that's right hash hash oh right then alright then thank you|answElab
+a|right|ackn
+a|to cancel it|inform
+a|it's it's hash hash|inform
+b|hash hash|echo
+a|and that takes it off altogether|inform
+b|oh right then alright then|ackn
+a|ok|init
+b|thank you|thank
+a|bye|bye

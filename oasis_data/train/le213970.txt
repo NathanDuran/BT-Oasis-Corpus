@@ -1,0 +1,21 @@
+b|um good afternoon i'm phoning a number out of the Yellow Pages and it says it's it's want not been recognised what does that mean oh um yeah okay thank you then ok byebye|greet
+b|i'm phoning a number out of the Yellow Pages|inform
+b|and it says it's it's want not been recognised|inform
+b|what does that mean|reqInfo
+a|yeah|backch
+a|uh it could mean that's uh no longer in use the number or that the number's changed|expressPossibility
+a|how recent is the is the yellow pages|reqInfo
+b|oh|backch
+b|um yeah okay thank you then ok byebye|answ
+a|uh i think that's probably uh yeah i think that's probably why i think it's probably out of date ok then thank you byebye|expressOpinion
+b|yeah|accept
+a|uh yeah|ackn
+a|i think that's probably why i think|expressOpinion
+a|it's probably out of date|expressPossibility
+b|okay|backch
+b|thank you then|thank
+a|ok then|init
+b|ok|ackn
+b|byebye|bye
+a|thank you|thank
+a|byebye|bye

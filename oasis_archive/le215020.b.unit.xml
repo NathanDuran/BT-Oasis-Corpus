@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le215020.unit.b">
+<word id="le215020.b.unit.2">oh</word>
+<word id="le215020.b.unit.3">hello</word>
+<word id="le215020.b.unit.4">i</word>
+<word id="le215020.b.unit.5">was</word>
+<word id="le215020.b.unit.6">just</word>
+<word id="le215020.b.unit.7">enquiring</word>
+<word id="le215020.b.unit.8">is</word>
+<word id="le215020.b.unit.9">there</word>
+<word id="le215020.b.unit.10">any</word>
+<word id="le215020.b.unit.11">way</word>
+<word id="le215020.b.unit.12">i</word>
+<word id="le215020.b.unit.13">the</word>
+<word id="le215020.b.unit.14">thing</word>
+<word id="le215020.b.unit.15">is</word>
+<word id="le215020.b.unit.16">my</word>
+<word id="le215020.b.unit.17">husband's</word>
+<word id="le215020.b.unit.18">away</word>
+<word id="le215020.b.unit.19">and</word>
+<word id="le215020.b.unit.20">he's</word>
+<word id="le215020.b.unit.21">meant</word>
+<word id="le215020.b.unit.22">to</word>
+<word id="le215020.b.unit.23">be</word>
+<word id="le215020.b.unit.24">ringing</word>
+<word id="le215020.b.unit.25">me</word>
+<word id="le215020.b.unit.26">and</word>
+<word id="le215020.b.unit.27">i've</word>
+<word id="le215020.b.unit.28">got</word>
+<word id="le215020.b.unit.29">to</word>
+<word id="le215020.b.unit.30">go</word>
+<word id="le215020.b.unit.31">out</word>
+<sil BTlength="" id="le215020.b.unit.32"/>
+<bcanchor id="le215020.bcanchorb.1"><nite:pointer href="le215020.a.lturn.xml#id(le215020.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le215020.b.unit.34">i'm</word>
+<word id="le215020.b.unit.35">actually</word>
+<word id="le215020.b.unit.36">babysitting</word>
+<word id="le215020.b.unit.37">is</word>
+<word id="le215020.b.unit.38">there</word>
+<word id="le215020.b.unit.39">any</word>
+<word id="le215020.b.unit.40">way</word>
+<word id="le215020.b.unit.41">that</word>
+<word id="le215020.b.unit.42">i</word>
+<word id="le215020.b.unit.43">can</word>
+<word id="le215020.b.unit.44">divert</word>
+<word id="le215020.b.unit.45">my</word>
+<word id="le215020.b.unit.46">calls</word>
+<word id="le215020.b.unit.47">to</word>
+<word id="le215020.b.unit.48">another</word>
+<word id="le215020.b.unit.49">number</word>
+<word id="le215020.b.unit.71">okay</word>
+<word id="le215020.b.unit.72">thanks</word>
+<word id="le215020.b.unit.87">ok</word>
+<sil BTlength="7s" id="le215020.b.unit.88"/>
+<word id="le215020.b.unit.94">thanks</word>
+<comment text="ringing" id="le215020.b.unit.95"/>
+</nite:root>

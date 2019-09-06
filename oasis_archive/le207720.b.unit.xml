@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le207720.unit.b">
+<word id="le207720.b.unit.2">i'd</word>
+<word id="le207720.b.unit.3">like</word>
+<word id="le207720.b.unit.4">to</word>
+<word id="le207720.b.unit.5">arrange</word>
+<word id="le207720.b.unit.6">for</word>
+<word id="le207720.b.unit.7">an</word>
+<word id="le207720.b.unit.8">alarm</word>
+<word id="le207720.b.unit.9">call</word>
+<word id="le207720.b.unit.10">for</word>
+<word id="le207720.b.unit.11">tomorrow</word>
+<word id="le207720.b.unit.12">morning</word>
+<word id="le207720.b.unit.13">please</word>
+<word id="le207720.b.unit.18">uh</word>
+<word id="le207720.b.unit.19">seven</word>
+<word id="le207720.b.unit.20">forty</word>
+<word id="le207720.b.unit.21">five</word>
+<word id="le207720.b.unit.22">a</word>
+<word id="le207720.b.unit.23">m</word>
+<sil BTlength="8s" id="le207720.b.unit.24"/>
+<word id="le207720.b.unit.36">thanks</word>
+<word id="le207720.b.unit.37">very</word>
+<word id="le207720.b.unit.38">much</word>
+<bcanchor id="le207720.bcanchorb.1"><nite:pointer href="le207720.a.lturn.xml#id(le207720.lturn.6.1)" role="bc"/></bcanchor>
+<word id="le207720.b.unit.40">you</word>
+<word id="le207720.b.unit.41">you've</word>
+<word id="le207720.b.unit.42">got</word>
+<word id="le207720.b.unit.43">our</word>
+<word id="le207720.b.unit.44">number</word>
+<word id="le207720.b.unit.45">alright</word>
+<word id="le207720.b.unit.48">thanks</word>
+<word id="le207720.b.unit.49">very</word>
+<word id="le207720.b.unit.50">much</word>
+<word id="le207720.b.unit.53">bye</word>
+<comment text="hangs_up" id="le207720.b.unit.55"/>
+<comment text="end-ok" id="le207720.b.unit.56"/>
+</nite:root>

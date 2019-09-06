@@ -1,0 +1,13 @@
+b|hey good morning|greet
+b|would you like my customer number|offer
+a|no|refuse
+a|that's fine|accept
+a|if you'd just like to explain what the problem is|suggest
+b|right|accept
+b|um i'm the owner of a property which is normally let out|inform
+a|yes|ackn
+b|it's been vacant for some time|inform
+b|and the phone has been in my name|inform
+b|i phoned on Tuesday to say that i have sold the flat and new owners are coming in today and that that the you know the line would be transferred to them|inform
+a|right|backch
+a|mm mm|backch

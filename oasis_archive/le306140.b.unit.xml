@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le306140.unit.b">
+<word id="le306140.b.unit.2">hello</word>
+<word id="le306140.b.unit.3">i've</word>
+<word id="le306140.b.unit.4">been</word>
+<word id="le306140.b.unit.5">dialling</word>
+<word id="le306140.b.unit.6">a</word>
+<word id="le306140.b.unit.7">number</word>
+<word id="le306140.b.unit.8">in</word>
+<word id="le306140.b.unit.9">in</word>
+<pncode type="town" id="le306140.b.unit.10"/>
+<pncode type="region" id="le306140.b.unit.11"/>
+<bcanchor id="le306140.bcanchorb.1"><nite:pointer href="le306140.a.lturn.xml#id(le306140.lturn.2.1)" role="bc"/></bcanchor>
+<sil BTlength="" id="le306140.b.unit.13"/>
+<word id="le306140.b.unit.14">and</word>
+<word id="le306140.b.unit.15">er</word>
+<word id="le306140.b.unit.16">they</word>
+<word id="le306140.b.unit.17">say</word>
+<word id="le306140.b.unit.18">the</word>
+<word id="le306140.b.unit.19">number</word>
+<word id="le306140.b.unit.20">is</word>
+<word id="le306140.b.unit.21">not</word>
+<word id="le306140.b.unit.22">available</word>
+<word id="le306140.b.unit.23">now</word>
+<word id="le306140.b.unit.24">but</word>
+<word id="le306140.b.unit.34">it's</word>
+<num id="le306140.b.unit.35"/>
+<word id="le306140.b.unit.36">double</word>
+<num id="le306140.b.unit.37"/>
+<num id="le306140.b.unit.38"/>
+<num id="le306140.b.unit.39"/>
+<num id="le306140.b.unit.40"/>
+<word id="le306140.b.unit.52">the</word>
+<word id="le306140.b.unit.53">name</word>
+<word id="le306140.b.unit.60">well</word>
+<word id="le306140.b.unit.61">there's</word>
+<word id="le306140.b.unit.62">no</word>
+<word id="le306140.b.unit.63">code</word>
+<word id="le306140.b.unit.64">from</word>
+<word id="le306140.b.unit.65">where</word>
+<word id="le306140.b.unit.66">i'm</word>
+<word id="le306140.b.unit.67">dialling</word>
+<word id="le306140.b.unit.68">but</word>
+<word id="le306140.b.unit.69">it's</word>
+<num id="le306140.b.unit.70"/>
+<num id="le306140.b.unit.71"/>
+<num id="le306140.b.unit.72"/>
+<num id="le306140.b.unit.73"/>
+<num id="le306140.b.unit.74"/>
+<word id="le306140.b.unit.85">sorry</word>
+<word id="le306140.b.unit.102">oh</word>
+<word id="le306140.b.unit.103">is</word>
+<word id="le306140.b.unit.104">it</word>
+<word id="le306140.b.unit.111">thank</word>
+<word id="le306140.b.unit.112">you</word>
+<word id="le306140.b.unit.113">bye</word>
+</nite:root>

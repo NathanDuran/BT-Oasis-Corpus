@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le213620.unit.a">
+<stdzcode id="le213620.a.unit.1" description="g"/>
+<pncode type="town" id="le213620.a.unit.30"/>
+<word id="le213620.a.unit.34">erm</word>
+<word id="le213620.a.unit.41">well</word>
+<word id="le213620.a.unit.42">we</word>
+<word id="le213620.a.unit.43">have</word>
+<word id="le213620.a.unit.44">three</word>
+<word id="le213620.a.unit.45">rates</word>
+<word id="le213620.a.unit.46">the</word>
+<word id="le213620.a.unit.47">daytime</word>
+<word id="le213620.a.unit.48">rate</word>
+<word id="le213620.a.unit.49">runs</word>
+<word id="le213620.a.unit.50">from</word>
+<word id="le213620.a.unit.51">eight</word>
+<word id="le213620.a.unit.52">in</word>
+<word id="le213620.a.unit.53">the</word>
+<word id="le213620.a.unit.54">morning</word>
+<word id="le213620.a.unit.55">till</word>
+<word id="le213620.a.unit.56">six</word>
+<word id="le213620.a.unit.57">in</word>
+<word id="le213620.a.unit.58">the</word>
+<word id="le213620.a.unit.59">evening</word>
+<sil BTlength="" id="le213620.a.unit.60"/>
+<word id="le213620.a.unit.61">that's</word>
+<word id="le213620.a.unit.62">the</word>
+<word id="le213620.a.unit.63">most</word>
+<word id="le213620.a.unit.64">expensive</word>
+<word id="le213620.a.unit.65">time</word>
+<word id="le213620.a.unit.66">it's</word>
+<num id="le213620.a.unit.67"/>
+<word id="le213620.a.unit.68">pence</word>
+<word id="le213620.a.unit.69">a</word>
+<word id="le213620.a.unit.70">minute</word>
+<bcanchor id="le213620.bcanchora.2"><nite:pointer href="le213620.b.lturn.xml#id(le213620.lturn.5.1)" role="bc"/></bcanchor>
+<word id="le213620.a.unit.72">the</word>
+<word id="le213620.a.unit.73">night</word>
+<word id="le213620.a.unit.74">time</word>
+<word id="le213620.a.unit.75">rate</word>
+<word id="le213620.a.unit.76">is</word>
+<word id="le213620.a.unit.77">from</word>
+<word id="le213620.a.unit.78">six</word>
+<word id="le213620.a.unit.79">in</word>
+<word id="le213620.a.unit.80">the</word>
+<word id="le213620.a.unit.81">evening</word>
+<word id="le213620.a.unit.82">through</word>
+<word id="le213620.a.unit.83">to</word>
+<word id="le213620.a.unit.84">eight</word>
+<word id="le213620.a.unit.85">the</word>
+<word id="le213620.a.unit.86">following</word>
+<word id="le213620.a.unit.87">morning</word>
+<word id="le213620.a.unit.88">Monday</word>
+<word id="le213620.a.unit.89">to</word>
+<word id="le213620.a.unit.90">Friday</word>
+<word id="le213620.a.unit.91">that's</word>
+<num id="le213620.a.unit.92"/>
+<word id="le213620.a.unit.93">pence</word>
+<word id="le213620.a.unit.94">a</word>
+<word id="le213620.a.unit.95">minute</word>
+<sil BTlength="" id="le213620.a.unit.96"/>
+<word id="le213620.a.unit.99">and</word>
+<word id="le213620.a.unit.100">the</word>
+<word id="le213620.a.unit.101">weekend</word>
+<word id="le213620.a.unit.102">rate</word>
+<word id="le213620.a.unit.103">which</word>
+<word id="le213620.a.unit.104">is</word>
+<word id="le213620.a.unit.105">midnight</word>
+<word id="le213620.a.unit.106">Friday</word>
+<word id="le213620.a.unit.107">till</word>
+<word id="le213620.a.unit.108">midnight</word>
+<word id="le213620.a.unit.109">Sunday</word>
+<word id="le213620.a.unit.110">is</word>
+<num id="le213620.a.unit.111"/>
+<word id="le213620.a.unit.112">pence</word>
+<word id="le213620.a.unit.113">a</word>
+<word id="le213620.a.unit.114">minute</word>
+<word id="le213620.a.unit.115">and</word>
+<word id="le213620.a.unit.116">they</word>
+<word id="le213620.a.unit.117">all</word>
+<word id="le213620.a.unit.118">include</word>
+<lcode id="le213620.a.unit.119"/>
+<lcode id="le213620.a.unit.120"/>
+<lcode id="le213620.a.unit.121"/>
+<bcanchor id="le213620.bcanchora.3"><nite:pointer href="le213620.b.lturn.xml#id(le213620.lturn.7.1)" role="bc"/></bcanchor>
+<word id="le213620.a.unit.123">there</word>
+<word id="le213620.a.unit.124">is</word>
+<word id="le213620.a.unit.125">not</word>
+<word id="le213620.a.unit.126">a</word>
+<word id="le213620.a.unit.127">lot</word>
+<word id="le213620.a.unit.128">in</word>
+<word id="le213620.a.unit.129">them</word>
+<word id="le213620.a.unit.130">really</word>
+<word id="le213620.a.unit.131">is</word>
+<word id="le213620.a.unit.132">there</word>
+<word id="le213620.a.unit.144">uh</word>
+<word id="le213620.a.unit.156">yes</word>
+<word id="le213620.a.unit.157">they're</word>
+<word id="le213620.a.unit.158">oh</word>
+<word id="le213620.a.unit.159">yeah</word>
+<word id="le213620.a.unit.160">they're</word>
+<word id="le213620.a.unit.161">in</word>
+<word id="le213620.a.unit.162">line</word>
+<word id="le213620.a.unit.163">with</word>
+<word id="le213620.a.unit.164">the</word>
+<word id="le213620.a.unit.165">national</word>
+<bcanchor id="le213620.bcanchora.5"><nite:pointer href="le213620.b.lturn.xml#id(le213620.lturn.9.1)" role="bc"/></bcanchor>
+<word id="le213620.a.unit.167">calls</word>
+<word id="le213620.a.unit.168">anyway</word>
+<word id="le213620.a.unit.172">alright</word>
+<word id="le213620.a.unit.176">bye</word>
+</nite:root>

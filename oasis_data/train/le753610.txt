@@ -1,0 +1,14 @@
+b|yes|ackn
+b|hi|greet
+b|can i book an alarm call please|direct
+a|an alarm call|echo
+a|what time do you what time do you want it for|reqInfo
+b|yep|ackn
+b|three thirty|answ
+a|hang on please right we'll call you at three thirty this morning thank you byebye|hold
+a|we'll call you at three thirty this morning|informIntent
+b|ok|accept
+b|thank you|thank
+a|thank you|thank
+a|byebye|bye
+b|bye|bye

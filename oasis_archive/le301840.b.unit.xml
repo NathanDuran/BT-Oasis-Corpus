@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le301840.unit.b">
+<word id="le301840.b.unit.2">hello</word>
+<stdzcode id="le301840.b.unit.3" description="name"/>
+<word id="le301840.b.unit.4">can</word>
+<word id="le301840.b.unit.5">you</word>
+<word id="le301840.b.unit.6">check</word>
+<word id="le301840.b.unit.7">a</word>
+<word id="le301840.b.unit.8">number</word>
+<word id="le301840.b.unit.9">for</word>
+<word id="le301840.b.unit.10">me</word>
+<word id="le301840.b.unit.11">it</word>
+<word id="le301840.b.unit.12">keeps</word>
+<word id="le301840.b.unit.13">coming</word>
+<word id="le301840.b.unit.14">back</word>
+<word id="le301840.b.unit.15">as</word>
+<word id="le301840.b.unit.16">not</word>
+<word id="le301840.b.unit.17">being</word>
+<word id="le301840.b.unit.18">recognised</word>
+<word id="le301840.b.unit.19">and</word>
+<word id="le301840.b.unit.20">i</word>
+<word id="le301840.b.unit.21">know</word>
+<word id="le301840.b.unit.22">it's</word>
+<word id="le301840.b.unit.23">a</word>
+<word id="le301840.b.unit.24">phone</word>
+<word id="le301840.b.unit.25">box</word>
+<word id="le301840.b.unit.26">i've</word>
+<word id="le301840.b.unit.27">rung</word>
+<word id="le301840.b.unit.28">it</word>
+<word id="le301840.b.unit.29">before</word>
+<word id="le301840.b.unit.33">me</word>
+<word id="le301840.b.unit.34">daughter's</word>
+<word id="le301840.b.unit.35">waiting</word>
+<word id="le301840.b.unit.36">near</word>
+<word id="le301840.b.unit.37">it</word>
+<word id="le301840.b.unit.38">you</word>
+<word id="le301840.b.unit.39">see</word>
+<word id="le301840.b.unit.45">it's</word>
+<word id="le301840.b.unit.46">it's</word>
+<word id="le301840.b.unit.47">in</word>
+<pncode type="region" id="le301840.b.unit.48"/>
+<word id="le301840.b.unit.49">it's</word>
+<num id="le301840.b.unit.50"/>
+<num id="le301840.b.unit.51"/>
+<num id="le301840.b.unit.52"/>
+<num id="le301840.b.unit.53"/>
+<num id="le301840.b.unit.54"/>
+<num id="le301840.b.unit.60"/>
+<num id="le301840.b.unit.61"/>
+<num id="le301840.b.unit.62"/>
+<num id="le301840.b.unit.66"/>
+<num id="le301840.b.unit.67"/>
+<num id="le301840.b.unit.68"/>
+<word id="le301840.b.unit.83">i</word>
+<word id="le301840.b.unit.84">know</word>
+<word id="le301840.b.unit.85">it's</word>
+<pncode type="region" id="le301840.b.unit.86"/>
+<sil BTlength="" id="le301840.b.unit.87"/>
+<word id="le301840.b.unit.88">what's</word>
+<word id="le301840.b.unit.89">the</word>
+<word id="le301840.b.unit.90">code</word>
+<word id="le301840.b.unit.91">for</word>
+<pncode type="region" id="le301840.b.unit.92"/>
+<word id="le301840.b.unit.93">then</word>
+<word id="le301840.b.unit.98">it's</word>
+<word id="le301840.b.unit.99">um</word>
+<pncode type="town" id="le301840.b.unit.100"/>
+<pncode type="town" id="le301840.b.unit.101"/>
+<word id="le301840.b.unit.102">no</word>
+<word id="le301840.b.unit.103">it's</word>
+<word id="le301840.b.unit.104">not</word>
+<word id="le301840.b.unit.105">where</word>
+<word id="le301840.b.unit.106">is</word>
+<word id="le301840.b.unit.107">it</word>
+<word id="le301840.b.unit.108">now</word>
+<word id="le301840.b.unit.109">um</word>
+<sil BTlength="" id="le301840.b.unit.110"/>
+<word id="le301840.b.unit.111">not</word>
+<pncode type="town" id="le301840.b.unit.112"/>
+<word id="le301840.b.unit.113">the</word>
+<word id="le301840.b.unit.114">one</word>
+<bcanchor id="le301840.bcanchorb.1"><nite:pointer href="le301840.a.lturn.xml#id(le301840.lturn.14.1)" role="bc"/></bcanchor>
+<word id="le301840.b.unit.118">further</word>
+<word id="le301840.b.unit.119">up</word>
+<pncode type="town" id="le301840.b.unit.120"/>
+<pncode type="town" id="le301840.b.unit.123"/>
+<pncode type="town" id="le301840.b.unit.124"/>
+<word id="le301840.b.unit.125">that's</word>
+<word id="le301840.b.unit.126">it</word>
+<word id="le301840.b.unit.139"/>
+<comment text="laughs" id="le301840.b.unit.140"/>
+<word id="le301840.b.unit.141"/>
+<word id="le301840.b.unit.157">oh</word>
+<word id="le301840.b.unit.158">i've</word>
+<word id="le301840.b.unit.159">got</word>
+<word id="le301840.b.unit.160">it</word>
+<word id="le301840.b.unit.161">the</word>
+<word id="le301840.b.unit.162">wrong</word>
+<word id="le301840.b.unit.163">way</word>
+<word id="le301840.b.unit.164">round</word>
+<word id="le301840.b.unit.166">right</word>
+<word id="le301840.b.unit.167">thanks</word>
+<word id="le301840.b.unit.168">a</word>
+<word id="le301840.b.unit.169">lot</word>
+</nite:root>

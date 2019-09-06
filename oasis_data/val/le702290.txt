@@ -1,0 +1,15 @@
+b|hello|greet
+b|could you give me a phone call at six thirty in the morning please|direct
+a|six forty|confirm
+b|six thirty|correct
+a|six thirty|echo
+a|just a moment okay that's booked for you then and we'll call you at six thirty okay thank you bye|hold
+a|okay|ackn
+a|that's booked for you then|inform
+a|and we'll call you at six thirty okay|informIntent
+b|yeah|backch
+b|yeah|backch
+b|yeah|ackn
+b|thanks|thank
+a|thank you|thank
+a|bye|bye

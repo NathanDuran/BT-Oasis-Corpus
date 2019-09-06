@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le173810.unit.b">
+<word id="le173810.b.unit.2">hello</word>
+<word id="le173810.b.unit.3">er</word>
+<word id="le173810.b.unit.4">i'm</word>
+<word id="le173810.b.unit.5">in</word>
+<word id="le173810.b.unit.6">um</word>
+<word id="le173810.b.unit.7">oh</word>
+<word id="le173810.b.unit.8">god</word>
+<word id="le173810.b.unit.9">i</word>
+<word id="le173810.b.unit.10">can't</word>
+<word id="le173810.b.unit.11">remember</word>
+<word id="le173810.b.unit.12">the</word>
+<word id="le173810.b.unit.13">name</word>
+<word id="le173810.b.unit.14">where</word>
+<word id="le173810.b.unit.15">i</word>
+<word id="le173810.b.unit.16">am</word>
+<word id="le173810.b.unit.17">now</word>
+<word id="le173810.b.unit.19">hang</word>
+<word id="le173810.b.unit.20">on</word>
+<word id="le173810.b.unit.21">a</word>
+<word id="le173810.b.unit.22">second</word>
+<word id="le173810.b.unit.23">where</word>
+<word id="le173810.b.unit.24">where's</word>
+<word id="le173810.b.unit.25">this</word>
+<word id="le173810.b.unit.26">place</word>
+<pncode type="town" id="le173810.b.unit.29"/>
+<pncode type="town" id="le173810.b.unit.30"/>
+<bcanchor id="le173810.bcanchorb.1"><nite:pointer href="le173810.x.lturn.xml#id(le173810.lturn.6.1)" role="bc"/></bcanchor>
+<word id="le173810.b.unit.32">and</word>
+<word id="le173810.b.unit.33">there's</word>
+<word id="le173810.b.unit.34">a</word>
+<word id="le173810.b.unit.35">telephone</word>
+<word id="le173810.b.unit.36">box</word>
+<word id="le173810.b.unit.37">there's</word>
+<word id="le173810.b.unit.38">only</word>
+<word id="le173810.b.unit.39">one</word>
+<word id="le173810.b.unit.40">as</word>
+<word id="le173810.b.unit.41">far</word>
+<word id="le173810.b.unit.42">as</word>
+<word id="le173810.b.unit.43">i</word>
+<word id="le173810.b.unit.44">know</word>
+<word id="le173810.b.unit.45">in</word>
+<pncode type="town" id="le173810.b.unit.46"/>
+<pncode type="town" id="le173810.b.unit.47"/>
+<word id="le173810.b.unit.48">end</word>
+<word id="le173810.b.unit.49">and</word>
+<word id="le173810.b.unit.50">it's</word>
+<word id="le173810.b.unit.51">on</word>
+<num id="le173810.b.unit.52"/>
+<num id="le173810.b.unit.53"/>
+<num id="le173810.b.unit.54"/>
+<word id="le173810.b.unit.55">calls</word>
+<word id="le173810.b.unit.56">only</word>
+<bcanchor id="le173810.bcanchorb.2"><nite:pointer href="le173810.x.lturn.xml#id(le173810.lturn.6.2)" role="bc"/></bcanchor>
+<word id="le173810.b.unit.58">er</word>
+<word id="le173810.b.unit.59">could</word>
+<word id="le173810.b.unit.60">you</word>
+<word id="le173810.b.unit.61">get</word>
+<word id="le173810.b.unit.62">somebody</word>
+<word id="le173810.b.unit.63">out</word>
+<word id="le173810.b.unit.64">to</word>
+<word id="le173810.b.unit.65">fix</word>
+<word id="le173810.b.unit.66">it</word>
+<word id="le173810.b.unit.74">i</word>
+<word id="le173810.b.unit.75">don't</word>
+<word id="le173810.b.unit.76">no</word>
+<word id="le173810.b.unit.90">er</word>
+<sil BTlength="" id="le173810.b.unit.91"/>
+<word id="le173810.b.unit.92">ah</word>
+<word id="le173810.b.unit.93">ah</word>
+<word id="le173810.b.unit.94">i'll</word>
+<word id="le173810.b.unit.95">have</word>
+<word id="le173810.b.unit.96">to</word>
+<word id="le173810.b.unit.97">get</word>
+<word id="le173810.b.unit.98">it</word>
+<word id="le173810.b.unit.99">and</word>
+<word id="le173810.b.unit.100">ring</word>
+<word id="le173810.b.unit.101">you</word>
+<word id="le173810.b.unit.102">back</word>
+<word id="le173810.b.unit.133">alright</word>
+<word id="le173810.b.unit.134">then</word>
+<word id="le173810.b.unit.136">lovely</word>
+<word id="le173810.b.unit.137">thanks</word>
+<word id="le173810.b.unit.138">a</word>
+<word id="le173810.b.unit.139">lot</word>
+<word id="le173810.b.unit.140">bye</word>
+<word id="le173810.b.unit.141">bye</word>
+<comment text="end-ok" id="le173810.b.unit.142"/>
+</nite:root>

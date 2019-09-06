@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le710340.unit.b">
+<word id="le710340.b.unit.1"/>
+<gap id="le710340.b.unit.2"/>
+<word id="le710340.b.unit.3">a</word>
+<word id="le710340.b.unit.4">minute</word>
+<word id="le710340.b.unit.6">hello</word>
+<sil BTlength="" id="le710340.b.unit.7"/>
+<word id="le710340.b.unit.8">do</word>
+<word id="le710340.b.unit.9">you</word>
+<word id="le710340.b.unit.10">think</word>
+<word id="le710340.b.unit.11">you</word>
+<word id="le710340.b.unit.12">could</word>
+<word id="le710340.b.unit.13">put</word>
+<word id="le710340.b.unit.14">me</word>
+<word id="le710340.b.unit.15">through</word>
+<sil BTlength="" id="le710340.b.unit.16"/>
+<word id="le710340.b.unit.17">to</word>
+<word id="le710340.b.unit.18">a</word>
+<word id="le710340.b.unit.19">number</word>
+<word id="le710340.b.unit.24">the</word>
+<word id="le710340.b.unit.25">problem</word>
+<word id="le710340.b.unit.26">is</word>
+<word id="le710340.b.unit.27">that</word>
+<word id="le710340.b.unit.28">they</word>
+<word id="le710340.b.unit.29">don't</word>
+<word id="le710340.b.unit.30">accept</word>
+<word id="le710340.b.unit.31">um</word>
+<sil BTlength="" id="le710340.b.unit.32"/>
+<word id="le710340.b.unit.33">calls</word>
+<word id="le710340.b.unit.34">from</word>
+<word id="le710340.b.unit.35">people</word>
+<word id="le710340.b.unit.36">who</word>
+<word id="le710340.b.unit.37">withheld</word>
+<word id="le710340.b.unit.38">their</word>
+<word id="le710340.b.unit.39">number</word>
+<num id="le710340.b.unit.77"/>
+<num id="le710340.b.unit.78"/>
+<num id="le710340.b.unit.79"/>
+<num id="le710340.b.unit.80"/>
+<word id="le710340.b.unit.84">ok</word>
+<word id="le710340.b.unit.85">then</word>
+<word id="le710340.b.unit.90">thanks</word>
+<word id="le710340.b.unit.91">a</word>
+<word id="le710340.b.unit.92">lot</word>
+<word id="le710340.b.unit.93">bye</word>
+<comment text="end-ok" id="le710340.b.unit.94"/>
+</nite:root>

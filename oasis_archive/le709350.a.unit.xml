@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le709350.unit.a">
+<stdzcode id="le709350.a.unit.1" description="name"/>
+<word id="le709350.a.unit.31">why</word>
+<word id="le709350.a.unit.32">why</word>
+<word id="le709350.a.unit.33">is</word>
+<word id="le709350.a.unit.34">it</word>
+<word id="le709350.a.unit.35">necessary</word>
+<word id="le709350.a.unit.36">for</word>
+<word id="le709350.a.unit.37">you</word>
+<word id="le709350.a.unit.38">to</word>
+<word id="le709350.a.unit.39">ask</word>
+<word id="le709350.a.unit.40">that</word>
+<word id="le709350.a.unit.41">question</word>
+<comment text="children_sounds" id="le709350.a.unit.42"/>
+<word id="le709350.a.unit.57">yeah</word>
+<word id="le709350.a.unit.65">yeah</word>
+<word id="le709350.a.unit.91">yeah</word>
+<word id="le709350.a.unit.134">yeah</word>
+<word id="le709350.a.unit.135">yeah</word>
+<word id="le709350.a.unit.142">yeah</word>
+<word id="le709350.a.unit.152">set</word>
+<word id="le709350.a.unit.153">it</word>
+<word id="le709350.a.unit.154">all</word>
+<word id="le709350.a.unit.155">up</word>
+<word id="le709350.a.unit.156">yeah</word>
+<word id="le709350.a.unit.166">mm</word>
+<word id="le709350.a.unit.179">right</word>
+<word id="le709350.a.unit.193">right</word>
+<word id="le709350.a.unit.194">the</word>
+<word id="le709350.a.unit.195">thing</word>
+<word id="le709350.a.unit.196">you</word>
+<word id="le709350.a.unit.197">need</word>
+<word id="le709350.a.unit.198">to</word>
+<word id="le709350.a.unit.199">do</word>
+<bcanchor id="le709350.bcanchora.8"><nite:pointer href="le709350.b.lturn.xml#id(le709350.lturn.7.1)" role="bc"/></bcanchor>
+<word id="le709350.a.unit.201">is</word>
+<word id="le709350.a.unit.202">tomorrow</word>
+<word id="le709350.a.unit.203">morning</word>
+<word id="le709350.a.unit.204">after</word>
+<word id="le709350.a.unit.205">eight</word>
+<word id="le709350.a.unit.206">o'clock</word>
+<bcanchor id="le709350.bcanchora.9"><nite:pointer href="le709350.b.lturn.xml#id(le709350.lturn.7.2)" role="bc"/></bcanchor>
+<word id="le709350.a.unit.208">that's</word>
+<word id="le709350.a.unit.209">when</word>
+<word id="le709350.a.unit.210">they're</word>
+<word id="le709350.a.unit.211">open</word>
+<bcanchor id="le709350.bcanchora.10"><nite:pointer href="le709350.b.lturn.xml#id(le709350.lturn.7.3)" role="bc"/></bcanchor>
+<word id="le709350.a.unit.213">speak</word>
+<word id="le709350.a.unit.214">to</word>
+<num id="le709350.a.unit.215"/>
+<num id="le709350.a.unit.216"/>
+<num id="le709350.a.unit.217"/>
+<bcanchor id="le709350.bcanchora.11"><nite:pointer href="le709350.b.lturn.xml#id(le709350.lturn.7.4)" role="bc"/></bcanchor>
+<word id="le709350.a.unit.219">tell</word>
+<word id="le709350.a.unit.220">them</word>
+<word id="le709350.a.unit.221">what</word>
+<word id="le709350.a.unit.222">you've</word>
+<word id="le709350.a.unit.223">just</word>
+<word id="le709350.a.unit.224">told</word>
+<word id="le709350.a.unit.225">me</word>
+<word id="le709350.a.unit.226">and</word>
+<word id="le709350.a.unit.227">they'll</word>
+<word id="le709350.a.unit.228">be</word>
+<word id="le709350.a.unit.229">able</word>
+<word id="le709350.a.unit.230">to</word>
+<word id="le709350.a.unit.231">assist</word>
+<word id="le709350.a.unit.232">you</word>
+<word id="le709350.a.unit.233">ok</word>
+<word id="le709350.a.unit.249">no</word>
+<word id="le709350.a.unit.250">i</word>
+<word id="le709350.a.unit.251">can't</word>
+<word id="le709350.a.unit.252">do</word>
+<word id="le709350.a.unit.253">that</word>
+<word id="le709350.a.unit.254">sorry</word>
+<word id="le709350.a.unit.255">no</word>
+<word id="le709350.a.unit.256">i</word>
+<word id="le709350.a.unit.257">can't</word>
+<word id="le709350.a.unit.258">no</word>
+<word id="le709350.a.unit.269">well</word>
+<word id="le709350.a.unit.270">if</word>
+<word id="le709350.a.unit.271">you</word>
+<word id="le709350.a.unit.272">need</word>
+<word id="le709350.a.unit.273">the</word>
+<word id="le709350.a.unit.274">police</word>
+<word id="le709350.a.unit.275">you</word>
+<word id="le709350.a.unit.276">just</word>
+<word id="le709350.a.unit.277">dial</word>
+<num id="le709350.a.unit.278"/>
+<num id="le709350.a.unit.279"/>
+<num id="le709350.a.unit.280"/>
+<word id="le709350.a.unit.298">well</word>
+<word id="le709350.a.unit.299">if</word>
+<word id="le709350.a.unit.300">that</word>
+<word id="le709350.a.unit.301">happens</word>
+<word id="le709350.a.unit.302">then</word>
+<word id="le709350.a.unit.303">you</word>
+<word id="le709350.a.unit.304">dial</word>
+<num id="le709350.a.unit.305"/>
+<num id="le709350.a.unit.306"/>
+<num id="le709350.a.unit.307"/>
+<bcanchor id="le709350.bcanchora.12"><nite:pointer href="le709350.b.lturn.xml#id(le709350.lturn.13.1)" role="bc"/></bcanchor>
+<word id="le709350.a.unit.309">we</word>
+<word id="le709350.a.unit.310">will</word>
+<word id="le709350.a.unit.311">be</word>
+<word id="le709350.a.unit.312">able</word>
+<word id="le709350.a.unit.313">to</word>
+<word id="le709350.a.unit.314">give</word>
+<word id="le709350.a.unit.315">the</word>
+<word id="le709350.a.unit.316">police</word>
+<word id="le709350.a.unit.317">the</word>
+<word id="le709350.a.unit.318">number</word>
+<bcanchor id="le709350.bcanchora.13"><nite:pointer href="le709350.b.lturn.xml#id(le709350.lturn.13.2)" role="bc"/></bcanchor>
+<word id="le709350.a.unit.320">ok</word>
+<word id="le709350.a.unit.326">you're</word>
+<word id="le709350.a.unit.327">welcome</word>
+<word id="le709350.a.unit.328">thank</word>
+<word id="le709350.a.unit.329">you</word>
+<word id="le709350.a.unit.331">bye</word>
+<comment text="end-ok" id="le709350.a.unit.332"/>
+</nite:root>

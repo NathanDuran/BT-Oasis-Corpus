@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le703400.unit.a">
+<stdzcode id="le703400.a.unit.1" description="name"/>
+<word id="le703400.a.unit.14">what</word>
+<word id="le703400.a.unit.15">time</word>
+<word id="le703400.a.unit.16">would</word>
+<word id="le703400.a.unit.17">you</word>
+<word id="le703400.a.unit.18">like</word>
+<word id="le703400.a.unit.19">your</word>
+<word id="le703400.a.unit.20">call</word>
+<word id="le703400.a.unit.24">five</word>
+<word id="le703400.a.unit.25">thirty</word>
+<bcanchor id="le703400.bcanchora.1"><nite:pointer href="le703400.b.lturn.xml#id(le703400.lturn.5.1)" role="bc"/></bcanchor>
+<sil BTlength="" id="le703400.a.unit.27"/>
+<word id="le703400.a.unit.28">thank</word>
+<word id="le703400.a.unit.29">you</word>
+<word id="le703400.a.unit.30">we'll</word>
+<word id="le703400.a.unit.31">call</word>
+<word id="le703400.a.unit.32">you</word>
+<word id="le703400.a.unit.33">at</word>
+<word id="le703400.a.unit.34">five</word>
+<word id="le703400.a.unit.35">thirty</word>
+<word id="le703400.a.unit.40">thanks</word>
+<word id="le703400.a.unit.41">bye</word>
+</nite:root>

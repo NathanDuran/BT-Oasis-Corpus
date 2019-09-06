@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le703650.unit.a">
+<stdzcode id="le703650.a.unit.1" description="name"/>
+<word id="le703650.a.unit.52">right</word>
+<word id="le703650.a.unit.53">i</word>
+<word id="le703650.a.unit.54">can't</word>
+<word id="le703650.a.unit.55">tell</word>
+<word id="le703650.a.unit.56">you</word>
+<word id="le703650.a.unit.57">who</word>
+<word id="le703650.a.unit.58">it</word>
+<word id="le703650.a.unit.59">is</word>
+<word id="le703650.a.unit.60">i'm</word>
+<word id="le703650.a.unit.61">not</word>
+<word id="le703650.a.unit.62">allowed</word>
+<word id="le703650.a.unit.63">to</word>
+<sil BTlength="" id="le703650.a.unit.64"/>
+<word id="le703650.a.unit.65">the</word>
+<word id="le703650.a.unit.66">only</word>
+<bcanchor id="le703650.bcanchora.1"><nite:pointer href="le703650.b.lturn.xml#id(le703650.lturn.3.1)" role="bc"/></bcanchor>
+<word id="le703650.a.unit.68">thing</word>
+<word id="le703650.a.unit.69">i</word>
+<word id="le703650.a.unit.70">can</word>
+<word id="le703650.a.unit.71">tell</word>
+<word id="le703650.a.unit.72">you</word>
+<word id="le703650.a.unit.73">if</word>
+<word id="le703650.a.unit.74">it's</word>
+<word id="le703650.a.unit.75">uh</word>
+<word id="le703650.a.unit.76">residential</word>
+<word id="le703650.a.unit.77">or</word>
+<word id="le703650.a.unit.78">a</word>
+<word id="le703650.a.unit.79">business</word>
+<sil BTlength="" id="le703650.a.unit.80"/>
+<bcanchor id="le703650.bcanchora.2"><nite:pointer href="le703650.b.lturn.xml#id(le703650.lturn.3.2)" role="bc"/></bcanchor>
+<word id="le703650.a.unit.82">or</word>
+<word id="le703650.a.unit.83">a</word>
+<word id="le703650.a.unit.84">payphone</word>
+<word id="le703650.a.unit.92">no</word>
+<word id="le703650.a.unit.93">it's</word>
+<word id="le703650.a.unit.94">not</word>
+<word id="le703650.a.unit.95">actually</word>
+<word id="le703650.a.unit.96">one</word>
+<word id="le703650.a.unit.97">of</word>
+<word id="le703650.a.unit.98">our</word>
+<word id="le703650.a.unit.99">numbers</word>
+<word id="le703650.a.unit.107">i've</word>
+<word id="le703650.a.unit.108">no</word>
+<word id="le703650.a.unit.109">idea</word>
+<word id="le703650.a.unit.110">it's</word>
+<word id="le703650.a.unit.111">not</word>
+<word id="le703650.a.unit.112">one</word>
+<word id="le703650.a.unit.113">of</word>
+<word id="le703650.a.unit.114">our</word>
+<word id="le703650.a.unit.115">numbers</word>
+<word id="le703650.a.unit.116">i</word>
+<word id="le703650.a.unit.117">don't</word>
+<word id="le703650.a.unit.118">have</word>
+<word id="le703650.a.unit.119">any</word>
+<word id="le703650.a.unit.120">information</word>
+<word id="le703650.a.unit.121">on</word>
+<word id="le703650.a.unit.122">it</word>
+<word id="le703650.a.unit.126">it</word>
+<word id="le703650.a.unit.127">must</word>
+<word id="le703650.a.unit.128">be</word>
+<word id="le703650.a.unit.129">a</word>
+<pncode type="business" id="le703650.a.unit.130"/>
+<word id="le703650.a.unit.131">number</word>
+<word id="le703650.a.unit.138">yeah</word>
+<word id="le703650.a.unit.143">ok</word>
+<word id="le703650.a.unit.149">bye</word>
+<comment text="end-ok" id="le703650.a.unit.150"/>
+</nite:root>

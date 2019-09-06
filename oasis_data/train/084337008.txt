@@ -1,0 +1,34 @@
+b|hello|greet
+b|um i got got a a letter right|inform
+b|and it says there's a i prefer i could do it by monthly payments|inform
+a|yes|ackn
+a|that's fine|accept
+b|yeah|ackn
+a|you know which is taking a set monthly amount on a set day of the month um by direct debit|inform
+b|oh is it direct debit|reqInfo
+a|it is|answ
+a|yeah|answElab
+b|oh|ackn
+a|now|init
+a|we could send you a payment card|offer
+a|would that be helpful for you|reqInfo
+a|that's were you make sort of|inform
+b|well|init
+b|it's this bill see|inform
+a|pardon|pardon
+b|it's this bill that i'm i you know i used to pay you know instalments of every fortnight|inform
+b|and um it's getting a bit difficult with the amount yeah but i only get paid once a fortnight i'm only on the dole|inform
+a|yeah|backch
+a|uh huh|backch
+a|right okay well|ackn
+a|a payment card lets you pay your bill before it arrives|inform
+a|so|init
+a|instead of paying once a fortnight|inform
+a|if you go every week to the post office and put in|inform
+b|yeah|backch
+b|but i only get paid once a fortnight|inform
+b|i'm only on the dole|inform
+a|oh right|backch
+a|uh huh|backch
+a|so|init
+a|is are you having difficulties with this bill|reqInfo

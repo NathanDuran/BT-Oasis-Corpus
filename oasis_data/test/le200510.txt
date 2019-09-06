@@ -1,0 +1,57 @@
+b|hello|greet
+b|um i believe someone has just tried a reverse charge call on me|expressOpinion
+b|i just want to find out tell me who it was or connect you with them or something yeah i wasn't actually i was no i was in a different room i know somebody was gonna reverse charge me so i went to the no i went to move when the phone rang so i missed it but i've got no way of getting hold of him cause s come up with nothing that was what i assumed right thanks does that mean there wasn't a reverse charge call tried does that mean there wasn't a reverse charge call tried or no i don't think it was cause i was in the other room right alright thanks a lot anyway yep bye|expressWish
+b|tell me who it was|direct
+a|i mean you would have been told who it was calling when when connected the call|inform
+b|yeah|ackn
+b|i wasn't actually i was|inform
+a|you weren't aware|confirm
+b|no|ackn
+b|i was in a different room|inform
+b|i know somebody was gonna reverse charge me|inform
+a|so|init
+a|you did accept it|confirm
+b|so|init
+a|from what do you do accept it|reqInfo
+b|no|answ
+b|i went to move when the phone rang so i missed it but i've got no way of getting hold of him cause s come up with nothing that was what i assumed right thanks does that mean there wasn't a reverse charge call tried does that mean there wasn't a reverse charge call tried or no i don't think it was cause i was in the other room right alright thanks a lot anyway yep bye|inform
+b|so|init
+b|i missed it but i've got no way of getting hold of him cause s come up with nothing that was what i assumed right thanks does that mean there wasn't a reverse charge call tried does that mean there wasn't a reverse charge call tried or no i don't think it was cause i was in the other room right alright thanks a lot anyway yep bye|inform
+b|but|init
+a|oh you missed it|confirm
+b|i've got no way of getting hold of him|inform
+b|cause s come up with nothing|inform
+a|no|accept
+a|it wouldn't be|negate
+a|because the operator would have connected|inform
+b|that was what i assumed|expressOpinion
+a|i mean i can try and search it for you|offer
+a|but i'm not sure i'll be able to find it|expressOpinion
+a|because we're on and you've come through to it could have been any other exchange who took the call i'll try and search it for you sir hold the line please sir no i haven't i've got no record of that call sir sorry well it could have been tried but it wasn't connecting was it no so the person would have been told i'm sorry please try later or something like that so they will try again later i suppose okay bye|inform
+a|and you've come through to it could have been any other exchange who took the call i'll try and search it for you sir hold the line please sir no i haven't i've got no record of that call sir sorry well it could have been tried but it wasn't connecting was it no so the person would have been told i'm sorry please try later or something like that so they will try again later i suppose okay bye|inform
+a|it could have been any other exchange who took the call|expressPossibility
+a|i'll try and search it for you sir|informIntent
+a|hold the line please sir no i haven't i've got no record of that call sir sorry well it could have been tried but it wasn't connecting was it no so the person would have been told i'm sorry please try later or something like that so they will try again later i suppose okay bye|hold
+a|no|negate
+a|i haven't i've got no record of that call sir|inform
+b|right thanks|backch
+b|does that mean there wasn't a reverse charge call tried|reqInfo
+b|does that mean there wasn't a reverse charge call tried or|reqInfo
+a|sorry|backch
+a|well|init
+a|it could have been tried|expressPossibility
+a|but it wasn't connecting was it|inform
+b|no|ackn
+b|i don't think it was cause i was in the other room|expressOpinion
+a|no|negate
+a|so|init
+a|the person would have been told i'm sorry please try later or something like that|inform
+a|so|init
+a|they will try again later i suppose|expressOpinion
+b|right|ackn
+b|alright|init
+b|thanks a lot anyway|thank
+a|okay|ackn
+a|bye|bye
+b|yep|backch
+b|bye|bye

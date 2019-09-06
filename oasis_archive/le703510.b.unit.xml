@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le703510.unit.b">
+<word id="le703510.b.unit.2">hi</word>
+<word id="le703510.b.unit.3">is</word>
+<word id="le703510.b.unit.4">it</word>
+<word id="le703510.b.unit.5">um</word>
+<word id="le703510.b.unit.6">i</word>
+<word id="le703510.b.unit.7">was</word>
+<word id="le703510.b.unit.8">just</word>
+<word id="le703510.b.unit.9">wondering</word>
+<word id="le703510.b.unit.10">if</word>
+<word id="le703510.b.unit.11">there's</word>
+<word id="le703510.b.unit.12">an</word>
+<word id="le703510.b.unit.13">actual</word>
+<word id="le703510.b.unit.14">number</word>
+<word id="le703510.b.unit.15">that</word>
+<word id="le703510.b.unit.16">you</word>
+<word id="le703510.b.unit.17">can</word>
+<word id="le703510.b.unit.18">dial</word>
+<word id="le703510.b.unit.19">on</word>
+<word id="le703510.b.unit.20">your</word>
+<word id="le703510.b.unit.21">phone</word>
+<word id="le703510.b.unit.22">so</word>
+<word id="le703510.b.unit.23">the</word>
+<sil BTlength="" id="le703510.b.unit.24"/>
+<word id="le703510.b.unit.25">actual</word>
+<word id="le703510.b.unit.26">phone</word>
+<word id="le703510.b.unit.27">just</word>
+<word id="le703510.b.unit.28">rings</word>
+<word id="le703510.b.unit.29">back</word>
+<word id="le703510.b.unit.38">yeah</word>
+<word id="le703510.b.unit.46">okay</word>
+<word id="le703510.b.unit.47">then</word>
+<bcanchor id="le703510.bcanchorb.2"><nite:pointer href="le703510.a.lturn.xml#id(le703510.lturn.4.1)" role="bc"/></bcanchor>
+<word id="le703510.b.unit.49">right</word>
+<word id="le703510.b.unit.50">thank</word>
+<word id="le703510.b.unit.51">you</word>
+<word id="le703510.b.unit.52">bye</word>
+</nite:root>

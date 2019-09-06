@@ -1,0 +1,19 @@
+b|hello|greet
+b|can i have a wake up call please|direct
+a|certainly|accept
+a|for what time|reqInfo
+b|um for quarter to eight|answ
+a|quarter to eight|echo
+b|yeah|ackn
+a|do you have an answering machine please|reqInfo
+b|i do|answ
+b|yeah|answElab
+a|can you make sure it's switched off for the call|direct
+b|yep|accept
+b|no problem|accept
+a|that's booked for you at quarter to eight|inform
+b|lovely|appreciate
+a|thank you|thank
+b|thank you|thank
+a|byebye|bye
+b|byebye|bye

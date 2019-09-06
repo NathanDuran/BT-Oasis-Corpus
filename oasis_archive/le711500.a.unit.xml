@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le711500.unit.a">
+<stdzcode id="le711500.a.unit.1" description="name"/>
+<word id="le711500.a.unit.7">sorry</word>
+<word id="le711500.a.unit.11">uh</word>
+<word id="le711500.a.unit.12">alarm</word>
+<word id="le711500.a.unit.13">call</word>
+<word id="le711500.a.unit.14">thank</word>
+<bcanchor id="le711500.bcanchora.1"><nite:pointer href="le711500.b.lturn.xml#id(le711500.lturn.5.1)" role="bc"/></bcanchor>
+<word id="le711500.a.unit.17">you</word>
+<word id="le711500.a.unit.18">what</word>
+<word id="le711500.a.unit.19">time</word>
+<word id="le711500.a.unit.20">would</word>
+<word id="le711500.a.unit.21">you</word>
+<word id="le711500.a.unit.22">like</word>
+<word id="le711500.a.unit.23">the</word>
+<word id="le711500.a.unit.24">call</word>
+<word id="le711500.a.unit.30">half</word>
+<word id="le711500.a.unit.31">past</word>
+<word id="le711500.a.unit.32">six</word>
+<word id="le711500.a.unit.35">will</word>
+<word id="le711500.a.unit.36">you</word>
+<word id="le711500.a.unit.37">just</word>
+<word id="le711500.a.unit.38">hold</word>
+<word id="le711500.a.unit.39">the</word>
+<word id="le711500.a.unit.40">line</word>
+<word id="le711500.a.unit.41">while</word>
+<word id="le711500.a.unit.42">i</word>
+<word id="le711500.a.unit.43">try</word>
+<word id="le711500.a.unit.44">to</word>
+<word id="le711500.a.unit.45">confirm</word>
+<word id="le711500.a.unit.46">that</word>
+<word id="le711500.a.unit.47">for</word>
+<word id="le711500.a.unit.48">you</word>
+<word id="le711500.a.unit.54">ok</word>
+<word id="le711500.a.unit.55">if</word>
+<word id="le711500.a.unit.56">you'd</word>
+<word id="le711500.a.unit.57">just</word>
+<word id="le711500.a.unit.58">hold</word>
+<word id="le711500.a.unit.59">the</word>
+<word id="le711500.a.unit.60">line</word>
+<word id="le711500.a.unit.61">for</word>
+<word id="le711500.a.unit.62">me</word>
+<bcanchor id="le711500.bcanchora.2"><nite:pointer href="le711500.b.lturn.xml#id(le711500.lturn.11.1)" role="bc"/></bcanchor>
+<word id="le711500.a.unit.64">one</word>
+<word id="le711500.a.unit.65">moment</word>
+<sil BTlength="5s" id="le711500.a.unit.66"/>
+<word id="le711500.a.unit.67">i</word>
+<word id="le711500.a.unit.68">can</word>
+<word id="le711500.a.unit.69">call</word>
+<word id="le711500.a.unit.70">you</word>
+<word id="le711500.a.unit.71">at</word>
+<word id="le711500.a.unit.72">six</word>
+<word id="le711500.a.unit.73">twenty</word>
+<word id="le711500.a.unit.74">five</word>
+<word id="le711500.a.unit.75">or</word>
+<word id="le711500.a.unit.76">six</word>
+<word id="le711500.a.unit.77">thirty</word>
+<word id="le711500.a.unit.78">five</word>
+<word id="le711500.a.unit.79">which</word>
+<word id="le711500.a.unit.80">would</word>
+<word id="le711500.a.unit.81">you</word>
+<word id="le711500.a.unit.82">prefer</word>
+<word id="le711500.a.unit.87">ok</word>
+<word id="le711500.a.unit.88">that's</word>
+<bcanchor id="le711500.bcanchora.3"><nite:pointer href="le711500.b.lturn.xml#id(le711500.lturn.13.1)" role="bc"/></bcanchor>
+<word id="le711500.a.unit.91">fine</word>
+<word id="le711500.a.unit.92">that's</word>
+<word id="le711500.a.unit.93">booked</word>
+<word id="le711500.a.unit.94">for</word>
+<word id="le711500.a.unit.95">you</word>
+<word id="le711500.a.unit.99">ok</word>
+<word id="le711500.a.unit.100">thank</word>
+<word id="le711500.a.unit.101">you</word>
+<word id="le711500.a.unit.102">bye</word>
+</nite:root>

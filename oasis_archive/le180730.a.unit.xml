@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le180730.unit.a">
+<stdzcode id="le180730.a.unit.1" description="name"/>
+<word id="le180730.a.unit.15">yeah</word>
+<word id="le180730.a.unit.16">course</word>
+<word id="le180730.a.unit.17">what</word>
+<word id="le180730.a.unit.18">time</word>
+<word id="le180730.a.unit.19">would</word>
+<word id="le180730.a.unit.20">you</word>
+<word id="le180730.a.unit.21">like</word>
+<word id="le180730.a.unit.22">it</word>
+<num id="le180730.a.unit.27"/>
+<num id="le180730.a.unit.28"/>
+<bcanchor id="le180730.bcanchora.1"><nite:pointer href="le180730.b.lturn.xml#id(le180730.lturn.5.1)" role="bc"/></bcanchor>
+<word id="le180730.a.unit.30">okay</word>
+<word id="le180730.a.unit.31">and</word>
+<word id="le180730.a.unit.32">that's</word>
+<word id="le180730.a.unit.33">going</word>
+<word id="le180730.a.unit.34">to</word>
+<word id="le180730.a.unit.35">the</word>
+<word id="le180730.a.unit.36">number</word>
+<word id="le180730.a.unit.37">that</word>
+<word id="le180730.a.unit.38">you</word>
+<word id="le180730.a.unit.39">want</word>
+<word id="le180730.a.unit.40">it</word>
+<word id="le180730.a.unit.41">is</word>
+<word id="le180730.a.unit.42">it</word>
+<word id="le180730.a.unit.46">one</word>
+<word id="le180730.a.unit.47">moment</word>
+<word id="le180730.a.unit.48">yeah</word>
+<word id="le180730.a.unit.49">that's</word>
+<word id="le180730.a.unit.50">no</word>
+<word id="le180730.a.unit.51">problem</word>
+<word id="le180730.a.unit.52">that's</word>
+<word id="le180730.a.unit.53">booked</word>
+<word id="le180730.a.unit.54">for</word>
+<num id="le180730.a.unit.55"/>
+<num id="le180730.a.unit.56"/>
+<word id="le180730.a.unit.57">then</word>
+<word id="le180730.a.unit.60">okay</word>
+<word id="le180730.a.unit.67">good</word>
+<word id="le180730.a.unit.68">night</word>
+<word id="le180730.a.unit.69">then</word>
+<comment text="end-ok" id="le180730.a.unit.70"/>
+</nite:root>

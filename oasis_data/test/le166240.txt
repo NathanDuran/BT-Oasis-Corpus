@@ -1,0 +1,52 @@
+b|i'm having trouble er with getting a telephone number to in well it keeps ringing i mean i'll i'm just wondering if it's it i mean i know it's a busy place anyway but i've tried twice and i've been ringing for a long time and er i thought somebody might have picked up the phone but is it possible that you can try the line for me it's double no that's alright oh is it oh right it's better that i keep listening to the tone oh oh right thanks o i ought to hold on then oh right well i'm sorry to be a nuisance to you but i do thank you for your help there thank you bye bye|inform
+a|mm what's happening when you're dialling it|reqInfo
+b|well|init
+b|it keeps ringing|answ
+b|i mean i'll i'm just wondering if it's it|expressOpinion
+b|i mean i know it's a busy place anyway|raiseIssue
+b|but i've tried twice|inform
+b|and i've been ringing for a long time|inform
+b|and er i thought somebody might have picked up the phone|expressOpinion
+b|but is it possible that you can try the line for me|direct
+a|certainly|accept
+a|what's the code and number you've been calling please|reqInfo
+b|it's double no that's alright oh is it oh right it's better that i keep listening to the tone oh oh right thanks o i ought to hold on then oh right well i'm sorry to be a nuisance to you but i do thank you for your help there thank you bye bye|answ
+a|i'm sorry about that trouble|expressRegret
+a|i'll just look it up|informIntent-hold
+b|no|refuse
+b|that's alright|accept
+a|for you right that is a working line it is the right number it's just their queuing system yeah er you see the queuing systems announce themselves you end up in charge call while you're waiting so it is better that you just queue and don't actually hear anything yeah yeah because er if you if you have that message that comes on they start playing you music you're paying to listen to it so it's better that it just rings and while you're in a queue really yep i know it will get picked up eventually that's ok that's fine alright thank you bye|informIntent-hold
+a|right|init
+a|that is a working line|inform
+a|it is the right number|inform
+a|it's just their queuing system|inform
+b|oh is it|confirm
+a|yeah|ackn
+a|er you see the queuing systems announce themselves|inform
+a|you end up in charge call while you're waiting|inform
+a|so|init
+a|it is better that you just queue and don't actually hear anything|inform
+b|oh right|backch
+b|it's better that i keep listening to the tone|suggest
+a|yeah yeah|ackn
+a|because er if you if you have that message that comes on|inform
+a|they start playing you music|inform
+a|you're paying to listen to it|inform
+a|so|init
+a|it's better that it just rings and while you're in a queue really yep i know it will get picked up eventually that's ok that's fine alright thank you bye|suggest
+b|oh|backch
+b|oh right|ackn
+b|thanks|thank
+b|o i ought to hold on then|confirm
+a|yep|ackn
+a|i know it will get picked up eventually|expressOpinion
+b|oh right|ackn
+b|well|init
+b|i'm sorry to be a nuisance to you|expressRegret
+a|that's ok that's fine|accept
+b|but i do thank you for your help there|thank
+a|alright|ackn
+a|thank you|thank
+b|thank you|thank
+b|bye bye|bye
+a|bye|bye

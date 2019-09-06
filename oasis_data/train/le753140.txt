@@ -1,0 +1,16 @@
+b|hello love|greet
+b|can i have er an alarm call please in t' morning|direct
+a|righto|ackn
+a|what time do you want to book it for|reqInfo
+b|er four forty five|answ
+a|four forty five|echo
+a|right|ackn
+a|hold on a second please right we'll call you at four forty five in the morning okay thank you bye bye|hold
+a|right|init
+a|we'll call you at four forty five in the morning|informIntent
+b|right|accept
+b|thank you|thank
+a|okay|ackn
+a|thank you|thank
+a|bye bye|bye
+b|bye|bye

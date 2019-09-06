@@ -1,0 +1,22 @@
+b|yeah|ackn
+b|um i was having a a phone fitted or a line uh|inform
+b|it's a new property um|inform
+b|it was supposed to be done last Wesdnesday|inform
+b|i phoned up on Wednesday and then it was supposed to be done Friday|inform
+b|but it's still not on|inform
+a|oh right|ackn
+a|and have you got any order number reference number you can give me at all|reqInfo
+b|uh i'm just looking|informIntent
+b|the order number is no yep no it's not it's i'm sorry my eyes aren't that good my name is and the address is|answ
+a|is that for s for sugar|reqInfo
+b|no|answ
+a|so sorry about that|expressRegret
+b|yep|ackn
+b|no|negate
+b|it's not|negate
+b|it's i'm sorry my eyes aren't that good my name is and the address is|correctSelf
+b|i'm sorry|expressRegret
+b|my eyes aren't that good|inform
+a|and what's the um name and address please|reqInfo
+b|my name is and the address is|answ
+b|and the address is|answElab

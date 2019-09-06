@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le700630.unit.b">
+<word id="le700630.b.unit.2">hello</word>
+<word id="le700630.b.unit.3">can</word>
+<word id="le700630.b.unit.4">you</word>
+<word id="le700630.b.unit.5">give</word>
+<word id="le700630.b.unit.6">me</word>
+<word id="le700630.b.unit.7">some</word>
+<word id="le700630.b.unit.8">mobile</word>
+<sil BTlength="" id="le700630.b.unit.9"/>
+<word id="le700630.b.unit.10">telephone</word>
+<word id="le700630.b.unit.11">numbers</word>
+<word id="le700630.b.unit.12">please</word>
+<word id="le700630.b.unit.13">it's</word>
+<stdzcode id="le700630.b.unit.14" description="name"/>
+<word id="le700630.b.unit.15">speaking</word>
+<word id="le700630.b.unit.16">from</word>
+<pncode type="business" id="le700630.b.unit.17"/>
+<pncode type="business" id="le700630.b.unit.18"/>
+<word id="le700630.b.unit.27">oh</word>
+<word id="le700630.b.unit.28">sorry</word>
+<word id="le700630.b.unit.29">okay</word>
+<word id="le700630.b.unit.30">bye</word>
+</nite:root>

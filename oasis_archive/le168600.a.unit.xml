@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le168600.unit.a">
+<stdzcode id="le168600.a.unit.1" description="name"/>
+<word id="le168600.a.unit.28">i'm</word>
+<word id="le168600.a.unit.29">sorry</word>
+<word id="le168600.a.unit.30">sir</word>
+<word id="le168600.a.unit.31">what</word>
+<word id="le168600.a.unit.32">code</word>
+<word id="le168600.a.unit.33">and</word>
+<word id="le168600.a.unit.34">number</word>
+<word id="le168600.a.unit.35">were</word>
+<word id="le168600.a.unit.36">you</word>
+<word id="le168600.a.unit.37">trying</word>
+<word id="le168600.a.unit.38">to</word>
+<word id="le168600.a.unit.39">dial</word>
+<word id="le168600.a.unit.40">please</word>
+<num id="le168600.a.unit.45"/>
+<num id="le168600.a.unit.46"/>
+<num id="le168600.a.unit.47"/>
+<num id="le168600.a.unit.48"/>
+<num id="le168600.a.unit.52"/>
+<num id="le168600.a.unit.53"/>
+<num id="le168600.a.unit.54"/>
+<num id="le168600.a.unit.59"/>
+<num id="le168600.a.unit.60"/>
+<num id="le168600.a.unit.61"/>
+<num id="le168600.a.unit.62"/>
+<word id="le168600.a.unit.63">thank</word>
+<word id="le168600.a.unit.64">you</word>
+<sil BTlength="14s" id="le168600.a.unit.65"/>
+<word id="le168600.a.unit.66">that</word>
+<word id="le168600.a.unit.67">number</word>
+<word id="le168600.a.unit.68">sir</word>
+<word id="le168600.a.unit.69">is</word>
+<word id="le168600.a.unit.70">extremely</word>
+<word id="le168600.a.unit.71">busy</word>
+<word id="le168600.a.unit.72">switchboard</word>
+<word id="le168600.a.unit.73">number</word>
+<word id="le168600.a.unit.95">there</word>
+<word id="le168600.a.unit.96">are</word>
+<word id="le168600.a.unit.97">several</word>
+<word id="le168600.a.unit.98">lines</word>
+<word id="le168600.a.unit.99">sir</word>
+<word id="le168600.a.unit.110">have</word>
+<word id="le168600.a.unit.111">you</word>
+<word id="le168600.a.unit.112">had</word>
+<word id="le168600.a.unit.113">it</word>
+<word id="le168600.a.unit.114">ringing</word>
+<word id="le168600.a.unit.115">yet</word>
+<bcanchor id="le168600.bcanchora.1"><nite:pointer href="le168600.b.lturn.xml#id(le168600.lturn.13.1)" role="bc"/></bcanchor>
+<word id="le168600.a.unit.117">have</word>
+<word id="le168600.a.unit.118">you</word>
+<word id="le168600.a.unit.119">had</word>
+<word id="le168600.a.unit.120">it</word>
+<word id="le168600.a.unit.121">ringing</word>
+<word id="le168600.a.unit.122">at</word>
+<word id="le168600.a.unit.123">any</word>
+<word id="le168600.a.unit.124">time</word>
+<word id="le168600.a.unit.127">it</word>
+<word id="le168600.a.unit.128">is</word>
+<word id="le168600.a.unit.129">now</word>
+<word id="le168600.a.unit.133">thank</word>
+<word id="le168600.a.unit.134">you</word>
+<comment text="end_-_ok" id="le168600.a.unit.135"/>
+</nite:root>

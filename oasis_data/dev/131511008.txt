@@ -1,0 +1,8 @@
+b|oh hi|greet
+b|um i i just been speaking to um someone there|inform
+b|i've got an order number|inform
+a|yeah|ackn
+a|what's that|reqInfo
+a|so|init
+a|it's|confirm
+b|yeah|ackn

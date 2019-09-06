@@ -1,0 +1,46 @@
+b|hello|greet
+b|i wonder if you can help me|direct
+b|we're going to Spain|inform
+b|and we're taking our chargecard|inform
+b|and it mentioned that there are different direct numbers to access the chargecard system|inform
+a|certainly|ackn
+a|what i'll do is i'll just go and get the file for you|informIntent
+a|i won't be a second hello caller it was Spain you were going to wasn't it right there's two numbers there's the um direct to come through to a direct operator that's in fact that's the only number there's no auto direct number from Spain um direct operator yeah if you want to make a note of the local international operator's number just in case you're having trouble it's you'll get through to a Spanish international operator and as long if you speak English they should have someone English speaking there for you ok thank you bye|hold
+a|hello caller|greet
+a|it was Spain you were going to wasn't it|confirm
+b|okey doke|backch
+b|right|backch
+b|yes|ackn
+b|that's right yeah yeah yeah right ok so that connects me to a operator so in Spain if i dial i'll get the Spanish yeah ok thank you very much ok byebye|ackn
+a|right there's two numbers there's the um direct to come through to a direct operator that's in fact that's the only number there's no auto direct number from Spain um direct operator yeah if you want to make a note of the local international operator's number just in case you're having trouble it's you'll get through to a Spanish international operator and as long if you speak English they should have someone English speaking there for you ok thank you bye|init
+a|there's two numbers|inform
+a|there's the um direct to come through to a direct operator|inform
+a|that's|inform
+a|in fact that's the only number|inform
+a|there's no auto direct number from Spain|inform
+b|yeah|backch
+b|yeah|backch
+b|yeah|backch
+b|right|backch
+b|ok|ackn
+b|so|init
+b|that connects me to a operator|confirm
+a|um direct operator|complete
+a|yeah|ackn
+a|if you want to make a note of the local international operator's number just in case you're having trouble|suggest
+a|it's you'll get through to a Spanish international operator and as long if you speak English they should have someone English speaking there for you ok thank you bye|inform
+b|so|init
+b|in Spain|refer
+b|if i dial i'll get the Spanish yeah ok thank you very much ok byebye|inform
+b|i'll get the Spanish|confirm
+a|you'll get through to a Spanish international operator|inform
+a|and as long if you speak English|inform
+a|they should have someone English speaking there for you|inform
+b|yeah|backch
+b|ok|ackn
+a|ok|init
+b|thank you very much|thank
+a|thank you|thank
+b|ok|ackn
+b|byebye|bye
+a|bye|bye

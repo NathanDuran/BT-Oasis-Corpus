@@ -1,6 +1,0 @@
-b|ah hello there|greet
-b|it's an engineer working in the area|identifySelf
-a|right|ackn
-b|um i got a prepare provision task for a for a line fault on a new line|inform
-a|right|ackn
-b|this house had lines in it|inform

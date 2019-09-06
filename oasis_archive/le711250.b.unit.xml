@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le711250.unit.b">
+<word id="le711250.b.unit.2">hi</word>
+<word id="le711250.b.unit.3">er</word>
+<word id="le711250.b.unit.4">could</word>
+<word id="le711250.b.unit.5">i</word>
+<word id="le711250.b.unit.6">have</word>
+<word id="le711250.b.unit.7">an</word>
+<word id="le711250.b.unit.8">early</word>
+<word id="le711250.b.unit.9">morning</word>
+<word id="le711250.b.unit.10">call</word>
+<word id="le711250.b.unit.11">for</word>
+<word id="le711250.b.unit.12">about</word>
+<word id="le711250.b.unit.13">half</word>
+<word id="le711250.b.unit.14">past</word>
+<word id="le711250.b.unit.15">five</word>
+<word id="le711250.b.unit.16">please</word>
+<word id="le711250.b.unit.35">thank</word>
+<word id="le711250.b.unit.36">you</word>
+<word id="le711250.b.unit.46">thank</word>
+<word id="le711250.b.unit.47">you</word>
+<word id="le711250.b.unit.52">night</word>
+<word id="le711250.b.unit.54">byebye</word>
+<comment text="hang_up" id="le711250.b.unit.55"/>
+<comment text="end-ok" id="le711250.b.unit.56"/>
+</nite:root>

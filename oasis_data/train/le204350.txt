@@ -1,0 +1,32 @@
+b|yeah|ackn
+b|there's a number i'm trying to get|informIntent
+b|it's a hospital actually it's double double and all day it keeps saying it's out of order um thanks i thought that was it yeah i thought that was the number of the hospital actually that's a you say it's a switchboard number oh is it oh oh right you better put me on to|inform
+b|it's double double and all day it keeps saying it's out of order um thanks i thought that was it yeah i thought that was the number of the hospital actually that's a you say it's a switchboard number oh is it oh oh right you better put me on to|inform
+b|and all day it keeps saying it's out of order um|inform
+a|yes|backch
+a|right|ackn
+a|let me just check that for you|informIntent
+b|thanks i thought that was it yeah i thought that was the number of the hospital actually that's a you say it's a switchboard number oh is it oh oh right you better put me on to|thank
+a|no|negate
+a|it's actually coming up as line fault|inform
+a|but the problem is the number you've got is an extension off of a main switchboard|inform
+a|so|init
+a|we can't get it tested|inform
+a|do you happen to know what the main number is|reqInfo
+b|i thought that was it|answ
+a|no|negate
+a|that's just an extension off of the main switchboard i mean do you want me to put you through to directory enquiries to see if they've got an alternate number no what i'm saying it's an extension off of the main switchboard yeah and we can't test extension lines i'm afraid okay i'll just put you through|inform
+a|i mean do you want me to put you through to directory enquiries to see if they've got an alternate number|offer
+b|yeah|accept
+b|i thought that was the number of the hospital|expressOpinion
+b|actually that's a you say it's a switchboard number|confirm
+a|no|negate
+a|what i'm saying it's an extension off of the main switchboard|inform
+b|oh is it|reqInfo
+b|oh oh right you better put me on to|ackn
+a|yeah|backch
+a|and we can't test extension lines i'm afraid|inform
+b|oh right|ackn
+b|you better put me on to|direct
+a|okay|accept
+a|i'll just put you through|informIntent

@@ -1,0 +1,21 @@
+b|hello|greet
+b|could i book an early morning call please|direct
+a|yes certainly|accept
+a|is it to the telephone you're ringing from|reqInfo
+b|yes|answ
+b|it is|answElab
+a|thank you|thank
+a|and what time would you like the call|reqDirect
+b|er ten past seven please|direct
+a|ten past seven|echo
+a|thank you|thank
+a|if you just hold the line|hold
+a|i'll book that for you thank you that's booked for you we'll call you at ten past seven in the morning thank you then bye bye|informIntent
+a|thank you|thank
+a|that's booked for you|inform
+a|we'll call you at ten past seven in the morning|informIntent
+b|okay|ackn
+b|thank you|thank
+a|thank you then|thank
+a|bye bye|bye
+b|bye|bye

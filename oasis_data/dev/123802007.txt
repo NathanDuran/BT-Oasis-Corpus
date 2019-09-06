@@ -1,0 +1,13 @@
+b|oh hi|greet
+b|can i speak to somebody with regard to um an outstanding bill|direct
+b|we've been sent a reminder yet we didn't get the original bill to start with|inform
+a|oh right|ackn
+a|what's your telephone number please|reqInfo
+b|it's uh uh yes it's my mum's a uh name and address it's miss it's place}|answ
+a|thank you could you just confirm your full name address and postcode please ah ha|thank
+a|could you just confirm your full name address and postcode please|reqInfo
+b|uh yes|answ
+b|it's my mum's a uh name and address|answElab
+b|it's miss it's place}|answElab
+a|ah ha|ackn
+b|it's place}|answElab

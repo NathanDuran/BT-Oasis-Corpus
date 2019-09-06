@@ -1,0 +1,34 @@
+b|oh hello|greet
+b|good evening there wonder if you can help me um my answerphone's playing up so i've got a part message but i can't catch it all and i've got a telephone number would you be able to tell me if it's a number in a hospital 'cause i'm waiting for someone to ring me about collecting them if i give you a number only my answerphone come come on in the middle of it saying please hold the line   no is it a private residence yep ok then well it's not them then thanks a lot bye|greet
+b|wonder if you can help me um my answerphone's playing up so i've got a part message but i can't catch it all and i've got a telephone number would you be able to tell me if it's a number in a hospital 'cause i'm waiting for someone to ring me about collecting them if i give you a number only my answerphone come come on in the middle of it saying please hold the line   no is it a private residence yep ok then well it's not them then thanks a lot bye|direct
+b|um my answerphone's playing up|inform
+b|so|init
+b|i've got a part message|inform
+b|but i can't catch it all and i've got a telephone number would you be able to tell me if it's a number in a hospital 'cause i'm waiting for someone to ring me about collecting them if i give you a number only my answerphone come come on in the middle of it saying please hold the line   no is it a private residence yep ok then well it's not them then thanks a lot bye|inform
+b|and i've got a telephone number would you be able to tell me if it's a number in a hospital 'cause i'm waiting for someone to ring me about collecting them if i give you a number only my answerphone come come on in the middle of it saying please hold the line   no is it a private residence yep ok then well it's not them then thanks a lot bye|inform
+b|would you be able to tell me if it's a number in a hospital|reqInfo
+b|'cause i'm waiting for someone to ring me about collecting them if i give you a number only my answerphone come come on in the middle of it saying please hold the line   no is it a private residence yep ok then well it's not them then thanks a lot bye|inform
+b|if i give you a number|inform
+a|right|backch
+a|okay|backch
+a|yes|answ
+a|tell me what the number is|direct
+a|and i'll see if i can check on that for you|informIntent
+a|yes|ackn
+b|only my answerphone come come on in the middle of it saying please hold the line|inform
+a|oh right|ackn
+a|ok no it's not that's right ok alright you're welcome byebye|ackn
+a|no|inform
+a|it's not|inform
+b|no|echo
+b|is it a private residence|reqInfo
+a|that's right|answ
+b|yep ok then|ackn
+b|well|init
+b|it's not them then|confirm
+b|thanks a lot|thank
+b|bye|bye
+a|ok|backch
+a|alright|ackn
+a|you're welcome|ackn
+a|byebye|bye

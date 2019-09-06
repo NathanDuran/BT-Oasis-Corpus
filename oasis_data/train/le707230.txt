@@ -1,0 +1,92 @@
+b|hello|greet
+b|i wonder if you could help me at all um|direct
+b|what's happened is put a new phone system in i've come in on a Sunday and where it normally diverts from the line it isn't is there a way i can basically have calls forwarded for sort of today through tomorrow morning to a mobile number um i've been told if i speak to you oh excuse me my my mobile's now ringing as well just bear with me hello sorry about that i've in to do my marking?} you you know the unpaid Sunday as accountants do then the phones are ringing all over the place right what it is is there's a change over in our phone system and i'm want wanting to basically forward our number till say half past eight tomorrow morning to an number yes i honestly don't know it's a brand new phone system this is the trouble um i'm not a particularly technical person they stuck it in yesterday and it now transpires that uh basically we uh uh i don't know really to be honest i'm looking at this thing i've got an instruction book but it all looks like Greek to me uh it's a bit like War and Peace right right just having a quick look call ah so that's a bit late in't it really um just have a look at um i can't see anything that makes me think ah that's the one you know what i mean uh just bear with me a so there's no way the operator service can actually do a call forward for me they not mm there's there's no one else i can do you not have twenty four hour service gosh i'm surprised yeah i worked for a operator for a while and we they went twenty four hour fairly rapidly um yeah um let's have let's just have a quick look at this thing i look at these down i tend to use other things it's like videos with many features i just use the things that that i need and everything else sort of uh let's have a quick look transfer there's probably a way of doing it God knows what it is ok could you put me through to them do you think they'd be able to help me yeah i mean all i've got the number i need to forward it to um um thank you thank you very much|inform
+b|i've come in on a Sunday|inform
+b|and where it normally diverts from the line it isn't is there a way i can basically have calls forwarded for sort of today through tomorrow morning to a mobile number um i've been told if i speak to you oh excuse me my my mobile's now ringing as well just bear with me hello sorry about that i've in to do my marking?} you you know the unpaid Sunday as accountants do then the phones are ringing all over the place right what it is is there's a change over in our phone system and i'm want wanting to basically forward our number till say half past eight tomorrow morning to an number yes i honestly don't know it's a brand new phone system this is the trouble um i'm not a particularly technical person they stuck it in yesterday and it now transpires that uh basically we uh uh i don't know really to be honest i'm looking at this thing i've got an instruction book but it all looks like Greek to me uh it's a bit like War and Peace right right just having a quick look call ah so that's a bit late in't it really um just have a look at um i can't see anything that makes me think ah that's the one you know what i mean uh just bear with me a so there's no way the operator service can actually do a call forward for me they not mm there's there's no one else i can do you not have twenty four hour service gosh i'm surprised yeah i worked for a operator for a while and we they went twenty four hour fairly rapidly um yeah um let's have let's just have a quick look at this thing i look at these down i tend to use other things it's like videos with many features i just use the things that that i need and everything else sort of uh let's have a quick look transfer there's probably a way of doing it God knows what it is ok could you put me through to them do you think they'd be able to help me yeah i mean all i've got the number i need to forward it to um um thank you thank you very much|inform
+b|is there a way i can basically have calls forwarded for sort of today through tomorrow morning to a mobile number um i've been told if i speak to you oh excuse me my my mobile's now ringing as well just bear with me hello sorry about that i've in to do my marking?} you you know the unpaid Sunday as accountants do then the phones are ringing all over the place right what it is is there's a change over in our phone system and i'm want wanting to basically forward our number till say half past eight tomorrow morning to an number yes i honestly don't know it's a brand new phone system this is the trouble um i'm not a particularly technical person they stuck it in yesterday and it now transpires that uh basically we uh uh i don't know really to be honest i'm looking at this thing i've got an instruction book but it all looks like Greek to me uh it's a bit like War and Peace right right just having a quick look call ah so that's a bit late in't it really um just have a look at um i can't see anything that makes me think ah that's the one you know what i mean uh just bear with me a so there's no way the operator service can actually do a call forward for me they not mm there's there's no one else i can do you not have twenty four hour service gosh i'm surprised yeah i worked for a operator for a while and we they went twenty four hour fairly rapidly um yeah um let's have let's just have a quick look at this thing i look at these down i tend to use other things it's like videos with many features i just use the things that that i need and everything else sort of uh let's have a quick look transfer there's probably a way of doing it God knows what it is ok could you put me through to them do you think they'd be able to help me yeah i mean all i've got the number i need to forward it to um um thank you thank you very much|reqInfo
+b|um i've been told if i speak to you|inform
+b|oh excuse me|hold
+b|my my mobile's now ringing as well|inform
+b|just bear with me hello sorry about that i've in to do my marking?} you you know the unpaid Sunday as accountants do then the phones are ringing all over the place right what it is is there's a change over in our phone system and i'm want wanting to basically forward our number till say half past eight tomorrow morning to an number yes i honestly don't know it's a brand new phone system this is the trouble um i'm not a particularly technical person they stuck it in yesterday and it now transpires that uh basically we uh uh i don't know really to be honest i'm looking at this thing i've got an instruction book but it all looks like Greek to me uh it's a bit like War and Peace right right just having a quick look call ah so that's a bit late in't it really um just have a look at um i can't see anything that makes me think ah that's the one you know what i mean uh just bear with me a so there's no way the operator service can actually do a call forward for me they not mm there's there's no one else i can do you not have twenty four hour service gosh i'm surprised yeah i worked for a operator for a while and we they went twenty four hour fairly rapidly um yeah um let's have let's just have a quick look at this thing i look at these down i tend to use other things it's like videos with many features i just use the things that that i need and everything else sort of uh let's have a quick look transfer there's probably a way of doing it God knows what it is ok could you put me through to them do you think they'd be able to help me yeah i mean all i've got the number i need to forward it to um um thank you thank you very much|hold
+b|hello|greet
+a|yeah|backch
+a|right okay|backch
+a|hello|greet
+b|sorry about that|expressRegret
+a|that's all right|accept
+b|i've in to do my marking?}|inform
+b|then the phones are ringing all over the place right|inform
+b|what it is is there's a change over in our phone system|inform
+b|and i'm want wanting to basically forward our number till say half past eight tomorrow morning to an number|expressWish
+a|yeah|backch
+a|so so|init
+a|you want it diverting|confirm
+b|yes|ackn
+a|have you got have you got that facility on your phone already|reqInfo
+b|it's a brand new phone system this is the trouble um i'm not a particularly technical person they stuck it in yesterday and it now transpires that uh basically we uh uh i don't know really to be honest i'm looking at this thing i've got an instruction book but it all looks like Greek to me uh it's a bit like War and Peace right right just having a quick look call ah so that's a bit late in't it really um just have a look at um i can't see anything that makes me think ah that's the one you know what i mean uh just bear with me a so there's no way the operator service can actually do a call forward for me they not mm there's there's no one else i can do you not have twenty four hour service gosh i'm surprised yeah i worked for a operator for a while and we they went twenty four hour fairly rapidly um yeah um let's have let's just have a quick look at this thing i look at these down i tend to use other things it's like videos with many features i just use the things that that i need and everything else sort of uh let's have a quick look transfer there's probably a way of doing it God knows what it is ok could you put me through to them do you think they'd be able to help me yeah i mean all i've got the number i need to forward it to um um thank you thank you very much|inform
+b|this is the trouble um|raiseIssue
+b|i'm not a particularly technical person|inform
+b|they stuck it in yesterday|inform
+b|and it now transpires that uh basically we uh|inform
+b|uh i don't know really to be honest|inform
+b|i'm looking at this thing|inform
+b|i've got an instruction book|inform
+b|but it all looks like Greek to me|expressOpinion
+a|yeah|ackn
+a|i mean have you got a manual with it|reqInfo
+b|uh|backch
+a|but i mean the thing is the thing is you see most people|inform
+a|if if you want it|inform
+a|you have to sort of um speak to customer services|inform
+a|and it it's an option|inform
+a|it's sort of optional|inform
+b|right|backch
+b|right just having a quick look call ah so that's a bit late in't it really um just have a look at um i can't see anything that makes me think ah that's the one you know what i mean uh just bear with me a so there's no way the operator service can actually do a call forward for me they not mm there's there's no one else i can do you not have twenty four hour service gosh i'm surprised yeah i worked for a operator for a while and we they went twenty four hour fairly rapidly um yeah um let's have let's just have a quick look at this thing i look at these down i tend to use other things it's like videos with many features i just use the things that that i need and everything else sort of uh let's have a quick look transfer there's probably a way of doing it God knows what it is ok could you put me through to them do you think they'd be able to help me yeah i mean all i've got the number i need to forward it to um um thank you thank you very much|ackn
+b|just having a quick look|inform
+a|cos the problem is you see the our customer service aren't open till eight a m tomorrow morning|inform
+b|ah|ackn
+b|so|init
+b|that's a bit late in't it really|expressOpinion
+b|um just have a look at um i can't see anything that makes me think ah that's the one you know what i mean uh just bear with me a so there's no way the operator service can actually do a call forward for me they not mm there's there's no one else i can do you not have twenty four hour service gosh i'm surprised yeah i worked for a operator for a while and we they went twenty four hour fairly rapidly um yeah um let's have let's just have a quick look at this thing i look at these down i tend to use other things it's like videos with many features i just use the things that that i need and everything else sort of uh let's have a quick look transfer there's probably a way of doing it God knows what it is ok could you put me through to them do you think they'd be able to help me yeah i mean all i've got the number i need to forward it to um um thank you thank you very much|informIntent
+b|i can't see anything that makes me think|inform
+b|uh just bear with me a so there's no way the operator service can actually do a call forward for me they not mm there's there's no one else i can do you not have twenty four hour service gosh i'm surprised yeah i worked for a operator for a while and we they went twenty four hour fairly rapidly um yeah um let's have let's just have a quick look at this thing i look at these down i tend to use other things it's like videos with many features i just use the things that that i need and everything else sort of uh let's have a quick look transfer there's probably a way of doing it God knows what it is ok could you put me through to them do you think they'd be able to help me yeah i mean all i've got the number i need to forward it to um um thank you thank you very much|hold
+b|so|init
+b|there's no way the operator service can actually do a call forward for me they not|reqInfo
+a|yeah|backch
+a|no|answ
+a|they can't they can't do that|answElab
+a|you you need to uh you need to speak to the the customer service really|suggest
+b|mm|backch
+b|there's there's no one else i can|reqInfo
+b|do you not have twenty four hour service|reqInfo
+a|no|answ
+b|gosh|exclaim
+b|i'm surprised|expressOpinion
+b|yeah|ackn
+b|and we they went twenty four hour fairly rapidly um|inform
+a|yeah|ackn
+a|i think they're going on to twenty four hour|expressOpinion
+a|but i mean the only the only other i mean departments are open are is the fault departments|inform
+a|i don't know if they'll be able to help you|expressOpinion
+a|i mean it's worth a try|expressOpinion
+b|yeah|backch
+b|i tend to use other things|inform
+b|it's like videos with many features|inform
+b|i just use the things that that i need and everything else sort of uh|inform
+b|let's have a quick look transfer there's probably a way of doing it God knows what it is ok could you put me through to them do you think they'd be able to help me yeah i mean all i've got the number i need to forward it to um um thank you thank you very much|informIntent
+b|transfer there's probably a way of doing it God knows what it is ok could you put me through to them do you think they'd be able to help me yeah i mean all i've got the number i need to forward it to um um thank you thank you very much|refer
+b|there's probably a way of doing it|expressPossibility
+b|God knows what it is|exclaim
+b|ok|init
+b|could you put me through to them|direct
+b|do you think they'd be able to help me|reqInfo
+a|um possibly|answ
+a|i mean it is the fault reporting|raiseIssue
+a|but i mean there's no harm in asking|raiseIssue
+b|yeah|ackn
+a|well|init
+a|i'll put i'll put you through anyway|informIntent
+a|see if they can help you|expressPossibility
+b|thank you|thank
+a|and can advise with anything|expressPossibility
+b|thank you very much|thank

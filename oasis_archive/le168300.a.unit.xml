@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le168300.unit.a">
+<stdzcode id="le168300.a.unit.1" description="name"/>
+<word id="le168300.a.unit.16">what</word>
+<word id="le168300.a.unit.17">difficulty</word>
+<word id="le168300.a.unit.18">were</word>
+<word id="le168300.a.unit.19">you</word>
+<word id="le168300.a.unit.20">having</word>
+<word id="le168300.a.unit.21">please</word>
+<word id="le168300.a.unit.33">i'm</word>
+<word id="le168300.a.unit.34">sorry</word>
+<word id="le168300.a.unit.35">what</word>
+<word id="le168300.a.unit.36">code</word>
+<word id="le168300.a.unit.37">and</word>
+<word id="le168300.a.unit.38">number</word>
+<word id="le168300.a.unit.39">were</word>
+<word id="le168300.a.unit.40">you</word>
+<word id="le168300.a.unit.41">dialling</word>
+<word id="le168300.a.unit.42">please</word>
+<num id="le168300.a.unit.49"/>
+<num id="le168300.a.unit.50"/>
+<num id="le168300.a.unit.51"/>
+<num id="le168300.a.unit.52"/>
+<num id="le168300.a.unit.53"/>
+<num id="le168300.a.unit.57"/>
+<word id="le168300.a.unit.58">double</word>
+<num id="le168300.a.unit.59"/>
+<word id="le168300.a.unit.63">double</word>
+<num id="le168300.a.unit.64"/>
+<num id="le168300.a.unit.65"/>
+<word id="le168300.a.unit.66">thank</word>
+<word id="le168300.a.unit.67">you</word>
+<sil BTlength="7s" id="le168300.a.unit.68"/>
+<word id="le168300.a.unit.69">hold</word>
+<word id="le168300.a.unit.70">the</word>
+<word id="le168300.a.unit.71">line</word>
+<word id="le168300.a.unit.72">please</word>
+<bcanchor id="le168300.bcanchora.1"><nite:pointer href="le168300.b.lturn.xml#id(le168300.lturn.11.1)" role="bc"/></bcanchor>
+<word id="le168300.a.unit.75">it's</word>
+<word id="le168300.a.unit.76">ringing</word>
+<bcanchor id="le168300.bcanchora.2"><nite:pointer href="le168300.b.lturn.xml#id(le168300.lturn.11.2)" role="bc"/></bcanchor>
+<comment text="end_-_ok" id="le168300.a.unit.79"/>
+</nite:root>

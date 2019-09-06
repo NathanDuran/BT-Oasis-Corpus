@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le216000.unit.b">
+<word id="le216000.b.unit.2">uh</word>
+<word id="le216000.b.unit.3">good</word>
+<word id="le216000.b.unit.4">evening</word>
+<word id="le216000.b.unit.5">um</word>
+<word id="le216000.b.unit.8">earlier</word>
+<word id="le216000.b.unit.9">on</word>
+<word id="le216000.b.unit.10">love</word>
+<word id="le216000.b.unit.11">i</word>
+<word id="le216000.b.unit.12">had</word>
+<word id="le216000.b.unit.13">a</word>
+<word id="le216000.b.unit.14">phone</word>
+<word id="le216000.b.unit.15">call</word>
+<word id="le216000.b.unit.16">anyway</word>
+<word id="le216000.b.unit.17">i</word>
+<word id="le216000.b.unit.18">phoned</word>
+<word id="le216000.b.unit.19">that</word>
+<num id="le216000.b.unit.20"/>
+<num id="le216000.b.unit.21"/>
+<num id="le216000.b.unit.22"/>
+<num id="le216000.b.unit.23"/>
+<bcanchor id="le216000.bcanchorb.1"><nite:pointer href="le216000.a.lturn.xml#id(le216000.lturn.4.1)" role="bc"/></bcanchor>
+<word id="le216000.b.unit.25">and</word>
+<word id="le216000.b.unit.26">it</word>
+<partword id="le216000.b.unit.27">ga</partword>
+<word id="le216000.b.unit.28">it's</word>
+<word id="le216000.b.unit.29">give</word>
+<word id="le216000.b.unit.30">me</word>
+<word id="le216000.b.unit.31">the</word>
+<word id="le216000.b.unit.32">phone</word>
+<word id="le216000.b.unit.33">number</word>
+<bcanchor id="le216000.bcanchorb.2"><nite:pointer href="le216000.a.lturn.xml#id(le216000.lturn.4.2)" role="bc"/></bcanchor>
+<word id="le216000.b.unit.35">um</word>
+<sil BTlength="" id="le216000.b.unit.36"/>
+<word id="le216000.b.unit.37">as</word>
+<word id="le216000.b.unit.38">i'm</word>
+<word id="le216000.b.unit.39">phoning</word>
+<word id="le216000.b.unit.40">it</word>
+<word id="le216000.b.unit.41">it</word>
+<word id="le216000.b.unit.42">just</word>
+<word id="le216000.b.unit.43">says</word>
+<word id="le216000.b.unit.44">this</word>
+<word id="le216000.b.unit.45">number</word>
+<word id="le216000.b.unit.46">is</word>
+<word id="le216000.b.unit.47">not</word>
+<partword id="le216000.b.unit.48">ob</partword>
+<word id="le216000.b.unit.49">unobtainable</word>
+<bcanchor id="le216000.bcanchorb.3"><nite:pointer href="le216000.a.lturn.xml#id(le216000.lturn.4.3)" role="bc"/></bcanchor>
+<word id="le216000.b.unit.51">would</word>
+<word id="le216000.b.unit.52">it</word>
+<word id="le216000.b.unit.53">be</word>
+<word id="le216000.b.unit.54">possible</word>
+<word id="le216000.b.unit.55">please</word>
+<word id="le216000.b.unit.56">for</word>
+<word id="le216000.b.unit.57">you</word>
+<word id="le216000.b.unit.58">to</word>
+<word id="le216000.b.unit.59">try</word>
+<word id="le216000.b.unit.60">it</word>
+<word id="le216000.b.unit.61">for</word>
+<word id="le216000.b.unit.62">me</word>
+<word id="le216000.b.unit.67">it's</word>
+<num id="le216000.b.unit.68"/>
+<num id="le216000.b.unit.69"/>
+<num id="le216000.b.unit.70"/>
+<num id="le216000.b.unit.71"/>
+<num id="le216000.b.unit.72"/>
+<num id="le216000.b.unit.78"/>
+<num id="le216000.b.unit.79"/>
+<num id="le216000.b.unit.80"/>
+<sil BTlength="" id="le216000.b.unit.81"/>
+<num id="le216000.b.unit.82"/>
+<num id="le216000.b.unit.83"/>
+<num id="le216000.b.unit.84"/>
+<num id="le216000.b.unit.85"/>
+<num id="le216000.b.unit.86"/>
+<word id="le216000.b.unit.93">isn't</word>
+<word id="le216000.b.unit.94">that</word>
+<word id="le216000.b.unit.95">a</word>
+<word id="le216000.b.unit.96">correct</word>
+<bcanchor id="le216000.bcanchorb.4"><nite:pointer href="le216000.a.lturn.xml#id(le216000.lturn.10.1)" role="bc"/></bcanchor>
+<word id="le216000.b.unit.98">number</word>
+<word id="le216000.b.unit.99">no</word>
+<word id="le216000.b.unit.100">ok</word>
+<word id="le216000.b.unit.101">then</word>
+<word id="le216000.b.unit.102">love</word>
+<word id="le216000.b.unit.103">thank</word>
+<word id="le216000.b.unit.104">you</word>
+<word id="le216000.b.unit.105">ever</word>
+<word id="le216000.b.unit.106">so</word>
+<word id="le216000.b.unit.107">much</word>
+<word id="le216000.b.unit.110">byebye</word>
+</nite:root>

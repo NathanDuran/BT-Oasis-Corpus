@@ -1,0 +1,11 @@
+b|oh hello|greet
+b|i'm trying to ring a number|informIntent
+b|and it comes up saying that erm that the number won't except calls unless i put an identification number in so what do i do i don't know well the number i'm trying is but it won't allow me to dial it without putting an identification number in|inform
+b|so|init
+b|what do i do|reqInfo
+b|i don't know|inform
+a|what code and number were you dialling please|reqInfo
+b|well|init
+b|the number i'm trying is but it won't allow me to dial it without putting an identification number in|answ
+b|but it won't allow me to dial it without putting an identification number in|inform
+a|i'll just have a look for you|informIntent

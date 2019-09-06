@@ -1,7 +1,0 @@
-b|oh sorry|expressRegret
-b|i've got got the wrong number|inform
-a|oh dear okay thank you byebye|exclaim
-a|okay|ackn
-b|thanks|thank
-a|thank you|thank
-a|byebye|bye

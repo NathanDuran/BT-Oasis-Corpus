@@ -1,0 +1,25 @@
+b|er good evening|greet
+b|could um you possibly give me a number for a taxi around the area|reqInfo
+a|do you not know any numbers er sorry any er names of any taxi companies|reqInfo
+b|no um|answ
+b|i'm pretty clueless when it comes to this area|answElab
+a|right|backch
+a|in which case|backch
+a|well|init
+a|i'm not in your area|inform
+a|so|init
+a|i'm even worse|inform
+b|you're not in my area|confirm
+b|whereabouts are you based then|reqInfo
+a|no|backch
+a|well|init
+a|i'm in the midlands|answ
+b|the midlands|echo
+a|so|init
+a|what you'll have to do is call talking pages on that's right thank you bye|suggest
+b|thanks very much for your time|thank
+a|that's right|backch
+a|thank you|thank
+a|bye|bye
+b|okay|ackn
+b|good evening|bye

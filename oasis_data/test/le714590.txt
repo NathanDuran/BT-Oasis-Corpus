@@ -1,0 +1,25 @@
+b|look|init
+b|i'm sorry to bother you|expressRegret
+b|i've been trying to get er hold of a number|inform
+b|and when i do i'm told that the number's not recognised oh of course i've come from and i do to get a number i want the number of the pizza hut yes you tell me please|refer
+b|i'm told that the number's not recognised|inform
+a|well|init
+a|you don't do caller|inform
+a|you do why do you do i don't understand you mean directory enquiries yes directory enquiries is caller why are you having some difficulty in getting through let me put do you want me to put you through cheers|inform
+b|oh of course|ackn
+b|i've come from and i do to get a number i want the number of the pizza hut yes you tell me please|inform
+b|and i do to get a number i want the number of the pizza hut yes you tell me please|inform
+a|why do you do i don't understand you mean directory enquiries yes directory enquiries is caller why are you having some difficulty in getting through let me put do you want me to put you through cheers|reqInfo
+a|i don't understand|inform
+b|to get a number|answ
+b|i want the number of the pizza hut|inform
+a|you mean directory enquiries|correct
+b|yes|ackn
+a|yes|ackn
+a|directory enquiries is caller|inform
+a|why are you having some difficulty in getting through|reqInfo
+b|you tell me|reqInfo
+a|let me put|informIntent
+a|do you want me to put you through|reqDirect
+b|please|direct
+a|cheers|thank

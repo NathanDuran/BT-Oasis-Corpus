@@ -1,0 +1,13 @@
+b|um actually this is a missus phoning i got a phone bill in uh it's for pound um my phone had been outta order and i've got a list here on my own mobile phone numbers you had transferred the calls because i couldn't get any calls in onto a mobile phone i got and i've got the bill for i don't understand it at all|identifySelf
+b|i got a phone bill in uh it's for pound um my phone had been outta order and i've got a list here on my own mobile phone numbers you had transferred the calls because i couldn't get any calls in onto a mobile phone i got and i've got the bill for i don't understand it at all|inform
+b|uh it's for pound um my phone had been outta order and i've got a list here on my own mobile phone numbers you had transferred the calls because i couldn't get any calls in onto a mobile phone i got and i've got the bill for i don't understand it at all|inform
+a|yes|ackn
+b|um my phone had been outta order and i've got a list here on my own mobile phone numbers you had transferred the calls because i couldn't get any calls in onto a mobile phone i got and i've got the bill for i don't understand it at all|inform
+b|and i've got a list here on my own mobile phone numbers you had transferred the calls because i couldn't get any calls in onto a mobile phone i got and i've got the bill for i don't understand it at all|inform
+b|you had transferred the calls|informDisc
+b|because i couldn't get any calls in|inform
+a|right|ackn
+b|onto a mobile phone i got|informCont
+b|and i've got the bill for|inform
+b|i don't understand it at all|inform
+a|right|backch

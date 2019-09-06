@@ -1,0 +1,7 @@
+b|good afternoon|greet
+a|good afternoon|greet
+b|yes|ackn
+b|i've been into your showroom in mm okay um i've been looking at this Easycom One Thousand|inform
+a|mm hm|ackn
+b|mm okay|ackn
+b|um i've been looking at this Easycom One Thousand|inform

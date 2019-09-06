@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le751420.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le751420.lturn.1'>
+
+
+<utt id='le751420.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='le751420.frag.1'>
+<nite:child href='le751420.a.unit.xml#id(le751420.a.unit.1)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le751420.lturn.3'>
+
+
+<utt id='le751420.utt.7'>
+
+<segment type='decl' sp-act='expressRegret' id='le751420.decl.4'>
+<nite:child href='le751420.a.unit.xml#id(le751420.a.unit.47)..id(le751420.a.unit.51)'/>
+</segment>
+
+</utt>
+
+<utt id='le751420.utt.8'>
+
+<segment type='q_yn' sp-act='reqInfo' id='le751420.q_yn.1'>
+<nite:child href='le751420.a.unit.xml#id(le751420.a.unit.52)..id(le751420.a.unit.58)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le751420.lturn.5'>
+
+
+<utt id='le751420.utt.11'>
+
+<segment type='frag' sp-act='echo' id='le751420.frag.4'>
+<nite:child href='le751420.a.unit.xml#id(le751420.a.unit.66)..id(le751420.a.unit.70)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le751420.lturn.7'>
+
+
+<utt id='le751420.utt.13'>
+
+<segment type='dm' sp-act='ackn' id='le751420.dm.1'>
+<nite:child href='le751420.a.unit.xml#id(le751420.a.unit.77)'/>
+</segment>
+
+</utt>
+
+<utt id='le751420.utt.14'>
+
+<segment type='decl' sp-act='informIntent' id='le751420.decl.6'>
+<nite:child href='le751420.a.unit.xml#id(le751420.a.unit.78)..id(le751420.a.unit.85)'/>
+</segment>
+
+</utt>
+
+<utt id='le751420.utt.15'>
+
+<segment type='dm' sp-act='ackn' id='le751420.dm.2'>
+<nite:child href='le751420.a.unit.xml#id(le751420.a.unit.86)'/>
+</segment>
+
+<segment type='decl' sp-act='inform' id='le751420.decl.7'>
+<nite:child href='le751420.a.unit.xml#id(le751420.a.unit.87)..id(le751420.a.unit.92)'/>
+</segment>
+
+</utt>
+
+<utt id='le751420.utt.16'>
+
+<segment type='decl' sp-act='informIntent' id='le751420.decl.8'>
+<nite:child href='le751420.a.unit.xml#id(le751420.a.unit.93)..id(le751420.a.unit.108)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

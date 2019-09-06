@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le711400.unit.b">
+<word id="le711400.b.unit.2">hello</word>
+<word id="le711400.b.unit.3">could</word>
+<word id="le711400.b.unit.4">you</word>
+<word id="le711400.b.unit.5">help</word>
+<word id="le711400.b.unit.6">me</word>
+<word id="le711400.b.unit.7">please</word>
+<bcanchor id="le711400.bcanchorb.1"><nite:pointer href="le711400.a.lturn.xml#id(le711400.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le711400.b.unit.9">erm</word>
+<word id="le711400.b.unit.10">could</word>
+<word id="le711400.b.unit.11">you</word>
+<word id="le711400.b.unit.12">tell</word>
+<word id="le711400.b.unit.13">me</word>
+<word id="le711400.b.unit.14">what</word>
+<word id="le711400.b.unit.15">number</word>
+<word id="le711400.b.unit.16">i</word>
+<word id="le711400.b.unit.17">ring</word>
+<word id="le711400.b.unit.18">to</word>
+<word id="le711400.b.unit.19">get</word>
+<word id="le711400.b.unit.20">an</word>
+<word id="le711400.b.unit.21">early</word>
+<word id="le711400.b.unit.22">morning</word>
+<word id="le711400.b.unit.23">call</word>
+<word id="le711400.b.unit.42">star</word>
+<word id="le711400.b.unit.43">double</word>
+<num id="le711400.b.unit.44"/>
+<word id="le711400.b.unit.45">star</word>
+<word id="le711400.b.unit.100">right</word>
+<word id="le711400.b.unit.101">ok</word>
+<word id="le711400.b.unit.102">dear</word>
+<word id="le711400.b.unit.105">yes</word>
+<word id="le711400.b.unit.106">thank</word>
+<word id="le711400.b.unit.107">you</word>
+<word id="le711400.b.unit.110">bye</word>
+</nite:root>

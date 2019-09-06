@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le711450.unit.b">
+<word id="le711450.b.unit.2">hello</word>
+<word id="le711450.b.unit.3">could</word>
+<word id="le711450.b.unit.4">i</word>
+<word id="le711450.b.unit.5">erm</word>
+<word id="le711450.b.unit.6">possibly</word>
+<word id="le711450.b.unit.7">book</word>
+<word id="le711450.b.unit.8">an</word>
+<word id="le711450.b.unit.9">alarm</word>
+<word id="le711450.b.unit.10">call</word>
+<word id="le711450.b.unit.11">for</word>
+<word id="le711450.b.unit.12">the</word>
+<word id="le711450.b.unit.13">morning</word>
+<bcanchor id="le711450.bcanchorb.1"><nite:pointer href="le711450.a.lturn.xml#id(le711450.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le711450.b.unit.15">or</word>
+<bcanchor id="le711450.bcanchorb.2"><nite:pointer href="le711450.a.lturn.xml#id(le711450.lturn.2.2)" role="bc"/></bcanchor>
+<word id="le711450.b.unit.18">this</word>
+<word id="le711450.b.unit.19">morning</word>
+<comment text="laughter" id="le711450.b.unit.20"/>
+<word id="le711450.b.unit.29">six</word>
+<word id="le711450.b.unit.30">forty</word>
+<word id="le711450.b.unit.31">five</word>
+<word id="le711450.b.unit.61">thank</word>
+<word id="le711450.b.unit.62">you</word>
+<word id="le711450.b.unit.63">very</word>
+<word id="le711450.b.unit.64">much</word>
+<word id="le711450.b.unit.67">byebye</word>
+</nite:root>

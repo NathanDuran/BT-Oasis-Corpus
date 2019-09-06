@@ -1,0 +1,36 @@
+b|yes|ackn
+b|i wondered if you could tell me how you can er dial on your touch tone telephone the alarm call in the morning|reqInfo
+a|yes certainly|answ
+a|bear with me|hold
+a|and i'll er bring it up on the screen for you and let you know right to set it up um you have to be familiar with the star button and the hash button on your telephone yeah you got those right um to set it up you dial star star then the time you want the the alarm to go in the twenty four hour clock so if it's um i don't know half past eight it's yep and then it's hash and that's that it's done and then as you can check it and cancel it as well do you want to know how to do that as well alright ok then byebye|informIntent
+a|right|init
+a|to set it up um you have to be familiar with the star button and the hash button on your telephone yeah|inform
+b|thank you|backch
+b|yeah|ackn
+b|that's fine yeah|accept
+a|got those right|reqInfo
+a|um to set it up you dial star star|inform
+b|yeah|ackn
+a|then the time you want the the alarm to go in the twenty four hour clock|inform
+a|so|init
+a|if it's um i don't know half past eight|inform
+a|it's yep and then it's hash and that's that it's done and then as you can check it and cancel it as well do you want to know how to do that as well alright ok then byebye|inform
+b|right right|backch
+b|right yeah|ackn
+a|yep|ackn
+b|yep|ackn
+a|and then it's hash|inform
+b|right|ackn
+a|and that's that|inform
+a|it's done|inform
+b|ok|ackn
+a|and then as you can check it and cancel it as well|inform
+a|do you want to know how to do that as well|reqDirect
+b|no no|direct
+b|that'll be alright|directElab
+a|alright|ackn
+b|ok then|init
+a|ok then|init
+b|thank you|thank
+b|byebye|bye
+a|byebye|backch

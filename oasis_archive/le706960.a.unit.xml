@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le706960.unit.a">
+<stdzcode id="le706960.a.unit.1" description="name"/>
+<word id="le706960.a.unit.38">yes</word>
+<word id="le706960.a.unit.39">certainly</word>
+<word id="le706960.a.unit.40">what's</word>
+<word id="le706960.a.unit.41">the</word>
+<word id="le706960.a.unit.42">number</word>
+<word id="le706960.a.unit.43">please</word>
+<num id="le706960.a.unit.50"/>
+<num id="le706960.a.unit.51"/>
+<num id="le706960.a.unit.52"/>
+<num id="le706960.a.unit.53"/>
+<num id="le706960.a.unit.54"/>
+<num id="le706960.a.unit.58"/>
+<num id="le706960.a.unit.59"/>
+<num id="le706960.a.unit.60"/>
+<num id="le706960.a.unit.64"/>
+<num id="le706960.a.unit.65"/>
+<num id="le706960.a.unit.66"/>
+<word id="le706960.a.unit.67">ok</word>
+<word id="le706960.a.unit.68">i'll</word>
+<word id="le706960.a.unit.69">just</word>
+<word id="le706960.a.unit.70">check</word>
+<word id="le706960.a.unit.71">that</word>
+<word id="le706960.a.unit.72">for</word>
+<word id="le706960.a.unit.73">you</word>
+<word id="le706960.a.unit.74">madam</word>
+<sil BTlength="" id="le706960.a.unit.75"/>
+<word id="le706960.a.unit.76">yeah</word>
+<word id="le706960.a.unit.77">that's</word>
+<word id="le706960.a.unit.78">a</word>
+<word id="le706960.a.unit.79">spare</word>
+<word id="le706960.a.unit.80">line</word>
+<word id="le706960.a.unit.81">there's</word>
+<word id="le706960.a.unit.82">not</word>
+<word id="le706960.a.unit.83">actually</word>
+<word id="le706960.a.unit.84">a</word>
+<word id="le706960.a.unit.85">customer</word>
+<word id="le706960.a.unit.86">with</word>
+<word id="le706960.a.unit.87">that</word>
+<word id="le706960.a.unit.88">number</word>
+<word id="le706960.a.unit.89">anymore</word>
+<word id="le706960.a.unit.92">no</word>
+<word id="le706960.a.unit.102">uh</word>
+<sil BTlength="" id="le706960.a.unit.112"/>
+<word id="le706960.a.unit.113">no</word>
+<word id="le706960.a.unit.114">it</word>
+<word id="le706960.a.unit.115">was</word>
+<word id="le706960.a.unit.116">it</word>
+<word id="le706960.a.unit.117">was</word>
+<sil BTlength="" id="le706960.a.unit.118"/>
+<word id="le706960.a.unit.119">it</word>
+<word id="le706960.a.unit.120">was</word>
+<word id="le706960.a.unit.121">about</word>
+<word id="le706960.a.unit.122">three</word>
+<word id="le706960.a.unit.123">years</word>
+<word id="le706960.a.unit.124">ago</word>
+<word id="le706960.a.unit.146">yeah</word>
+<word id="le706960.a.unit.172">that's</word>
+<word id="le706960.a.unit.173">right</word>
+<sil BTlength="" id="le706960.a.unit.174"/>
+<word id="le706960.a.unit.175">it's</word>
+<word id="le706960.a.unit.176">not</word>
+<word id="le706960.a.unit.177">been</word>
+<word id="le706960.a.unit.178">it's</word>
+<word id="le706960.a.unit.179">not</word>
+<word id="le706960.a.unit.180">been</word>
+<word id="le706960.a.unit.181">in</word>
+<word id="le706960.a.unit.182">service</word>
+<word id="le706960.a.unit.183">for</word>
+<word id="le706960.a.unit.184">about</word>
+<word id="le706960.a.unit.185">three</word>
+<word id="le706960.a.unit.186">years</word>
+<word id="le706960.a.unit.187">that</word>
+<word id="le706960.a.unit.188">hasn't</word>
+<word id="le706960.a.unit.200">no</word>
+<word id="le706960.a.unit.201">problem</word>
+<word id="le706960.a.unit.202">bye</word>
+<word id="le706960.a.unit.203">now</word>
+<comment text="end-ok" id="le706960.a.unit.204"/>
+</nite:root>

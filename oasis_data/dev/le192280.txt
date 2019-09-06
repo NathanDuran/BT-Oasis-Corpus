@@ -1,0 +1,43 @@
+b|um good morning|greet
+b|i'm trying to make a phone call to and i keep on getting er please try again this this is a wrong number well it's 'ccause i mean i mean i'm in the area it's but this is place County Council this is the education department but but you see this is a letter which came yesterday and i'm phoning back the lady who who who wrote the letter with the direct dial number which is simply i mean it's just instant you know what i mean yeah what shall i do ok ok yes surely thank you|informIntent
+b|and i keep on getting er please try again this this is a wrong number well it's 'ccause i mean i mean i'm in the area it's but this is place County Council this is the education department but but you see this is a letter which came yesterday and i'm phoning back the lady who who who wrote the letter with the direct dial number which is simply i mean it's just instant you know what i mean yeah what shall i do ok ok yes surely thank you|inform
+b|er please try again|direct
+b|this this is a wrong number|inform
+a|hmm|backch
+a|i'm sorry you've been having that number|expressRegret
+a|what's the code and number you've been calling please|reqInfo
+b|well|init
+b|it's 'ccause i mean i mean i'm in the area it's but this is place County Council this is the education department but but you see this is a letter which came yesterday and i'm phoning back the lady who who who wrote the letter with the direct dial number which is simply i mean it's just instant you know what i mean yeah what shall i do ok ok yes surely thank you|answ
+b|'ccause i mean i mean i'm in the area|inform
+b|it's but this is place County Council this is the education department but but you see this is a letter which came yesterday and i'm phoning back the lady who who who wrote the letter with the direct dial number which is simply i mean it's just instant you know what i mean yeah what shall i do ok ok yes surely thank you|answElab
+a|yeah|backch
+a|i'll just look it up for you hello caller i'm sorry we no longer have a customer with that number right well i'm sure they haven't moved but they may have changed to a different operator or changed their number i could put you through to directories on and they may have a new listing for you is um yeah but according to us we have no longer a customer with that number i mean it may be that they unfortunately put it on an old old headed paper or something i mean the number change at i uh can put you through to directories who i'm certain to give you a new number for it ok uh uh it's ringing for you|informIntent
+a|hello caller|greet
+a|i'm sorry|expressRegret
+a|we no longer have a customer with that number|inform
+b|but this is place County Council|inform
+b|this is the education department|inform
+a|right|ackn
+a|well|init
+a|i'm sure they haven't moved|expressOpinion
+a|but they may have changed to a different operator or changed their number|expressPossibility
+a|i could put you through to directories on and they may have a new listing for you is um yeah but according to us we have no longer a customer with that number i mean it may be that they unfortunately put it on an old old headed paper or something i mean the number change at i uh can put you through to directories who i'm certain to give you a new number for it ok uh uh it's ringing for you|offer
+a|and they may have a new listing for you|expressPossibility
+b|but|backch
+b|but you see this is a letter which came yesterday|inform
+b|and i'm phoning back the lady who who who wrote the letter with the direct dial number which is simply i mean it's just instant you know what i mean yeah what shall i do ok ok yes surely thank you|inform
+b|which is simply i mean it's just instant you know what i mean yeah what shall i do ok ok yes surely thank you|inform
+b|i mean it's just instant you know what i mean|raiseIssue
+a|is um|backch
+a|yeah|accept
+a|but according to us we have no longer a customer with that number|inform
+a|i mean it may be that they unfortunately put it on an old old headed paper or something|expressPossibility
+a|i mean the number change at i uh can put you through to directories who i'm certain to give you a new number for it ok uh uh it's ringing for you|inform
+b|yeah|backch
+b|what shall i do|reqInfo
+a|i uh can put you through to directories|offer
+a|who i'm certain to give you a new number for it|inform
+b|yes surely|accept
+a|ok|backch
+a|uh uh it's ringing for you|inform
+b|thank you|thank

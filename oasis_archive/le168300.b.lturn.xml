@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le168300.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le168300.lturn.2'>
+
+
+<utt id='le168300.utt.2'>
+
+<segment type='frag' sp-act='greet' id='le168300.frag.2'>
+<nite:child href='le168300.b.unit.xml#id(le168300.b.unit.2)..id(le168300.b.unit.4)'/>
+</segment>
+
+</utt>
+
+<utt id='le168300.utt.3'>
+
+<segment type='q_yn' sp-act='direct' id='le168300.q_yn.1'>
+<nite:child href='le168300.b.unit.xml#id(le168300.b.unit.5)..id(le168300.b.unit.15)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le168300.lturn.4'>
+
+
+<utt id='le168300.utt.5'>
+
+<segment type='frag' sp-act='answ' id='le168300.frag.3'>
+<nite:child href='le168300.b.unit.xml#id(le168300.b.unit.22)..id(le168300.b.unit.32)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le168300.lturn.6'>
+
+
+<utt id='le168300.utt.8'>
+
+<segment type='frag' sp-act='answ' id='le168300.frag.4'>
+<nite:child href='le168300.b.unit.xml#id(le168300.b.unit.43)..id(le168300.b.unit.48)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le168300.lturn.8'>
+
+
+<utt id='le168300.utt.10'>
+
+<segment type='frag' sp-act='answElab' id='le168300.frag.6'>
+<nite:child href='le168300.b.unit.xml#id(le168300.b.unit.54)..id(le168300.b.unit.56)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le168300.lturn.10'>
+
+
+<utt id='le168300.utt.12'>
+
+<segment type='frag' sp-act='answElab' id='le168300.frag.8'>
+<nite:child href='le168300.b.unit.xml#id(le168300.b.unit.60)..id(le168300.b.unit.62)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le168300.lturn.11.1' type='backchannel'>
+
+<utt id='le168300.utt.15.1'>
+<segment type='backch' sp-act='' id='le168300.backch.1'>
+<nite:child href='le168300.b.unit.xml#id(le168300.b.unit.73)..id(le168300.b.unit.74)'/>
+</segment>
+</utt>
+</lturn>
+<lturn id='le168300.lturn.11.2' type='backchannel'>
+
+<utt id='le168300.utt.16.1'>
+<segment type='backch' sp-act='' id='le168300.backch.2'>
+<nite:child href='le168300.b.unit.xml#id(le168300.b.unit.77)..id(le168300.b.unit.78)'/>
+</segment>
+</utt>
+</lturn>
+</nite:root>

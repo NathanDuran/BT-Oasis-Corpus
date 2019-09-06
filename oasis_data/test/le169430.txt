@@ -1,0 +1,19 @@
+b|hi um|greet
+b|if you can try this number for me|direct
+b|cause i keep ringing|inform
+b|and it's engaged i don't know if it's just that they're constantly talking or whether it's just er a fault okay the code is treble and the number's double hmm thank you oh God yeah thank you|inform
+b|i don't know if it's just that they're constantly talking or whether it's just er a fault|expressOpinion
+a|certainly|accept
+a|i'm sorry|expressRegret
+a|what's the code and number you are dialling|reqInfo
+b|okay|ackn
+b|the code is treble and the number's double hmm thank you oh God yeah thank you|answ
+b|and the number's double hmm thank you oh God yeah thank you|answElab
+a|thank you just just try the call for you ah that's ringing for you|thank
+a|just just try the call for you ah that's ringing for you|informIntent
+b|hmm|backch
+b|thank you|thank
+a|ah that's ringing for you|inform
+b|oh God|exclaim
+b|yeah|ackn
+b|thank you|thank

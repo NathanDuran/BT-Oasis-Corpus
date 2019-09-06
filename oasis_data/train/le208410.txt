@@ -1,0 +1,20 @@
+b|hello|greet
+b|uh is it possible that you could tell me what area this number's from|reqInfo
+b|er somebody's phoned earlier tonight um|inform
+b|i think it might be a dodgy call i just want an area i mean obviously you can't give me the person who it is but um yeah it's uh well basically it's yeah double directories uh thank you|expressOpinion
+b|i just want an area|reqInfo
+b|i mean obviously you can't give me the person who it is but um|expressOpinion
+a|um you mean which code it is|reqInfo
+b|yeah|answ
+b|it's uh well basically it's yeah double directories uh thank you|inform
+a|so|init
+a|that's uh i can't narrow it down any further than that if you call directories they should be able to yeah ok|answ
+b|yeah|ackn
+b|double directories uh thank you|inform
+a|uh i can't narrow it down any further than that|inform
+a|if you call directories|suggest
+a|they should be able to|expressOpinion
+b|directories|echo
+a|yeah|ackn
+b|uh thank you|thank
+a|ok|init

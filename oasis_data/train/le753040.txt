@@ -1,0 +1,6 @@
+b|um can i have the number for directory enquiries please|reqInfo
+a|yeah|answ
+a|they're on thank you bye bye|answElab
+b|thanks|thank
+a|thank you|thank
+a|bye bye|bye

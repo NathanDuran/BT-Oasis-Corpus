@@ -1,0 +1,10 @@
+b|yes|ackn
+b|is this directory enquiries|reqInfo
+a|it's not|answ
+a|directory enquiries is would you like me to put you though to them hold the line please|inform
+a|would you like me to put you though to them|reqDirect
+b|oh|backch
+b|thanks|direct
+b|yeah|directElab
+a|hold the line please|hold
+b|ok|accept

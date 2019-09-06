@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le172940.unit.b">
+<word id="le172940.b.unit.2">yes</word>
+<word id="le172940.b.unit.3">i'm</word>
+<word id="le172940.b.unit.4">looking</word>
+<word id="le172940.b.unit.5">for</word>
+<word id="le172940.b.unit.6">um</word>
+<pncode type="business" id="le172940.b.unit.7"/>
+<pncode type="business" id="le172940.b.unit.8"/>
+<pncode type="business" id="le172940.b.unit.9"/>
+<word id="le172940.b.unit.10">in</word>
+<word id="le172940.b.unit.11">er</word>
+<pncode type="town" id="le172940.b.unit.12"/>
+<word id="le172940.b.unit.13">in</word>
+<comment text="other" id="le172940.b.unit.14"/>
+<word id="le172940.b.unit.15">place}</word>
+<word id="le172940.b.unit.24">yeah</word>
+<word id="le172940.b.unit.25">have</word>
+<bcanchor id="le172940.bcanchorb.1"><nite:pointer href="le172940.a.lturn.xml#id(le172940.lturn.4.1)" role="bc"/></bcanchor>
+<word id="le172940.b.unit.27">i</word>
+<word id="le172940.b.unit.28">got</word>
+<word id="le172940.b.unit.29">the</word>
+<word id="le172940.b.unit.30">right</word>
+<num id="le172940.b.unit.47"/>
+<num id="le172940.b.unit.48"/>
+<num id="le172940.b.unit.49"/>
+<word id="le172940.b.unit.50">that's</word>
+<word id="le172940.b.unit.51">great</word>
+<word id="le172940.b.unit.52">thanks</word>
+</nite:root>

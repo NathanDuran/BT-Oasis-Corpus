@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le301840.unit.a">
+<stdzcode id="le301840.a.unit.1" description="name"/>
+<word id="le301840.a.unit.30">yes</word>
+<word id="le301840.a.unit.31">i'm</word>
+<partword id="le301840.a.unit.32">s</partword>
+<word id="le301840.a.unit.40">what's</word>
+<word id="le301840.a.unit.41">the</word>
+<word id="le301840.a.unit.42">code</word>
+<word id="le301840.a.unit.43">and</word>
+<word id="le301840.a.unit.44">number</word>
+<num id="le301840.a.unit.55"/>
+<num id="le301840.a.unit.56"/>
+<num id="le301840.a.unit.57"/>
+<num id="le301840.a.unit.58"/>
+<num id="le301840.a.unit.59"/>
+<num id="le301840.a.unit.63"/>
+<num id="le301840.a.unit.64"/>
+<num id="le301840.a.unit.65"/>
+<num id="le301840.a.unit.69"/>
+<num id="le301840.a.unit.70"/>
+<num id="le301840.a.unit.71"/>
+<word id="le301840.a.unit.72">thank</word>
+<word id="le301840.a.unit.73">you</word>
+<sil BTlength="" id="le301840.a.unit.74"/>
+<pncode type="region" id="le301840.a.unit.75"/>
+<num id="le301840.a.unit.76"/>
+<num id="le301840.a.unit.77"/>
+<num id="le301840.a.unit.78"/>
+<num id="le301840.a.unit.79"/>
+<num id="le301840.a.unit.80"/>
+<word id="le301840.a.unit.81">is</word>
+<pncode type="town" id="le301840.a.unit.82"/>
+<word id="le301840.a.unit.94">where</word>
+<word id="le301840.a.unit.95">abouts</word>
+<word id="le301840.a.unit.96">in</word>
+<pncode type="region" id="le301840.a.unit.97"/>
+<word id="le301840.a.unit.115"/>
+<comment text="laughs" id="le301840.a.unit.116"/>
+<word id="le301840.a.unit.117"/>
+<word id="le301840.a.unit.121">i</word>
+<word id="le301840.a.unit.122">don't</word>
+<pncode type="town" id="le301840.a.unit.127"/>
+<word id="le301840.a.unit.128">i</word>
+<word id="le301840.a.unit.129">say</word>
+<word id="le301840.a.unit.130">it's</word>
+<word id="le301840.a.unit.131">no</word>
+<word id="le301840.a.unit.132">good</word>
+<word id="le301840.a.unit.133">asking</word>
+<word id="le301840.a.unit.134">me</word>
+<word id="le301840.a.unit.135">about</word>
+<pncode type="region" id="le301840.a.unit.136"/>
+<word id="le301840.a.unit.137">i</word>
+<word id="le301840.a.unit.138">don't</word>
+<bcanchor id="le301840.bcanchora.2"><nite:pointer href="le301840.b.lturn.xml#id(le301840.lturn.17.1)" role="bc"/></bcanchor>
+<word id="le301840.a.unit.142">know</word>
+<word id="le301840.a.unit.143">it</word>
+<comment text="laughs" id="le301840.a.unit.144"/>
+<word id="le301840.a.unit.145">oh</word>
+<word id="le301840.a.unit.146">dear</word>
+<word id="le301840.a.unit.147">oh</word>
+<word id="le301840.a.unit.148">um</word>
+<sil BTlength="3.4s" id="le301840.a.unit.149"/>
+<pncode type="town" id="le301840.a.unit.150"/>
+<sil BTlength="3.6s" id="le301840.a.unit.151"/>
+<num id="le301840.a.unit.152"/>
+<num id="le301840.a.unit.153"/>
+<num id="le301840.a.unit.154"/>
+<num id="le301840.a.unit.155"/>
+<num id="le301840.a.unit.156"/>
+<word id="le301840.a.unit.165">yeah</word>
+<word id="le301840.a.unit.170">alright</word>
+<word id="le301840.a.unit.171">thanks</word>
+<word id="le301840.a.unit.172">bye</word>
+<comment text="end-ok" id="le301840.a.unit.173"/>
+</nite:root>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le182520.unit.b">
+<word id="le182520.b.unit.2">yeah</word>
+<word id="le182520.b.unit.3">can</word>
+<word id="le182520.b.unit.4">you</word>
+<word id="le182520.b.unit.5">tell</word>
+<word id="le182520.b.unit.6">me</word>
+<word id="le182520.b.unit.7">what</word>
+<word id="le182520.b.unit.8">er</word>
+<word id="le182520.b.unit.9">number</word>
+<word id="le182520.b.unit.10">is</word>
+<word id="le182520.b.unit.11">the</word>
+<word id="le182520.b.unit.12">alarm</word>
+<word id="le182520.b.unit.13">call</word>
+<word id="le182520.b.unit.14">please</word>
+<word id="le182520.b.unit.23">star</word>
+<num id="le182520.b.unit.24"/>
+<num id="le182520.b.unit.25"/>
+<word id="le182520.b.unit.26">star</word>
+<word id="le182520.b.unit.29">thank</word>
+<word id="le182520.b.unit.30">you</word>
+<word id="le182520.b.unit.33">bye</word>
+<comment text="noise" id="le182520.b.unit.36"/>
+<comment text="end-ok" id="le182520.b.unit.37"/>
+</nite:root>

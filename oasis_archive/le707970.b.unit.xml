@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le707970.unit.b">
+<word id="le707970.b.unit.2">do</word>
+<word id="le707970.b.unit.3">you</word>
+<word id="le707970.b.unit.4">have</word>
+<word id="le707970.b.unit.5">um</word>
+<sil BTlength="" id="le707970.b.unit.6"/>
+<word id="le707970.b.unit.7">do</word>
+<word id="le707970.b.unit.8">you</word>
+<word id="le707970.b.unit.9">have</word>
+<word id="le707970.b.unit.10">um</word>
+<sil BTlength="1.6s" id="le707970.b.unit.11"/>
+<word id="le707970.b.unit.12">um</word>
+<word id="le707970.b.unit.13">taxi</word>
+<word id="le707970.b.unit.14">numbers</word>
+<word id="le707970.b.unit.36">byebye</word>
+<comment text="receiver_replaced" id="le707970.b.unit.37"/>
+</nite:root>

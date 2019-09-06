@@ -1,9 +1,0 @@
-b|hello|greet
-b|uh this is a missus my phone number is yeah|identifySelf
-a|yes|ackn
-b|my phone number is yeah|inform
-a|sorry|pardon
-a|is that sorry what was your name and your address please missus|reqInfo
-b|yeah|answ
-a|what was your name|reqInfo
-a|and your address please missus|reqInfo

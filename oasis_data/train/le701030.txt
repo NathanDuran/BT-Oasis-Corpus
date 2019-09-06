@@ -1,0 +1,80 @@
+b|yeah um|ackn
+b|thank you|thank
+b|um i have just called somebody on a pager|inform
+b|and i don't know anything about pagers|inform
+b|um now then|init
+b|it's it's they've a it's accepted the call|inform
+b|can you tell me how they operate|reqInfo
+b|does it just make a noise|reqInfo
+a|mm mm|backch
+a|right|backch
+a|mm mm|backch
+a|right|ackn
+a|was it an answering machine like was it an answering machine that you actually got you know when you dialled the pager|reqInfo
+b|pardon|backch
+b|i dialled the pager|confirm
+a|yeah|ackn
+a|was it an operator that answered the call or was it just an answering machine answering service that took your|reqInfo
+b|no|answ
+b|it's just a pager that he carries around in his pocket|answElab
+a|no|negate
+a|you're not|negate
+a|did you dial the pager sir|reqInfo
+b|yes|answ
+b|i did|answElab
+a|yes|ackn
+a|and what happened when you dialled the number|reqInfo
+b|um well|init
+b|it the operator came back and said that the call had been accepted|answ
+b|yes|answElab
+a|right|ackn
+a|was it an actual person taking your message or do you have the pager|reqInfo
+b|um|backch
+b|i don't have the pager|answ
+b|i phoned someone on a pager|answElab
+a|yeah|ackn
+a|now|init
+a|there's two types of pager you see|inform
+a|there's one type of pager where when you dial the number an operator like myself will ask you for the message and take the message down|inform
+b|mm hmm|backch
+b|no|negate
+b|i didn't leave a message|inform
+b|no no|negate
+a|oh was it a numeric where you put|reqInfo
+b|numeric|confirm
+b|yes|ackn
+a|yeah|ackn
+a|what you do then is you|inform
+a|when you press in the number that you want this person to call you back on|inform
+a|then you press the hash key|inform
+b|yes i did do that|backch
+b|then i press the square yes|confirm
+a|yeah|ackn
+a|and then what happens after that is the computer sends a number to a pager and the person looks at their pager and thinks oh yeah there's people|inform
+b|does it make a noise|reqInfo
+a|yeah|answ
+a|well|init
+a|it depends what kind of a pager they've got|inform
+a|they can have it on vibration|inform
+a|they can have it on different tones|inform
+a|if they want|inform
+a|it's up to them|inform
+b|would the message remain on the screen or my number would remain on the screen|reqInfo
+b|so|init
+b|there's no point in me calling back|reqInfo
+b|no|answ
+b|oh so|init
+b|my message would be there or my number would be there|confirm
+a|yeah|backch
+a|yeah|backch
+a|no|backch
+a|no|backch
+a|one way or another he would know that you had called him or her|inform
+b|okayokay|ackn
+b|right fine|init
+b|thanks very much|thank
+b|yeah|ackn
+b|thank you|thank
+b|bye|bye
+a|okay|backch
+a|okay|backch

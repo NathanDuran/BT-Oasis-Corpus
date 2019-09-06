@@ -1,0 +1,14 @@
+b|hello|greet
+b|could you put me back through to please|direct
+b|i think i was cut off|expressOpinion
+a|oh|exclaim
+a|which department was it that you were speaking to please|reqInfo
+b|um enquiries would it be|reqInfo
+a|was it was it customer services|reqInfo
+b|yeah yes|answ
+a|yeah|ackn
+a|i'll put you back through to them|informIntent
+a|i'm sorry about that their number's ringing for you again thank you|expressRegret
+a|their number's ringing for you again thank you|inform
+a|thank you|thank
+b|thanks|backch

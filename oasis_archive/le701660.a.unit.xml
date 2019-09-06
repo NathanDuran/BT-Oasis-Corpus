@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le701660.unit.a">
+<stdzcode id="le701660.a.unit.1" description="name"/>
+<word id="le701660.a.unit.22">alright</word>
+<word id="le701660.a.unit.23">what</word>
+<word id="le701660.a.unit.24">is</word>
+<word id="le701660.a.unit.25">the</word>
+<word id="le701660.a.unit.26">code</word>
+<word id="le701660.a.unit.27">and</word>
+<word id="le701660.a.unit.28">number</word>
+<num id="le701660.a.unit.34"/>
+<num id="le701660.a.unit.35"/>
+<num id="le701660.a.unit.36"/>
+<num id="le701660.a.unit.37"/>
+<num id="le701660.a.unit.38"/>
+<num id="le701660.a.unit.42"/>
+<num id="le701660.a.unit.43"/>
+<num id="le701660.a.unit.44"/>
+<num id="le701660.a.unit.48"/>
+<num id="le701660.a.unit.49"/>
+<num id="le701660.a.unit.50"/>
+<word id="le701660.a.unit.51">ah</word>
+<word id="le701660.a.unit.52">we've</word>
+<word id="le701660.a.unit.53">not</word>
+<word id="le701660.a.unit.54">had</word>
+<word id="le701660.a.unit.55">a</word>
+<word id="le701660.a.unit.56">customer</word>
+<word id="le701660.a.unit.57">on</word>
+<word id="le701660.a.unit.58">there</word>
+<word id="le701660.a.unit.59">since</word>
+<word id="le701660.a.unit.60">the</word>
+<word id="le701660.a.unit.61">eleventh</word>
+<word id="le701660.a.unit.62">of</word>
+<word id="le701660.a.unit.63">March</word>
+<word id="le701660.a.unit.64">i'm</word>
+<word id="le701660.a.unit.65">afraid</word>
+<word id="le701660.a.unit.68">okay</word>
+<bcanchor id="le701660.bcanchora.1"><nite:pointer href="le701660.b.lturn.xml#id(le701660.lturn.11.1)" role="bc"/></bcanchor>
+<word id="le701660.a.unit.70">right</word>
+<word id="le701660.a.unit.71">thanks</word>
+<word id="le701660.a.unit.72">bye</word>
+<word id="le701660.a.unit.73">bye</word>
+</nite:root>

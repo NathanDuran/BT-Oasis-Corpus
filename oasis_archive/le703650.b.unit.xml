@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le703650.unit.b">
+<word id="le703650.b.unit.2">yeah</word>
+<word id="le703650.b.unit.3">i</word>
+<word id="le703650.b.unit.4">just</word>
+<word id="le703650.b.unit.5">wondered</word>
+<word id="le703650.b.unit.6">if</word>
+<word id="le703650.b.unit.7">you</word>
+<word id="le703650.b.unit.8">can</word>
+<word id="le703650.b.unit.9">tell</word>
+<word id="le703650.b.unit.10">me</word>
+<word id="le703650.b.unit.11">this</word>
+<word id="le703650.b.unit.12">number</word>
+<word id="le703650.b.unit.13">that's</word>
+<word id="le703650.b.unit.14">been</word>
+<word id="le703650.b.unit.15">ringing</word>
+<word id="le703650.b.unit.16">me</word>
+<word id="le703650.b.unit.17">i've</word>
+<word id="le703650.b.unit.18">been</word>
+<word id="le703650.b.unit.19">out</word>
+<sil BTlength="" id="le703650.b.unit.20"/>
+<word id="le703650.b.unit.21">um</word>
+<word id="le703650.b.unit.22">and</word>
+<word id="le703650.b.unit.23">i'm</word>
+<word id="le703650.b.unit.24">registered</word>
+<word id="le703650.b.unit.25">blind</word>
+<sil BTlength="" id="le703650.b.unit.26"/>
+<word id="le703650.b.unit.27">and</word>
+<word id="le703650.b.unit.28">i</word>
+<word id="le703650.b.unit.29">didn't</word>
+<word id="le703650.b.unit.30">know</word>
+<word id="le703650.b.unit.31">if</word>
+<word id="le703650.b.unit.32">you</word>
+<word id="le703650.b.unit.33">can</word>
+<word id="le703650.b.unit.34">tell</word>
+<word id="le703650.b.unit.35">me</word>
+<word id="le703650.b.unit.36">what</word>
+<word id="le703650.b.unit.37">number</word>
+<word id="le703650.b.unit.38">this</word>
+<word id="le703650.b.unit.39">double</word>
+<num id="le703650.b.unit.40"/>
+<num id="le703650.b.unit.41"/>
+<sil BTlength="" id="le703650.b.unit.42"/>
+<num id="le703650.b.unit.43"/>
+<num id="le703650.b.unit.44"/>
+<num id="le703650.b.unit.45"/>
+<sil BTlength="" id="le703650.b.unit.46"/>
+<num id="le703650.b.unit.47"/>
+<num id="le703650.b.unit.48"/>
+<num id="le703650.b.unit.49"/>
+<num id="le703650.b.unit.50"/>
+<num id="le703650.b.unit.51"/>
+<word id="le703650.b.unit.67">no</word>
+<word id="le703650.b.unit.81">oh</word>
+<word id="le703650.b.unit.85">is</word>
+<word id="le703650.b.unit.86">it</word>
+<word id="le703650.b.unit.87">a</word>
+<word id="le703650.b.unit.88">payphone</word>
+<word id="le703650.b.unit.89">or</word>
+<sil BTlength="1.6s" id="le703650.b.unit.90"/>
+<word id="le703650.b.unit.91">um</word>
+<word id="le703650.b.unit.100">oh</word>
+<word id="le703650.b.unit.101">is</word>
+<word id="le703650.b.unit.102">it</word>
+<word id="le703650.b.unit.103">a</word>
+<word id="le703650.b.unit.104">police</word>
+<word id="le703650.b.unit.105">or</word>
+<word id="le703650.b.unit.106">something</word>
+<word id="le703650.b.unit.123">oh</word>
+<word id="le703650.b.unit.124">right</word>
+<word id="le703650.b.unit.125">ok</word>
+<word id="le703650.b.unit.132">oh</word>
+<word id="le703650.b.unit.133">must</word>
+<word id="le703650.b.unit.134">be</word>
+<word id="le703650.b.unit.135">a</word>
+<pncode type="business" id="le703650.b.unit.136"/>
+<word id="le703650.b.unit.137">number</word>
+<word id="le703650.b.unit.139">oh</word>
+<word id="le703650.b.unit.140">ok</word>
+<word id="le703650.b.unit.141">then</word>
+<word id="le703650.b.unit.142">thanks</word>
+<bcanchor id="le703650.bcanchorb.3"><nite:pointer href="le703650.a.lturn.xml#id(le703650.lturn.12.1)" role="bc"/></bcanchor>
+<word id="le703650.b.unit.144">a</word>
+<word id="le703650.b.unit.145">lot</word>
+<word id="le703650.b.unit.146">anyway</word>
+<word id="le703650.b.unit.147">thanks</word>
+<word id="le703650.b.unit.148">bye</word>
+</nite:root>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le191380.unit.b">
+<word id="le191380.b.unit.2">er</word>
+<word id="le191380.b.unit.3">could</word>
+<word id="le191380.b.unit.4">i</word>
+<word id="le191380.b.unit.5">have</word>
+<word id="le191380.b.unit.6">a</word>
+<word id="le191380.b.unit.7">telephone</word>
+<word id="le191380.b.unit.8">number</word>
+<word id="le191380.b.unit.9">please</word>
+<word id="le191380.b.unit.23">er</word>
+<pncode type="town" id="le191380.b.unit.24"/>
+<partword id="le191380.b.unit.38">it</partword>
+<word id="le191380.b.unit.39">no</word>
+<word id="le191380.b.unit.40">it's</word>
+<word id="le191380.b.unit.41">a</word>
+<word id="le191380.b.unit.42">company</word>
+<bcanchor id="le191380.bcanchorb.1"><nite:pointer href="le191380.a.lturn.xml#id(le191380.lturn.6.1)" role="bc"/></bcanchor>
+<pncode type="business" id="le191380.b.unit.44"/>
+<pncode type="business" id="le191380.b.unit.45"/>
+<pncode type="business" id="le191380.b.unit.46"/>
+<pncode type="business" id="le191380.b.unit.47"/>
+<word id="le191380.b.unit.69">please</word>
+<word id="le191380.b.unit.70">if</word>
+<word id="le191380.b.unit.71">you</word>
+<word id="le191380.b.unit.72">wouldn't</word>
+<word id="le191380.b.unit.73">mind</word>
+<word id="le191380.b.unit.79">thank</word>
+<word id="le191380.b.unit.80">you</word>
+<word id="le191380.b.unit.81">very</word>
+<word id="le191380.b.unit.82">much</word>
+<comment text="transfer" id="le191380.b.unit.83"/>
+<comment text="end-ok" id="le191380.b.unit.84"/>
+</nite:root>

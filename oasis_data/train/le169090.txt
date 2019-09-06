@@ -1,0 +1,23 @@
+b|hello|greet
+b|i'm trying to dial a number from my uh phone yeah but what i keep getting is this keeps answering it yeah hello hello who am i speaking to sorry right you are thank you|informIntent
+b|yeah|ackn
+a|thank you|thank
+b|but what i keep getting is this keeps answering it yeah hello hello who am i speaking to sorry right you are thank you|inform
+b|this keeps answering it|inform
+a|and who is it you are trying to contact|reqInfo
+a|you want and you are actually going through to i'm sorry you've had trouble i'll just try the call for you in a moment good good afternoon this is the operator is that helpline this is the operator i was just testing the call on behalf of a customer it is go ahead please sir|confirm
+a|and you are actually going through to i'm sorry you've had trouble i'll just try the call for you in a moment good good afternoon this is the operator is that helpline this is the operator i was just testing the call on behalf of a customer it is go ahead please sir|confirm
+b|yeah|ackn
+a|i'm sorry you've had trouble|expressRegret
+a|i'll just try the call for you in a moment good good afternoon this is the operator is that helpline this is the operator i was just testing the call on behalf of a customer it is go ahead please sir|informIntent
+b|hello|greet
+b|hello|greet
+a|good good afternoon|greet
+a|this is the operator|identifySelf
+a|is that helpline this is the operator i was just testing the call on behalf of a customer it is go ahead please sir|reqInfo
+b|who am i speaking to sorry|reqInfo
+a|this is the operator|answ
+a|i was just testing the call on behalf of a customer|inform
+a|it is|confirm
+a|go ahead please sir|direct
+b|thank you|thank

@@ -1,0 +1,24 @@
+b|uh hello|greet
+b|it it concerns a bill that i've just received|inform
+a|right|ackn
+a|that's fine|accept
+a|would you like to give me the customer number|reqInfo
+a|and i'll bring the bill up in front of me|informIntent
+b|uh like the full telephone number|reqInfo
+a|sorry|expressRegret
+a|the customer top right hand side of the bill you've got that you're querying|inform
+b|it's double yeah it's missus|inform
+a|yes|ackn
+a|yeah|backch
+a|sorry|pardon
+b|yeah|ackn
+a|yeah|backch
+a|that's lovely|appreciate
+a|thank you|thank
+a|right|init
+a|now|init
+a|i've got your details in front of me|inform
+a|just confirm your full name address and postcode for me please|reqInfo
+b|it's missus|answ
+a|mm mm|backch
+a|and the postcode there missus|reqInfo

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le712490.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le712490.lturn.2'>
+
+
+<utt id='le712490.utt.2'>
+
+<segment type='q_yn' sp-act='direct' id='le712490.q_yn.1'>
+<nite:child href='le712490.b.unit.xml#id(le712490.b.unit.2)..id(le712490.b.unit.11)'/>
+</segment>
+
+</utt>
+
+<utt id='le712490.utt.3'>
+
+<segment type='decl' sp-act='expressOpinion' id='le712490.decl.1'>
+<nite:child href='le712490.b.unit.xml#id(le712490.b.unit.12)..id(le712490.b.unit.17)'/>
+</segment>
+
+</utt>
+
+<utt id='le712490.utt.4'>
+
+<segment type='decl' sp-act='inform' id='le712490.decl.2'>
+<nite:child href='le712490.b.unit.xml#id(le712490.b.unit.18)..id(le712490.b.unit.20)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le712490.lturn.4'>
+
+
+<utt id='le712490.utt.9'>
+
+<segment type='decl' sp-act='expressWish' id='le712490.decl.5'>
+<nite:child href='le712490.b.unit.xml#id(le712490.b.unit.41)..id(le712490.b.unit.50)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le712490.lturn.6'>
+
+
+<utt id='le712490.utt.11'>
+
+<segment type='dm' sp-act='ackn' id='le712490.dm.1'>
+<nite:child href='le712490.b.unit.xml#id(le712490.b.unit.55)..id(le712490.b.unit.59)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

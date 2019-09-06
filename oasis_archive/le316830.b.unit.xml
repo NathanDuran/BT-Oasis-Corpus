@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le316830.unit.b">
+<word id="le316830.b.unit.2">hello</word>
+<word id="le316830.b.unit.3">is</word>
+<word id="le316830.b.unit.4">that</word>
+<word id="le316830.b.unit.5">the</word>
+<word id="le316830.b.unit.6">operator</word>
+<word id="le316830.b.unit.10">hello</word>
+<sil BTlength="" id="le316830.b.unit.11"/>
+<word id="le316830.b.unit.12">um</word>
+<word id="le316830.b.unit.13">i've</word>
+<word id="le316830.b.unit.14">just</word>
+<word id="le316830.b.unit.15">been</word>
+<word id="le316830.b.unit.16">given</word>
+<word id="le316830.b.unit.17">a</word>
+<word id="le316830.b.unit.18">telephone</word>
+<word id="le316830.b.unit.19">number</word>
+<sil BTlength="" id="le316830.b.unit.20"/>
+<bcanchor id="le316830.bcanchorb.1"><nite:pointer href="le316830.a.lturn.xml#id(le316830.lturn.4.1)" role="bc"/></bcanchor>
+<word id="le316830.b.unit.22">um</word>
+<num id="le316830.b.unit.23"/>
+<num id="le316830.b.unit.24"/>
+<num id="le316830.b.unit.25"/>
+<num id="le316830.b.unit.26"/>
+<bcanchor id="le316830.bcanchorb.2"><nite:pointer href="le316830.a.lturn.xml#id(le316830.lturn.4.2)" role="bc"/></bcanchor>
+<num id="le316830.b.unit.31"/>
+<num id="le316830.b.unit.32"/>
+<num id="le316830.b.unit.33"/>
+<bcanchor id="le316830.bcanchorb.3"><nite:pointer href="le316830.a.lturn.xml#id(le316830.lturn.4.3)" role="bc"/></bcanchor>
+<num id="le316830.b.unit.37"/>
+<num id="le316830.b.unit.38"/>
+<num id="le316830.b.unit.39"/>
+<num id="le316830.b.unit.40"/>
+<bcanchor id="le316830.bcanchorb.4"><nite:pointer href="le316830.a.lturn.xml#id(le316830.lturn.4.4)" role="bc"/></bcanchor>
+<word id="le316830.b.unit.45">and</word>
+<word id="le316830.b.unit.46">when</word>
+<word id="le316830.b.unit.47">i</word>
+<word id="le316830.b.unit.48">try</word>
+<word id="le316830.b.unit.49">it</word>
+<word id="le316830.b.unit.50">it's</word>
+<word id="le316830.b.unit.51">unobtainable</word>
+<sil BTlength="" id="le316830.b.unit.52"/>
+<word id="le316830.b.unit.53">um</word>
+<word id="le316830.b.unit.54">i</word>
+<word id="le316830.b.unit.55">wonder</word>
+<word id="le316830.b.unit.56">if</word>
+<word id="le316830.b.unit.57">that's</word>
+<word id="le316830.b.unit.58">because</word>
+<word id="le316830.b.unit.59">they've</word>
+<word id="le316830.b.unit.60">gone</word>
+<word id="le316830.b.unit.61">cable</word>
+<word id="le316830.b.unit.62">or</word>
+<word id="le316830.b.unit.63">something</word>
+<word id="le316830.b.unit.64">like</word>
+<word id="le316830.b.unit.65">that</word>
+<word id="le316830.b.unit.69">can</word>
+<word id="le316830.b.unit.70">can</word>
+<word id="le316830.b.unit.71">you</word>
+<word id="le316830.b.unit.72">tell</word>
+<word id="le316830.b.unit.79">thank</word>
+<word id="le316830.b.unit.80">you</word>
+<word id="le316830.b.unit.91">it's</word>
+<word id="le316830.b.unit.92">disconnected</word>
+<word id="le316830.b.unit.102">okey</word>
+<word id="le316830.b.unit.103">dokey</word>
+<word id="le316830.b.unit.104">thank's</word>
+<word id="le316830.b.unit.105">very</word>
+<word id="le316830.b.unit.106">much</word>
+<word id="le316830.b.unit.107">indeed</word>
+<bcanchor id="le316830.bcanchorb.6"><nite:pointer href="le316830.a.lturn.xml#id(le316830.lturn.10.1)" role="bc"/></bcanchor>
+<word id="le316830.b.unit.109">bye</word>
+</nite:root>

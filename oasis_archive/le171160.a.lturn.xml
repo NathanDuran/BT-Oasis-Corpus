@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le171160.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le171160.lturn.1'>
+
+
+<utt id='le171160.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='le171160.frag.1'>
+<nite:child href='le171160.a.unit.xml#id(le171160.a.unit.1)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le171160.lturn.3'>
+
+
+<utt id='le171160.utt.4'>
+
+<segment type='frag' sp-act='echo' id='le171160.frag.3'>
+<nite:child href='le171160.a.unit.xml#id(le171160.a.unit.26)..id(le171160.a.unit.30)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le171160.lturn.5'>
+
+
+<utt id='le171160.utt.6'>
+
+<segment type='frag' sp-act='echo' id='le171160.frag.5'>
+<nite:child href='le171160.a.unit.xml#id(le171160.a.unit.36)..id(le171160.a.unit.40)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le171160.lturn.7'>
+
+
+<utt id='le171160.utt.10'>
+
+<segment type='decl' sp-act='expressRegret' id='le171160.decl.4'>
+<nite:child href='le171160.a.unit.xml#id(le171160.a.unit.65)..id(le171160.a.unit.66)'/>
+</segment>
+
+</utt>
+
+<utt id='le171160.utt.11'>
+
+<segment type='decl' sp-act='informIntent' id='le171160.decl.5'>
+<nite:child href='le171160.a.unit.xml#id(le171160.a.unit.67)..id(le171160.a.unit.74)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le713560.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le713560.lturn.2'>
+
+
+<utt id='le713560.utt.2'>
+
+<segment type='frag' sp-act='greet' id='le713560.frag.2'>
+<nite:child href='le713560.b.unit.xml#id(le713560.b.unit.2)..id(le713560.b.unit.3)'/>
+</segment>
+
+</utt>
+
+<utt id='le713560.utt.3'>
+
+<segment type='decl' sp-act='inform' id='le713560.decl.1'>
+<nite:child href='le713560.b.unit.xml#id(le713560.b.unit.4)..id(le713560.b.unit.7)'/>
+</segment>
+
+</utt>
+
+<utt id='le713560.utt.4'>
+
+<segment type='decl' sp-act='inform' id='le713560.decl.2'>
+<nite:child href='le713560.b.unit.xml#id(le713560.b.unit.8)..id(le713560.b.unit.16)'/>
+</segment>
+
+</utt>
+
+<utt id='le713560.utt.5'>
+
+<segment type='decl' sp-act='inform' id='le713560.decl.3'>
+<nite:child href='le713560.b.unit.xml#id(le713560.b.unit.17)..id(le713560.b.unit.45)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le713560.lturn.4'>
+
+
+<utt id='le713560.utt.7'>
+
+<segment type='yes' sp-act='ackn' id='le713560.yes.2'>
+<nite:child href='le713560.b.unit.xml#id(le713560.b.unit.54)'/>
+</segment>
+
+</utt>
+
+<utt id='le713560.utt.8'>
+
+<segment type='decl' sp-act='inform' id='le713560.decl.4'>
+<nite:child href='le713560.b.unit.xml#id(le713560.b.unit.55)..id(le713560.b.unit.65)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le713560.lturn.6'>
+
+
+<utt id='le713560.utt.10'>
+
+<segment type='q_wh' sp-act='reqInfo' id='le713560.q_wh.1'>
+<nite:child href='le713560.b.unit.xml#id(le713560.b.unit.67)..id(le713560.b.unit.70)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le713560.lturn.8'>
+
+
+<utt id='le713560.utt.13'>
+
+<segment type='dm' sp-act='ackn' id='le713560.dm.2'>
+<nite:child href='le713560.b.unit.xml#id(le713560.b.unit.83)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le713560.lturn.10'>
+
+
+<utt id='le713560.utt.16'>
+
+<segment type='yes' sp-act='accept' id='le713560.yes.4'>
+<nite:child href='le713560.b.unit.xml#id(le713560.b.unit.101)..id(le713560.b.unit.102)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

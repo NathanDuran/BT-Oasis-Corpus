@@ -1,0 +1,8 @@
+b|hello|greet
+b|how do i cancel a ringback please|reqInfo
+a|oh you would key in hash hash|answ
+b|okay|ackn
+b|thanks very much|thank
+a|thank you|thank
+a|bye bye|bye
+b|bye|bye

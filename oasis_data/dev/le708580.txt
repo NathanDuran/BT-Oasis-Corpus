@@ -1,0 +1,10 @@
+b|er can i have the number for please|reqInfo
+a|you need to er dial directory enquiries|inform
+a|they'll be|inform
+a|shall i shall i connect you to directory enquiries|offer
+b|oh sorry mate|backch
+b|cheers mate|backch
+b|yeah if you don't mind yeah hi|accept
+a|yeah sure|accept
+b|yeah hi|ackn
+b|hi|greet

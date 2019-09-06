@@ -1,0 +1,42 @@
+b|hi|greet
+b|i'm just curious|inform
+b|actually er the reason i'm ringing you er|inform
+b|i'm just wondering can you divert an ordinary telephone to a mobile|reqInfo
+a|yes|answ
+a|you can|answElab
+a|yes|answElab
+b|you can|echo
+b|is there a charge for that|reqInfo
+a|um yeah|answ
+a|i think you pay per quarter um to have the facility to do it|expressOpinion
+a|and then you can do it as often as you like|expressOpinion
+b|i see|ackn
+b|what does that work out at do you know|reqInfo
+b|please i mean all i'm thinking about really is just for holidays and things like that yeah i'm with you yeah yeah er um um yeah can do please yeah ok thanks ok lovely thank you|accept
+b|i mean all i'm thinking about really is just for holidays and things like that|inform
+a|right|init
+a|it costs pounds per quarter um to do it|inform
+a|and then you|inform
+a|and because you don't have to divert all calls once you've got the facility|inform
+a|you can dial er like ones which are engaged or um unanswered ones if you don't pick your phone up after a so so many rings things like that|inform
+b|yeah|backch
+b|i'm with you|ackn
+b|yeah yeah|ackn
+a|right um|ackn
+a|are you interested in that|reqInfo
+a|because i can put you through to customer services|offer
+a|they'll be able to tell you a lot more about it than i can|inform
+b|er um um|init
+b|yeah|accept
+b|do please|direct
+b|yeah|accept
+a|yes|ackn
+a|i will do|informIntent
+a|thank you|thank
+b|ok|ackn
+b|thanks ok lovely thank you|thank
+a|their number's ringing for you now thank you|inform
+a|thank you|thank
+b|ok|ackn
+b|lovely|appreciate
+b|thank you|thank

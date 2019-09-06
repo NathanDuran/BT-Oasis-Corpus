@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le181150.unit.b">
+<word id="le181150.b.unit.2">hello</word>
+<word id="le181150.b.unit.3">can</word>
+<word id="le181150.b.unit.4">you</word>
+<word id="le181150.b.unit.5">tell</word>
+<word id="le181150.b.unit.6">me</word>
+<word id="le181150.b.unit.7">if</word>
+<word id="le181150.b.unit.8">number</word>
+<word id="le181150.b.unit.9">are</word>
+<word id="le181150.b.unit.10">engaged</word>
+<word id="le181150.b.unit.11">or</word>
+<word id="le181150.b.unit.12">off</word>
+<word id="le181150.b.unit.13">the</word>
+<word id="le181150.b.unit.14">hook</word>
+<num id="le181150.b.unit.30"/>
+<word id="le181150.b.unit.31">double</word>
+<num id="le181150.b.unit.32"/>
+<num id="le181150.b.unit.33"/>
+<bcanchor id="le181150.bcanchorb.1"><nite:pointer href="le181150.a.lturn.xml#id(le181150.lturn.4.1)" role="bc"/></bcanchor>
+<num id="le181150.b.unit.35"/>
+<num id="le181150.b.unit.36"/>
+<num id="le181150.b.unit.37"/>
+<num id="le181150.b.unit.38"/>
+<num id="le181150.b.unit.43"/>
+<num id="le181150.b.unit.44"/>
+<num id="le181150.b.unit.45"/>
+<word id="le181150.b.unit.49">yep</word>
+<word id="le181150.b.unit.64">yeah</word>
+<word id="le181150.b.unit.65">it</word>
+<word id="le181150.b.unit.66">is</word>
+<word id="le181150.b.unit.78">thank</word>
+<word id="le181150.b.unit.79">you</word>
+<word id="le181150.b.unit.90">thanks</word>
+<sil BTlength="12s" id="le181150.b.unit.91"/>
+<comment text="rings_twice" id="le181150.b.unit.92"/>
+<sil BTlength="" id="le181150.b.unit.93"/>
+<word id="le181150.b.unit.146">hello</word>
+<word id="le181150.b.unit.161">huh</word>
+<word id="le181150.b.unit.162">alright</word>
+<word id="le181150.b.unit.163">then</word>
+<word id="le181150.b.unit.165">thank</word>
+<word id="le181150.b.unit.166">you</word>
+<word id="le181150.b.unit.169">see</word>
+<word id="le181150.b.unit.170">you</word>
+<word id="le181150.b.unit.172">bye</word>
+<comment text="hang_up" id="le181150.b.unit.173"/>
+<comment text="end-ok" id="le181150.b.unit.174"/>
+</nite:root>

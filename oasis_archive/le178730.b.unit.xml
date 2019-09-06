@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le178730.unit.b">
+<word id="le178730.b.unit.2">hi</word>
+<word id="le178730.b.unit.3">i'm</word>
+<word id="le178730.b.unit.4">trying</word>
+<word id="le178730.b.unit.5">to</word>
+<word id="le178730.b.unit.6">get</word>
+<word id="le178730.b.unit.7">through</word>
+<word id="le178730.b.unit.8">to</word>
+<word id="le178730.b.unit.9">a</word>
+<word id="le178730.b.unit.10">number</word>
+<num id="le178730.b.unit.11"/>
+<num id="le178730.b.unit.12"/>
+<num id="le178730.b.unit.13"/>
+<num id="le178730.b.unit.14"/>
+<num id="le178730.b.unit.15"/>
+<num id="le178730.b.unit.16"/>
+<word id="le178730.b.unit.23">yeah</word>
+<word id="le178730.b.unit.24">that's</word>
+<word id="le178730.b.unit.25">it</word>
+<num id="le178730.b.unit.31"/>
+<num id="le178730.b.unit.32"/>
+<num id="le178730.b.unit.33"/>
+<num id="le178730.b.unit.34"/>
+<num id="le178730.b.unit.35"/>
+<num id="le178730.b.unit.36"/>
+<word id="le178730.b.unit.46">it</word>
+<word id="le178730.b.unit.47">just</word>
+<word id="le178730.b.unit.48">say's</word>
+<word id="le178730.b.unit.49">it's</word>
+<word id="le178730.b.unit.50">not</word>
+<word id="le178730.b.unit.51">available</word>
+<word id="le178730.b.unit.61">thank</word>
+<word id="le178730.b.unit.62">you</word>
+<sil BTlength="" id="le178730.b.unit.63"/>
+<word id="le178730.b.unit.79">oh</word>
+<word id="le178730.b.unit.80">don't</word>
+<word id="le178730.b.unit.81">they</word>
+<word id="le178730.b.unit.82">oh</word>
+<word id="le178730.b.unit.83">right</word>
+<word id="le178730.b.unit.84">okay</word>
+<word id="le178730.b.unit.85">fair</word>
+<word id="le178730.b.unit.86">enough</word>
+<bcanchor id="le178730.bcanchorb.1"><nite:pointer href="le178730.a.lturn.xml#id(le178730.lturn.12.1)" role="bc"/></bcanchor>
+<word id="le178730.b.unit.88">thank</word>
+<word id="le178730.b.unit.89">you</word>
+</nite:root>

@@ -1,0 +1,7 @@
+b|oh sorry|expressRegret
+b|i didn't want the operator|inform
+b|i wanted thank you very much byebye|informIntent
+b|thank you very much|thank
+a|thank you|thank
+a|byebye|bye
+b|byebye|bye

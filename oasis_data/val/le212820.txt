@@ -1,0 +1,89 @@
+b|oh hello|greet
+b|could you help me|direct
+b|there's been somebody phoning me all afternoon|inform
+b|and it's every couple of minutes|inform
+b|and every time i get to the phone it's dead|inform
+b|and i pressed and it's given me a number but it's it's a fax line for somebody but i just thought yeah i just don't i've had you know sort of faxes come through before at oddly hours but not one that's rang every couple of minutes for like hours it's just driving me mad right it's just the same number and i mean i've got an answer fax phone and it's on answer fax so if they try to send me a fax then it should take the fax but it's only ringing twice and then they keep stopping no no i don't know what they're doing but it's it's mm it's driving me mad ok i've rung that number and it's just a fax tone in me ear well i don't know who it is really or what to say i don't want i'm not personally expecting any faxes but i don't want to send some snotty fax because my husband's away during the week if he's expecting a fax but he would normally say but i say normally even if they have a problem within a couple of calls it's sorted but not this length of time well like i'll just i'll switch the phone on to telephone only and let it let it go that's ok thanks very much thanks very much bye|inform
+b|and it's given me a number|inform
+b|but it's it's a fax line for somebody|inform
+b|but i just thought|expressOpinion
+a|it's a fax line oh|confirm
+b|yeah|ackn
+a|yeah|ackn
+a|i bet you're i bet your um number's been programmed in um|expressOpinion
+b|i've had you know sort of faxes come through before at oddly hours but not one that's rang every couple of minutes for like hours|inform
+b|it's just driving me mad|raiseIssue
+a|no|backch
+a|it's|backch
+a|yeah|ackn
+a|it will do um|accept
+a|what you'll need to do|refer
+a|i mean we do have a department which deals with nuisance calls on if you'd like to give them a ring and uh oh so you i mean you you are expecting a fax are you oh you're not expecting a fax i i mean you think they're dialling a wrong number right i think it's obviously been programmed in and it's doing it automatically by the sounds of things yeah well it will do yes i i mean it needs to be sorted have a word with and and let them take it up for you um other than that the number that's sending it to you you could perhaps yeah and you've not got a fax you could send no no yeah yeah yeah um you know obviously there's a hiccup their end i would think if it's i think probably it's programmed in and it's doing it automatically by the sounds of it yeah ok but certainly i mean if it if it continues or you want to have a call uh uh uh a word with your nuisance calls bureau they'll take it up for you uh yes and then you ask for the nuisance calls bureau ok byebye|inform
+b|right|ackn
+a|if you'd like to give them a ring and uh|suggest
+b|it's just the same number|inform
+b|and i mean i've got an answer fax phone|inform
+b|and it's on answer fax|inform
+b|so|init
+b|if they try to send me a fax|inform
+b|then it should take the fax|inform
+b|but it's only ringing twice and then they keep stopping|inform
+a|oh|ackn
+a|so|init
+a|you i mean you you are expecting a fax are you|reqInfo
+b|no|answ
+a|oh|ackn
+a|you're not expecting a fax|confirm
+a|i i mean you think they're dialling a wrong number|reqInfo
+b|no|backch
+b|i don't know what they're doing|expressOpinion
+a|right|ackn
+b|but it's it's|inform
+a|i think it's obviously been programmed in|expressOpinion
+a|and it's doing it automatically by the sounds of things|expressOpinion
+b|mm it's driving me mad|raiseIssue
+a|yeah|ackn
+a|well|init
+a|it will do|accept
+a|yes|ackn
+a|i i mean it needs to be sorted|inform
+a|have a word with and|direct
+a|and let them take it up for you um|direct
+a|other than that the number that's sending it to you|refer
+a|you could perhaps|suggest
+b|ok|backch
+b|i've rung that number|inform
+b|and it's just a fax tone in me ear|inform
+a|yeah|ackn
+a|and you've not got a fax you could send|reqInfo
+b|well|init
+b|i don't know who it is really or what to say|inform
+b|i don't want i'm not personally expecting any faxes|inform
+b|but i don't want to send some snotty fax|inform
+b|because my husband's away during the week|inform
+b|if he's expecting a fax|inform
+b|but he would normally say|inform
+b|but i say normally even if they have a problem within a couple of calls|inform
+b|it's sorted but not this length of time|inform
+a|no|backch
+a|no|backch
+a|yeah|backch
+a|yeah|backch
+a|yeah|ackn
+a|um you know obviously there's a hiccup their end i would think|expressOpinion
+a|and it's doing it automatically by the sounds of it|expressOpinion
+b|well|init
+b|like i'll just i'll switch the phone on to telephone only and let it let it go|informIntent
+a|yeah|backch
+a|ok|accept
+a|if it if it continues or you want to have a call uh uh uh a word with your nuisance calls bureau|inform
+a|they'll take it up for you|inform
+b|that's ok thanks very much thanks very much bye|confirm
+a|uh yes|ackn
+a|and then you ask for the nuisance calls bureau|inform
+b|ok|ackn
+b|thanks very much|thank
+a|ok|init
+a|byebye|bye
+b|thanks very much|backch
+b|bye|bye

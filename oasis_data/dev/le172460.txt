@@ -1,0 +1,22 @@
+b|hello love|greet
+b|erm could you give erm find out what's happened on line that is double i've been ringing all day the phone is ringing ring ring ring and then nobody's picking up or answering none at all hello hmm i've been ringing from ten o clock this morning they just don't pick up the call okay sweetheart thank you this is better than not|direct
+b|that is double|directElab
+b|i've been ringing all day the phone is ringing ring ring ring and then nobody's picking up or answering none at all hello hmm i've been ringing from ten o clock this morning they just don't pick up the call okay sweetheart thank you this is better than not|inform
+b|the phone is ringing ring ring ring|inform
+b|and then nobody's picking up or answering|inform
+a|sorry and there's just no reply from the number at all i'm sorry i'll just try the call for you hello if you hold the line for me a moment i'm going to do a test to make sure that there are no faults on the actual line i'm just waiting for another response from the test system hmm|backch
+a|and there's just no reply from the number at all|confirm
+b|none at all|ackn
+a|i'm sorry|expressRegret
+a|i'll just try the call for you hello if you hold the line for me a moment i'm going to do a test to make sure that there are no faults on the actual line i'm just waiting for another response from the test system hmm|informIntent
+a|hello|greet
+a|if you hold the line for me a moment|hold
+a|i'm going to do a test to make sure that there are no faults on the actual line|informIntent
+b|hello|backch
+b|hmm i've been ringing from ten o clock this morning|inform
+b|they just don't pick up the call okay sweetheart thank you this is better than not|inform
+a|i'm just waiting for another response from the test system|hold
+b|okay sweetheart|accept
+b|thank you|thank
+b|this is better than not|appreciate
+a|hmm|backch

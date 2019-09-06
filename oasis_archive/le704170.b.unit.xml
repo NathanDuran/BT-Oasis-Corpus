@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le704170.unit.b">
+<word id="le704170.b.unit.2">hello</word>
+<word id="le704170.b.unit.3">um</word>
+<word id="le704170.b.unit.4">could</word>
+<word id="le704170.b.unit.5">i</word>
+<word id="le704170.b.unit.6">have</word>
+<sil BTlength="" id="le704170.b.unit.7"/>
+<word id="le704170.b.unit.8">an</word>
+<word id="le704170.b.unit.9">alarm</word>
+<word id="le704170.b.unit.10">call</word>
+<word id="le704170.b.unit.11">in</word>
+<word id="le704170.b.unit.12">the</word>
+<word id="le704170.b.unit.13">morning</word>
+<word id="le704170.b.unit.14">please</word>
+<word id="le704170.b.unit.22">um</word>
+<word id="le704170.b.unit.23">nine</word>
+<word id="le704170.b.unit.24">forty</word>
+<sil BTlength="" id="le704170.b.unit.27"/>
+<word id="le704170.b.unit.28">yeah</word>
+<word id="le704170.b.unit.37">thank</word>
+<word id="le704170.b.unit.38">you</word>
+<word id="le704170.b.unit.39">very</word>
+<word id="le704170.b.unit.40">much</word>
+<word id="le704170.b.unit.43">byebye</word>
+<comment text="receiver_replaced" id="le704170.b.unit.44"/>
+<comment text="end-ok" id="le704170.b.unit.45"/>
+</nite:root>

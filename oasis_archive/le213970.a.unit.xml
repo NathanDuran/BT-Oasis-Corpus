@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le213970.unit.a">
+<stdzcode id="le213970.a.unit.1" description="name"/>
+<word id="le213970.a.unit.16">yeah</word>
+<word id="le213970.a.unit.32">uh</word>
+<word id="le213970.a.unit.33">it</word>
+<word id="le213970.a.unit.34">could</word>
+<word id="le213970.a.unit.35">mean</word>
+<word id="le213970.a.unit.36">that's</word>
+<word id="le213970.a.unit.37">uh</word>
+<word id="le213970.a.unit.38">no</word>
+<word id="le213970.a.unit.39">longer</word>
+<word id="le213970.a.unit.40">in</word>
+<word id="le213970.a.unit.41">use</word>
+<word id="le213970.a.unit.42">the</word>
+<word id="le213970.a.unit.43">number</word>
+<sil BTlength="" id="le213970.a.unit.44"/>
+<word id="le213970.a.unit.45">or</word>
+<word id="le213970.a.unit.46">that</word>
+<word id="le213970.a.unit.47">the</word>
+<word id="le213970.a.unit.48">number's</word>
+<word id="le213970.a.unit.49">changed</word>
+<sil BTlength="" id="le213970.a.unit.50"/>
+<bcanchor id="le213970.bcanchora.2"><nite:pointer href="le213970.b.lturn.xml#id(le213970.lturn.3.1)" role="bc"/></bcanchor>
+<word id="le213970.a.unit.52">how</word>
+<word id="le213970.a.unit.53">recent</word>
+<word id="le213970.a.unit.54">is</word>
+<word id="le213970.a.unit.55">the</word>
+<word id="le213970.a.unit.56">is</word>
+<word id="le213970.a.unit.57">the</word>
+<word id="le213970.a.unit.58">yellow</word>
+<word id="le213970.a.unit.59">pages</word>
+<word id="le213970.a.unit.66">uh</word>
+<word id="le213970.a.unit.67">i</word>
+<word id="le213970.a.unit.68">think</word>
+<word id="le213970.a.unit.69">that's</word>
+<word id="le213970.a.unit.70">probably</word>
+<num id="le213970.a.unit.71"/>
+<num id="le213970.a.unit.72"/>
+<word id="le213970.a.unit.74">uh</word>
+<word id="le213970.a.unit.75">yeah</word>
+<word id="le213970.a.unit.76">i</word>
+<word id="le213970.a.unit.77">think</word>
+<word id="le213970.a.unit.78">that's</word>
+<word id="le213970.a.unit.79">probably</word>
+<word id="le213970.a.unit.80">why</word>
+<word id="le213970.a.unit.81">i</word>
+<word id="le213970.a.unit.82">think</word>
+<bcanchor id="le213970.bcanchora.3"><nite:pointer href="le213970.b.lturn.xml#id(le213970.lturn.7.1)" role="bc"/></bcanchor>
+<word id="le213970.a.unit.84">it's</word>
+<word id="le213970.a.unit.85">probably</word>
+<word id="le213970.a.unit.86">out</word>
+<word id="le213970.a.unit.87">of</word>
+<word id="le213970.a.unit.88">date</word>
+<word id="le213970.a.unit.92">ok</word>
+<word id="le213970.a.unit.93">then</word>
+<word id="le213970.a.unit.96">thank</word>
+<word id="le213970.a.unit.97">you</word>
+<word id="le213970.a.unit.98">byebye</word>
+<comment text="hang_up" id="le213970.a.unit.99"/>
+<comment text="end-ok" id="le213970.a.unit.100"/>
+</nite:root>

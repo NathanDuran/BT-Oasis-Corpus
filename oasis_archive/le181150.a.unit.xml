@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le181150.unit.a">
+<stdzcode id="le181150.a.unit.1" description="name"/>
+<word id="le181150.a.unit.15">er</word>
+<word id="le181150.a.unit.16">yes</word>
+<word id="le181150.a.unit.17">i</word>
+<word id="le181150.a.unit.18">can</word>
+<word id="le181150.a.unit.19">try</word>
+<word id="le181150.a.unit.20">what</word>
+<word id="le181150.a.unit.21">number</word>
+<word id="le181150.a.unit.22">is</word>
+<word id="le181150.a.unit.23">it</word>
+<word id="le181150.a.unit.24">that</word>
+<word id="le181150.a.unit.25">you're</word>
+<word id="le181150.a.unit.26">trying</word>
+<word id="le181150.a.unit.27">to</word>
+<word id="le181150.a.unit.28">get</word>
+<word id="le181150.a.unit.29">through</word>
+<word id="le181150.a.unit.34">yeah</word>
+<num id="le181150.a.unit.39"/>
+<num id="le181150.a.unit.40"/>
+<num id="le181150.a.unit.41"/>
+<num id="le181150.a.unit.42"/>
+<num id="le181150.a.unit.46"/>
+<num id="le181150.a.unit.47"/>
+<num id="le181150.a.unit.48"/>
+<bcanchor id="le181150.bcanchora.2"><nite:pointer href="le181150.b.lturn.xml#id(le181150.lturn.7.1)" role="bc"/></bcanchor>
+<sil BTlength="" id="le181150.a.unit.50"/>
+<partword id="le181150.a.unit.51">right</partword>
+<word id="le181150.a.unit.52">hold</word>
+<word id="le181150.a.unit.53">on</word>
+<word id="le181150.a.unit.54">cause</word>
+<word id="le181150.a.unit.55">i</word>
+<word id="le181150.a.unit.56">think</word>
+<word id="le181150.a.unit.57">that's</word>
+<word id="le181150.a.unit.58">a</word>
+<pncode type="business" id="le181150.a.unit.59"/>
+<pncode type="business" id="le181150.a.unit.60"/>
+<word id="le181150.a.unit.61">number</word>
+<word id="le181150.a.unit.62">ain't</word>
+<word id="le181150.a.unit.63">it</word>
+<word id="le181150.a.unit.67">right</word>
+<word id="le181150.a.unit.68">hold</word>
+<word id="le181150.a.unit.69">on</word>
+<word id="le181150.a.unit.70">i'll</word>
+<word id="le181150.a.unit.71">just</word>
+<word id="le181150.a.unit.72">check</word>
+<word id="le181150.a.unit.73">with</word>
+<word id="le181150.a.unit.74">the</word>
+<pncode type="business" id="le181150.a.unit.75"/>
+<pncode type="business" id="le181150.a.unit.76"/>
+<word id="le181150.a.unit.77">operator</word>
+<bcanchor id="le181150.bcanchora.3"><nite:pointer href="le181150.b.lturn.xml#id(le181150.lturn.9.1)" role="bc"/></bcanchor>
+<word id="le181150.a.unit.80">see</word>
+<word id="le181150.a.unit.81">if</word>
+<word id="le181150.a.unit.82">we</word>
+<word id="le181150.a.unit.83">can</word>
+<word id="le181150.a.unit.84">find</word>
+<word id="le181150.a.unit.85">out</word>
+<word id="le181150.a.unit.86">won't</word>
+<word id="le181150.a.unit.87">be</word>
+<word id="le181150.a.unit.88">a</word>
+<word id="le181150.a.unit.89">moment</word>
+<word id="le181150.a.unit.97">oh</word>
+<word id="le181150.a.unit.98">hello</word>
+<word id="le181150.a.unit.99">it's</word>
+<lcode id="le181150.a.unit.100"/>
+<lcode id="le181150.a.unit.101"/>
+<pncode type="town" id="le181150.a.unit.102"/>
+<word id="le181150.a.unit.103">here</word>
+<word id="le181150.a.unit.104">can</word>
+<word id="le181150.a.unit.105">you</word>
+<word id="le181150.a.unit.106">just</word>
+<word id="le181150.a.unit.107">verify</word>
+<word id="le181150.a.unit.108">busy</word>
+<word id="le181150.a.unit.109">on</word>
+<word id="le181150.a.unit.110">one</word>
+<word id="le181150.a.unit.111">of</word>
+<word id="le181150.a.unit.112">your</word>
+<word id="le181150.a.unit.113">numbers</word>
+<word id="le181150.a.unit.114">for</word>
+<bcanchor id="le181150.bcanchora.4"><nite:pointer href="le181150.x.lturn.xml#id(le181150.lturn.12.1)" role="bc"/></bcanchor>
+<word id="le181150.a.unit.116">us</word>
+<word id="le181150.a.unit.117">it's</word>
+<num id="le181150.a.unit.118"/>
+<word id="le181150.a.unit.119">double</word>
+<num id="le181150.a.unit.120"/>
+<num id="le181150.a.unit.121"/>
+<bcanchor id="le181150.bcanchora.5"><nite:pointer href="le181150.x.lturn.xml#id(le181150.lturn.12.2)" role="bc"/></bcanchor>
+<num id="le181150.a.unit.123"/>
+<num id="le181150.a.unit.124"/>
+<num id="le181150.a.unit.125"/>
+<bcanchor id="le181150.bcanchora.6"><nite:pointer href="le181150.x.lturn.xml#id(le181150.lturn.12.3)" role="bc"/></bcanchor>
+<num id="le181150.a.unit.127"/>
+<num id="le181150.a.unit.128"/>
+<num id="le181150.a.unit.129"/>
+<num id="le181150.a.unit.130"/>
+<sil BTlength="17s" id="le181150.a.unit.131"/>
+<word id="le181150.a.unit.135">oh</word>
+<word id="le181150.a.unit.136">great</word>
+<word id="le181150.a.unit.137">thanks</word>
+<word id="le181150.a.unit.138">a</word>
+<word id="le181150.a.unit.139">lot</word>
+<word id="le181150.a.unit.140">then</word>
+<word id="le181150.a.unit.142">byebye</word>
+<sil BTlength="" id="le181150.a.unit.143"/>
+<word id="le181150.a.unit.144">hello</word>
+<word id="le181150.a.unit.145">there</word>
+<word id="le181150.a.unit.147">right</word>
+<word id="le181150.a.unit.148">i've</word>
+<word id="le181150.a.unit.149">just</word>
+<word id="le181150.a.unit.150">checked</word>
+<word id="le181150.a.unit.151">with</word>
+<pncode type="business" id="le181150.a.unit.152"/>
+<word id="le181150.a.unit.153">apparently</word>
+<word id="le181150.a.unit.154">there</word>
+<word id="le181150.a.unit.155">is</word>
+<word id="le181150.a.unit.156">a</word>
+<word id="le181150.a.unit.157">conversation</word>
+<word id="le181150.a.unit.158">on</word>
+<word id="le181150.a.unit.159">the</word>
+<word id="le181150.a.unit.160">line</word>
+<word id="le181150.a.unit.164">ok</word>
+<word id="le181150.a.unit.167">you're</word>
+<word id="le181150.a.unit.168">welcome</word>
+<word id="le181150.a.unit.171">byebye</word>
+</nite:root>

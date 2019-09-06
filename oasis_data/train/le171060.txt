@@ -1,0 +1,18 @@
+b|oh hello|greet
+b|can you try for me please|direct
+a|i'm sorry|pardon
+b|can you try a number for me please|direct
+a|certainly|accept
+a|what difficulty were you having|reqInfo
+b|i'm just getting a dead|answ
+a|i'm sorry|expressRegret
+a|what's the code and number please|reqInfo
+b|it's thanks oh super thank you bye bye|answ
+a|thank you|thank
+b|thanks|thank
+a|that's ringing for you|inform
+b|oh super|appreciate
+b|thank you|thank
+a|thank you|thank
+a|bye bye|bye
+b|bye bye|bye

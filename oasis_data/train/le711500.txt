@@ -1,0 +1,28 @@
+b|is alarm clock please|direct
+a|sorry|pardon
+b|an alarm clock|direct
+a|uh alarm call|correct
+a|thank you|thank
+a|what time would you like the call|reqDirect
+b|yes love|backch
+b|this morning half past six|direct
+a|half past six|echo
+b|yes love|ackn
+a|will you just hold the line while i try to confirm that for you|informIntent-hold
+a|ok|ackn
+a|if you'd just hold the line for me one moment i can call you at six twenty five or six thirty five which would you prefer ok that's fine that's booked for you ok thank you bye|hold
+a|i can call you at six twenty five or six thirty five|expressPossibility
+a|which would you prefer|reqDirect
+b|ok|backch
+b|if six twenty five|direct
+a|ok|accept
+a|that's fine|accept
+a|that's booked for you|inform
+b|ok love|backch
+b|yeah|ackn
+b|ok love|ackn
+a|ok|ackn
+a|thank you|thank
+a|bye|bye
+b|bye|bye
+b|bye bye|bye

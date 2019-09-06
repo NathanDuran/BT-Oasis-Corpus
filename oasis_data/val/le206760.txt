@@ -1,0 +1,11 @@
+b|i don't know if i've got the right number|inform
+b|i want to check a number|expressWish
+a|what difficulty you're having with the number please|reqInfo
+b|um i'm i'm getting a voice at the other end that says this number is not recognised|answ
+a|i'm sorry|expressRegret
+a|i'll try the call for you|informIntent
+a|what code and number are you calling|reqInfo
+b|it's thank you|answ
+a|thank you it's ringing for you now you're welcome|thank
+b|thank you|thank
+a|you're welcome|ackn

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le214440.unit.a">
+<stdzcode id="le214440.a.unit.1" description="name"/>
+<word id="le214440.a.unit.11">pardon</word>
+<word id="le214440.a.unit.28">ye</word>
+<partword id="le214440.a.unit.29">yeah</partword>
+<word id="le214440.a.unit.33">no</word>
+<word id="le214440.a.unit.34">it</word>
+<word id="le214440.a.unit.35">isn't</word>
+<word id="le214440.a.unit.45">you</word>
+<word id="le214440.a.unit.46">want</word>
+<word id="le214440.a.unit.47">international</word>
+<word id="le214440.a.unit.48">it's</word>
+<num id="le214440.a.unit.49"/>
+<num id="le214440.a.unit.50"/>
+<num id="le214440.a.unit.51"/>
+<word id="le214440.a.unit.52">shall</word>
+<bcanchor id="le214440.bcanchora.1"><nite:pointer href="le214440.b.lturn.xml#id(le214440.lturn.9.1)" role="bc"/></bcanchor>
+<word id="le214440.a.unit.54">i</word>
+<word id="le214440.a.unit.55">transfer</word>
+<word id="le214440.a.unit.56">you</word>
+<comment text="cont." id="le214440.a.unit.57"/>
+<word id="le214440.a.unit.63">thank</word>
+<word id="le214440.a.unit.64">you</word>
+<word id="le214440.a.unit.68">thank</word>
+<word id="le214440.a.unit.69">you</word>
+<word id="le214440.a.unit.70">are</word>
+<word id="le214440.a.unit.71">queuing</word>
+<bcanchor id="le214440.bcanchora.2"><nite:pointer href="le214440.b.lturn.xml#id(le214440.lturn.13.1)" role="bc"/></bcanchor>
+<word id="le214440.a.unit.74">your</word>
+<word id="le214440.a.unit.75">call</word>
+<word id="le214440.a.unit.76">now</word>
+</nite:root>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le208410.lturn.a' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le208410.lturn.1'>
+
+
+<utt id='le208410.utt.1'>
+
+<segment type='frag' sp-act='identifySelf' id='le208410.frag.1'>
+<nite:child href='le208410.a.unit.xml#id(le208410.a.unit.1)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le208410.lturn.3'>
+
+
+<utt id='le208410.utt.8'>
+
+<segment type='decl' sp-act='reqInfo' id='le208410.decl.5'>
+<nite:child href='le208410.a.unit.xml#id(le208410.a.unit.51)..id(le208410.a.unit.57)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le208410.lturn.5'>
+
+
+<utt id='le208410.utt.11'>
+
+<segment type='dm' sp-act='init' id='le208410.dm.1'>
+<nite:child href='le208410.a.unit.xml#id(le208410.a.unit.68)'/>
+</segment>
+
+<segment type='decl' sp-act='answ' id='le208410.decl.7'>
+<nite:child href='le208410.a.unit.xml#id(le208410.a.unit.69)..id(le208410.a.unit.70)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le208410.lturn.7'>
+
+
+<utt id='le208410.utt.13'>
+
+<segment type='decl' sp-act='inform' id='le208410.decl.8'>
+<nite:child href='le208410.a.unit.xml#id(le208410.a.unit.75)..id(le208410.a.unit.84)'/>
+</segment>
+
+</utt>
+
+<utt id='le208410.utt.14'>
+
+<segment type='decl' sp-act='suggest' id='le208410.decl.9'>
+<nite:child href='le208410.a.unit.xml#id(le208410.a.unit.85)..id(le208410.a.unit.88)'/>
+</segment>
+
+</utt>
+
+<utt id='le208410.utt.15'>
+
+<segment type='decl' sp-act='expressOpinion' id='le208410.decl.10'>
+<nite:child href='le208410.a.unit.xml#id(le208410.a.unit.89)..id(le208410.a.unit.93)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le208410.lturn.9'>
+
+
+<utt id='le208410.utt.17'>
+
+<segment type='yes' sp-act='ackn' id='le208410.yes.3'>
+<nite:child href='le208410.a.unit.xml#id(le208410.a.unit.95)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le208410.lturn.11'>
+
+
+<utt id='le208410.utt.19'>
+
+<segment type='dm' sp-act='init' id='le208410.dm.2'>
+<nite:child href='le208410.a.unit.xml#id(le208410.a.unit.99)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

@@ -1,0 +1,6 @@
+b|yes|ackn
+b|good morning|greet
+b|it's in connection with a phone service|inform
+a|right sir|ackn
+b|i've been restricted to incoming calls only i've been diverted to|inform
+b|i've been diverted to|inform

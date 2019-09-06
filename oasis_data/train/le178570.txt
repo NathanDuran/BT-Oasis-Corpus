@@ -1,0 +1,31 @@
+b|er could i have erm er please|direct
+b|i keep trying um|inform
+b|but it keeps saying some that you know that um that they're engaged on another line|inform
+b|and you know it's not yeah|inform
+b|i know it sounds daft he can't be engaged on another line cause he's only got one line and there is someone there er oh gosh thanks hello he is on another call and yet like i've been round to the house and i can't see anyone anywhere and i can see where the phone is and it's important i get hold of him well i'll keep trying thank you very much bye|inform
+b|he can't be engaged on another line|inform
+b|cause he's only got one line and there is someone there er oh gosh thanks hello he is on another call and yet like i've been round to the house and i can't see anyone anywhere and i can see where the phone is and it's important i get hold of him well i'll keep trying thank you very much bye|inform
+b|and there is someone there|inform
+a|what's the what's the area code for that number|reqInfo
+b|er oh gosh thanks hello he is on another call and yet like i've been round to the house and i can't see anyone anywhere and i can see where the phone is and it's important i get hold of him well i'll keep trying thank you very much bye|answ
+a|thank you hello yeah that's the call waiting facility he's on another call at the moment yeah well i'm sorry but okay bye bye|thank
+a|hello|greet
+a|yeah|init
+a|that's the call waiting facility|inform
+a|he's on another call at the moment|inform
+b|thanks|backch
+b|hello|backch
+b|he is on another call|confirm
+b|and yet like i've been round to the house|inform
+b|and i can't see anyone anywhere|inform
+b|and i can see where the phone is|inform
+b|and it's important i get hold of him|inform
+a|yeah|backch
+a|well|init
+a|i'm sorry but|expressRegret
+b|well|init
+b|i'll keep trying|informIntent
+b|thank you very much|thank
+a|okay|init
+a|bye bye|bye
+b|bye|bye

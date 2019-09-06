@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le215110.unit.b">
+<word id="le215110.b.unit.2">ah</word>
+<word id="le215110.b.unit.3">hello</word>
+<word id="le215110.b.unit.4">um</word>
+<sil BTlength="" id="le215110.b.unit.5"/>
+<word id="le215110.b.unit.6">uh</word>
+<word id="le215110.b.unit.7">i've</word>
+<word id="le215110.b.unit.8">tried</word>
+<word id="le215110.b.unit.9">the</word>
+<pncode type="business" id="le215110.b.unit.10"/>
+<pncode type="business" id="le215110.b.unit.11"/>
+<bcanchor id="le215110.bcanchorb.1"><nite:pointer href="le215110.a.lturn.xml#id(le215110.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le215110.b.unit.13">um</word>
+<word id="le215110.b.unit.14">and</word>
+<word id="le215110.b.unit.15">i</word>
+<word id="le215110.b.unit.16">can't</word>
+<word id="le215110.b.unit.17">seem</word>
+<word id="le215110.b.unit.18">to</word>
+<word id="le215110.b.unit.19">get</word>
+<word id="le215110.b.unit.20">the</word>
+<word id="le215110.b.unit.21">number</word>
+<sil BTlength="" id="le215110.b.unit.22"/>
+<word id="le215110.b.unit.23">of</word>
+<pncode type="town" id="le215110.b.unit.24"/>
+<word id="le215110.b.unit.25">railway</word>
+<word id="le215110.b.unit.26">station</word>
+<word id="le215110.b.unit.40">please</word>
+</nite:root>

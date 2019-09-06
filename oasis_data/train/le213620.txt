@@ -1,0 +1,33 @@
+b|hi|greet
+b|yeah|init
+b|i'm not sure if this is the the right number|expressOpinion
+b|but i was wondering if you could tell me the cheap rate to phone please|reqInfo
+b|yeah|ackn
+b|cheap rate|refer
+b|what what times it would be|reqInfo
+a|erm|backch
+a|well|init
+a|we have three rates|answ
+a|the daytime rate runs from eight in the morning till six in the evening that's the most expensive time it's pence a minute the night time rate is from six in the evening through to eight the following morning Monday to Friday that's pence a minute and the weekend rate which is midnight Friday till midnight Sunday is pence a minute and they all include there is not a lot in them really is there uh yes they're oh yeah they're in line with the national calls anyway alright bye|answElab
+a|that's the most expensive time|answElab
+a|it's pence a minute|answElab
+a|the night time rate is from six in the evening through to eight the following morning Monday to Friday|answElab
+a|that's pence a minute and the weekend rate which is midnight Friday till midnight Sunday is pence a minute and they all include there is not a lot in them really is there uh yes they're oh yeah they're in line with the national calls anyway alright bye|answElab
+b|uh|backch
+b|huh huh|ackn
+a|and the weekend rate which is midnight Friday till midnight Sunday is pence a minute|answElab
+a|and they all include|answElab
+a|there is not a lot in them really is there|expressOpinion
+b|ok|backch
+b|no|accept
+b|they're not they're not a great deal|expressOpinion
+a|uh|backch
+a|yes|accept
+a|they're oh yeah they're in line with the national calls anyway|inform
+b|alright|backch
+b|ok|ackn
+b|cheers|thank
+b|thanks very much cheers|thank
+b|bye|bye
+a|alright|backch
+a|bye|backch

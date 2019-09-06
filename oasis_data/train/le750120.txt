@@ -1,0 +1,16 @@
+b|hello|greet
+b|are you able to do anything about er phones being off the hook and sending like alarms down the phone or er anything|reqInfo
+a|right|ackn
+a|you er think you've got a phone and it's off the hook|confirm
+b|er yeah|ackn
+b|it's|inform
+b|well|init
+b|i rang up about twelve and one about every ten minutes or so|inform
+a|right|ackn
+a|what's the code and number please|reqInfo
+b|er it's yeah okay|answ
+a|thank you can you hold the line a moment please thank you|thank
+a|can you hold the line a moment please|hold
+a|thank you|thank
+b|yeah|backch
+b|okay|backch

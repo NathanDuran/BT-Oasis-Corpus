@@ -1,0 +1,30 @@
+b|yes|ackn
+b|hello|greet
+b|i've been trying to get through to a number|inform
+b|but it's engaged|inform
+b|can you tell me if it's if it's left off the hook or if there is conversation going on there please|reqInfo
+a|certainly|answ
+a|i'm sorry|expressRegret
+a|what's the code and number you're calling|reqInfo
+b|it's double okay no entry well i phone that number all the time so i been getting through on it for this last two months ago yeah|answ
+a|double thank you i'll just need to make some enquiries with another operator cause it's actually a cable number i'm sorry i've just made some more enquiries for you and there's actually no entry for that number so i i'm not sure why you're getting the engaged tone yeah there's no entry for that number right i'll check again for you can you hold the line for me a moment|backch
+a|thank you i'll just need to make some enquiries with another operator cause it's actually a cable number i'm sorry i've just made some more enquiries for you and there's actually no entry for that number so i i'm not sure why you're getting the engaged tone yeah there's no entry for that number right i'll check again for you can you hold the line for me a moment|thank
+a|i'll just need to make some enquiries with another operator|informIntent
+a|cause it's actually a cable number i'm sorry i've just made some more enquiries for you and there's actually no entry for that number so i i'm not sure why you're getting the engaged tone yeah there's no entry for that number right i'll check again for you can you hold the line for me a moment|inform
+a|i'm sorry|expressRegret
+a|i've just made some more enquiries for you|inform
+a|and there's actually no entry for that number|inform
+a|so|init
+a|i i'm not sure why you're getting the engaged tone|inform
+b|okay|backch
+b|no entry|echo
+a|yeah|ackn
+a|there's no entry for that number|inform
+b|well|init
+b|i phone that number all the time|inform
+b|so|init
+b|i been getting through on it for this last two months ago|inform
+a|right|ackn
+a|i'll check again for you can you hold the line for me a moment|informIntent
+a|can you hold the line for me a moment|hold
+b|yeah|backch

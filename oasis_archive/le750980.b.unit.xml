@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le750980.unit.b">
+<stdzcode id="le750980.b.unit.2" description="name"/>
+<word id="le750980.b.unit.3">hi</word>
+<word id="le750980.b.unit.4">i</word>
+<word id="le750980.b.unit.5">think</word>
+<word id="le750980.b.unit.6">i've</word>
+<word id="le750980.b.unit.7">just</word>
+<word id="le750980.b.unit.8">spoke</word>
+<word id="le750980.b.unit.9">to</word>
+<word id="le750980.b.unit.10">you</word>
+<word id="le750980.b.unit.11">with</word>
+<word id="le750980.b.unit.12">regard</word>
+<word id="le750980.b.unit.13">to</word>
+<word id="le750980.b.unit.14">the</word>
+<num id="le750980.b.unit.15"/>
+<word id="le750980.b.unit.16">double</word>
+<num id="le750980.b.unit.17"/>
+<num id="le750980.b.unit.18"/>
+<word id="le750980.b.unit.19">code</word>
+<bcanchor id="le750980.bcanchorb.1"><nite:pointer href="le750980.a.lturn.xml#id(le750980.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le750980.b.unit.21">someone</word>
+<word id="le750980.b.unit.22">rang</word>
+<word id="le750980.b.unit.23">me</word>
+<bcanchor id="le750980.bcanchorb.2"><nite:pointer href="le750980.a.lturn.xml#id(le750980.lturn.2.2)" role="bc"/></bcanchor>
+<word id="le750980.b.unit.25">and</word>
+<word id="le750980.b.unit.26">i've</word>
+<word id="le750980.b.unit.27">got</word>
+<word id="le750980.b.unit.28">an</word>
+<word id="le750980.b.unit.29">answerphone</word>
+<word id="le750980.b.unit.30">the</word>
+<word id="le750980.b.unit.31">answerphone</word>
+<word id="le750980.b.unit.32">clicked</word>
+<word id="le750980.b.unit.33">in</word>
+<word id="le750980.b.unit.34">i</word>
+<word id="le750980.b.unit.35">was</word>
+<word id="le750980.b.unit.36">upstairs</word>
+<word id="le750980.b.unit.37">but</word>
+<word id="le750980.b.unit.38">they</word>
+<word id="le750980.b.unit.39">didn't</word>
+<word id="le750980.b.unit.40">leave</word>
+<word id="le750980.b.unit.41">a</word>
+<word id="le750980.b.unit.42">message</word>
+<word id="le750980.b.unit.43">and</word>
+<word id="le750980.b.unit.44">i</word>
+<word id="le750980.b.unit.45">wrote</word>
+<word id="le750980.b.unit.46">down</word>
+<word id="le750980.b.unit.47">the</word>
+<word id="le750980.b.unit.48">number</word>
+<word id="le750980.b.unit.49">that</word>
+<word id="le750980.b.unit.50">they</word>
+<word id="le750980.b.unit.51">that</word>
+<word id="le750980.b.unit.52">was</word>
+<word id="le750980.b.unit.53">on</word>
+<num id="le750980.b.unit.54"/>
+<num id="le750980.b.unit.55"/>
+<num id="le750980.b.unit.56"/>
+<num id="le750980.b.unit.57"/>
+<bcanchor id="le750980.bcanchorb.3"><nite:pointer href="le750980.a.lturn.xml#id(le750980.lturn.2.3)" role="bc"/></bcanchor>
+<word id="le750980.b.unit.59">i</word>
+<word id="le750980.b.unit.60">rang</word>
+<word id="le750980.b.unit.61">you</word>
+<word id="le750980.b.unit.62">to</word>
+<word id="le750980.b.unit.63">get</word>
+<word id="le750980.b.unit.64">the</word>
+<word id="le750980.b.unit.65">area</word>
+<word id="le750980.b.unit.66">for</word>
+<word id="le750980.b.unit.67">the</word>
+<bcanchor id="le750980.bcanchorb.4"><nite:pointer href="le750980.a.lturn.xml#id(le750980.lturn.2.4)" role="bc"/></bcanchor>
+<word id="le750980.b.unit.69">code</word>
+<bcanchor id="le750980.bcanchorb.5"><nite:pointer href="le750980.a.lturn.xml#id(le750980.lturn.2.5)" role="bc"/></bcanchor>
+<word id="le750980.b.unit.72">and</word>
+<word id="le750980.b.unit.73">you</word>
+<word id="le750980.b.unit.74">said</word>
+<pncode type="town" id="le750980.b.unit.75"/>
+<bcanchor id="le750980.bcanchorb.6"><nite:pointer href="le750980.a.lturn.xml#id(le750980.lturn.2.6)" role="bc"/></bcanchor>
+<word id="le750980.b.unit.77">i've</word>
+<word id="le750980.b.unit.78">rung</word>
+<word id="le750980.b.unit.79">the</word>
+<word id="le750980.b.unit.80">number</word>
+<word id="le750980.b.unit.81">back</word>
+<word id="le750980.b.unit.82">and</word>
+<word id="le750980.b.unit.83">nobody's</word>
+<word id="le750980.b.unit.84">answered</word>
+<word id="le750980.b.unit.87">no</word>
+<num id="le750980.b.unit.96"/>
+<word id="le750980.b.unit.97">double</word>
+<num id="le750980.b.unit.98"/>
+<num id="le750980.b.unit.99"/>
+<num id="le750980.b.unit.104"/>
+<num id="le750980.b.unit.105"/>
+<num id="le750980.b.unit.106"/>
+<num id="le750980.b.unit.110"/>
+<num id="le750980.b.unit.111"/>
+<num id="le750980.b.unit.112"/>
+<num id="le750980.b.unit.113"/>
+<word id="le750980.b.unit.120">i</word>
+<partword id="le750980.b.unit.121">d</partword>
+<word id="le750980.b.unit.122">i</word>
+<word id="le750980.b.unit.123">don't</word>
+<word id="le750980.b.unit.124">know</word>
+<word id="le750980.b.unit.125">anyone</word>
+<word id="le750980.b.unit.126">who</word>
+<word id="le750980.b.unit.127">lives</word>
+<word id="le750980.b.unit.128">in</word>
+<pncode type="town" id="le750980.b.unit.129"/>
+<word id="le750980.b.unit.135">oh</word>
+<word id="le750980.b.unit.136">really</word>
+<word id="le750980.b.unit.137">oh</word>
+<word id="le750980.b.unit.138">how</word>
+<word id="le750980.b.unit.139">bizarre</word>
+<word id="le750980.b.unit.148">no</word>
+<word id="le750980.b.unit.149">i</word>
+<word id="le750980.b.unit.150">don't</word>
+<bcanchor id="le750980.bcanchorb.8"><nite:pointer href="le750980.a.lturn.xml#id(le750980.lturn.14.1)" role="bc"/></bcanchor>
+<word id="le750980.b.unit.153">i</word>
+<word id="le750980.b.unit.154">rang</word>
+<word id="le750980.b.unit.155">them</word>
+<word id="le750980.b.unit.156">back</word>
+<word id="le750980.b.unit.157">and</word>
+<word id="le750980.b.unit.158">it</word>
+<word id="le750980.b.unit.159">just</word>
+<word id="le750980.b.unit.160">kept</word>
+<word id="le750980.b.unit.161">ringing</word>
+<word id="le750980.b.unit.162">and</word>
+<word id="le750980.b.unit.163">ringing</word>
+<word id="le750980.b.unit.164">so</word>
+<word id="le750980.b.unit.165">i</word>
+<word id="le750980.b.unit.166">suppose</word>
+<word id="le750980.b.unit.167">they</word>
+<word id="le750980.b.unit.168">must</word>
+<word id="le750980.b.unit.169">have</word>
+<word id="le750980.b.unit.170">rung</word>
+<word id="le750980.b.unit.171">from</word>
+<word id="le750980.b.unit.172">there</word>
+<word id="le750980.b.unit.173">and</word>
+<word id="le750980.b.unit.174">then</word>
+<word id="le750980.b.unit.175">gone</word>
+<word id="le750980.b.unit.176">on</word>
+<word id="le750980.b.unit.182">yeah</word>
+<word id="le750980.b.unit.183">okay</word>
+<word id="le750980.b.unit.184">then</word>
+<word id="le750980.b.unit.185">thanks</word>
+<word id="le750980.b.unit.188">bye</word>
+<comment text="end_-_ok" id="le750980.b.unit.189"/>
+</nite:root>

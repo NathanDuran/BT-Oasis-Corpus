@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le712010.unit.b">
+<word id="le712010.b.unit.2">hello</word>
+<bcanchor id="le712010.bcanchorb.1"><nite:pointer href="le712010.a.lturn.xml#id(le712010.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le712010.b.unit.4">can</word>
+<word id="le712010.b.unit.5">you</word>
+<word id="le712010.b.unit.6">um</word>
+<word id="le712010.b.unit.7">give</word>
+<word id="le712010.b.unit.8">me</word>
+<word id="le712010.b.unit.9">the</word>
+<word id="le712010.b.unit.10">number</word>
+<word id="le712010.b.unit.11">of</word>
+<pncode type="town" id="le712010.b.unit.12"/>
+<word id="le712010.b.unit.13">train</word>
+<word id="le712010.b.unit.14">station</word>
+<word id="le712010.b.unit.15">please</word>
+<word id="le712010.b.unit.33">oh</word>
+<word id="le712010.b.unit.34">yes</word>
+<word id="le712010.b.unit.35">please</word>
+</nite:root>

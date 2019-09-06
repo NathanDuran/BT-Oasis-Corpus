@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le717220.unit.a">
+<stdzcode id="le717220.a.unit.1" description="name"/>
+<word id="le717220.a.unit.4">morning</word>
+<word id="le717220.a.unit.21">yes</word>
+<word id="le717220.a.unit.22">it's</word>
+<num id="le717220.a.unit.23"/>
+<num id="le717220.a.unit.24"/>
+<num id="le717220.a.unit.25"/>
+<word id="le717220.a.unit.33">yeah</word>
+<word id="le717220.a.unit.34">do</word>
+<word id="le717220.a.unit.35">you</word>
+<word id="le717220.a.unit.36">want</word>
+<word id="le717220.a.unit.37">connection</word>
+<word id="le717220.a.unit.38">there</word>
+<word id="le717220.a.unit.40">do</word>
+<word id="le717220.a.unit.41">you</word>
+<word id="le717220.a.unit.42">want</word>
+<word id="le717220.a.unit.43">connection</word>
+<word id="le717220.a.unit.49">thank</word>
+<word id="le717220.a.unit.50">you</word>
+<word id="le717220.a.unit.51">no</word>
+<word id="le717220.a.unit.52">problem</word>
+<comment text="end-ok" id="le717220.a.unit.53"/>
+</nite:root>

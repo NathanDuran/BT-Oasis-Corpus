@@ -1,0 +1,29 @@
+b|hi|greet
+b|is there something like a directory assistance but more of a business related one|reqInfo
+b|cause i'm looking for recruitment agencies in ah i tried but they weren't very good last time ok is there not a business is that ok thank you bye are you going to connect me or shall i do it ok thanks cheers|inform
+a|yeah|backch
+a|yeah|answ
+a|that's fine|answElab
+a|i'll put you through to|informIntent
+a|they should be able to help you|inform
+b|ah i tried|inform
+b|but they weren't very good last time|expressOpinion
+b|ok|init
+b|is there not a business is that ok thank you bye are you going to connect me or shall i do it ok thanks cheers|reqInfo
+b|is that|reqInfo
+a|um|backch
+a|yeah|backch
+a|no no no|answ
+a|it's they'll give they'll give you details of all the recruitment agencies in your area ok pleasure yeah yeah don't worry i'm going to put you through|answElab
+a|they'll give they'll give you details of all the recruitment agencies in your area|inform
+b|ok|ackn
+a|ok|init
+b|thank you|thank
+a|pleasure|ackn
+b|bye are you going to connect me or shall i do it ok thanks cheers|bye
+b|are you going to connect me or shall i do it|reqInfo
+a|yeah yeah|ackn
+a|don't worry|direct
+a|i'm going to put you through|informIntent
+b|ok|ackn
+b|thanks cheers|thank

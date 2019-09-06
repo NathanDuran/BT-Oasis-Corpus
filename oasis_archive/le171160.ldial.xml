@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root xmlns:nite='http://nite.sourceforge.net/' id='le171160'>
+<turn_pointer id='le171160.lturn_pointer.1'><nite:child href='le171160.a.lturn.xml#id(le171160.lturn.1)'/></turn_pointer>
+<turn_pointer id='le171160.lturn_pointer.2'><nite:child href='le171160.b.lturn.xml#id(le171160.lturn.2)'/></turn_pointer>
+<turn_pointer id='le171160.lturn_pointer.3'><nite:child href='le171160.a.lturn.xml#id(le171160.lturn.3)'/></turn_pointer>
+<turn_pointer id='le171160.lturn_pointer.4'><nite:child href='le171160.b.lturn.xml#id(le171160.lturn.4)'/></turn_pointer>
+<turn_pointer id='le171160.lturn_pointer.5'><nite:child href='le171160.a.lturn.xml#id(le171160.lturn.5)'/></turn_pointer>
+<turn_pointer id='le171160.lturn_pointer.6'><nite:child href='le171160.b.lturn.xml#id(le171160.lturn.6)'/></turn_pointer>
+<turn_pointer id='le171160.lturn_pointer.7'><nite:child href='le171160.a.lturn.xml#id(le171160.lturn.7)'/></turn_pointer>
+<turn_pointer id='le171160.lturn_pointer.8'><nite:child href='le171160.b.lturn.xml#id(le171160.lturn.8)'/></turn_pointer>
+</nite:root>

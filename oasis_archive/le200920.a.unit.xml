@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le200920.unit.a">
+<stdzcode id="le200920.a.unit.1" description="g"/>
+<word id="le200920.a.unit.5">good</word>
+<word id="le200920.a.unit.6">afternoon</word>
+<word id="le200920.a.unit.29">i'm</word>
+<word id="le200920.a.unit.30">sorry</word>
+<bcanchor id="le200920.bcanchora.1"><nite:pointer href="le200920.b.lturn.xml#id(le200920.lturn.5.1)" role="bc"/></bcanchor>
+<word id="le200920.a.unit.34">about</word>
+<word id="le200920.a.unit.35">that</word>
+<word id="le200920.a.unit.36">i'll</word>
+<word id="le200920.a.unit.37">try</word>
+<word id="le200920.a.unit.38">the</word>
+<word id="le200920.a.unit.39">call</word>
+<word id="le200920.a.unit.40">for</word>
+<word id="le200920.a.unit.41">you</word>
+<word id="le200920.a.unit.42">what's</word>
+<num id="le200920.a.unit.48"/>
+<word id="le200920.a.unit.49">double</word>
+<num id="le200920.a.unit.50"/>
+<num id="le200920.a.unit.51"/>
+<num id="le200920.a.unit.55"/>
+<num id="le200920.a.unit.56"/>
+<num id="le200920.a.unit.57"/>
+<num id="le200920.a.unit.62"/>
+<num id="le200920.a.unit.63"/>
+<word id="le200920.a.unit.64">double</word>
+<num id="le200920.a.unit.65"/>
+<word id="le200920.a.unit.66">thank</word>
+<word id="le200920.a.unit.67">you</word>
+<sil BTlength="13s" id="le200920.a.unit.68"/>
+<word id="le200920.a.unit.69">hold</word>
+<word id="le200920.a.unit.70">the</word>
+<word id="le200920.a.unit.71">line</word>
+<word id="le200920.a.unit.72">please</word>
+<comment text="number_unrecognised_message" id="le200920.a.unit.73"/>
+<word id="le200920.a.unit.74">and</word>
+<word id="le200920.a.unit.75">can</word>
+<word id="le200920.a.unit.76">i</word>
+<word id="le200920.a.unit.77">just</word>
+<word id="le200920.a.unit.78">confirm</word>
+<word id="le200920.a.unit.79">that</word>
+<word id="le200920.a.unit.80">number</word>
+<word id="le200920.a.unit.81">as</word>
+<num id="le200920.a.unit.82"/>
+<num id="le200920.a.unit.83"/>
+<num id="le200920.a.unit.84"/>
+<num id="le200920.a.unit.85"/>
+<num id="le200920.a.unit.86"/>
+<num id="le200920.a.unit.87"/>
+<num id="le200920.a.unit.88"/>
+<num id="le200920.a.unit.89"/>
+<num id="le200920.a.unit.90"/>
+<word id="le200920.a.unit.91">double</word>
+<num id="le200920.a.unit.92"/>
+<word id="le200920.a.unit.98">i'm</word>
+<word id="le200920.a.unit.99">sorry</word>
+<word id="le200920.a.unit.100">there's</word>
+<word id="le200920.a.unit.101">no</word>
+<word id="le200920.a.unit.102">longer</word>
+<word id="le200920.a.unit.103">a</word>
+<word id="le200920.a.unit.104">customer</word>
+<word id="le200920.a.unit.105">with</word>
+<word id="le200920.a.unit.106">this</word>
+<word id="le200920.a.unit.107">number</word>
+<word id="le200920.a.unit.110">no</word>
+<word id="le200920.a.unit.111">you</word>
+<word id="le200920.a.unit.112">could</word>
+<word id="le200920.a.unit.113">try</word>
+<word id="le200920.a.unit.114">directories</word>
+<word id="le200920.a.unit.115">on</word>
+<num id="le200920.a.unit.116"/>
+<num id="le200920.a.unit.117"/>
+<num id="le200920.a.unit.118"/>
+<word id="le200920.a.unit.119">see</word>
+<word id="le200920.a.unit.120">if</word>
+<word id="le200920.a.unit.121">it</word>
+<word id="le200920.a.unit.122">has</word>
+<word id="le200920.a.unit.123">changed</word>
+<bcanchor id="le200920.bcanchora.2"><nite:pointer href="le200920.b.lturn.xml#id(le200920.lturn.15.1)" role="bc"/></bcanchor>
+<word id="le200920.a.unit.125">shall</word>
+<word id="le200920.a.unit.126">i</word>
+<word id="le200920.a.unit.127">put</word>
+<word id="le200920.a.unit.128">you</word>
+<word id="le200920.a.unit.129">through</word>
+<word id="le200920.a.unit.132">thank</word>
+<word id="le200920.a.unit.133">you</word>
+<word id="le200920.a.unit.134">do</word>
+<word id="le200920.a.unit.135">you</word>
+<word id="le200920.a.unit.136">know</word>
+<word id="le200920.a.unit.137">who</word>
+<word id="le200920.a.unit.138">you're</word>
+<word id="le200920.a.unit.139">calling</word>
+<word id="le200920.a.unit.144">go</word>
+<word id="le200920.a.unit.145">ahead</word>
+<word id="le200920.a.unit.146">please</word>
+<word id="le200920.a.unit.150">go</word>
+<word id="le200920.a.unit.151">ahead</word>
+<word id="le200920.a.unit.152">please</word>
+<comment text="end-ok" id="le200920.a.unit.153"/>
+</nite:root>

@@ -1,0 +1,39 @@
+b|hello|greet
+b|operator can you try this number for me|direct
+a|yeah|ackn
+a|what seems to be the problem with it|reqInfo
+b|uh i don't know what's is this number temporarily order or something yeah ok hold the line for me then please it's ok is it ok right but bye|inform
+a|well|init
+a|what happens when you dial it|reqInfo
+b|what's|reqInfo
+b|is this number temporarily order or something|answ
+a|it says it's what|reqInfo
+a|temporarily out of order|confirm
+b|yeah|backch
+b|ok|ackn
+b|hold the line for me then please|hold
+a|ok|backch
+a|what's the code and number please|reqInfo
+b|it's ok is it ok right but bye|answ
+a|thank you|thank
+a|hold the line for me now please|hold
+b|ok is it ok right but bye|ackn
+a|ok|init
+a|let me just try it first of all yeah it's a line fault that's yeah it's a problem with the line yeah it's actually a cable number and they've there is a problem with the line they are aware of it i know that engineers are aware ok alright sorry about that byebye|informIntent
+a|yeah|ackn
+a|it's a line fault|init
+a|yeah|init
+a|it's a problem with the line|inform
+a|yeah|init
+a|it's actually a cable number|inform
+a|there is a problem with the line|inform
+a|they are aware of it|inform
+a|i know that engineers are aware ok|inform
+b|is it|backch
+b|ok|ackn
+a|alright|init
+b|right|ackn
+a|sorry about that|expressRegret
+a|byebye|bye
+b|but|backch
+b|bye|bye

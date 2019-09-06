@@ -1,0 +1,10 @@
+b|can i have the please at oh great wrong number sorry cheers ok cheers|direct
+a|right|ackn
+a|you need to go through to directory enquiries on that's alright shall i put you through thank you|suggest
+b|oh great|exclaim
+b|wrong number|confirm
+b|sorry|expressRegret
+a|that's alright|accept
+a|shall i put you through|offer
+b|cheers ok cheers|thank
+a|thank you|thank

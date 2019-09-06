@@ -1,0 +1,28 @@
+b|yeah|ackn
+b|i just wondered if you can tell me this number that's been ringing me|reqInfo
+b|i've been out um and i'm registered blind and i didn't know if you can tell me what number this double no oh is it a payphone or um oh is it a police or something oh right ok oh must be a number oh ok then thanks a lot anyway thanks bye|inform
+b|um and i'm registered blind and i didn't know if you can tell me what number this double no oh is it a payphone or um oh is it a police or something oh right ok oh must be a number oh ok then thanks a lot anyway thanks bye|inform
+b|and i didn't know if you can tell me what number this double no oh is it a payphone or um oh is it a police or something oh right ok oh must be a number oh ok then thanks a lot anyway thanks bye|reqInfo
+a|right|ackn
+a|i can't tell you who it is|answ
+a|i'm not allowed to the only thing i can tell you if it's uh residential or a business or a payphone no it's not actually one of our numbers i've no idea it's not one of our numbers i don't have any information on it it must be a number yeah ok bye|answElab
+a|the only thing i can tell you if it's uh residential or a business or a payphone|answElab
+b|no|backch
+b|oh|backch
+b|is it a payphone or um|reqInfo
+a|no|answ
+a|it's not actually one of our numbers|answElab
+b|oh is it a police or something|reqInfo
+a|i've no idea|inform
+a|it's not one of our numbers|inform
+a|i don't have any information on it|inform
+b|oh right ok|ackn
+a|it must be a number|inform
+b|oh must be a number|echo
+a|yeah|ackn
+b|oh ok then|ackn
+b|thanks a lot anyway|thank
+b|thanks|thank
+b|bye|bye
+a|ok|backch
+a|bye|bye

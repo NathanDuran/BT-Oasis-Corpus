@@ -1,0 +1,17 @@
+b|yes|ackn
+b|good morning um|greet
+b|and i can't remember how you do it|inform
+b|i have to press|reqInfo
+a|it's star fifty five star|answ
+b|hang on|hold
+b|star star|echo
+b|yeah|ackn
+a|the time will be in the hour clock|answElab
+a|and the hash|answElab
+a|yes|ackn
+b|ok|ackn
+b|thanks very much indeed|thank
+a|ok|ackn
+b|thank you|thank
+b|byebye|bye
+a|bye|bye

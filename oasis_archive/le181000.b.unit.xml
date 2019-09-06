@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le181000.unit.b">
+<word id="le181000.b.unit.2">hello</word>
+<word id="le181000.b.unit.3">can</word>
+<word id="le181000.b.unit.4">you</word>
+<word id="le181000.b.unit.5">give</word>
+<word id="le181000.b.unit.6">me</word>
+<word id="le181000.b.unit.7">an</word>
+<word id="le181000.b.unit.8">address</word>
+<word id="le181000.b.unit.9">of</word>
+<pncode type="business" id="le181000.b.unit.10"/>
+<pncode type="business" id="le181000.b.unit.11"/>
+<sil BTlength="" id="le181000.b.unit.12"/>
+<word id="le181000.b.unit.13">i've</word>
+<word id="le181000.b.unit.14">got</word>
+<word id="le181000.b.unit.15">the</word>
+<word id="le181000.b.unit.16">number</word>
+<word id="le181000.b.unit.17">it's</word>
+<num id="le181000.b.unit.18"/>
+<num id="le181000.b.unit.19"/>
+<num id="le181000.b.unit.20"/>
+<num id="le181000.b.unit.21"/>
+<sil BTlength="" id="le181000.b.unit.22"/>
+<num id="le181000.b.unit.23"/>
+<sil BTlength="" id="le181000.b.unit.24"/>
+<num id="le181000.b.unit.25"/>
+<num id="le181000.b.unit.26"/>
+<sil BTlength="" id="le181000.b.unit.27"/>
+<num id="le181000.b.unit.28"/>
+<num id="le181000.b.unit.29"/>
+<num id="le181000.b.unit.30"/>
+<num id="le181000.b.unit.31"/>
+<num id="le181000.b.unit.41"/>
+<num id="le181000.b.unit.42"/>
+<num id="le181000.b.unit.43"/>
+<bcanchor id="le181000.bcanchorb.1"><nite:pointer href="le181000.a.lturn.xml#id(le181000.lturn.4.1)" role="bc"/></bcanchor>
+<num id="le181000.b.unit.45"/>
+<num id="le181000.b.unit.46"/>
+<sil BTlength="" id="le181000.b.unit.47"/>
+<num id="le181000.b.unit.48"/>
+<num id="le181000.b.unit.49"/>
+<word id="le181000.b.unit.56">it's</word>
+<word id="le181000.b.unit.57">called</word>
+<pncode type="business" id="le181000.b.unit.58"/>
+<pncode type="business" id="le181000.b.unit.59"/>
+<word id="le181000.b.unit.60">it's</word>
+<word id="le181000.b.unit.61">somewhere</word>
+<word id="le181000.b.unit.62">is</word>
+<sil BTlength="" id="le181000.b.unit.63"/>
+<pncode type="town" id="le181000.b.unit.64"/>
+<word id="le181000.b.unit.78">chambers</word>
+<word id="le181000.b.unit.79">er</word>
+<word id="le181000.b.unit.80">i've</word>
+<word id="le181000.b.unit.81">keep</word>
+<word id="le181000.b.unit.82">put</word>
+<word id="le181000.b.unit.83">court</word>
+<word id="le181000.b.unit.89">chambers</word>
+<bcanchor id="le181000.bcanchorb.2"><nite:pointer href="le181000.a.lturn.xml#id(le181000.lturn.10.1)" role="bc"/></bcanchor>
+<word id="le181000.b.unit.91">ok</word>
+<word id="le181000.b.unit.92">thanks</word>
+<word id="le181000.b.unit.93">very</word>
+<word id="le181000.b.unit.94">much</word>
+<word id="le181000.b.unit.97">byebye</word>
+</nite:root>

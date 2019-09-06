@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le316400.unit.a">
+<stdzcode id="le316400.a.unit.1" description="name"/>
+<word id="le316400.a.unit.10">yes</word>
+<word id="le316400.a.unit.11">for</word>
+<word id="le316400.a.unit.12">what</word>
+<word id="le316400.a.unit.13">time</word>
+<word id="le316400.a.unit.16">ten</word>
+<word id="le316400.a.unit.17">o'clock</word>
+<bcanchor id="le316400.bcanchora.1"><nite:pointer href="le316400.b.lturn.xml#id(le316400.lturn.5.1)" role="bc"/></bcanchor>
+<word id="le316400.a.unit.20">i'll</word>
+<word id="le316400.a.unit.21">just</word>
+<word id="le316400.a.unit.22">confirm</word>
+<word id="le316400.a.unit.23">that</word>
+<word id="le316400.a.unit.24">for</word>
+<word id="le316400.a.unit.25">you</word>
+<sil BTlength="10s" id="le316400.a.unit.26"/>
+<word id="le316400.a.unit.27">okay</word>
+<word id="le316400.a.unit.28">that's</word>
+<word id="le316400.a.unit.29">booked</word>
+<word id="le316400.a.unit.30">for</word>
+<word id="le316400.a.unit.31">you</word>
+<word id="le316400.a.unit.32">we'll</word>
+<word id="le316400.a.unit.33">call</word>
+<word id="le316400.a.unit.34">you</word>
+<word id="le316400.a.unit.35">at</word>
+<word id="le316400.a.unit.36">ten</word>
+<word id="le316400.a.unit.37">o'clock</word>
+<num id="le316400.a.unit.42"/>
+<word id="le316400.a.unit.43">pound</word>
+<num id="le316400.a.unit.44"/>
+<word id="le316400.a.unit.48">no</word>
+<word id="le316400.a.unit.49">need</word>
+<word id="le316400.a.unit.50">to</word>
+<word id="le316400.a.unit.51">use</word>
+<word id="le316400.a.unit.52">language</word>
+<word id="le316400.a.unit.53">like</word>
+<word id="le316400.a.unit.54">that</word>
+<word id="le316400.a.unit.55">is</word>
+<word id="le316400.a.unit.56">there</word>
+<word id="le316400.a.unit.59">alright</word>
+<word id="le316400.a.unit.60">bye</word>
+<comment text="end-ok" id="le316400.a.unit.61"/>
+</nite:root>

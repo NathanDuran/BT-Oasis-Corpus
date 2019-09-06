@@ -1,0 +1,33 @@
+b|um it's a bit odd um i'm trying' to call and i keep getting number's not available er yeah oh damn it what's the number now oh Christ they've gone cable oh bugger oh right yeah well i want to get them this morning like now oh yeah|expressOpinion
+b|um i'm trying' to call and i keep getting number's not available er yeah oh damn it what's the number now oh Christ they've gone cable oh bugger oh right yeah well i want to get them this morning like now oh yeah|informIntent
+b|and i keep getting number's not available|inform
+a|i'm sorry you're having that trouble|expressRegret
+a|what was the number you're calling|reqInfo
+b|er yeah oh damn it what's the number now oh Christ they've gone cable oh bugger oh right yeah well i want to get them this morning like now oh yeah|answ
+a|yeah|backch
+a|i'll just have a look at that for you yeah we no longer have a customer with that number but that is a recent change i don't know i haven't got a new number listed for them i presume that what they've done is gone to cable or moved i could put you through to directory enquiries they may have a new number listed but if they haven't i shouldn't worry too much because it probably will be listed a bit later it may be a bit soon for them to have a new number but i'll i'll put you through to directories and you can ask them ok you have got the name and address have you|informIntent
+a|yeah|init
+a|we no longer have a customer with that number|inform
+a|but that is a recent change|inform
+b|yeah|backch
+b|oh damn it|exclaim
+a|i don't know|inform
+a|i haven't got a new number listed for them|inform
+a|i presume that what they've done is gone to cable or moved|expressOpinion
+b|oh Christ|exclaim
+b|they've gone cable|confirm
+b|oh bugger|exclaim
+a|i could put you through to directory enquiries|offer
+a|they may have a new number listed|expressPossibility
+a|but if they haven't|inform
+a|i shouldn't worry too much|suggest
+a|because it probably will be listed a bit later|inform
+a|it may be a bit soon for them to have a new number|inform
+b|oh right|backch
+b|yeah|ackn
+b|well|init
+b|i want to get them this morning like now|expressWish
+a|but i'll i'll put you through to directories|informIntent
+a|and you can ask them ok|suggest
+a|you have got the name and address have you|reqInfo
+b|oh yeah|answ

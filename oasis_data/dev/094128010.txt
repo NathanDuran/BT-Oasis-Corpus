@@ -1,0 +1,30 @@
+b|hello there um|greet
+a|hello|greet
+b|hello|greet
+b|my name's mister um i was supposed to have uh um me phone switched on on Friday um we moved house um um it was it was switched on but it seems to have gone off again uh yeah well we just moved into the house and um it was supposed to be set up so it would um come on for us in the afternoon on Friday the um well i'm not sure if it was switched off because obviously the other people had the the the the phone uh uh in the same number you see um but i'd arranged during early last week for a you know to be um switched on for us for about o'clock yeah it's double|identifySelf
+b|um i was supposed to have uh um me phone switched on on Friday|inform
+b|um we moved house|inform
+a|on Friday|backch
+a|oh yeah|ackn
+b|um um it was it was switched on|inform
+b|but it seems to have gone off again|inform
+a|oh uh and it was working at one point|confirm
+b|uh yeah|ackn
+b|well|init
+b|we just moved into the house|inform
+b|and um it was supposed to be set up so it would um come on for us in the afternoon on Friday the um well i'm not sure if it was switched off because obviously the other people had the the the the phone uh uh in the same number you see um but i'd arranged during early last week for a you know to be um switched on for us for about o'clock yeah it's double|inform
+a|yeah|backch
+a|and it did|confirm
+a|when did it come on|reqInfo
+b|um well|init
+b|i'm not sure if it was switched off|inform
+b|because obviously the other people had the the the the phone uh uh in the same number you see um|inform
+b|but i'd arranged during early last week for a you know to be um switched on for us for about o'clock|inform
+a|yeah|backch
+a|yeah yeah|backch
+a|oh right|backch
+a|right|ackn
+a|could i take you telephone number then please|reqInfo
+b|yeah|answ
+b|it's double|answElab
+b|double|answElab

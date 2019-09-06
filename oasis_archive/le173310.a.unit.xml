@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le173310.unit.a">
+<stdzcode id="le173310.a.unit.1" description="name"/>
+<word id="le173310.a.unit.24">you'll</word>
+<word id="le173310.a.unit.25">need</word>
+<word id="le173310.a.unit.26">directory</word>
+<word id="le173310.a.unit.27">enquiries</word>
+<word id="le173310.a.unit.28">on</word>
+<num id="le173310.a.unit.29"/>
+<num id="le173310.a.unit.30"/>
+<num id="le173310.a.unit.31"/>
+<word id="le173310.a.unit.32">shall</word>
+<word id="le173310.a.unit.33">i</word>
+<word id="le173310.a.unit.34">put</word>
+<word id="le173310.a.unit.35">you</word>
+<word id="le173310.a.unit.36">through</word>
+<word id="le173310.a.unit.37">to</word>
+<word id="le173310.a.unit.38">them</word>
+<word id="le173310.a.unit.40">hold</word>
+<word id="le173310.a.unit.41">the</word>
+<word id="le173310.a.unit.42">line</word>
+<word id="le173310.a.unit.43">please</word>
+<comment text="transfer" id="le173310.a.unit.44"/>
+<comment text="end-ok" id="le173310.a.unit.45"/>
+</nite:root>

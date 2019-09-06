@@ -1,0 +1,56 @@
+b|erm good afternoon|greet
+b|could you please tell me|reqInfo
+b|if you get the and the lady says a payphone number does that mean that it could be in a hotel or in a private house or on a street or where well i have actually i'm trying to contact someone urgently but i've written a letter but i don't know um how i can get hold of her you see but i d o know her address so does does that help you if i know the address well you can tell me where the payphone is oh would you like me to give you the number of the payphone oh oh well it's in the area it's yeah then it's on the street oh i see cause i was hoping that if you said it could be in a like a hotel or whatever you see i did try and ring it back but there's obviously no reply obviously so i was quite surprised that the the voice on the phone call actually gave the number i would have thought she would have said well you were called but it's no and if you just press i mean obviously it's not going to be answered is it so that's on the street oh i see okay thank you bye|reqInfo
+b|does that mean that it could be in a hotel or in a private house or on a street|reqInfo
+b|or where|reqInfo
+a|yep|ackn
+a|let me check for you|informIntent
+a|what's the code and number that was left|reqInfo
+a|have you got it written down or|reqInfo
+b|well|init
+b|i have actually|answ
+b|i'm trying to contact someone urgently|informIntent
+b|but i've written a letter|inform
+b|but i don't know um how i can get hold of her you see|inform
+b|but i d o know her address|inform
+b|so|init
+b|does does that help you|reqInfo
+b|if i know the address|reqInfo
+a|no|answ
+b|well|init
+a|i can't tell you exactly where it is|inform
+a|but you can tell me where you think it might be|suggest
+b|oh would you like me to give you the number of the payphone|reqDirect
+b|oh oh well|init
+b|it's in the area|inform
+b|it's yeah then it's on the street oh i see cause i was hoping that if you said it could be in a like a hotel or whatever you see i did try and ring it back but there's obviously no reply obviously so i was quite surprised that the the voice on the phone call actually gave the number i would have thought she would have said well you were called but it's no and if you just press i mean obviously it's not going to be answered is it so that's on the street oh i see okay thank you bye|inform
+a|yes please|backch
+b|yeah|ackn
+b|then it's on the street oh i see cause i was hoping that if you said it could be in a like a hotel or whatever you see i did try and ring it back but there's obviously no reply obviously so i was quite surprised that the the voice on the phone call actually gave the number i would have thought she would have said well you were called but it's no and if you just press i mean obviously it's not going to be answered is it so that's on the street oh i see okay thank you bye|inform
+a|thank you|thank
+a|that is an ordinary payphone on the street ain't it|reqInfo
+a|that's an ordinary payphone|confirm
+b|on the street|complete
+b|oh i see|ackn
+b|cause i was hoping that if you said it could be in a like a hotel or whatever|inform
+a|that's righty yeah|backch
+a|in a building yeah|complete
+b|you see i did try and ring it back|inform
+b|but there's obviously no reply obviously|inform
+b|so|init
+b|i was quite surprised that the the voice on the phone call actually gave the number|inform
+b|i would have thought she would have said well you were called|expressOpinion
+b|no|ackn
+b|and if you just press i mean obviously it's not going to be answered is it so that's on the street oh i see okay thank you bye|inform
+b|i mean obviously it's not going to be answered is it|confirm
+b|so|init
+b|that's on the street|confirm
+b|oh i see okay|ackn
+b|thank you|thank
+a|hmm|backch
+a|oh right|backch
+a|no|backch
+a|yeah that's right|backch
+a|thank you|answ
+b|bye|bye
+a|bye|bye

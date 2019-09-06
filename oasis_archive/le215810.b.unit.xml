@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le215810.unit.b">
+<word id="le215810.b.unit.2">hello</word>
+<stdzcode id="le215810.b.unit.3" description="name"/>
+<sil BTlength="" id="le215810.b.unit.4"/>
+<word id="le215810.b.unit.5">just</word>
+<word id="le215810.b.unit.6">a</word>
+<word id="le215810.b.unit.7">quick</word>
+<word id="le215810.b.unit.8">question</word>
+<word id="le215810.b.unit.9">really</word>
+<bcanchor id="le215810.bcanchorb.1"><nite:pointer href="le215810.a.lturn.xml#id(le215810.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le215810.b.unit.11">how</word>
+<word id="le215810.b.unit.12">does</word>
+<word id="le215810.b.unit.13">one</word>
+<word id="le215810.b.unit.14">cancel</word>
+<word id="le215810.b.unit.15">the</word>
+<word id="le215810.b.unit.16">call</word>
+<word id="le215810.b.unit.17">back</word>
+<word id="le215810.b.unit.18">service</word>
+<word id="le215810.b.unit.26">no</word>
+<sil BTlength="" id="le215810.b.unit.27"/>
+<word id="le215810.b.unit.28">uh</word>
+<word id="le215810.b.unit.29">i've</word>
+<word id="le215810.b.unit.30">booked</word>
+<word id="le215810.b.unit.31">a</word>
+<word id="le215810.b.unit.32">call</word>
+<word id="le215810.b.unit.33">back</word>
+<word id="le215810.b.unit.34">service</word>
+<word id="le215810.b.unit.35">i</word>
+<word id="le215810.b.unit.36">rang</word>
+<word id="le215810.b.unit.37">someone's</word>
+<word id="le215810.b.unit.38">number</word>
+<word id="le215810.b.unit.44">then</word>
+<word id="le215810.b.unit.45">i</word>
+<word id="le215810.b.unit.46">then</word>
+<word id="le215810.b.unit.47">i</word>
+<word id="le215810.b.unit.48">pressed</word>
+<word id="le215810.b.unit.49">number</word>
+<num id="le215810.b.unit.50"/>
+<word id="le215810.b.unit.65">look</word>
+<word id="le215810.b.unit.66">a</word>
+<word id="le215810.b.unit.67">hash</word>
+<word id="le215810.b.unit.68">is</word>
+<word id="le215810.b.unit.69">it</word>
+<word id="le215810.b.unit.70">is</word>
+<word id="le215810.b.unit.71">it</word>
+<word id="le215810.b.unit.72">the</word>
+<word id="le215810.b.unit.73">star</word>
+<word id="le215810.b.unit.87">oh</word>
+<word id="le215810.b.unit.88">oh</word>
+<word id="le215810.b.unit.89">that's</word>
+<word id="le215810.b.unit.90">right</word>
+<word id="le215810.b.unit.91">there</word>
+<word id="le215810.b.unit.92">is</word>
+<word id="le215810.b.unit.93">one</word>
+<word id="le215810.b.unit.94">yeah</word>
+<bcanchor id="le215810.bcanchorb.2"><nite:pointer href="le215810.a.lturn.xml#id(le215810.lturn.10.1)" role="bc"/></bcanchor>
+<word id="le215810.b.unit.97">ah</word>
+<word id="le215810.b.unit.98">ha</word>
+<word id="le215810.b.unit.99">so</word>
+<word id="le215810.b.unit.100">press</word>
+<word id="le215810.b.unit.101">that</word>
+<word id="le215810.b.unit.102">sorry</word>
+<word id="le215810.b.unit.111">that</word>
+<word id="le215810.b.unit.112">key</word>
+<word id="le215810.b.unit.113">and</word>
+<word id="le215810.b.unit.114">i</word>
+<word id="le215810.b.unit.115">love</word>
+<word id="le215810.b.unit.116">you</word>
+<word id="le215810.b.unit.117">thank</word>
+<word id="le215810.b.unit.118">you</word>
+<word id="le215810.b.unit.119">very</word>
+<word id="le215810.b.unit.120">much</word>
+<word id="le215810.b.unit.122">cheers</word>
+<word id="le215810.b.unit.123">byebye</word>
+</nite:root>

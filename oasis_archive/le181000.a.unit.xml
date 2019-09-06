@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le181000.unit.a">
+<stdzcode id="le181000.a.unit.1" description="name"/>
+<word id="le181000.a.unit.32">just</word>
+<word id="le181000.a.unit.33">a</word>
+<word id="le181000.a.unit.34">moment</word>
+<sil BTlength="" id="le181000.a.unit.35"/>
+<num id="le181000.a.unit.36"/>
+<word id="le181000.a.unit.37">sorry</word>
+<num id="le181000.a.unit.38"/>
+<num id="le181000.a.unit.39"/>
+<num id="le181000.a.unit.40"/>
+<word id="le181000.a.unit.44">yeah</word>
+<num id="le181000.a.unit.50"/>
+<num id="le181000.a.unit.51"/>
+<word id="le181000.a.unit.52">hold</word>
+<word id="le181000.a.unit.53">on</word>
+<word id="le181000.a.unit.54">i'll</word>
+<word id="le181000.a.unit.55">just</word>
+<word id="le181000.a.unit.65">just</word>
+<word id="le181000.a.unit.66">see</word>
+<word id="le181000.a.unit.67">if</word>
+<word id="le181000.a.unit.68">it</word>
+<word id="le181000.a.unit.69">tells</word>
+<word id="le181000.a.unit.70">me</word>
+<sil BTlength="" id="le181000.a.unit.71"/>
+<word id="le181000.a.unit.72">yeah</word>
+<pncode type="business" id="le181000.a.unit.73"/>
+<pncode type="business" id="le181000.a.unit.74"/>
+<word id="le181000.a.unit.75">on</word>
+<pncode type="road" id="le181000.a.unit.76"/>
+<pncode type="road" id="le181000.a.unit.77"/>
+<word id="le181000.a.unit.84">ah</word>
+<word id="le181000.a.unit.85">no</word>
+<word id="le181000.a.unit.86">it's</word>
+<word id="le181000.a.unit.87">chambers</word>
+<word id="le181000.a.unit.88">mate</word>
+<word id="le181000.a.unit.90">yeah</word>
+<word id="le181000.a.unit.95">you're</word>
+<word id="le181000.a.unit.96">welcome</word>
+<word id="le181000.a.unit.98">byebye</word>
+<word id="le181000.a.unit.99">then</word>
+<comment text="hang_up" id="le181000.a.unit.100"/>
+<comment text="end-ok" id="le181000.a.unit.101"/>
+</nite:root>

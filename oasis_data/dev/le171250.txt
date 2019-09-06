@@ -1,0 +1,7 @@
+b|hi|greet
+b|um can i have the number for directory enquiries|reqInfo
+a|yes|answ
+a|it's would you like me to put you through to them hold the line please|answElab
+a|would you like me to put you through to them|offer
+b|yes please|accept
+a|hold the line please|hold

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le316420.unit.a">
+<stdzcode id="le316420.a.unit.1" description="name"/>
+<word id="le316420.a.unit.20">just</word>
+<word id="le316420.a.unit.21">press</word>
+<word id="le316420.a.unit.22">number</word>
+<num id="le316420.a.unit.23"/>
+<word id="le316420.a.unit.24">for</word>
+<word id="le316420.a.unit.25">me</word>
+<word id="le316420.a.unit.26">on</word>
+<word id="le316420.a.unit.27">your</word>
+<word id="le316420.a.unit.28">phone</word>
+<word id="le316420.a.unit.35">yeah</word>
+<word id="le316420.a.unit.36">i</word>
+<word id="le316420.a.unit.37">just</word>
+<word id="le316420.a.unit.38">need</word>
+<word id="le316420.a.unit.39">to</word>
+<word id="le316420.a.unit.40">check</word>
+<word id="le316420.a.unit.41">you're</word>
+<word id="le316420.a.unit.42">on</word>
+<word id="le316420.a.unit.43">the</word>
+<word id="le316420.a.unit.44">right</word>
+<word id="le316420.a.unit.45">sort</word>
+<word id="le316420.a.unit.46">of</word>
+<word id="le316420.a.unit.47">phone</word>
+<comment text="beep" id="le316420.a.unit.48"/>
+<word id="le316420.a.unit.49">yep</word>
+<word id="le316420.a.unit.50">that's</word>
+<word id="le316420.a.unit.51">fine</word>
+<word id="le316420.a.unit.52">what</word>
+<word id="le316420.a.unit.53">you</word>
+<word id="le316420.a.unit.54">need</word>
+<word id="le316420.a.unit.55">to</word>
+<word id="le316420.a.unit.56">do</word>
+<word id="le316420.a.unit.57">is</word>
+<word id="le316420.a.unit.58">press</word>
+<word id="le316420.a.unit.59">star</word>
+<num id="le316420.a.unit.60"/>
+<word id="le316420.a.unit.61">star</word>
+<word id="le316420.a.unit.62">then</word>
+<word id="le316420.a.unit.63">the</word>
+<word id="le316420.a.unit.64">time</word>
+<word id="le316420.a.unit.65">you</word>
+<word id="le316420.a.unit.66">want</word>
+<word id="le316420.a.unit.67">to</word>
+<word id="le316420.a.unit.68">get</word>
+<word id="le316420.a.unit.69">up</word>
+<word id="le316420.a.unit.70">by</word>
+<word id="le316420.a.unit.71">on</word>
+<word id="le316420.a.unit.72">the</word>
+<word id="le316420.a.unit.73">twenty</word>
+<word id="le316420.a.unit.74">four</word>
+<word id="le316420.a.unit.75">hour</word>
+<word id="le316420.a.unit.76">clock</word>
+<word id="le316420.a.unit.81">that's</word>
+<word id="le316420.a.unit.82">it</word>
+<word id="le316420.a.unit.87">bye</word>
+<comment text="end-ok" id="le316420.a.unit.88"/>
+</nite:root>

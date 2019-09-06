@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le206010.unit.b">
+<word id="le206010.b.unit.2">yeah</word>
+<word id="le206010.b.unit.3">can</word>
+<word id="le206010.b.unit.4">you</word>
+<word id="le206010.b.unit.5">erm</word>
+<word id="le206010.b.unit.6">arrange</word>
+<word id="le206010.b.unit.7">a</word>
+<word id="le206010.b.unit.8">alarm</word>
+<word id="le206010.b.unit.9">call</word>
+<word id="le206010.b.unit.10">for</word>
+<word id="le206010.b.unit.11">me</word>
+<word id="le206010.b.unit.21">well</word>
+<word id="le206010.b.unit.22">can</word>
+<word id="le206010.b.unit.23">you</word>
+<word id="le206010.b.unit.24">tell</word>
+<word id="le206010.b.unit.25">me</word>
+<word id="le206010.b.unit.26">how</word>
+<word id="le206010.b.unit.27">much</word>
+<word id="le206010.b.unit.28">it</word>
+<word id="le206010.b.unit.29">is</word>
+<word id="le206010.b.unit.35">two</word>
+<word id="le206010.b.unit.36">eighty</word>
+<bcanchor id="le206010.bcanchorb.1"><nite:pointer href="le206010.a.lturn.xml#id(le206010.lturn.6.1)" role="bc"/></bcanchor>
+<word id="le206010.b.unit.38">so</word>
+<word id="le206010.b.unit.39">um</word>
+<word id="le206010.b.unit.52">i've</word>
+<word id="le206010.b.unit.53">got</word>
+<word id="le206010.b.unit.54">all</word>
+<word id="le206010.b.unit.55">the</word>
+<word id="le206010.b.unit.56">instructions</word>
+<word id="le206010.b.unit.57">here</word>
+<bcanchor id="le206010.bcanchorb.2"><nite:pointer href="le206010.a.lturn.xml#id(le206010.lturn.8.1)" role="bc"/></bcanchor>
+<word id="le206010.b.unit.59">um</word>
+<sil BTlength="" id="le206010.b.unit.60"/>
+<word id="le206010.b.unit.61">how</word>
+<word id="le206010.b.unit.62">much</word>
+<word id="le206010.b.unit.63">is</word>
+<word id="le206010.b.unit.64">it</word>
+<word id="le206010.b.unit.65">if</word>
+<word id="le206010.b.unit.66">i</word>
+<word id="le206010.b.unit.67">do</word>
+<word id="le206010.b.unit.68">it</word>
+<word id="le206010.b.unit.69">myself</word>
+<word id="le206010.b.unit.70">then</word>
+<word id="le206010.b.unit.72">oh</word>
+<num id="le206010.b.unit.73"/>
+<comment text="laugh" id="le206010.b.unit.74"/>
+<word id="le206010.b.unit.80">oh</word>
+<word id="le206010.b.unit.81">right</word>
+<word id="le206010.b.unit.119">and</word>
+<word id="le206010.b.unit.120">will</word>
+<word id="le206010.b.unit.121">it</word>
+<word id="le206010.b.unit.122">like</word>
+<word id="le206010.b.unit.123">confirm</word>
+<word id="le206010.b.unit.124">that</word>
+<word id="le206010.b.unit.125">i've</word>
+<word id="le206010.b.unit.126">done</word>
+<word id="le206010.b.unit.127">it</word>
+<word id="le206010.b.unit.128">or</word>
+<word id="le206010.b.unit.129">something</word>
+<word id="le206010.b.unit.144">star</word>
+<num id="le206010.b.unit.145"/>
+<num id="le206010.b.unit.146"/>
+<word id="le206010.b.unit.147">star</word>
+<word id="le206010.b.unit.191">what</word>
+<word id="le206010.b.unit.192">time</word>
+<word id="le206010.b.unit.193">do</word>
+<word id="le206010.b.unit.194">you</word>
+<word id="le206010.b.unit.195">want</word>
+<word id="le206010.b.unit.196">the</word>
+<word id="le206010.b.unit.197">alarm</word>
+<word id="le206010.b.unit.198">call</word>
+<word id="le206010.b.unit.199">for</word>
+<word id="le206010.b.unit.200">half</word>
+<word id="le206010.b.unit.201">five</word>
+<sil BTlength="" id="le206010.b.unit.202"/>
+<word id="le206010.b.unit.203">six</word>
+<word id="le206010.b.unit.204">o'</word>
+<word id="le206010.b.unit.205">clock</word>
+<word id="le206010.b.unit.216">yeah</word>
+<word id="le206010.b.unit.238">yes</word>
+<word id="le206010.b.unit.249">right</word>
+<word id="le206010.b.unit.269">right</word>
+<word id="le206010.b.unit.270">and</word>
+<word id="le206010.b.unit.271">if</word>
+<word id="le206010.b.unit.272">i</word>
+<word id="le206010.b.unit.273">want</word>
+<word id="le206010.b.unit.274">to</word>
+<word id="le206010.b.unit.275">check</word>
+<word id="le206010.b.unit.276">it's</word>
+<word id="le206010.b.unit.277">got</word>
+<word id="le206010.b.unit.278">here</word>
+<word id="le206010.b.unit.279">you</word>
+<word id="le206010.b.unit.280">press</word>
+<word id="le206010.b.unit.281">star</word>
+<word id="le206010.b.unit.282">hash</word>
+<num id="le206010.b.unit.283"/>
+<num id="le206010.b.unit.284"/>
+<partword id="le206010.b.unit.285">h</partword>
+<word id="le206010.b.unit.286">hash</word>
+<sil BTlength="" id="le206010.b.unit.287"/>
+<word id="le206010.b.unit.303">right</word>
+<word id="le206010.b.unit.304">and</word>
+<word id="le206010.b.unit.305">that'll</word>
+<word id="le206010.b.unit.306">just</word>
+<word id="le206010.b.unit.307">do</word>
+<word id="le206010.b.unit.308">it</word>
+<word id="le206010.b.unit.309">automatically</word>
+<bcanchor id="le206010.bcanchorb.4"><nite:pointer href="le206010.a.lturn.xml#id(le206010.lturn.26.1)" role="bc"/></bcanchor>
+<comment text="it?" id="le206010.b.unit.311"/>
+<word id="le206010.b.unit.312">tomorrow</word>
+<word id="le206010.b.unit.313">morning</word>
+<word id="le206010.b.unit.318">oh</word>
+<word id="le206010.b.unit.319">right</word>
+<word id="le206010.b.unit.320">that's</word>
+<word id="le206010.b.unit.321">lovely</word>
+<word id="le206010.b.unit.323">thank</word>
+<word id="le206010.b.unit.324">you</word>
+<word id="le206010.b.unit.325">very</word>
+<word id="le206010.b.unit.326">much</word>
+<word id="le206010.b.unit.327">then</word>
+<word id="le206010.b.unit.330">bye</word>
+</nite:root>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le201620.unit.b">
+<word id="le201620.b.unit.2">hello</word>
+<word id="le201620.b.unit.3">is</word>
+<word id="le201620.b.unit.4">it</word>
+<word id="le201620.b.unit.5">possible</word>
+<word id="le201620.b.unit.6">to</word>
+<word id="le201620.b.unit.7">book</word>
+<word id="le201620.b.unit.8">an</word>
+<word id="le201620.b.unit.9">alarm</word>
+<word id="le201620.b.unit.10">call</word>
+<sil BTlength="" id="le201620.b.unit.11"/>
+<word id="le201620.b.unit.12">for</word>
+<bcanchor id="le201620.bcanchorb.1"><nite:pointer href="le201620.a.lturn.xml#id(le201620.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le201620.b.unit.15">tomorrow</word>
+<word id="le201620.b.unit.16">morning</word>
+<word id="le201620.b.unit.19">er</word>
+<sil BTlength="" id="le201620.b.unit.20"/>
+<word id="le201620.b.unit.21">six</word>
+<word id="le201620.b.unit.22">thirty</word>
+<word id="le201620.b.unit.46">thank</word>
+<word id="le201620.b.unit.47">you</word>
+</nite:root>

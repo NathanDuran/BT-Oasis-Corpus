@@ -1,5 +1,4 @@
 b|yeah|ackn
-b|i got the money|thirdParty
 a|hello|greet
 b|uh uh uh hello|greet
 a|hello there|greet

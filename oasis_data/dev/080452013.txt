@@ -1,0 +1,5 @@
+a|hello|greet
+a|hello|greet
+b|hello|greet
+a|yes|ackn
+a|can i help|offer

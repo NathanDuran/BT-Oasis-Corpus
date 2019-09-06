@@ -1,0 +1,5 @@
+a|yeah|ackn
+a|that's right|ackn
+b|um i'm wanting a couple of leaflets please|direct
+b|have i rung the right number|reqInfo
+a|oh right|backch

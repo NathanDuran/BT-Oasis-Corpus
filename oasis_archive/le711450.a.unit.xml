@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le711450.unit.a">
+<stdzcode id="le711450.a.unit.1" description="name"/>
+<word id="le711450.a.unit.14">yes</word>
+<word id="le711450.a.unit.16">what</word>
+<partword id="le711450.a.unit.17">ti</partword>
+<word id="le711450.a.unit.21">yeah</word>
+<word id="le711450.a.unit.22">what</word>
+<word id="le711450.a.unit.23">time</word>
+<word id="le711450.a.unit.24">would</word>
+<word id="le711450.a.unit.25">you</word>
+<word id="le711450.a.unit.26">like</word>
+<word id="le711450.a.unit.27">the</word>
+<word id="le711450.a.unit.28">call</word>
+<word id="le711450.a.unit.32">if</word>
+<word id="le711450.a.unit.33">you'd</word>
+<word id="le711450.a.unit.34">just</word>
+<word id="le711450.a.unit.35">hold</word>
+<word id="le711450.a.unit.36">the</word>
+<word id="le711450.a.unit.37">line</word>
+<word id="le711450.a.unit.38">while</word>
+<word id="le711450.a.unit.39">i</word>
+<word id="le711450.a.unit.40">try</word>
+<word id="le711450.a.unit.41">to</word>
+<word id="le711450.a.unit.42">confirm</word>
+<word id="le711450.a.unit.43">that</word>
+<word id="le711450.a.unit.44">for</word>
+<word id="le711450.a.unit.45">you</word>
+<word id="le711450.a.unit.46">please</word>
+<sil BTlength="5s" id="le711450.a.unit.47"/>
+<word id="le711450.a.unit.48">thank</word>
+<word id="le711450.a.unit.49">you</word>
+<word id="le711450.a.unit.50">that's</word>
+<word id="le711450.a.unit.51">booked</word>
+<word id="le711450.a.unit.52">for</word>
+<word id="le711450.a.unit.53">you</word>
+<word id="le711450.a.unit.54">we'll</word>
+<word id="le711450.a.unit.55">call</word>
+<word id="le711450.a.unit.56">you</word>
+<word id="le711450.a.unit.57">at</word>
+<word id="le711450.a.unit.58">six</word>
+<word id="le711450.a.unit.59">forty</word>
+<word id="le711450.a.unit.60">five</word>
+<word id="le711450.a.unit.65">thank</word>
+<word id="le711450.a.unit.66">you</word>
+<bcanchor id="le711450.bcanchora.3"><nite:pointer href="le711450.b.lturn.xml#id(le711450.lturn.7.1)" role="bc"/></bcanchor>
+<word id="le711450.a.unit.68">bye</word>
+<comment text="end-ok" id="le711450.a.unit.69"/>
+</nite:root>

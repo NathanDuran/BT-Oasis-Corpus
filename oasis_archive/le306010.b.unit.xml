@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le306010.unit.b">
+<word id="le306010.b.unit.2">oh</word>
+<word id="le306010.b.unit.3">hello</word>
+<sil BTlength="" id="le306010.b.unit.4"/>
+<bcanchor id="le306010.bcanchorb.1"><nite:pointer href="le306010.a.lturn.xml#id(le306010.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le306010.b.unit.7">good</word>
+<word id="le306010.b.unit.8">evening</word>
+<sil BTlength="" id="le306010.b.unit.9"/>
+<word id="le306010.b.unit.10">what's</word>
+<word id="le306010.b.unit.11">the</word>
+<word id="le306010.b.unit.12">number</word>
+<word id="le306010.b.unit.13">young</word>
+<word id="le306010.b.unit.14">lady</word>
+<sil BTlength="" id="le306010.b.unit.15"/>
+<word id="le306010.b.unit.16">that</word>
+<word id="le306010.b.unit.17">i</word>
+<word id="le306010.b.unit.18">dial</word>
+<word id="le306010.b.unit.19">for</word>
+<sil BTlength="" id="le306010.b.unit.20"/>
+<word id="le306010.b.unit.21">er</word>
+<word id="le306010.b.unit.22">that</word>
+<sil BTlength="" id="le306010.b.unit.23"/>
+<word id="le306010.b.unit.24">er</word>
+<sil BTlength="" id="le306010.b.unit.25"/>
+<word id="le306010.b.unit.26">telegram</word>
+<word id="le306010.b.unit.27">type</word>
+<word id="le306010.b.unit.28">of</word>
+<word id="le306010.b.unit.29">letter</word>
+<word id="le306010.b.unit.35">er</word>
+<word id="le306010.b.unit.43">it</word>
+<word id="le306010.b.unit.44">replaced</word>
+<word id="le306010.b.unit.45">it</word>
+<word id="le306010.b.unit.46">replaced</word>
+<word id="le306010.b.unit.47">the</word>
+<word id="le306010.b.unit.48">telegram</word>
+<word id="le306010.b.unit.52">what</word>
+<word id="le306010.b.unit.53">number</word>
+<word id="le306010.b.unit.61">sorry</word>
+<word id="le306010.b.unit.68">oh</word>
+<word id="le306010.b.unit.69">no</word>
+<word id="le306010.b.unit.70">i'll</word>
+<word id="le306010.b.unit.71">get</word>
+<word id="le306010.b.unit.72">one</word>
+<word id="le306010.b.unit.73">perhaps</word>
+<word id="le306010.b.unit.74">i</word>
+<word id="le306010.b.unit.75">should</word>
+<word id="le306010.b.unit.76">have</word>
+<word id="le306010.b.unit.77">thought</word>
+<sil BTlength="" id="le306010.b.unit.78"/>
+<word id="le306010.b.unit.79">sorry</word>
+<word id="le306010.b.unit.80">like</word>
+<word id="le306010.b.unit.81">that</word>
+<word id="le306010.b.unit.82">i</word>
+<word id="le306010.b.unit.83">thought</word>
+<word id="le306010.b.unit.84">it</word>
+<word id="le306010.b.unit.85">would</word>
+<word id="le306010.b.unit.86">be</word>
+<word id="le306010.b.unit.87">a</word>
+<word id="le306010.b.unit.88">number</word>
+<word id="le306010.b.unit.89">like</word>
+<num id="le306010.b.unit.90"/>
+<num id="le306010.b.unit.91"/>
+<num id="le306010.b.unit.92"/>
+<word id="le306010.b.unit.93">or</word>
+<word id="le306010.b.unit.94">something</word>
+<word id="le306010.b.unit.95">like</word>
+<word id="le306010.b.unit.96">this</word>
+<num id="le306010.b.unit.117"/>
+<num id="le306010.b.unit.118"/>
+<word id="le306010.b.unit.119">double</word>
+<num id="le306010.b.unit.120"/>
+<word id="le306010.b.unit.121">that</word>
+<word id="le306010.b.unit.122">means</word>
+<word id="le306010.b.unit.123">it's</word>
+<word id="le306010.b.unit.124">a</word>
+<word id="le306010.b.unit.125">free</word>
+<word id="le306010.b.unit.126">call</word>
+<word id="le306010.b.unit.130">yes</word>
+<num id="le306010.b.unit.136"/>
+<num id="le306010.b.unit.137"/>
+<num id="le306010.b.unit.138"/>
+<word id="le306010.b.unit.143">can</word>
+<word id="le306010.b.unit.144">i</word>
+<word id="le306010.b.unit.145">repeat</word>
+<word id="le306010.b.unit.146">that</word>
+<word id="le306010.b.unit.147">young</word>
+<word id="le306010.b.unit.148">lady</word>
+<num id="le306010.b.unit.152"/>
+<num id="le306010.b.unit.153"/>
+<num id="le306010.b.unit.154"/>
+<num id="le306010.b.unit.155"/>
+<num id="le306010.b.unit.156"/>
+<num id="le306010.b.unit.157"/>
+<num id="le306010.b.unit.158"/>
+<num id="le306010.b.unit.159"/>
+<word id="le306010.b.unit.160">thank</word>
+<word id="le306010.b.unit.161">you</word>
+<word id="le306010.b.unit.166">bye</word>
+<word id="le306010.b.unit.167">bye</word>
+<comment text="end-ok" id="le306010.b.unit.168"/>
+</nite:root>

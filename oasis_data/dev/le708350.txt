@@ -1,0 +1,18 @@
+b|hi|greet
+b|you know um the ringback function where you press and it tells you when they're not engaged how do you cancel one of those cheers yep ok then thanks a lot tadda|refer
+b|and it tells you when they're not engaged|refer
+b|how do you cancel one of those|reqInfo
+a|yeah|backch
+a|yeah|backch
+a|how do you cancel one of those|echo
+a|um bear with me a second|hold
+a|i'll tell you to cancel it it's hash hash ok thank you bye|informIntent
+a|to cancel it it's hash hash|answ
+b|cheers|backch
+b|yep|ackn
+b|ok then|init
+b|thanks a lot|thank
+b|tadda|bye
+a|ok|ackn
+a|thank you|thank
+a|bye|bye

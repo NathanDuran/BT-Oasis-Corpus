@@ -1,0 +1,44 @@
+b|morning to you|greet
+b|um i wonder if you can explain an administration matter here|reqInfo
+b|i'm looking at dialling a telephone number|inform
+b|and my directory tells me that that is a national number|inform
+a|mm mm|backch
+a|it is|inform
+a|yes|inform
+a|um is it or yeah but it basically all there is to that number wherever you call it from you'll be charged our national rate which on a weekend is only three pence a minute no there there is there if you're making normal calls to normal numbers like um yours is or another code for instance then there's three basic rates local regional and national um but also there's numbers like yeah the the yeah this one's a national one at the weekend yeah during the week day it's eight pence per minute during the day and four point two during the evening ok byebye|reqInfo
+a|yeah|ackn
+a|but it basically all there is to that number|refer
+a|wherever you call it from you'll be charged our national rate which on a weekend is only three pence a minute|inform
+b|right right|ackn
+b|ok so|init
+b|we basically get three rates|confirm
+b|do we we get our local rate|reqInfo
+a|no|answ
+a|there there is there if you're making normal calls to normal numbers like um yours is or another code for instance|inform
+a|then there's three basic rates local regional and national|inform
+a|um but also there's numbers like yeah the the yeah this one's a national one at the weekend yeah during the week day it's eight pence per minute during the day and four point two during the evening ok byebye|inform
+b|right|backch
+b|yeah|backch
+b|right|backch
+b|uh yes|ackn
+b|i'm seeing two pages of these here in the in the directory i've got in front of me|inform
+a|yeah|backch
+b|the national ones the that|refer
+a|yeah|ackn
+a|this one's a national one at the weekend yeah during the week day it's eight pence per minute during the day and four point two during the evening ok byebye|confirm
+b|so|init
+b|basically that is always three p per minute at the weekend|inform
+a|at the weekend|echo
+a|yeah|ackn
+b|and what is it during the week day|reqInfo
+a|during the week day|echo
+a|it's eight pence per minute during the day|answ
+a|and four point two during the evening|answElab
+b|yeah|backch
+b|four point two in the evening|confirm
+b|ok|ackn
+b|thanks very much indeed thank you byebye|thank
+a|ok|ackn
+a|byebye|bye
+b|thank you|thank
+b|byebye|bye

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le204350.unit.b">
+<word id="le204350.b.unit.2">yeah</word>
+<word id="le204350.b.unit.3">there's</word>
+<word id="le204350.b.unit.4">a</word>
+<word id="le204350.b.unit.5">number</word>
+<word id="le204350.b.unit.6">i'm</word>
+<word id="le204350.b.unit.7">trying</word>
+<word id="le204350.b.unit.8">to</word>
+<word id="le204350.b.unit.9">get</word>
+<word id="le204350.b.unit.10">it's</word>
+<word id="le204350.b.unit.11">a</word>
+<word id="le204350.b.unit.12">hospital</word>
+<word id="le204350.b.unit.13">actually</word>
+<sil BTlength="" id="le204350.b.unit.14"/>
+<word id="le204350.b.unit.15">it's</word>
+<num id="le204350.b.unit.16"/>
+<num id="le204350.b.unit.17"/>
+<word id="le204350.b.unit.18">double</word>
+<num id="le204350.b.unit.19"/>
+<num id="le204350.b.unit.20"/>
+<num id="le204350.b.unit.26"/>
+<word id="le204350.b.unit.27">double</word>
+<num id="le204350.b.unit.28"/>
+<num id="le204350.b.unit.29"/>
+<bcanchor id="le204350.bcanchorb.1"><nite:pointer href="le204350.a.lturn.xml#id(le204350.lturn.4.1)" role="bc"/></bcanchor>
+<word id="le204350.b.unit.31">and</word>
+<word id="le204350.b.unit.32">all</word>
+<word id="le204350.b.unit.33">day</word>
+<word id="le204350.b.unit.34">it</word>
+<word id="le204350.b.unit.35">keeps</word>
+<word id="le204350.b.unit.36">saying</word>
+<word id="le204350.b.unit.37">it's</word>
+<word id="le204350.b.unit.38">out</word>
+<word id="le204350.b.unit.39">of</word>
+<word id="le204350.b.unit.40">order</word>
+<sil BTlength="" id="le204350.b.unit.41"/>
+<word id="le204350.b.unit.42">um</word>
+<word id="le204350.b.unit.51">thanks</word>
+<comment text="cont_transfer" id="le204350.b.unit.52"/>
+<word id="le204350.b.unit.93">i</word>
+<word id="le204350.b.unit.94">thought</word>
+<word id="le204350.b.unit.95">that</word>
+<word id="le204350.b.unit.96">was</word>
+<word id="le204350.b.unit.97">it</word>
+<word id="le204350.b.unit.130">yeah</word>
+<word id="le204350.b.unit.131">i</word>
+<word id="le204350.b.unit.132">thought</word>
+<word id="le204350.b.unit.133">that</word>
+<word id="le204350.b.unit.134">was</word>
+<word id="le204350.b.unit.135">the</word>
+<word id="le204350.b.unit.136">number</word>
+<word id="le204350.b.unit.137">of</word>
+<word id="le204350.b.unit.138">the</word>
+<word id="le204350.b.unit.139">hospital</word>
+<word id="le204350.b.unit.140">actually</word>
+<word id="le204350.b.unit.141">that's</word>
+<word id="le204350.b.unit.142">a</word>
+<word id="le204350.b.unit.143">you</word>
+<word id="le204350.b.unit.144">say</word>
+<word id="le204350.b.unit.145">it's</word>
+<word id="le204350.b.unit.146">a</word>
+<word id="le204350.b.unit.147">switchboard</word>
+<word id="le204350.b.unit.148">number</word>
+<word id="le204350.b.unit.161">oh</word>
+<word id="le204350.b.unit.162">is</word>
+<word id="le204350.b.unit.163">it</word>
+<bcanchor id="le204350.bcanchorb.2"><nite:pointer href="le204350.a.lturn.xml#id(le204350.lturn.12.1)" role="bc"/></bcanchor>
+<word id="le204350.b.unit.165">oh</word>
+<partword id="le204350.b.unit.166">ri</partword>
+<comment text="right" id="le204350.b.unit.167"/>
+<word id="le204350.b.unit.176">oh</word>
+<word id="le204350.b.unit.177">right</word>
+<word id="le204350.b.unit.178">you</word>
+<word id="le204350.b.unit.179">better</word>
+<word id="le204350.b.unit.180">put</word>
+<word id="le204350.b.unit.181">me</word>
+<word id="le204350.b.unit.182">on</word>
+<word id="le204350.b.unit.183">to</word>
+<partword id="le204350.b.unit.184">dire</partword>
+<comment text="directory" id="le204350.b.unit.185"/>
+</nite:root>

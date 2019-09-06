@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le750250.unit.a">
+<stdzcode id="le750250.a.unit.1" description="name"/>
+<pncode type="business" id="le750250.a.unit.13"/>
+<pncode type="business" id="le750250.a.unit.14"/>
+<word id="le750250.a.unit.15">is</word>
+<num id="le750250.a.unit.16"/>
+<num id="le750250.a.unit.17"/>
+<num id="le750250.a.unit.18"/>
+<num id="le750250.a.unit.19"/>
+<word id="le750250.a.unit.26">thank</word>
+<word id="le750250.a.unit.27">you</word>
+<word id="le750250.a.unit.28">byebye</word>
+</nite:root>

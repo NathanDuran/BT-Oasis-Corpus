@@ -1,0 +1,34 @@
+b|hello|greet
+b|um um i've got a number here that says extension|inform
+b|and every time i try it it won't work and it's the right number as well er yeah er it's no i got it from er an advert er i think it might it's a girl called i'm not sure exactly what position she has okay alright okay then okay thank you bye|inform
+b|and it's the right number as well|inform
+a|i'm sorry|expressRegret
+a|what code and number were you dialling please|reqInfo
+b|er yeah er it's no i got it from er an advert er i think it might it's a girl called i'm not sure exactly what position she has okay alright okay then okay thank you bye|answ
+a|and what area code is that please|reqInfo
+b|yeah|backch
+b|er it's no i got it from er an advert er i think it might it's a girl called i'm not sure exactly what position she has okay alright okay then okay thank you bye|answ
+a|thank you|thank
+a|hold the line just a moment please now when you say you know it's the right number did you get it from a or let me try the call for you sir who is it you're trying to call this is a business number you're calling sir the reason that you might not be getting an answer is that you might be it receives incoming calls barred i think incoming calls barred so you can't ring that number it's not a residential number either okay bye|hold
+a|now|init
+a|when you say you know it's the right number did you get it from a or|reqInfo
+b|no|answ
+b|i got it from er an advert|answElab
+a|let me try the call for you sir who is it you're trying to call this is a business number you're calling sir the reason that you might not be getting an answer is that you might be it receives incoming calls barred i think incoming calls barred so you can't ring that number it's not a residential number either okay bye|informIntent
+a|who is it you're trying to call|reqInfo
+b|it's a girl called i'm not sure exactly what position she has okay alright okay then okay thank you bye|answ
+b|i'm not sure exactly what position she has|answElab
+a|this is a business number you're calling sir|inform
+a|the reason that you might not be getting an answer is that you might be|expressPossibility
+a|it receives incoming calls barred i think incoming calls barred|expressOpinion
+a|so|init
+a|you can't ring that number|inform
+a|it's not a residential number either|inform
+b|okay|backch
+b|alright|ackn
+b|okay then|ackn
+b|okay|ackn
+b|thank you|thank
+b|bye|bye
+a|okay|backch
+a|bye|bye

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le706710.unit.b">
+<word id="le706710.b.unit.2">hi</word>
+<word id="le706710.b.unit.3">i</word>
+<word id="le706710.b.unit.4">was</word>
+<word id="le706710.b.unit.5">just</word>
+<word id="le706710.b.unit.6">wondering</word>
+<word id="le706710.b.unit.7">if</word>
+<word id="le706710.b.unit.8">you</word>
+<word id="le706710.b.unit.9">could</word>
+<word id="le706710.b.unit.10">tell</word>
+<word id="le706710.b.unit.11">me</word>
+<word id="le706710.b.unit.12">what</word>
+<word id="le706710.b.unit.13">area</word>
+<word id="le706710.b.unit.14">this</word>
+<word id="le706710.b.unit.15">code's</word>
+<word id="le706710.b.unit.16">for</word>
+<word id="le706710.b.unit.17">um</word>
+<word id="le706710.b.unit.18">it's</word>
+<num id="le706710.b.unit.19"/>
+<num id="le706710.b.unit.20"/>
+<num id="le706710.b.unit.21"/>
+<num id="le706710.b.unit.22"/>
+<num id="le706710.b.unit.23"/>
+<word id="le706710.b.unit.35">um</word>
+<word id="le706710.b.unit.36">no</word>
+<sil BTlength="" id="le706710.b.unit.37"/>
+<word id="le706710.b.unit.38">i've</word>
+<word id="le706710.b.unit.39">just</word>
+<word id="le706710.b.unit.40">got</word>
+<word id="le706710.b.unit.41">the</word>
+<word id="le706710.b.unit.42">code</word>
+<word id="le706710.b.unit.75">yeah</word>
+<word id="le706710.b.unit.76">i</word>
+<word id="le706710.b.unit.77">was</word>
+<word id="le706710.b.unit.78">just</word>
+<word id="le706710.b.unit.79">looking</word>
+<word id="le706710.b.unit.80">at</word>
+<word id="le706710.b.unit.81">it</word>
+<word id="le706710.b.unit.82">now</word>
+<word id="le706710.b.unit.105">yeah</word>
+<word id="le706710.b.unit.106">it</word>
+<word id="le706710.b.unit.107">it's</word>
+<word id="le706710.b.unit.108">just</word>
+<word id="le706710.b.unit.109">quite</word>
+<word id="le706710.b.unit.110">big</word>
+<word id="le706710.b.unit.111">so</word>
+<word id="le706710.b.unit.112">i</word>
+<word id="le706710.b.unit.113">thought</word>
+<word id="le706710.b.unit.114">may</word>
+<word id="le706710.b.unit.115">be</word>
+<word id="le706710.b.unit.116">you'd</word>
+<word id="le706710.b.unit.117">be</word>
+<word id="le706710.b.unit.118">able</word>
+<word id="le706710.b.unit.119">to</word>
+<word id="le706710.b.unit.120">look</word>
+<word id="le706710.b.unit.121">on</word>
+<word id="le706710.b.unit.122">the</word>
+<word id="le706710.b.unit.123">computer</word>
+<word id="le706710.b.unit.133">hi</word>
+<word id="le706710.b.unit.136">it's</word>
+<pncode type="town" id="le706710.b.unit.137"/>
+<bcanchor id="le706710.bcanchorb.2"><nite:pointer href="le706710.a.lturn.xml#id(le706710.lturn.10.1)" role="bc"/></bcanchor>
+<word id="le706710.b.unit.139">right</word>
+<word id="le706710.b.unit.140">ok</word>
+<word id="le706710.b.unit.141">then</word>
+<word id="le706710.b.unit.142">thanks</word>
+<word id="le706710.b.unit.145">all</word>
+<word id="le706710.b.unit.146">right</word>
+<comment text="receiver_replaced" id="le706710.b.unit.147"/>
+</nite:root>

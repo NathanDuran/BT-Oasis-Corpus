@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le702860.unit.b">
+<word id="le702860.b.unit.2">er</word>
+<word id="le702860.b.unit.3">good</word>
+<word id="le702860.b.unit.4">evening</word>
+<word id="le702860.b.unit.5">could</word>
+<word id="le702860.b.unit.6">um</word>
+<sil BTlength="" id="le702860.b.unit.7"/>
+<word id="le702860.b.unit.8">you</word>
+<word id="le702860.b.unit.9">possibly</word>
+<word id="le702860.b.unit.10">give</word>
+<word id="le702860.b.unit.11">me</word>
+<word id="le702860.b.unit.12">a</word>
+<word id="le702860.b.unit.13">number</word>
+<word id="le702860.b.unit.14">for</word>
+<word id="le702860.b.unit.15">a</word>
+<word id="le702860.b.unit.16">taxi</word>
+<word id="le702860.b.unit.17">around</word>
+<word id="le702860.b.unit.18">the</word>
+<pncode type="town" id="le702860.b.unit.19"/>
+<word id="le702860.b.unit.20">area</word>
+<word id="le702860.b.unit.36">no</word>
+<word id="le702860.b.unit.37">um</word>
+<sil BTlength="" id="le702860.b.unit.38"/>
+<word id="le702860.b.unit.39">got</word>
+<word id="le702860.b.unit.40">no</word>
+<word id="le702860.b.unit.41">idea</word>
+<word id="le702860.b.unit.42">when</word>
+<word id="le702860.b.unit.43">it</word>
+<word id="le702860.b.unit.44">comes</word>
+<bcanchor id="le702860.bcanchorb.1"><nite:pointer href="le702860.a.lturn.xml#id(le702860.lturn.4.1)" role="bc"/></bcanchor>
+<word id="le702860.b.unit.46">to</word>
+<word id="le702860.b.unit.47">that</word>
+<word id="le702860.b.unit.48">you</word>
+<word id="le702860.b.unit.49">know</word>
+<bcanchor id="le702860.bcanchorb.2"><nite:pointer href="le702860.a.lturn.xml#id(le702860.lturn.4.2)" role="bc"/></bcanchor>
+<word id="le702860.b.unit.53">i'm</word>
+<word id="le702860.b.unit.54">pretty</word>
+<word id="le702860.b.unit.55">clueless</word>
+<word id="le702860.b.unit.56">when</word>
+<word id="le702860.b.unit.57">it</word>
+<word id="le702860.b.unit.58">comes</word>
+<word id="le702860.b.unit.59">to</word>
+<word id="le702860.b.unit.60">this</word>
+<word id="le702860.b.unit.61">area</word>
+<word id="le702860.b.unit.72">you're</word>
+<word id="le702860.b.unit.73">not</word>
+<word id="le702860.b.unit.74">in</word>
+<word id="le702860.b.unit.75">my</word>
+<word id="le702860.b.unit.76">area</word>
+<bcanchor id="le702860.bcanchorb.3"><nite:pointer href="le702860.a.lturn.xml#id(le702860.lturn.6.1)" role="bc"/></bcanchor>
+<word id="le702860.b.unit.78">whereabouts</word>
+<word id="le702860.b.unit.79">are</word>
+<word id="le702860.b.unit.80">you</word>
+<word id="le702860.b.unit.81">based</word>
+<word id="le702860.b.unit.82">then</word>
+<word id="le702860.b.unit.88">the</word>
+<word id="le702860.b.unit.89">midlands</word>
+<num id="le702860.b.unit.105"/>
+<num id="le702860.b.unit.106"/>
+<num id="le702860.b.unit.107"/>
+<num id="le702860.b.unit.108"/>
+<bcanchor id="le702860.bcanchorb.4"><nite:pointer href="le702860.a.lturn.xml#id(le702860.lturn.10.1)" role="bc"/></bcanchor>
+<word id="le702860.b.unit.111">thanks</word>
+<word id="le702860.b.unit.112">very</word>
+<word id="le702860.b.unit.113">much</word>
+<word id="le702860.b.unit.114">for</word>
+<word id="le702860.b.unit.115">your</word>
+<word id="le702860.b.unit.116">time</word>
+<word id="le702860.b.unit.120">okay</word>
+<word id="le702860.b.unit.121">good</word>
+<word id="le702860.b.unit.122">evening</word>
+<comment text="end-ok" id="le702860.b.unit.123"/>
+</nite:root>

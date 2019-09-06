@@ -1,0 +1,18 @@
+b|oh yeah|ackn
+b|um how do i book an alarm call dear|reqInfo
+a|what|reqInfo
+a|yourself|reqInfo
+b|yeah|answ
+a|it's star star sorry star star|answ
+b|star star|echo
+a|star|answElab
+a|but the time by the hour clock|answElab
+a|so|init
+a|if it's o'clock|answElab
+a|it's double and then the hash button ok bye|answElab
+b|yeah|ackn
+a|and then the hash button|answElab
+b|right ok dear|ackn
+a|ok|init
+b|thank you|thank
+a|bye|bye

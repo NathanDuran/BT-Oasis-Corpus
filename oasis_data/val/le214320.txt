@@ -1,0 +1,39 @@
+b|yeah|ackn
+b|could you help me please um|direct
+b|you know the|confirm
+b|i've i'm dialling it cause i i've been out and i'm getting the um somebody saying i've got no more return calls no ha usually no it don't usually it says the last person who's called what do you mean how long oh i had one last night is it because oh i've had one oh it's gone longer than that before but that's what it means anyway just means that no one else has called you in between times no return oh oh i i'll wait for somebody to call me and then try it then|inform
+b|and i'm getting the um somebody saying i've got no more return calls|inform
+a|mm|backch
+a|that means nobody nobody's called you basically|inform
+b|no|backch
+b|no|negate
+b|it don't|negate
+b|usually it says the last person who's called|inform
+a|yeah|ackn
+a|but if no one's called you for a certain amount of time okay not exactly sure i think it's a day or something twenty four hours and it says we've got no more stored numbers for you yeah yeah if it's a uh i don't know how long it is it's a period of time oh i'll wait till oh well no yeah nobody's called you ok yeah thank you bye|inform
+b|what do you mean|reqInfo
+b|how long|reqInfo
+a|not exactly sure|answ
+a|i think it's a day or something twenty four hours|expressOpinion
+a|and it says we've got no more stored numbers for you|inform
+b|oh|exclaim
+b|i had one last night|inform
+a|yeah yeah|ackn
+a|uh i don't know how long it is|inform
+a|it's a period of time|inform
+b|is it|reqInfo
+b|because oh i've had one|inform
+b|oh it's gone longer than that before|inform
+b|but that's what it means anyway|confirm
+b|just means that no one else has called you in between times|confirm
+a|oh well|backch
+a|no|backch
+b|no|negate
+b|return|confirm
+a|yeah|ackn
+a|nobody's called you|inform
+b|oh oh|backch
+b|i i'll wait for somebody to call me and then try it then|informIntent
+a|ok|backch
+a|yeah|ackn
+a|thank you bye|thank

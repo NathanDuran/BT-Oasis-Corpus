@@ -1,0 +1,36 @@
+b|hello love|greet
+b|can you just tell me i'm trying to dial a number and when i dial it it it rings for about three or four times then it i get some right queer noises on it what would i who do i get through to to just ask to check it for me double yeah oh i see uh ok then i i can't get through at all no ok then thanks very much byebye|reqInfo
+b|i'm trying to dial a number|informIntent
+b|and when i dial it|inform
+b|it it rings for about three or four times|inform
+b|then it i get some right queer noises on it|inform
+b|what would i who do i get through to to just ask to check it for me|reqInfo
+a|hello|backch
+a|okay|backch
+a|do you|backch
+a|i can do that|offer
+a|what number is it you're calling please|reqInfo
+b|double yeah oh i see uh ok then i i can't get through at all no ok then thanks very much byebye|answ
+a|double thank you one moment please right what that noise is is a fax machine that the customer's got on their line i'm afraid so you won't be able to get through if you're just using the telephone you'll have to try at a later time may be sorry no not unless you're faxing the customer no sorry thank you byebye|echo
+a|thank you|thank
+a|one moment please right what that noise is is a fax machine that the customer's got on their line i'm afraid so you won't be able to get through if you're just using the telephone you'll have to try at a later time may be sorry no not unless you're faxing the customer no sorry thank you byebye|hold
+a|right|init
+a|what that noise is is a fax machine that the customer's got on their line|inform
+a|i'm afraid|expressRegret
+a|so|init
+a|you won't be able to get through if you're just using the telephone|inform
+a|you'll have to try at a later time may be|suggest
+b|yeah|backch
+b|oh i see uh ok then i i can't get through at all no ok then thanks very much byebye|ackn
+b|uh ok then|accept
+a|sorry|expressRegret
+b|i i can't get through at all|inform
+a|no|ackn
+a|not unless you're faxing the customer no|inform
+b|no|ackn
+b|ok then|accept
+a|sorry|expressRegret
+b|thanks very much|thank
+a|thank you|thank
+a|byebye|bye
+b|byebye|bye

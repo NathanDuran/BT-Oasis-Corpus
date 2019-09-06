@@ -1,0 +1,14 @@
+b|hi|greet
+b|could you check a phone number for me|direct
+b|trying to get through|informIntent
+b|and its er saying it's number's unavailable|inform
+a|alright|accept
+a|what is the code and number|reqInfo
+a|ah|exclaim
+a|we've not had a customer on there since the eleventh of March i'm afraid|expressRegret
+b|ah right|ackn
+a|okay right|ackn
+a|thanks|thank
+a|bye bye|bye
+b|thanks|backch
+b|bye|bye

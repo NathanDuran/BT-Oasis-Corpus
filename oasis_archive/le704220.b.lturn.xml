@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le704220.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le704220.lturn.2'>
+
+
+<utt id='le704220.utt.2'>
+
+<segment type='frag' sp-act='greet' id='le704220.frag.2'>
+<nite:child href='le704220.b.unit.xml#id(le704220.b.unit.2)'/>
+</segment>
+
+</utt>
+
+<utt id='le704220.utt.3'>
+
+<segment type='q_yn' sp-act='direct' id='le704220.q_yn.1'>
+<nite:child href='le704220.b.unit.xml#id(le704220.b.unit.3)..id(le704220.b.unit.15)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le704220.lturn.4'>
+
+
+<utt id='le704220.utt.5'>
+
+<segment type='q_yn' sp-act='direct' id='le704220.q_yn.2'>
+<nite:child href='le704220.b.unit.xml#id(le704220.b.unit.17)..id(le704220.b.unit.31)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le704220.lturn.6'>
+
+
+<utt id='le704220.utt.7'>
+
+<segment type='dm' sp-act='init' id='le704220.dm.2'>
+<nite:child href='le704220.b.unit.xml#id(le704220.b.unit.37)'/>
+</segment>
+
+</utt>
+
+<utt id='le704220.utt.8'>
+
+<segment type='decl' sp-act='inform' id='le704220.decl.1'>
+<nite:child href='le704220.b.unit.xml#id(le704220.b.unit.38)..id(le704220.b.unit.46)'/>
+</segment>
+
+</utt>
+
+<utt id='le704220.utt.9'>
+
+<segment type='decl' sp-act='inform' id='le704220.decl.2'>
+<nite:child href='le704220.b.unit.xml#id(le704220.b.unit.47)..id(le704220.b.unit.52)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le704220.lturn.7.1' type='backchannel'>
+
+<utt id='le704220.utt.10.1'>
+<segment type='backch' sp-act='' id='le704220.backch.1'>
+<nite:child href='le704220.b.unit.xml#id(le704220.b.unit.56)..id(le704220.b.unit.57)'/>
+</segment>
+</utt>
+</lturn>
+<lturn id='le704220.lturn.8'>
+
+
+<utt id='le704220.utt.12'>
+
+<segment type='frag' sp-act='complete' id='le704220.frag.4'>
+<nite:child href='le704220.b.unit.xml#id(le704220.b.unit.63)..id(le704220.b.unit.64)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le704220.lturn.10'>
+
+
+<utt id='le704220.utt.16'>
+
+<segment type='dm' sp-act='ackn' id='le704220.dm.4'>
+<nite:child href='le704220.b.unit.xml#id(le704220.b.unit.86)..id(le704220.b.unit.89)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

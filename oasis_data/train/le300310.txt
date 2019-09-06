@@ -1,0 +1,56 @@
+b|hello|greet
+b|i'm wondering if you can tell me if these two numbers are still live please|reqInfo
+a|hello|backch
+a|yeah sure|answ
+b|i don't seem to be getting any response|inform
+b|it's uh double and oh sorry right it was yeah it was ringing for me but i wasn't sure if it was one of these lines that would just ring on continually i ah right maybe just the company are shut then um i'll give you the second one it's double double yes hello oh well that's fine i'll yes please oh good afternoon sorry to bother you but through the operator i couldn't get a response earlier i thought there was maybe uh a fault i'm looking at one of your catalogues here|inform
+a|ok|backch
+a|thank you|thank
+b|and oh sorry right it was yeah it was ringing for me but i wasn't sure if it was one of these lines that would just ring on continually i ah right maybe just the company are shut then um i'll give you the second one it's double double yes hello oh well that's fine i'll yes please oh good afternoon sorry to bother you but through the operator i couldn't get a response earlier i thought there was maybe uh a fault i'm looking at one of your catalogues here|inform
+a|one moment|hold
+a|sorry|expressRegret
+a|i'll just try|informIntent
+b|oh sorry|expressRegret
+a|the first one|informIntent
+a|sorry|expressRegret
+a|um it should be working yeah that does ring for me double it it should still be working certainly yeah sure sorry yeah double double thank you is it the same there as well with that ringing thank you one moment please oh good afternoon it's just checking somebody was having problems getting through i'll tell them to call back thank you then byebye hello sorry they actually answered there hello they hello it's the operator here still they actually answered on that number did you want me to put you through ok sorry one moment please|expressOpinion
+a|yeah|init
+a|that does ring for me|inform
+b|right|backch
+b|it was yeah it was ringing for me|inform
+b|but i wasn't sure if it was one of these lines that would just ring on continually|inform
+a|it it should still be working|inform
+a|certainly|inform
+b|ah right|ackn
+b|maybe just the company are shut then um i'll give you the second one it's double double yes hello oh well that's fine i'll yes please oh good afternoon sorry to bother you but through the operator i couldn't get a response earlier i thought there was maybe uh a fault i'm looking at one of your catalogues here|expressPossibility
+b|um i'll give you the second one|informIntent
+b|it's double double yes hello oh well that's fine i'll yes please oh good afternoon sorry to bother you but through the operator i couldn't get a response earlier i thought there was maybe uh a fault i'm looking at one of your catalogues here|inform
+a|yeah sure sorry|backch
+a|yeah|backch
+a|thank you|thank
+a|is it the same there as well with that ringing|reqInfo
+b|yes|answ
+a|thank you one moment please oh good afternoon it's just checking somebody was having problems getting through i'll tell them to call back thank you then byebye hello sorry they actually answered there hello they hello it's the operator here still they actually answered on that number did you want me to put you through ok sorry one moment please|thank
+a|one moment please oh good afternoon it's just checking somebody was having problems getting through i'll tell them to call back thank you then byebye hello sorry they actually answered there hello they hello it's the operator here still they actually answered on that number did you want me to put you through ok sorry one moment please|hold
+a|oh good afternoon|greet
+a|it's just checking somebody was having problems getting through i'll tell them to call back thank you then byebye hello sorry they actually answered there hello they hello it's the operator here still they actually answered on that number did you want me to put you through ok sorry one moment please|identifySelf
+a|checking|inform
+a|somebody was having problems getting through|inform
+a|i'll tell them to call back|inform
+a|thank you then|thank
+a|byebye hello sorry they actually answered there hello they hello it's the operator here still they actually answered on that number did you want me to put you through ok sorry one moment please|bye
+a|hello|greet
+a|sorry|expressRegret
+a|they actually answered there|inform
+b|hello|greet
+a|hello|greet
+a|they hello|greet
+a|it's the operator here still|identifySelf
+a|they actually answered on that number|inform
+b|oh well|init
+b|that's fine|ackn
+a|did you want me to put you through|reqDirect
+b|yes please|direct
+a|ok|accept
+a|sorry|expressRegret
+a|one moment please|hold

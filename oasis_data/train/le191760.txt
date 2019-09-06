@@ -1,0 +1,39 @@
+b|good morning|greet
+b|could i please check a number|direct
+b|i'm ringing the a a steady tone there's no ring at all it's just goes straight to a steady tone the er the code is er sorry the number is thanks yeah thank you very much double but it is a fault is it okay that's great that's alright bye|inform
+a|mm hmm|ackn
+a|and what's happening when you're calling it|reqInfo
+b|a a steady tone|answ
+b|there's no ring at all|answElab
+b|it's just goes straight to a steady tone|answElab
+a|okay|backch
+a|i'm sorry about that|expressRegret
+a|what's the code and number you're calling please|reqInfo
+b|the er the code is er sorry the number is thanks yeah thank you very much double but it is a fault is it okay that's great that's alright bye|answ
+b|the number is thanks yeah thank you very much double but it is a fault is it okay that's great that's alright bye|answElab
+a|lets just have a look that that for you|informIntent
+b|thanks yeah thank you very much double but it is a fault is it okay that's great that's alright bye|accept
+a|hello caller|greet
+b|yeah|ackn
+a|i'm just going to another operator to get them to test that for us|informIntent
+b|thank you very much|thank
+a|good morning|greet
+a|can you check an unobtainable for me please|direct
+a|treble thank you just making enquiries for us now caller hello ok thank you right thank you bye yeah they're saying that it probably is a fault and they're reporting it to their engineers i'm sorry about that|answElab
+a|thank you|thank
+a|just making enquiries for us now caller|informIntent
+a|hello|greet
+a|ok|accept
+a|thank you|thank
+a|right|init
+a|thank you|answ
+a|bye|bye
+b|but it is a fault is it|reqInfo
+a|yeah|answ
+a|they're saying that it probably is a fault|answElab
+a|and they're reporting it to their engineers|answElab
+b|okay|ackn
+b|that's great|appreciate
+a|i'm sorry about that|expressRegret
+b|that's alright|accept
+b|bye|bye

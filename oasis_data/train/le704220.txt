@@ -1,0 +1,17 @@
+b|hello|greet
+b|could you put me through to treble please|direct
+a|sorry|pardon
+b|could you put me through to treble well the line is actually cut off at the moment but it's still getting incoming calls ah ha incoming calls oh right|direct
+a|you having difficulty with it|reqInfo
+b|well|init
+b|the line is actually cut off at the moment|inform
+b|but it's still getting incoming calls|inform
+a|it's cut off but it's still getting it's not one of our lines so i can try it for you but must be a number|confirm
+a|but it's still getting|echo
+b|ah ha|backch
+b|incoming calls|complete
+a|it's not one of our lines|inform
+a|so|init
+a|i can try it for you|offer
+a|but must be a number|inform
+b|oh right|ackn

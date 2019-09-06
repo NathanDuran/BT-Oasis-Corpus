@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le711320.unit.a">
+<stdzcode id="le711320.a.unit.1" description="name"/>
+<word id="le711320.a.unit.13">early</word>
+<word id="le711320.a.unit.14">morning</word>
+<word id="le711320.a.unit.15">call</word>
+<word id="le711320.a.unit.16">what</word>
+<word id="le711320.a.unit.17">time</word>
+<word id="le711320.a.unit.18">would</word>
+<word id="le711320.a.unit.19">you</word>
+<word id="le711320.a.unit.20">like</word>
+<word id="le711320.a.unit.21">the</word>
+<word id="le711320.a.unit.22">call</word>
+<word id="le711320.a.unit.23">please</word>
+<word id="le711320.a.unit.29">seven</word>
+<word id="le711320.a.unit.30">forty</word>
+<word id="le711320.a.unit.31">five</word>
+<word id="le711320.a.unit.32">if</word>
+<word id="le711320.a.unit.33">you'd</word>
+<word id="le711320.a.unit.34">just</word>
+<word id="le711320.a.unit.35">like</word>
+<word id="le711320.a.unit.36">to</word>
+<word id="le711320.a.unit.37">hold</word>
+<word id="le711320.a.unit.38">the</word>
+<word id="le711320.a.unit.39">line</word>
+<word id="le711320.a.unit.40">while</word>
+<bcanchor id="le711320.bcanchora.1"><nite:pointer href="le711320.b.lturn.xml#id(le711320.lturn.5.1)" role="bc"/></bcanchor>
+<word id="le711320.a.unit.43">i</word>
+<word id="le711320.a.unit.44">confirm</word>
+<word id="le711320.a.unit.45">that</word>
+<word id="le711320.a.unit.46">for</word>
+<word id="le711320.a.unit.47">you</word>
+<sil BTlength="6s" id="le711320.a.unit.48"/>
+<word id="le711320.a.unit.49">that's</word>
+<word id="le711320.a.unit.50">fine</word>
+<word id="le711320.a.unit.51">that's</word>
+<word id="le711320.a.unit.52">booked</word>
+<word id="le711320.a.unit.53">for</word>
+<word id="le711320.a.unit.54">you</word>
+<word id="le711320.a.unit.55">at</word>
+<word id="le711320.a.unit.56">seven</word>
+<word id="le711320.a.unit.57">forty</word>
+<word id="le711320.a.unit.58">five</word>
+<word id="le711320.a.unit.60">thank</word>
+<word id="le711320.a.unit.61">you</word>
+<word id="le711320.a.unit.70">no</word>
+<bcanchor id="le711320.bcanchora.2"><nite:pointer href="le711320.b.lturn.xml#id(le711320.lturn.9.1)" role="bc"/></bcanchor>
+<word id="le711320.a.unit.72">it</word>
+<word id="le711320.a.unit.73">comes</word>
+<word id="le711320.a.unit.74">comes</word>
+<word id="le711320.a.unit.75">up</word>
+<word id="le711320.a.unit.76">automatically</word>
+<word id="le711320.a.unit.77">when</word>
+<word id="le711320.a.unit.78">you</word>
+<word id="le711320.a.unit.79">call</word>
+<word id="le711320.a.unit.80">in</word>
+<word id="le711320.a.unit.85">thank</word>
+<word id="le711320.a.unit.86">you</word>
+<word id="le711320.a.unit.88">bye</word>
+<comment text="end-ok" id="le711320.a.unit.89"/>
+</nite:root>

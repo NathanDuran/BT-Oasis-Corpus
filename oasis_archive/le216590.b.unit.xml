@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le216590.unit.b">
+<word id="le216590.b.unit.2">oh</word>
+<word id="le216590.b.unit.3">good</word>
+<word id="le216590.b.unit.4">morning</word>
+<word id="le216590.b.unit.5">i</word>
+<word id="le216590.b.unit.6">wonder</word>
+<word id="le216590.b.unit.7">if</word>
+<word id="le216590.b.unit.8">you</word>
+<word id="le216590.b.unit.9">can</word>
+<word id="le216590.b.unit.10">help</word>
+<word id="le216590.b.unit.11">me</word>
+<bcanchor id="le216590.bcanchorb.1"><nite:pointer href="le216590.a.lturn.xml#id(le216590.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le216590.b.unit.13">i</word>
+<word id="le216590.b.unit.14">need</word>
+<word id="le216590.b.unit.15">to</word>
+<word id="le216590.b.unit.16">phone</word>
+<word id="le216590.b.unit.17">an</word>
+<num id="le216590.b.unit.18"/>
+<num id="le216590.b.unit.19"/>
+<num id="le216590.b.unit.20"/>
+<num id="le216590.b.unit.21"/>
+<word id="le216590.b.unit.22">number</word>
+<word id="le216590.b.unit.23">can</word>
+<word id="le216590.b.unit.24">you</word>
+<word id="le216590.b.unit.25">tell</word>
+<word id="le216590.b.unit.26">me</word>
+<word id="le216590.b.unit.27">what</word>
+<word id="le216590.b.unit.28">the</word>
+<word id="le216590.b.unit.29">rate</word>
+<word id="le216590.b.unit.30">is</word>
+<bcanchor id="le216590.bcanchorb.2"><nite:pointer href="le216590.a.lturn.xml#id(le216590.lturn.2.2)" role="bc"/></bcanchor>
+<word id="le216590.b.unit.32">is</word>
+<word id="le216590.b.unit.33">that</word>
+<word id="le216590.b.unit.34">charged</word>
+<word id="le216590.b.unit.35">at</word>
+<word id="le216590.b.unit.36">local</word>
+<word id="le216590.b.unit.37">rate</word>
+<word id="le216590.b.unit.41">it</word>
+<word id="le216590.b.unit.42">is</word>
+<word id="le216590.b.unit.43">okay</word>
+<word id="le216590.b.unit.44">that's</word>
+<word id="le216590.b.unit.45">lovely</word>
+<word id="le216590.b.unit.46">thank</word>
+<word id="le216590.b.unit.47">you</word>
+<word id="le216590.b.unit.48">very</word>
+<word id="le216590.b.unit.49">much</word>
+<word id="le216590.b.unit.50">bye</word>
+</nite:root>

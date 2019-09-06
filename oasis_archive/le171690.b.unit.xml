@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le171690.unit.b">
+<word id="le171690.b.unit.2">oh</word>
+<word id="le171690.b.unit.3">hi</word>
+<word id="le171690.b.unit.4">i'm</word>
+<word id="le171690.b.unit.5">trying</word>
+<word id="le171690.b.unit.6">to</word>
+<word id="le171690.b.unit.7">get</word>
+<word id="le171690.b.unit.8">a</word>
+<pncode type="town" id="le171690.b.unit.9"/>
+<word id="le171690.b.unit.10">number</word>
+<word id="le171690.b.unit.17">well</word>
+<word id="le171690.b.unit.18">it</word>
+<word id="le171690.b.unit.19">seems</word>
+<word id="le171690.b.unit.20">to</word>
+<word id="le171690.b.unit.21">just</word>
+<word id="le171690.b.unit.22">give</word>
+<word id="le171690.b.unit.23">me</word>
+<word id="le171690.b.unit.24">a</word>
+<word id="le171690.b.unit.25">buzz</word>
+<word id="le171690.b.unit.26">i</word>
+<word id="le171690.b.unit.27">think</word>
+<word id="le171690.b.unit.28">it</word>
+<word id="le171690.b.unit.29">may</word>
+<word id="le171690.b.unit.30">be</word>
+<word id="le171690.b.unit.31">a</word>
+<word id="le171690.b.unit.32">fax</word>
+<word id="le171690.b.unit.33">as</word>
+<word id="le171690.b.unit.34">well</word>
+<word id="le171690.b.unit.48">it's</word>
+<num id="le171690.b.unit.49"/>
+<num id="le171690.b.unit.50"/>
+<num id="le171690.b.unit.51"/>
+<num id="le171690.b.unit.52"/>
+<num id="le171690.b.unit.57"/>
+<num id="le171690.b.unit.58"/>
+<num id="le171690.b.unit.59"/>
+<num id="le171690.b.unit.63"/>
+<num id="le171690.b.unit.64"/>
+<sil BTlength="" id="le171690.b.unit.65"/>
+<num id="le171690.b.unit.66"/>
+<num id="le171690.b.unit.67"/>
+<word id="le171690.b.unit.72">yeah</word>
+<word id="le171690.b.unit.92">no</word>
+<word id="le171690.b.unit.93">i</word>
+<word id="le171690.b.unit.94">haven't</word>
+<bcanchor id="le171690.bcanchorb.2"><nite:pointer href="le171690.a.lturn.xml#id(le171690.lturn.12.1)" role="bc"/></bcanchor>
+<word id="le171690.b.unit.97">but</word>
+<word id="le171690.b.unit.98">i</word>
+<word id="le171690.b.unit.99">looked</word>
+<word id="le171690.b.unit.100">it</word>
+<word id="le171690.b.unit.101">up</word>
+<word id="le171690.b.unit.102">in</word>
+<word id="le171690.b.unit.103">the</word>
+<lcode id="le171690.b.unit.104"/>
+<lcode id="le171690.b.unit.105"/>
+<word id="le171690.b.unit.106">er</word>
+<word id="le171690.b.unit.107">telephone</word>
+<word id="le171690.b.unit.108">directory</word>
+<word id="le171690.b.unit.109">though</word>
+<word id="le171690.b.unit.110">i</word>
+<word id="le171690.b.unit.111">must</word>
+<word id="le171690.b.unit.112">admit</word>
+<word id="le171690.b.unit.113">it</word>
+<word id="le171690.b.unit.114">was</word>
+<num id="le171690.b.unit.115"/>
+<word id="le171690.b.unit.116">um</word>
+<word id="le171690.b.unit.131">oh</word>
+<word id="le171690.b.unit.132">right</word>
+<word id="le171690.b.unit.133">okay</word>
+<word id="le171690.b.unit.148">right</word>
+<word id="le171690.b.unit.149">shall</word>
+<word id="le171690.b.unit.150">i</word>
+<word id="le171690.b.unit.151">try</word>
+<word id="le171690.b.unit.152">directory</word>
+<word id="le171690.b.unit.153">enquiries</word>
+<word id="le171690.b.unit.154">then</word>
+<word id="le171690.b.unit.174">yeah</word>
+<word id="le171690.b.unit.175">okay</word>
+<word id="le171690.b.unit.176">thanks</word>
+<word id="le171690.b.unit.177">very</word>
+<word id="le171690.b.unit.178">much</word>
+<comment text="end-ok" id="le171690.b.unit.179"/>
+</nite:root>

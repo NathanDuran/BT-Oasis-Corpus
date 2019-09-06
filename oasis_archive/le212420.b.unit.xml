@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le212420.unit.b">
+<word id="le212420.b.unit.2">oh</word>
+<word id="le212420.b.unit.3">could</word>
+<word id="le212420.b.unit.4">you</word>
+<word id="le212420.b.unit.5">get</word>
+<word id="le212420.b.unit.6">me</word>
+<word id="le212420.b.unit.7">a</word>
+<word id="le212420.b.unit.8">telephone</word>
+<word id="le212420.b.unit.9">number</word>
+<word id="le212420.b.unit.10">please</word>
+<word id="le212420.b.unit.20">pardon</word>
+<word id="le212420.b.unit.36">i</word>
+<word id="le212420.b.unit.37">just</word>
+<partword id="le212420.b.unit.38">d</partword>
+<word id="le212420.b.unit.39">i</word>
+<word id="le212420.b.unit.40">just</word>
+<word id="le212420.b.unit.41">do</word>
+<word id="le212420.b.unit.42">it</word>
+<word id="le212420.b.unit.43">i</word>
+<word id="le212420.b.unit.44">think</word>
+<word id="le212420.b.unit.45">it's</word>
+<word id="le212420.b.unit.46">changed</word>
+<word id="le212420.b.unit.47">the</word>
+<word id="le212420.b.unit.48">i've</word>
+<word id="le212420.b.unit.49">been</word>
+<word id="le212420.b.unit.50">using</word>
+<word id="le212420.b.unit.51">it</word>
+<word id="le212420.b.unit.52">and</word>
+<word id="le212420.b.unit.53">i</word>
+<word id="le212420.b.unit.54">it</word>
+<word id="le212420.b.unit.55">i</word>
+<word id="le212420.b.unit.56">i</word>
+<word id="le212420.b.unit.57">can't</word>
+<word id="le212420.b.unit.58">get</word>
+<word id="le212420.b.unit.59">any</word>
+<word id="le212420.b.unit.60">reply</word>
+<word id="le212420.b.unit.66">the</word>
+<word id="le212420.b.unit.67">number</word>
+<sil BTlength="" id="le212420.b.unit.68"/>
+<word id="le212420.b.unit.69">i</word>
+<word id="le212420.b.unit.70">want</word>
+<word id="le212420.b.unit.71">is</word>
+<num id="le212420.b.unit.72"/>
+<pncode type="road" id="le212420.b.unit.73"/>
+<pncode type="road" id="le212420.b.unit.74"/>
+<pncode type="town" id="le212420.b.unit.75"/>
+<word id="le212420.b.unit.92">thank</word>
+<word id="le212420.b.unit.93">you</word>
+<word id="le212420.b.unit.94">if</word>
+<word id="le212420.b.unit.95">you</word>
+<word id="le212420.b.unit.96">will</word>
+<word id="le212420.b.unit.97">please</word>
+<bcanchor id="le212420.bcanchorb.1"><nite:pointer href="le212420.a.lturn.xml#id(le212420.lturn.10.1)" role="bc"/></bcanchor>
+<comment text="transfer" id="le212420.b.unit.100"/>
+<comment text="end_-_ok" id="le212420.b.unit.101"/>
+</nite:root>

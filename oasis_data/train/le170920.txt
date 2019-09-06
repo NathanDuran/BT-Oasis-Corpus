@@ -1,0 +1,34 @@
+b|er i'm trying to get um some people called their mail order firm of i've had their number and i've been ringing them several times this afternoon with the engaged sign all the time i was dialling er double double yes it is that's the only number you've got well they seemed to be engaged from about two o clock onwards i've been ringing about five times it is yes yes alright many thanks alright|informIntent
+b|their mail order firm of i've had their number and i've been ringing them several times this afternoon with the engaged sign all the time i was dialling er double double yes it is that's the only number you've got well they seemed to be engaged from about two o clock onwards i've been ringing about five times it is yes yes alright many thanks alright|inform
+b|i've had their number|inform
+b|and i've been ringing them several times this afternoon with the engaged sign all the time|inform
+a|i'm sorry|expressRegret
+a|what's the code and number that you were dialling|reqInfo
+b|i was dialling er double double yes it is that's the only number you've got well they seemed to be engaged from about two o clock onwards i've been ringing about five times it is yes yes alright many thanks alright|answ
+a|thank you yes i'm afraid it is just a busy switchboard it is just genuinely engaged yes i've just had a look to see whether we've got any nother numbers but we haven't got anything listed here i'm afraid so yes yes it is just a case of diffusion i'm afraid it is working so it's just a case of it is working okay thank you bye bye|thank
+a|yes|init
+a|i'm afraid it is just a busy switchboard|inform
+a|it is just genuinely engaged|inform
+a|yes|ackn
+a|i've just had a look to see whether we've got any nother numbers|inform
+a|but we haven't got anything listed here|inform
+b|yes|backch
+b|it is|backch
+b|that's the only number you've got|confirm
+a|i'm afraid so|ackn
+a|yes|ackn
+b|well|init
+b|they seemed to be engaged from about two o clock onwards|inform
+b|i've been ringing about five times|inform
+a|yes|ackn
+a|it is just a case of diffusion i'm afraid|inform
+a|it is working|inform
+a|so|init
+a|it's just a case of it is working|inform
+b|it is yes|backch
+b|yes alright|ackn
+b|many thanks|thank
+a|okay|init
+a|thank you|thank
+a|bye bye|bye
+b|alright|backch

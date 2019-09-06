@@ -1,0 +1,20 @@
+b|oh hello|greet
+b|can you tell me please|reqInfo
+b|um er telephone number can you tell me whereabouts it is please yes please um they normally do when you ring up are you not allowed to but you couldn't tell me what part of right ok then thanks very much|refer
+b|can you tell me whereabouts it is please|reqInfo
+a|what|reqInfo
+a|give you a location|reqInfo
+b|yes please|answ
+a|no|answ
+a|i'm sorry|expressRegret
+a|i can't do that|answElab
+b|um they normally do when you ring up|inform
+b|are you not allowed to|reqInfo
+b|but you couldn't tell me what part of right ok then thanks very much|reqInfo
+a|no|answ
+a|i'm sorry|expressRegret
+b|right|ackn
+b|ok then|init
+b|thanks very much|thank
+a|thanks|backch
+a|byebye|backch

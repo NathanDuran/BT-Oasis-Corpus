@@ -1,0 +1,6 @@
+b|oh can you can you give me the number of the railway station please|reqInfo
+a|well|init
+a|the code for directory assistance is shall i connect you thank you|inform
+a|shall i connect you|offer
+b|yes please|accept
+a|thank you|thank

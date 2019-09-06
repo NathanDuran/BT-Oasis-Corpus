@@ -1,0 +1,29 @@
+b|hello|greet
+b|could you give me the number for wake up call please|reqInfo
+a|what|reqInfo
+a|to do it on your own phone or for me to book it for you|reqInfo
+b|uh to do it on my own phone please|answ
+a|right|ackn
+a|you just press number on your phone for me|direct
+a|so i can check your line|offer
+b|right|accept
+b|cheers say it again please yeah yeah yeah yeah right ok then yep thanks very much bye|thank
+a|yep|init
+a|that's fine|inform
+a|what you need to press is star star|inform
+b|say it again please|reqInfo
+a|star|answ
+b|yeah|ackn
+b|yeah|ackn
+a|star|answElab
+b|yeah|ackn
+a|the time that you want by the twenty four hour clock|answElab
+b|yeah|ackn
+a|and then the hash key alright thank you bye|answElab
+b|right ok then|ackn
+a|alright|reqInfo
+b|yep|answ
+b|thanks very much|thank
+a|thank you|thank
+a|bye|bye
+b|bye|bye

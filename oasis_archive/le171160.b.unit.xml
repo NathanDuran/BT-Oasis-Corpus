@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le171160.unit.b">
+<word id="le171160.b.unit.2">hello</word>
+<word id="le171160.b.unit.3">i'm</word>
+<word id="le171160.b.unit.4">trying</word>
+<word id="le171160.b.unit.5">to</word>
+<word id="le171160.b.unit.6">get</word>
+<word id="le171160.b.unit.7">through</word>
+<word id="le171160.b.unit.8">to</word>
+<pncode type="business" id="le171160.b.unit.9"/>
+<word id="le171160.b.unit.10">of</word>
+<pncode type="town" id="le171160.b.unit.11"/>
+<partword id="le171160.b.unit.12">on</partword>
+<num id="le171160.b.unit.13"/>
+<num id="le171160.b.unit.14"/>
+<num id="le171160.b.unit.15"/>
+<partword id="le171160.b.unit.16">oh</partword>
+<pncode type="businesss" id="le171160.b.unit.17"/>
+<word id="le171160.b.unit.18">of</word>
+<pncode type="town" id="le171160.b.unit.19"/>
+<word id="le171160.b.unit.20">sorry</word>
+<num id="le171160.b.unit.21"/>
+<num id="le171160.b.unit.22"/>
+<num id="le171160.b.unit.23"/>
+<num id="le171160.b.unit.24"/>
+<num id="le171160.b.unit.25"/>
+<num id="le171160.b.unit.31"/>
+<word id="le171160.b.unit.32">treble</word>
+<num id="le171160.b.unit.33"/>
+<word id="le171160.b.unit.34">double</word>
+<num id="le171160.b.unit.35"/>
+<word id="le171160.b.unit.41">yeah</word>
+<sil BTlength="" id="le171160.b.unit.42"/>
+<word id="le171160.b.unit.43">and</word>
+<word id="le171160.b.unit.44">it's</word>
+<word id="le171160.b.unit.45">ringing</word>
+<word id="le171160.b.unit.46">and</word>
+<word id="le171160.b.unit.47">then</word>
+<word id="le171160.b.unit.48">sounds</word>
+<word id="le171160.b.unit.49">as</word>
+<word id="le171160.b.unit.50">though</word>
+<word id="le171160.b.unit.51">someone</word>
+<word id="le171160.b.unit.52">is</word>
+<word id="le171160.b.unit.53">picking</word>
+<word id="le171160.b.unit.54">it</word>
+<word id="le171160.b.unit.55">up</word>
+<word id="le171160.b.unit.56">and</word>
+<word id="le171160.b.unit.57">then</word>
+<word id="le171160.b.unit.58">it's</word>
+<word id="le171160.b.unit.59">just</word>
+<sil BTlength="" id="le171160.b.unit.60"/>
+<word id="le171160.b.unit.61">sort</word>
+<word id="le171160.b.unit.62">of</word>
+<sil BTlength="" id="le171160.b.unit.63"/>
+<word id="le171160.b.unit.64">nothing</word>
+<word id="le171160.b.unit.75">okay</word>
+<word id="le171160.b.unit.76">thanks</word>
+<comment text="ringing" id="le171160.b.unit.77"/>
+<comment text="end-ok" id="le171160.b.unit.78"/>
+</nite:root>

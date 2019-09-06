@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='le173810.lturn.b' xmlns:nite='http://nite.sourceforge.net/'>
+<lturn id='le173810.lturn.2'>
+
+
+<utt id='le173810.utt.2'>
+
+<segment type='frag' sp-act='greet' id='le173810.frag.2'>
+<nite:child href='le173810.b.unit.xml#id(le173810.b.unit.2)'/>
+</segment>
+
+</utt>
+
+<utt id='le173810.utt.3'>
+
+<segment type='decl' sp-act='inform' id='le173810.decl.1' secondary-act='abandon'>
+<nite:child href='le173810.b.unit.xml#id(le173810.b.unit.3)..id(le173810.b.unit.6)'/>
+</segment>
+
+</utt>
+
+<utt id='le173810.utt.4'>
+
+<segment type='frag' sp-act='exclaim' id='le173810.frag.3'>
+<nite:child href='le173810.b.unit.xml#id(le173810.b.unit.7)..id(le173810.b.unit.8)'/>
+</segment>
+
+</utt>
+
+<utt id='le173810.utt.5'>
+
+<segment type='decl' sp-act='inform' id='le173810.decl.2'>
+<nite:child href='le173810.b.unit.xml#id(le173810.b.unit.9)..id(le173810.b.unit.17)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le173810.lturn.4'>
+
+
+<utt id='le173810.utt.7'>
+
+<segment type='imp' sp-act='hold' id='le173810.b.imp.1'>
+<nite:child href='le173810.b.unit.xml#id(le173810.b.unit.19)..id(le173810.b.unit.22)'/>
+</segment>
+
+</utt>
+
+<utt id='le173810.utt.8'>
+
+<segment type='q_wh' sp-act='thirdParty' id='le173810.q_wh.1'>
+<nite:child href='le173810.b.unit.xml#id(le173810.b.unit.23)..id(le173810.b.unit.26)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le173810.lturn.6'>
+
+
+<utt id='le173810.utt.10'>
+
+<segment type='frag' sp-act='inform' id='le173810.frag.5'>
+<nite:child href='le173810.b.unit.xml#id(le173810.b.unit.29)..id(le173810.bcanchorb.1)'/>
+</segment>
+
+</utt>
+
+<utt id='le173810.utt.11'>
+
+<segment type='decl' sp-act='inform' id='le173810.decl.3'>
+<nite:child href='le173810.b.unit.xml#id(le173810.b.unit.32)..id(le173810.b.unit.36)'/>
+</segment>
+
+</utt>
+
+<utt id='le173810.utt.12'>
+
+<segment type='decl' sp-act='inform' id='le173810.decl.4'>
+<nite:child href='le173810.b.unit.xml#id(le173810.b.unit.37)..id(le173810.b.unit.48)'/>
+</segment>
+
+</utt>
+
+<utt id='le173810.utt.13'>
+
+<segment type='decl' sp-act='inform' id='le173810.decl.5'>
+<nite:child href='le173810.b.unit.xml#id(le173810.b.unit.49)..id(le173810.bcanchorb.2)'/>
+</segment>
+
+</utt>
+
+<utt id='le173810.utt.14'>
+
+<segment type='q_yn' sp-act='direct' id='le173810.q_yn.1'>
+<nite:child href='le173810.b.unit.xml#id(le173810.b.unit.58)..id(le173810.b.unit.66)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le173810.lturn.8'>
+
+
+<utt id='le173810.utt.16'>
+
+<segment type='decl' sp-act='answ' id='le173810.decl.6'>
+<nite:child href='le173810.b.unit.xml#id(le173810.b.unit.74)..id(le173810.b.unit.75)'/>
+</segment>
+
+</utt>
+
+<utt id='le173810.utt.17'>
+
+<segment type='no' sp-act='answElab' id='le173810.no.1'>
+<nite:child href='le173810.b.unit.xml#id(le173810.b.unit.76)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le173810.lturn.10'>
+
+
+<utt id='le173810.utt.19'>
+
+<segment type='decl' sp-act='informIntent' id='le173810.decl.8'>
+<nite:child href='le173810.b.unit.xml#id(le173810.b.unit.90)..id(le173810.b.unit.102)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+<lturn id='le173810.lturn.11.1' type='backchannel'>
+
+<utt id='le173810.utt.23.1'>
+<segment type='backch' sp-act='' id='le173810.backch.3'>
+<nite:child href='le173810.b.unit.xml#id(le173810.b.unit.133)..id(le173810.b.unit.134)'/>
+</segment>
+</utt>
+</lturn>
+<lturn id='le173810.lturn.12'>
+
+
+<utt id='le173810.utt.25'>
+
+<segment type='dm' sp-act='appreciate' id='le173810.dm.3'>
+<nite:child href='le173810.b.unit.xml#id(le173810.b.unit.136)'/>
+</segment>
+
+</utt>
+
+<utt id='le173810.utt.26'>
+
+<segment type='frag' sp-act='thank' id='le173810.frag.7'>
+<nite:child href='le173810.b.unit.xml#id(le173810.b.unit.137)..id(le173810.b.unit.139)'/>
+</segment>
+
+</utt>
+
+<utt id='le173810.utt.27'>
+
+<segment type='frag' sp-act='bye' id='le173810.frag.8'>
+<nite:child href='le173810.b.unit.xml#id(le173810.b.unit.140)..id(le173810.b.unit.142)'/>
+</segment>
+
+</utt>
+
+</lturn>
+
+</nite:root>

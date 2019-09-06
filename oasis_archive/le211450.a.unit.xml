@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le211450.unit.a">
+<stdzcode id="le211450.a.unit.1" description="g"/>
+<num id="le211450.a.unit.25"/>
+<num id="le211450.a.unit.26"/>
+<num id="le211450.a.unit.27"/>
+<num id="le211450.a.unit.28"/>
+<num id="le211450.a.unit.29"/>
+<word id="le211450.a.unit.32">and</word>
+<word id="le211450.a.unit.33">what's</word>
+<word id="le211450.a.unit.34">the</word>
+<word id="le211450.a.unit.35">rest</word>
+<word id="le211450.a.unit.36">of</word>
+<word id="le211450.a.unit.37">the</word>
+<word id="le211450.a.unit.38">number</word>
+<word id="le211450.a.unit.44">thank</word>
+<word id="le211450.a.unit.45">you</word>
+<sil BTlength="" id="le211450.a.unit.46"/>
+<word id="le211450.a.unit.47">it's</word>
+<word id="le211450.a.unit.48">charged</word>
+<word id="le211450.a.unit.49">at</word>
+<word id="le211450.a.unit.50">national</word>
+<word id="le211450.a.unit.51">rate</word>
+<word id="le211450.a.unit.52">it's</word>
+<word id="le211450.a.unit.53">approximately</word>
+<num id="le211450.a.unit.54"/>
+<word id="le211450.a.unit.55">pence</word>
+<comment text="hiccup" id="le211450.a.unit.56"/>
+<word id="le211450.a.unit.57">excuse</word>
+<word id="le211450.a.unit.58">me</word>
+<word id="le211450.a.unit.64">yes</word>
+<word id="le211450.a.unit.65">i've</word>
+<word id="le211450.a.unit.66">got</word>
+<word id="le211450.a.unit.67">hiccups</word>
+<word id="le211450.a.unit.68">sorry</word>
+<word id="le211450.a.unit.72"/>
+<comment text="hiccup" id="le211450.a.unit.73"/>
+<word id="le211450.a.unit.74"/>
+<word id="le211450.a.unit.78">what</word>
+<bcanchor id="le211450.bcanchora.2"><nite:pointer href="le211450.b.lturn.xml#id(le211450.lturn.11.1)" role="bc"/></bcanchor>
+<word id="le211450.a.unit.80">number</word>
+<comment text="hiccup" id="le211450.a.unit.81"/>
+<word id="le211450.a.unit.82">yeah</word>
+<word id="le211450.a.unit.83">it's</word>
+<num id="le211450.a.unit.84"/>
+<word id="le211450.a.unit.85">per</word>
+<word id="le211450.a.unit.86">minute</word>
+<comment text="hang_up" id="le211450.a.unit.87"/>
+<word id="le211450.a.unit.88">uh</word>
+<comment text="disgust" id="le211450.a.unit.89"/>
+<comment text="end_-_ok" id="le211450.a.unit.90"/>
+</nite:root>

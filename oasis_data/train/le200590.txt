@@ -1,0 +1,27 @@
+b|yeah|ackn
+b|i've been trying to get a number|inform
+b|it's double double and it's just a long discontinued sort of line noise okay okay thanks very much bye|inform
+b|double and it's just a long discontinued sort of line noise okay okay thanks very much bye|inform
+b|and it's just a long discontinued sort of line noise|inform
+a|sorry about that|expressRegret
+a|i'll try the call for you i'm also getting an unobtainable on this number i'll just go through to cable and get it tested for you thank you sorry to keep you waiting good afternoon this is i've a customer on line please check for unobtainable on double thank you sorry to keep you waiting spare line thank you very much i'm sorry there's no longer a customer with this number thank you bye bye|informIntent
+a|i'm also getting an unobtainable on this number|inform
+a|i'll just go through to cable and get it tested for you|informIntent
+a|thank you|thank
+a|sorry to keep you waiting good afternoon this is i've a customer on line please check for unobtainable on double thank you sorry to keep you waiting spare line thank you very much i'm sorry there's no longer a customer with this number thank you bye bye|expressRegret
+a|good afternoon|greet
+a|this is i've a customer on line please check for unobtainable on double thank you sorry to keep you waiting spare line thank you very much i'm sorry there's no longer a customer with this number thank you bye bye|identifySelf
+a|i've a customer on line|inform
+a|please check for unobtainable on double|direct
+a|thank you|thank
+a|sorry to keep you waiting spare line thank you very much i'm sorry there's no longer a customer with this number thank you bye bye|expressRegret
+a|spare line|echo
+a|thank you very much|thank
+b|okay|ackn
+a|i'm sorry|expressRegret
+a|there's no longer a customer with this number|inform
+b|okay|ackn
+b|thanks very much|thank
+a|thank you|thank
+a|bye bye|bye
+b|bye|bye

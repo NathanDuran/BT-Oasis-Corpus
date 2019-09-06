@@ -1,0 +1,50 @@
+b|um i don't know whether you can help me|expressOpinion
+b|now|init
+b|i've had seven messages on i don't know whether you right that's the callminder in it now i haven't had the phone ringing at all now they've i've i they've got my phone number they've rung that but i've had these people that have come from to pick their grandaughter up at and we've had no messages we've been waiting for the message on our phone for us to get in touch with them right they've all come through on why haven't they come through on the ordinary phone they've had the number see the phone hasn't rang what do you mean we set it well i don't know i mean the you see the grandaughter should have gone up to for a fortnights holiday now her grand parents have gone back home without her they've been waiting at the service station since nine o'clock now we should have had the call through on our phone an ordinary call what number is that yeah yeah yes this is mr on|inform
+b|i don't know whether you|expressOpinion
+b|right|init
+b|that's the callminder in it now i haven't had the phone ringing at all now they've i've i they've got my phone number they've rung that but i've had these people that have come from to pick their grandaughter up at and we've had no messages we've been waiting for the message on our phone for us to get in touch with them right they've all come through on why haven't they come through on the ordinary phone they've had the number see the phone hasn't rang what do you mean we set it well i don't know i mean the you see the grandaughter should have gone up to for a fortnights holiday now her grand parents have gone back home without her they've been waiting at the service station since nine o'clock now we should have had the call through on our phone an ordinary call what number is that yeah yeah yes this is mr on|confirm
+b|now|init
+b|i haven't had the phone ringing at all now they've i've i they've got my phone number they've rung that but i've had these people that have come from to pick their grandaughter up at and we've had no messages we've been waiting for the message on our phone for us to get in touch with them right they've all come through on why haven't they come through on the ordinary phone they've had the number see the phone hasn't rang what do you mean we set it well i don't know i mean the you see the grandaughter should have gone up to for a fortnights holiday now her grand parents have gone back home without her they've been waiting at the service station since nine o'clock now we should have had the call through on our phone an ordinary call what number is that yeah yeah yes this is mr on|inform
+b|now|init
+b|they've i've i they've got my phone number|inform
+b|they've rung that but i've had these people that have come from to pick their grandaughter up at and we've had no messages we've been waiting for the message on our phone for us to get in touch with them right they've all come through on why haven't they come through on the ordinary phone they've had the number see the phone hasn't rang what do you mean we set it well i don't know i mean the you see the grandaughter should have gone up to for a fortnights holiday now her grand parents have gone back home without her they've been waiting at the service station since nine o'clock now we should have had the call through on our phone an ordinary call what number is that yeah yeah yes this is mr on|inform
+b|and we've had no messages|inform
+b|we've been waiting for the message on our phone for us to get in touch with them|inform
+b|right|ackn
+b|they've all come through on why haven't they come through on the ordinary phone they've had the number see the phone hasn't rang what do you mean we set it well i don't know i mean the you see the grandaughter should have gone up to for a fortnights holiday now her grand parents have gone back home without her they've been waiting at the service station since nine o'clock now we should have had the call through on our phone an ordinary call what number is that yeah yeah yes this is mr on|inform
+b|why haven't they come through on the ordinary phone they've had the number see the phone hasn't rang what do you mean we set it well i don't know i mean the you see the grandaughter should have gone up to for a fortnights holiday now her grand parents have gone back home without her they've been waiting at the service station since nine o'clock now we should have had the call through on our phone an ordinary call what number is that yeah yeah yes this is mr on|reqInfo
+b|they've had the number see the phone hasn't rang what do you mean we set it well i don't know i mean the you see the grandaughter should have gone up to for a fortnights holiday now her grand parents have gone back home without her they've been waiting at the service station since nine o'clock now we should have had the call through on our phone an ordinary call what number is that yeah yeah yes this is mr on|inform
+b|see the phone hasn't rang|inform
+a|yeah|backch
+a|yeah|backch
+a|right|backch
+a|right it's|backch
+a|right|ackn
+a|yeah|ackn
+a|um um you probably you probably need you probably need to check your callminder|suggest
+b|what do you mean we set it|reqInfo
+a|well|init
+a|your callminder|refer
+a|don't you type in something to set it up|reqInfo
+b|well|init
+b|i don't know i mean the you see the grandaughter should have gone up to for a fortnights holiday now her grand parents have gone back home without her they've been waiting at the service station since nine o'clock now we should have had the call through on our phone an ordinary call what number is that yeah yeah yes this is mr on|inform
+b|i mean the you see the grandaughter should have gone up to for a fortnights holiday|inform
+b|now|init
+b|her grand parents have gone back home without her they've been waiting at the service station since nine o'clock now we should have had the call through on our phone an ordinary call what number is that yeah yeah yes this is mr on|inform
+b|they've been waiting at the service station since nine o'clock|inform
+b|now|init
+b|we should have had the call through on our phone an ordinary call|raiseIssue
+a|yeah|backch
+a|oh dear|backch
+a|right|ackn
+b|what number is that|reqInfo
+a|um they're not actually open till tomorrow|answ
+a|i tell you what i'll do|informIntent
+a|i'll put you through to the fault reporting department|informIntent
+a|they should be able to help you with that|inform
+a|okay|init
+b|yeah|backch
+b|yeah|backch
+b|yes|direct
+b|this is mr on|identifySelf

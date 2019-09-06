@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le707910.unit.a">
+<stdzcode id="le707910.a.unit.1" description="name"/>
+<sil BTlength="" id="le707910.a.unit.32"/>
+<word id="le707910.a.unit.33">right</word>
+<word id="le707910.a.unit.34">okay</word>
+<word id="le707910.a.unit.35">what's</word>
+<word id="le707910.a.unit.36">the</word>
+<word id="le707910.a.unit.37">number</word>
+<num id="le707910.a.unit.43"/>
+<num id="le707910.a.unit.44"/>
+<num id="le707910.a.unit.45"/>
+<num id="le707910.a.unit.49"/>
+<num id="le707910.a.unit.50"/>
+<num id="le707910.a.unit.51"/>
+<word id="le707910.a.unit.55">yeah</word>
+<sil BTlength="1.7s" id="le707910.a.unit.58"/>
+<num id="le707910.a.unit.59"/>
+<num id="le707910.a.unit.60"/>
+<word id="le707910.a.unit.61">right</word>
+<word id="le707910.a.unit.62">what's</word>
+<word id="le707910.a.unit.63">the</word>
+<word id="le707910.a.unit.64">problem</word>
+<word id="le707910.a.unit.65">with</word>
+<word id="le707910.a.unit.66">the</word>
+<word id="le707910.a.unit.67">number</word>
+<word id="le707910.a.unit.80">yeah</word>
+<word id="le707910.a.unit.81">that</word>
+<word id="le707910.a.unit.82">line</word>
+<word id="le707910.a.unit.83">has</word>
+<word id="le707910.a.unit.84">been</word>
+<word id="le707910.a.unit.85">stopped</word>
+<word id="le707910.a.unit.86">there</word>
+<word id="le707910.a.unit.87">is</word>
+<word id="le707910.a.unit.88">no</word>
+<word id="le707910.a.unit.89">longer</word>
+<word id="le707910.a.unit.90">a</word>
+<word id="le707910.a.unit.91">customer</word>
+<word id="le707910.a.unit.92">with</word>
+<word id="le707910.a.unit.93">that</word>
+<word id="le707910.a.unit.94">number</word>
+<word id="le707910.a.unit.105">yeah</word>
+<sil BTlength="" id="le707910.a.unit.120"/>
+<word id="le707910.a.unit.121">ok</word>
+<word id="le707910.a.unit.122">then</word>
+<word id="le707910.a.unit.128">no</word>
+<word id="le707910.a.unit.129">problem</word>
+<word id="le707910.a.unit.130">bye</word>
+<word id="le707910.a.unit.131">now</word>
+<comment text="end-ok" id="le707910.a.unit.132"/>
+</nite:root>

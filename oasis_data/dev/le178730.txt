@@ -1,0 +1,20 @@
+b|hi|greet
+b|i'm trying to get through to a number yeah that's it it just say's it's not available thank you oh don't they oh right okay fair enough thank you|informIntent
+b|yeah|accept
+b|that's it|accept
+a|and what's the area code|reqInfo
+a|and what's the problem|reqInfo
+b|it just say's it's not available|answ
+a|right|ackn
+a|let me just look at that for you|informIntent
+b|thank you oh don't they oh right okay fair enough thank you|thank
+a|er yeah|init
+a|i'm sorry|expressRegret
+a|that's a discontinued line|inform
+a|no one has that number any more|inform
+b|oh don't they|ackn
+b|oh right okay|accept
+b|fair enough|accept
+b|thank you|thank
+a|okay|backch
+a|thank you|thank

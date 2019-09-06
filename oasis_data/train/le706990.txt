@@ -1,0 +1,8 @@
+b|i wonder if you can help me|direct
+b|i want a number have i phoned the right number is it will you oh thanks|inform
+b|have i phoned the right number|reqInfo
+a|no|answ
+a|you need to speak to the directory enquiries on would you like me would you like me to connect you|answElab
+a|would you like me would you like me to connect you|offer
+b|will you|accept
+b|oh thanks|thank

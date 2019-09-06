@@ -1,0 +1,37 @@
+b|yes|ackn
+b|i'd like to um request a couple of services please|direct
+b|i'd like to um update my family and friends list|directElab
+a|right okay|accept
+a|no problem|accept
+a|and uh what's your phone your home phone number please|reqInfo
+b|it's yes it's missus yes i would yes right um right let me get it on here um the one that one off and right the ones have automatically been changed haven't they|answ
+a|yeah|backch
+a|lovely|appreciate
+a|thank you|thank
+a|and can you confirm your full name and address with your postal code please|reqInfo
+b|yes|answ
+b|it's missus yes i would yes right um right let me get it on here um the one that one off and right the ones have automatically been changed haven't they|answElab
+a|that's lovely|appreciate
+a|thank you|thank
+a|right|init
+a|so|init
+a|you'd like to change a couple of the numbers would you on the friends and family|confirm
+b|yes|ackn
+b|i would yes|ackn
+a|yeah|ackn
+a|okay|accept
+a|do you know which ones you want to take off or|reqDirect
+b|right um right let me get it on here um the one that one off and right the ones have automatically been changed haven't they|ackn
+b|right|ackn
+b|let me get it on here|informIntent
+b|um the one that one off and right the ones have automatically been changed haven't they|inform
+a|yep|ackn
+a|so|init
+a|that wants to come off|confirm
+b|that one off|inform
+a|yeah|ackn
+a|right|ackn
+b|and right|ackn
+b|the ones have automatically been changed haven't they|confirm
+a|they have|ackn
+a|yeah|ackn

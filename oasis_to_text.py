@@ -14,7 +14,7 @@ metadata_dir = os.path.join(data_dir, 'metadata')
 utterance_only_flag = False
 
 # Excluded dialogue act tags i.e.
-excluded_tags = ['uninterpretable', 'unclassifiable', '']
+excluded_tags = ['uninterpretable', 'iuninterpretable', 'unclassifiable', 'frag', 'decl', 'thirdParty']
 # Excluded characters for ignoring i.e. '=='
 excluded_chars = {'<', '>', '(', ')', '#', '|', '=', '@', '*'}
 

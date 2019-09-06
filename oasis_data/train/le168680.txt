@@ -1,0 +1,27 @@
+b|i wonder if you could er uh do me a favour and try a number for me|direct
+a|i'm sorry|expressRegret
+a|what difficulty were you having please|reqInfo
+b|it's engaged but i've and it's been engaged for ages and i've pushed and the lady said the ring back service cannot be used on this call the thing is they're elderly people and er it's happened before it's so no well i've done it before you see and it's not been put properly back on the hook but i can get the lady next door to go in and tell them|answ
+b|but i've|answElab
+b|and it's been engaged for ages|answElab
+b|and i've pushed|answElab
+b|and the lady said the ring back service cannot be used on this call|answElab
+a|mm|backch
+a|i'm sorry|expressRegret
+a|what code and number were you dialling please|reqInfo
+a|yes what|backch
+a|yes um|answ
+a|what code and number sir|reqInfo
+b|it's so no well i've done it before you see and it's not been put properly back on the hook but i can get the lady next door to go in and tell them|answ
+b|so|init
+a|let me just check the line for you sir|informIntent
+a|it might not work|inform
+a|cause it might be off the hook|inform
+a|let me just check the line for you|informIntent
+b|no|refuse
+b|well|init
+b|i've done it before you see|inform
+b|and it's not been put properly back on the hook|inform
+b|but i can get the lady next door to go in and tell them|inform
+a|right|ackn
+a|hold the line just a moment please|hold

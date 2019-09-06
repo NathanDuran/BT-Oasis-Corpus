@@ -1,0 +1,16 @@
+b|it's it's miss place} um do you know my customer service number well do you know the one i've got on my bill have you got double|inform
+a|thank you|thank
+a|i have your details in front of me|inform
+a|could you please confirm your full name address and postcode|reqInfo
+b|it's miss place} um do you know my customer service number well do you know the one i've got on my bill have you got double|answ
+a|thanks very much miss how can i help your yes your customer service number yes i've got in on the screen here yes no|thank
+a|how can i help|reqDirect
+b|um do you know my customer service number|reqInfo
+a|your yes your customer service number|confirm
+a|yes|answ
+b|well|init
+b|do you know the one i've got on my bill|reqInfo
+a|i've got in on the screen here|answ
+a|yes|answElab
+b|have you got double|reqInfo
+a|no|answ

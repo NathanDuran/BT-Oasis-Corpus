@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le173300.unit.a">
+<stdzcode id="le173300.a.unit.1" description="name"/>
+<word id="le173300.a.unit.33">i'm</word>
+<word id="le173300.a.unit.34">sorry</word>
+<word id="le173300.a.unit.35">what's</word>
+<word id="le173300.a.unit.36">the</word>
+<word id="le173300.a.unit.37">code</word>
+<word id="le173300.a.unit.38">and</word>
+<word id="le173300.a.unit.39">number</word>
+<word id="le173300.a.unit.40">you</word>
+<word id="le173300.a.unit.41">were</word>
+<word id="le173300.a.unit.42">actually</word>
+<word id="le173300.a.unit.43">dialling</word>
+<num id="le173300.a.unit.51"/>
+<num id="le173300.a.unit.52"/>
+<word id="le173300.a.unit.53">double</word>
+<num id="le173300.a.unit.54"/>
+<num id="le173300.a.unit.55"/>
+<word id="le173300.a.unit.58">double</word>
+<num id="le173300.a.unit.59"/>
+<num id="le173300.a.unit.62"/>
+<num id="le173300.a.unit.63"/>
+<num id="le173300.a.unit.66"/>
+<num id="le173300.a.unit.67"/>
+<word id="le173300.a.unit.68">thank</word>
+<word id="le173300.a.unit.69">you</word>
+<sil BTlength="7s" id="le173300.a.unit.70"/>
+<word id="le173300.a.unit.71">and</word>
+<word id="le173300.a.unit.72">who</word>
+<word id="le173300.a.unit.73">is</word>
+<word id="le173300.a.unit.74">it</word>
+<word id="le173300.a.unit.75">you</word>
+<word id="le173300.a.unit.76">were</word>
+<word id="le173300.a.unit.77">trying</word>
+<word id="le173300.a.unit.78">to</word>
+<word id="le173300.a.unit.79">contact</word>
+<word id="le173300.a.unit.94">i</word>
+<word id="le173300.a.unit.95">see</word>
+<word id="le173300.a.unit.104">let</word>
+<word id="le173300.a.unit.105">me</word>
+<word id="le173300.a.unit.106">just</word>
+<word id="le173300.a.unit.107">try</word>
+<word id="le173300.a.unit.108">the</word>
+<word id="le173300.a.unit.109">call</word>
+<word id="le173300.a.unit.110">for</word>
+<word id="le173300.a.unit.111">you</word>
+<comment text="beeps" id="le173300.a.unit.112"/>
+<word id="le173300.a.unit.113">yeah</word>
+<word id="le173300.a.unit.114">i'm</word>
+<word id="le173300.a.unit.115">afraid</word>
+<word id="le173300.a.unit.116">the</word>
+<word id="le173300.a.unit.117">line</word>
+<word id="le173300.a.unit.118">is</word>
+<word id="le173300.a.unit.119">temporarily</word>
+<word id="le173300.a.unit.120">out</word>
+<word id="le173300.a.unit.121">of</word>
+<word id="le173300.a.unit.122">service</word>
+<word id="le173300.a.unit.123">but</word>
+<word id="le173300.a.unit.124">there</word>
+<word id="le173300.a.unit.125">isn't</word>
+<word id="le173300.a.unit.126">actually</word>
+<word id="le173300.a.unit.127">a</word>
+<word id="le173300.a.unit.128">fault</word>
+<word id="le173300.a.unit.129">on</word>
+<word id="le173300.a.unit.130">the</word>
+<word id="le173300.a.unit.131">line</word>
+<word id="le173300.a.unit.132">but</word>
+<word id="le173300.a.unit.133">it</word>
+<word id="le173300.a.unit.134">isn't</word>
+<word id="le173300.a.unit.135">operating</word>
+<word id="le173300.a.unit.136">for</word>
+<word id="le173300.a.unit.137">the</word>
+<word id="le173300.a.unit.138">moment</word>
+<word id="le173300.a.unit.144">no</word>
+<word id="le173300.a.unit.145">there's</word>
+<word id="le173300.a.unit.146">no</word>
+<word id="le173300.a.unit.147">fault</word>
+<word id="le173300.a.unit.148">on</word>
+<word id="le173300.a.unit.149">the</word>
+<word id="le173300.a.unit.150">line</word>
+<word id="le173300.a.unit.158">okay</word>
+<word id="le173300.a.unit.165">bye</word>
+<comment text="end-ok" id="le173300.a.unit.166"/>
+</nite:root>

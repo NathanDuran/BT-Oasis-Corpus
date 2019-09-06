@@ -1,9 +1,0 @@
-b|hello|greet
-b|yeah uh|ackn
-b|this um thing when you ring somebody and they're engaged and they say press yeah uh last year i phoned up and said i didn't want it i wanted it taking off|refer
-a|right|ackn
-a|the Ringback|confirm
-b|yeah|ackn
-a|yeah|ackn
-b|uh last year|refer
-b|i phoned up and said i didn't want it i wanted it taking off|inform

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le301460.unit.a">
+<stdzcode id="le301460.a.unit.1" description="name"/>
+<word id="le301460.a.unit.12">you</word>
+<word id="le301460.a.unit.13">need</word>
+<word id="le301460.a.unit.14">directory</word>
+<word id="le301460.a.unit.15">enquiries</word>
+<num id="le301460.a.unit.16"/>
+<num id="le301460.a.unit.17"/>
+<num id="le301460.a.unit.18"/>
+<word id="le301460.a.unit.19">would</word>
+<word id="le301460.a.unit.20">you</word>
+<word id="le301460.a.unit.21">like</word>
+<word id="le301460.a.unit.22">me</word>
+<word id="le301460.a.unit.23">to</word>
+<word id="le301460.a.unit.24">connect</word>
+<word id="le301460.a.unit.25">you</word>
+<word id="le301460.a.unit.27">thank</word>
+<word id="le301460.a.unit.28">you</word>
+<comment text="background_music" id="le301460.a.unit.29"/>
+<comment text="ringing_4s" id="le301460.a.unit.30"/>
+</nite:root>

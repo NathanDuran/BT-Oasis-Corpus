@@ -1,0 +1,15 @@
+b|hi|greet
+b|can i book an early morning call please|direct
+a|for what time please|reqInfo
+b|for six o'clock|answ
+a|six a m|confirm
+a|ok|accept
+a|just a minute ok that's booked for you then and we'll call you at six a m thank you bye|hold
+a|ok|init
+a|that's booked for you then|inform
+a|and we'll call you at six a m|informIntent
+b|ok|ackn
+b|thanks very much|thank
+a|thank you|thank
+a|bye|bye
+b|bye|bye

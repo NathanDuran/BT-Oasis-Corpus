@@ -1,0 +1,41 @@
+a|services speaking|identifySelf
+a|can i take your telephone number please|reqInfo
+b|yeah|answ
+a|mm hm|ackn
+a|thank you|thank
+a|how can i help you|offer
+b|yeah|ackn
+b|what it is is|refer
+b|i keep getting you know phone calls|inform
+b|and they keep withholding the number and putting the phone down on me|inform
+a|right|ackn
+b|and it did stop for a while|inform
+b|and then it started up again|inform
+b|and i was just wondering if there was any chance i get you know the withheld numbers not actually coming into my phone|reqInfo
+a|well|init
+a|there's several options open to you|inform
+a|you've you can have Choose To Refuse which basically allows you to bar numbers that are coming through for nuisance calls|inform
+a|or you can Annonymous Caller Rejection which does precisely what you say an um uh bar all calls|inform
+a|now|init
+a|the Anonymous Caller Rejection is pounds a quarter|inform
+a|and it has limitations such as that a lot of calls from big companies and hospitals and police stations go through a switch board|inform
+a|and unfortunately the nature of the of which the switch board calls are routed they are not identified at the exchange|inform
+a|so|init
+a|you would find that they wouldn't be able to connect to you|inform
+b|yeah|ackn
+a|um the other service we offer is Choose To Refuse|inform
+a|we offer that for one months free trial free of charge um other|inform
+a|and then after that|refer
+a|it's pounds a quarter|inform
+a|basically what you do is you put the service on your line|inform
+a|you you enter an access code which is and then basically you wait for a call to come through when they one comes through and you've establish it is a bogus call you hang straight up lift the receiver straight up lift the receiver again and press the star key twice in your telephone and then whenever that person tries to call you again they get a polite message to say the person who you are are calling does not accept telephone calls from you due to um you are not being charged for this call so i think the choose to refuse would probably be better off for you|inform
+a|and then basically you wait for a call to come through|inform
+a|when they one comes through and you've establish it is a bogus call|inform
+a|you hang straight up lift the receiver straight up lift the receiver again and press the star key twice in your telephone|inform
+a|and then whenever that person tries to call you again|refer
+a|they get a polite message to say the person who you are are calling does not accept telephone calls from you due to um|inform
+a|you are not being charged for this call|inform
+a|so|init
+a|i think the choose to refuse would probably be better off for you|expressOpinion
+b|yeah|backch
+b|yeah|backch

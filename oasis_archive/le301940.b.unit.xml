@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le301940.unit.b">
+<word id="le301940.b.unit.2">could</word>
+<word id="le301940.b.unit.3">you</word>
+<word id="le301940.b.unit.4">tell</word>
+<word id="le301940.b.unit.5">me</word>
+<word id="le301940.b.unit.6">you</word>
+<word id="le301940.b.unit.7">know</word>
+<word id="le301940.b.unit.8">erm</word>
+<sil BTlength="" id="le301940.b.unit.9"/>
+<word id="le301940.b.unit.10">that</word>
+<lcode id="le301940.b.unit.11"/>
+<lcode id="le301940.b.unit.12"/>
+<word id="le301940.b.unit.13">do</word>
+<word id="le301940.b.unit.14">an</word>
+<word id="le301940.b.unit.15">answering</word>
+<word id="le301940.b.unit.16">phone</word>
+<word id="le301940.b.unit.17">service</word>
+<word id="le301940.b.unit.22">yeah</word>
+<word id="le301940.b.unit.23">how</word>
+<word id="le301940.b.unit.24">do</word>
+<word id="le301940.b.unit.25">you</word>
+<word id="le301940.b.unit.26">actually</word>
+<word id="le301940.b.unit.27">get</word>
+<word id="le301940.b.unit.28">it</word>
+<sil BTlength="" id="le301940.b.unit.29"/>
+<word id="le301940.b.unit.30">pick</word>
+<word id="le301940.b.unit.31">up</word>
+<word id="le301940.b.unit.32">any</word>
+<word id="le301940.b.unit.33">message</word>
+<word id="le301940.b.unit.41">yeah</word>
+<num id="le301940.b.unit.46"/>
+<num id="le301940.b.unit.47"/>
+<num id="le301940.b.unit.48"/>
+<num id="le301940.b.unit.49"/>
+<word id="le301940.b.unit.51">thanks</word>
+<word id="le301940.b.unit.55">bye</word>
+<comment text="end-ok" id="le301940.b.unit.56"/>
+</nite:root>

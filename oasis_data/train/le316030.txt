@@ -1,0 +1,8 @@
+b|hello do you think do you think you can give me the number for aye|greet
+b|do you think do you think you can give me the number for aye|reqInfo
+a|hello there|backch
+a|right|ackn
+a|you need caller directory enquiries|inform
+a|shall i connect you|offer
+b|aye|accept
+a|thank you|thank

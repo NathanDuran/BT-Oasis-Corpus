@@ -1,0 +1,25 @@
+b|oh good morning|greet
+b|we a previous address we had a amplifier for the phone|inform
+b|and we can't plug it in here|inform
+b|because the the plug is so close to the radiator|inform
+b|it won't plug in|inform
+b|so|init
+b|can you help us can you|direct
+a|yeah|backch
+a|oh dear f|expressRegret
+a|yes certainly|accept
+a|that's no problem at all|inform
+a|what we can do is we can organise an engineer for you um a that you know a community engineer can come out for you|offer
+a|and um did you have what you know sort of a sort of a socket doubler was it|reqInfo
+b|yes|backch
+b|yeah yeah|answ
+b|it had a had a|answElab
+a|or is it or is it the little amplifier that fitted it|reqInfo
+b|two way socket f|answElab
+b|and it was so the the phone plug is so close to the radiator we can't plug it in|inform
+a|that's fine|ackn
+a|can i take you telephone number|reqInfo
+b|yes|answ
+a|yes|ackn
+a|yeah|ackn
+a|yeah|backch

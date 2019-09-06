@@ -1,0 +1,5 @@
+b|do you have um do you have um um taxi numbers|reqInfo
+a|um for number listing you need directory enquiries on would you like me to connect you no|inform
+a|would you like me to connect you no|offer
+b|byebye|bye
+a|no|negate

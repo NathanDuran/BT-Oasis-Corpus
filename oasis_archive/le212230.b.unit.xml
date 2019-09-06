@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="le212230.unit.b">
+<word id="le212230.b.unit.2">sorry</word>
+<word id="le212230.b.unit.3">to</word>
+<word id="le212230.b.unit.4">bother</word>
+<word id="le212230.b.unit.5">you</word>
+<word id="le212230.b.unit.6">are</word>
+<word id="le212230.b.unit.7">you</word>
+<word id="le212230.b.unit.8">able</word>
+<word id="le212230.b.unit.9">to</word>
+<word id="le212230.b.unit.10">help</word>
+<word id="le212230.b.unit.11">me</word>
+<word id="le212230.b.unit.12">um</word>
+<word id="le212230.b.unit.13">i</word>
+<word id="le212230.b.unit.14">need</word>
+<word id="le212230.b.unit.15">a</word>
+<word id="le212230.b.unit.16">company's</word>
+<word id="le212230.b.unit.17">um</word>
+<word id="le212230.b.unit.18">telephone</word>
+<word id="le212230.b.unit.19">number</word>
+<sil BTlength="" id="le212230.b.unit.20"/>
+<word id="le212230.b.unit.21">that's</word>
+<word id="le212230.b.unit.22">called</word>
+<pncode type="business" id="le212230.b.unit.23"/>
+<pncode type="business" id="le212230.b.unit.24"/>
+<bcanchor id="le212230.bcanchorb.1"><nite:pointer href="le212230.a.lturn.xml#id(le212230.lturn.2.1)" role="bc"/></bcanchor>
+<word id="le212230.b.unit.26">and</word>
+<word id="le212230.b.unit.27">these</word>
+<word id="le212230.b.unit.28">are</word>
+<word id="le212230.b.unit.29">crane</word>
+<word id="le212230.b.unit.30">hire</word>
+<word id="le212230.b.unit.31">specialists</word>
+<partword id="le212230.b.unit.53">oh</partword>
+<word id="le212230.b.unit.54">certainly</word>
+<word id="le212230.b.unit.55">i</word>
+<word id="le212230.b.unit.56">appreciate</word>
+<word id="le212230.b.unit.57">that</word>
+<stdzcode id="le212230.b.unit.58" description="name"/>
+</nite:root>

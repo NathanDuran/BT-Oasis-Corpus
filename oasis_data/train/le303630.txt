@@ -1,0 +1,10 @@
+b|yeah|ackn
+b|the postcode um telephone number|refer
+b|what is it|reqInfo
+b|is it that's it i knew it was something fancy thank you very much bye|reqInfo
+a|treble treble thank you bye bye|answ
+b|that's it|accept
+b|thank you very much|thank
+b|bye|bye
+a|thank you|thank
+a|bye bye|bye

@@ -1,0 +1,16 @@
+b|er could you help me|direct
+b|i want to send a telegram to how do i do it ah telemessage yes yes many thanks goodbye|informIntent
+b|how do i do it|reqInfo
+a|yeah|ackn
+a|we have what we call its a telemessage service now|inform
+a|yes|ackn
+a|the number is double alright thank you byebye|answ
+b|ah|backch
+b|telemessage|backch
+b|yes|backch
+b|yes|backch
+b|many thanks|thank
+a|alright|ackn
+a|thank you|thank
+a|byebye|bye
+b|goodbye|bye
