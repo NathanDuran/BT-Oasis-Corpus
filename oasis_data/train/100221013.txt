@@ -8,7 +8,6 @@ a|yeah|ackn
 a|i'm sorry|expressRegret
 a|we've actually got some problems with our phone system this morning|inform
 b|oh right okay|ackn
-b|ha|uninterpretable
 a|right|init
 a|what was it actually regarding|reqInfo
 b|all it is is an enquiry really|answ

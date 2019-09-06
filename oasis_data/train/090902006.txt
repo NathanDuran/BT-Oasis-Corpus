@@ -9,5 +9,5 @@ a|yes|ackn
 b|it's been vacant for some time|inform
 b|and the phone has been in my name|inform
 b|i phoned on Tuesday to say that i have sold the flat and new owners are coming in today and that that the you know the line would be transferred to them|inform
-a|right|
-a|mm mm|
+a|right|backch
+a|mm mm|backch

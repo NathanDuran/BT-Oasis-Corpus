@@ -6,7 +6,6 @@ a|no|negate
 a|i can help you on that|inform
 b|right|ackn
 b|um i haven't got my customer reference number cos i'm silly|inform
-b|i hope and i don't keep my|uninterpretable
 a|right|ackn
 a|what's your what's your phone number|reqInfo
 b|it's yeah it's missus um place} um well i was supposed to make a payment of pound on on Monday i just wanna say i've been in a hospital and i've just paid it this morning|answ
@@ -22,6 +21,6 @@ b|um well|init
 b|i was supposed to make a payment of pound on on Monday|inform
 b|i just wanna say i've been in a hospital|inform
 b|and i've just paid it this morning|inform
-a|right|
+a|right|backch
 a|oh dear|exclaim
 a|right okay|ackn

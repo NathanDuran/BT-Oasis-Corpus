@@ -15,14 +15,13 @@ a|that does come separately to the confirmation for security reasons|inform
 a|so|init
 a|if you've had the confirmation of the call barring today|inform
 a|you should get the pin tomorrow|inform
-b|right|
+b|right|backch
 b|no|negate
-b|this is um of um|unclassifiable
 b|she's sending it out though|inform
 b|i've spoke to the woman|inform
 b|so|init
 b|it's i need that pin number do i|reqInfo
-a|the of you do because um i mean you can put the call barring on without the pin number but you can't get through it without the pin so if you put the call barring on you can't lift it until you receive the pin number you see well no i mean you can put the bar on and that'll that'll bar straight away but if you want to make a call um before you get the pin number you can't so you can't use the phone in effect so you need to wait 'til you get your pin number that's what i'm saying no you can't unbar it and make a phone call without your pin number alright thanks bye|
+a|the of you do because um i mean you can put the call barring on without the pin number but you can't get through it without the pin so if you put the call barring on you can't lift it until you receive the pin number you see well no i mean you can put the bar on and that'll that'll bar straight away but if you want to make a call um before you get the pin number you can't so you can't use the phone in effect so you need to wait 'til you get your pin number that's what i'm saying no you can't unbar it and make a phone call without your pin number alright thanks bye|backch
 a|you do|answ
 a|because um i mean you can put the call barring on without the pin number|answElab
 a|but you can't get through it without the pin so if you put the call barring on you can't lift it until you receive the pin number you see well no i mean you can put the bar on and that'll that'll bar straight away but if you want to make a call um before you get the pin number you can't so you can't use the phone in effect so you need to wait 'til you get your pin number that's what i'm saying no you can't unbar it and make a phone call without your pin number alright thanks bye|answElab
@@ -39,7 +38,7 @@ a|so|init
 a|you can't use the phone in effect|inform
 a|so|init
 a|you need to wait 'til you get your pin number|inform
-b|yeah|
+b|yeah|backch
 b|um hmm|init
 b|can can i unbar it without the pin number|reqInfo
 a|that's what i'm saying|answ

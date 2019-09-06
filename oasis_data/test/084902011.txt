@@ -5,7 +5,6 @@ b|yeah|answ
 a|just one moment|hold
 a|i'll get your details|informIntent
 b|okay|ackn
-b|like|uninterpretable
 a|can i take your full name and address please|reqInfo
 b|yeah|answ
 a|right|ackn
@@ -13,6 +12,6 @@ a|have you actually got your customer number with you we have a problem with our
 a|we have a problem with our computer at the moment|inform
 a|and we can't actually access uh with the telephone number|inform
 a|have you got the customer number there|reqInfo
-b|oh right|
+b|oh right|backch
 b|if you hang on|hold
 b|i'll get a bill|informIntent

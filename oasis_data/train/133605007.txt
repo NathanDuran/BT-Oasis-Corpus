@@ -3,7 +3,7 @@ b|can i speak to someone um about um cards that you can have um|direct
 b|my three children have got a card and they can phone home|inform
 a|oh right yeah|ackn
 a|Contact Cards yeah|reqInfo
-b|yeah|
+b|yeah|backch
 b|a Contact Card|answ
 b|now|init
 b|um my son 's got a Contact Card|inform
@@ -12,7 +12,7 @@ b|now|init
 b|what happened|refer
 b|i had a lot um i phoned up|inform
 b|and i i asked for um how i could put a lock on my phone|inform
-a|right|
+a|right|backch
 a|right|ackn
 b|but i didn't realise that when uh you could use you could still use your phone card when you have a lock|inform
 a|yes|ackn

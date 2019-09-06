@@ -2,14 +2,14 @@ a|uh thank you for calling|thank
 b|um i've got a phone bill|inform
 b|sorry|pardon
 b|i've had a i've had a bill through for me phone|inform
-a|uh|
-a|uh|
+a|uh|backch
+a|uh|backch
 a|i beg your pardon sir|pardon
 b|a bill pound uh mister i wonder if i can pay uh how much a week you know in total yeah yeah|inform
 a|right sir|ackn
 b|i wonder if i can pay uh|reqModal
 b|how much a week you know in total|reqInfo
-a|uh|
+a|uh|backch
 a|i see sir|ackn
 a|you need to um pay what you want to pay um|confirm
 a|a bit of your bill each week|confirm

@@ -1,12 +1,12 @@
 b|oh hello|greet
 b|good morning|greet
 b|can i give you my customer number|reqModal
-a|good morning|
+a|good morning|backch
 a|yes please|accept
 b|double yeah|inform
 a|double yeah yeah and there should be letters on the front could you give me those please|echo
 b|yeah|ackn
-a|yeah|
+a|yeah|backch
 a|yeah|ackn
 a|and there should be letters on the front|inform
 a|could you give me those please|reqInfo

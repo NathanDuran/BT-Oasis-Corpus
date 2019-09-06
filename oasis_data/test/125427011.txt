@@ -21,10 +21,8 @@ b|okay now|ackn
 b|um yeah|ackn
 b|i don't actually know what my account number is for a start|inform
 a|have you not got the bill there then|reqInfo
-b|um i'm not|uninterpretable
 b|um uh also the thing is it's gone gone so late that it's actually gone over to the next one now|inform
 b|i believe that i owe seventy eight on the last bill|expressOpinion
-b|or to stop it|uninterpretable
 a|what's what's your telephone number sir|reqInfo
 a|and i'll have a look|informIntent
-b|it's|
+b|it's|backch

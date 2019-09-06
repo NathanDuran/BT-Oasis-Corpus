@@ -10,8 +10,8 @@ b|uh yes|answ
 b|i've got this at the top of the|answElab
 a|that's on the on the bill or yeah letter|confirm
 b|yeah|ackn
-a|yeah|
-a|yeah|
+a|yeah|backch
+a|yeah|backch
 a|okay|ackn
 b|do you want the rest of it okay|reqInfo
 a|no|answ

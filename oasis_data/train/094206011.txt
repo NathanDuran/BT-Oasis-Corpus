@@ -6,7 +6,7 @@ b|um i know my phone bills due well overdue to be paid really|inform
 b|um but i've lost the bill|inform
 b|so|init
 b|how can i pay|reqInfo
-a|right uh huh|
+a|right uh huh|backch
 a|oh that's no problem|inform
 a|do you actually have a payment card or would you like me to send you out an a sort of ad hoc counterfoil|reqInfo
 b|i've got a switch card|inform
@@ -16,5 +16,5 @@ a|yes certainly|accept
 b|yeah fine|accept
 a|i'll transfer you through to um our um uh card payment section|informIntent
 a|just bear with me one moment|hold
-b|okay|
+b|okay|backch
 b|thank you|thank

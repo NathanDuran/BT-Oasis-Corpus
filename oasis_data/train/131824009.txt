@@ -12,19 +12,19 @@ b|i wonder if you could tell me um|reqInfo
 b|there is a um number on there|inform
 b|could you tell me how much that call was for|reqInfo
 b|is that possible|reqInfo
-a|oh right|
-a|mm|
+a|oh right|backch
+a|mm|backch
 a|um do you want to give me the phone number first of all|reqInfo
 b|yep|answ
 b|it's oh sorry the number from here or the yep double yeah it's uh it's under mister and that's right mm oh right and apparently the bill's being done today or yesterday or something|answElab
 b|oh sorry|expressRegret
 b|the number from here or the|reqInfo
-a|yes|
+a|yes|backch
 a|um your phone number|answ
 a|yeah|ackn
 a|sorry|expressRegret
 b|yep|accept
-a|yes|
+a|yes|backch
 a|and could you just confirm the name and address there as well|reqInfo
 b|yeah|answ
 b|it's uh it's under mister and that's right mm oh right and apparently the bill's being done today or yesterday or something|answElab
@@ -34,12 +34,12 @@ a|what i was gonna say was we don't actually have an amount until you've been bi
 a|so|init
 a|it's only if you um we can request it for you|inform
 a|um all i have all i have is what you've got|inform
-a|you know the account that you called someone until ten o'clock last night|
+a|you know the account that you called someone until ten o'clock last night|decl
 a|it doesn't actually show me a list of all of those|inform
 a|not until you've been sent a bill|confirm
 a|we don't get one either|inform
-b|right|
-b|mm|
+b|right|backch
+b|mm|backch
 b|oh right|ackn
 b|and apparently the bill's being done today or yesterday or something|confirm
 a|that's what i was going to say|inform

@@ -6,7 +6,7 @@ b|i i'm we've just come back from|inform
 b|and i had we had to wait to be paid|inform
 b|so|init
 b|i|informDisc
-a|yes|
+a|yes|backch
 a|oh i see|ackn
 b|paid the bill|informCont
 b|and yeah and i just been speaking to somebody and all of a sudden i got cut off|inform

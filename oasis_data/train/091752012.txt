@@ -2,8 +2,8 @@ b|hiya|greet
 b|um i rang about a couple of weeks ago about that we'd moved home and to arrange for a final bill to be sent out and the phone to be cut off|inform
 b|uh we haven't received it yet|inform
 b|i'm just checking that it's been done|informIntent
-a|oh yeah|
-a|oh right yeah|
+a|oh yeah|backch
+a|oh right yeah|backch
 a|oh right|ackn
 a|could you give me the old telephone number please|reqInfo
 b|yeah|answ
@@ -17,7 +17,7 @@ b|uh sorry|expressRegret
 b|is miss|correct
 b|but it's actually a miss and it's flat right i spoke to uh uh a man a couple of weeks ago and he was supposed to be cutting it off he said it normally takes a while but he could do it today if he rushed it through or something and he'd send me the bill as of the um yeah hang on a minute okay|answElab
 b|and it's flat right i spoke to uh uh a man a couple of weeks ago and he was supposed to be cutting it off he said it normally takes a while but he could do it today if he rushed it through or something and he'd send me the bill as of the um yeah hang on a minute okay|answElab
-a|yeah that's right|
+a|yeah that's right|backch
 a|that's fine|appreciate
 a|uh right|init
 a|the line hasn't been stopped yet|inform
@@ -33,8 +33,8 @@ a|yeah|ackn
 a|have you got a customer number for that please|reqInfo
 b|um yeah|answ
 b|hang on a minute|hold
-a|yeah|
-a|yeah|
+a|yeah|backch
+a|yeah|backch
 a|that's fine|appreciate
 a|let's just have a look right i'll get that i'll just have to take a few details of the address to send it to|informIntent
 a|right|init

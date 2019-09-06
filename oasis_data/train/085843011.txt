@@ -4,7 +4,7 @@ b|i wonder if you can|direct
 b|we had a problem with our phone a few weeks ago um|inform
 b|it was all sorted out|inform
 b|and we were told that we would be entitled to some compensation|inform
-a|right|
+a|right|backch
 a|that's correct|accept
 b|so|init
 b|that was all going to be sorted out|inform
@@ -22,9 +22,9 @@ b|i phoned except it must have been about eight or nine days ago|inform
 b|and was told that for some reason it hadn't been processed but nobody really knew why but it would be done as soon as possible|inform
 b|well|init
 b|we still haven't heard anything|inform
-a|right|
-a|mm hmm|
-a|right|
+a|right|backch
+a|mm hmm|backch
+a|right|backch
 a|oh dear|expressRegret
 b|so|init
 b|i thought i'd better phone again just to see if something is happening|inform
@@ -35,8 +35,8 @@ a|then it would be done by faults which are on|inform
 a|you know their direct line is|inform
 a|now|init
 a|i can have a look at the notes and see what's been done since your last call|offer
-b|right|
-b|right|
+b|right|backch
+b|right|backch
 b|okay then|accept
 a|um so|init
 a|could i take your customer number|reqInfo

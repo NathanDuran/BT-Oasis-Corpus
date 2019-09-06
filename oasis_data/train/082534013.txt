@@ -14,6 +14,5 @@ a|yeah|ackn
 a|okay|accept
 a|no problem|accept
 a|do you have the account number with you the customer number|reqInfo
-b|you know what|unclassifiable
 b|i've just just a moment please|inform
 b|just a moment please|hold

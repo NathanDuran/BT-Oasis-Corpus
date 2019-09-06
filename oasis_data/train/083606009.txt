@@ -12,9 +12,9 @@ a|right|accept
 a|have you got your customer number on there please|reqInfo
 b|yes|answ
 b|it's yes it's yes it's two i've been here fifteen years you know should know by now you have good thank you very much byebye|answElab
-a|yeah|
-a|yeah|
-a|yeah|
+a|yeah|backch
+a|yeah|backch
+a|yeah|backch
 a|right|ackn
 a|can i just take your name please and your initial|reqInfo
 b|yes|answ

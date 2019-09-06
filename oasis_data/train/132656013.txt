@@ -7,12 +7,12 @@ b|and i was cut off|inform
 a|oh right|ackn
 a|i i mean i wouldn't have thought he did it on purpose|expressOpinion
 a|but can i help at all|offer
-b|no|
+b|no|backch
 b|it's just a query you see|inform
 b|um uh i'm a um subscriber|inform
 b|and i hope to be moving within three to four weeks time|inform
 b|an an and i wanted to take um take over the uh number at my new address you see|inform
-a|right|
+a|right|backch
 a|yeah|ackn
 b|and i just wanna know if um uh the gentleman that's there now has two lines|reqInfo
 b|well|init

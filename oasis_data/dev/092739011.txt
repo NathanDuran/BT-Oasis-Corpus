@@ -2,7 +2,7 @@ b|oh hello uh|greet
 b|i did speak to a gentleman yesterday|inform
 b|i'm sorry|expressRegret
 b|you must have loads of gentlemen in the office have you|reqInfo
-a|hello|
+a|hello|backch
 a|right|ackn
 a|yes yeah yes please yeah sorry yes yes|answ
 b|right|ackn
@@ -15,10 +15,9 @@ b|the bill was wrong right|inform
 b|now then|init
 b|um i have i've now sorted it out i have|inform
 b|would you like to take my customer reference|offer
-b|save me babbling on|unclassifiable
-a|yeah|
+a|yeah|backch
 a|yes please|accept
 b|right|init
-a|yeah|
+a|yeah|backch
 a|yes|ackn
 a|yes|ackn

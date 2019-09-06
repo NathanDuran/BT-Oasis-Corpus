@@ -1,7 +1,6 @@
 b|hello|greet
 b|um i'm just enquiring about uh another line put in|inform
 a|right|ackn
-a|to have|uninterpretable
 a|uh you've got the one line in at the moment have you|reqInfo
 b|i have|answ
 b|yeah yeah|answ
@@ -22,7 +21,6 @@ b|right|ackn
 b|so|init
 b|it'd be um so it's basically say a tenner extra on the so it's like a month so is that including the pound for the actual installation is it right|confirm
 b|so|init
-b|it's like a month|uninterpretable
 a|a month|complete
 a|that's correct|accept
 b|so|init
@@ -31,4 +29,4 @@ a|no|answ
 a|your your including VAT is an initial one off charge on the B T Together discount package|answElab
 a|that's for your installation|answElab
 a|your line rental the extra amount you're going to be paying each month after that's paid is|answElab
-b|right|
+b|right|backch

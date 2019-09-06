@@ -6,14 +6,13 @@ a|right|ackn
 a|um can you just bear with me|hold
 a|cos my computer is not up and running at the moment|inform
 a|have you got your customer number|reqInfo
-b|okay|
+b|okay|backch
 b|oh god|exclaim
 b|no|answ
 a|yeah|ackn
 a|you would need that|inform
 a|i can't discuss any aspect of the bill unfortunately without the customer number|inform
 b|will that be on card|reqInfo
-a|um|uninterpretable
 b|i got my card handy|inform
 a|let me have a look right just bear with me um what have you got on the card right let me have look sorry about this but um i can't even look at your details at the moment just trying to get it up and working it's i've had a problem with it this morning what is your telephone number anyway yeah yeah|hold
 a|just bear with me um|hold

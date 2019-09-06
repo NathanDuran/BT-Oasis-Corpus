@@ -12,7 +12,6 @@ b|it was really crackling before|inform
 a|oh right|ackn
 a|but the line's okay|confirm
 b|yeah|ackn
-b|but when|uninterpretable
 a|but now|init
 a|your star button doesn't work|confirm
 b|no|ackn

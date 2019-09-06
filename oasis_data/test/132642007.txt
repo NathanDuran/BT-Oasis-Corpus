@@ -1,7 +1,7 @@
 b|oh hello|greet
 b|um i phoned up this morning uh to say i had problems with my Easycom One Thousand|inform
 b|and i wanted a a jiffy bag to send it back|inform
-a|oh yes|
+a|oh yes|backch
 a|right|ackn
 b|but anyway the young man i spoke to gave me a helpline number for um phones that were still under guarantee|inform
 b|you know mine's only a few days old|inform

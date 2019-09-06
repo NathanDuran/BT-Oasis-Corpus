@@ -19,7 +19,5 @@ b|yes|answ
 b|it's missus|inform
 a|okay|ackn
 a|missus uh how can i|reqDirect
-a|um the line right so it's not being can you not make outcoming calls|uninterpretable
 a|right so|init
-a|it's not being can you not make outcoming calls|uninterpretable
 a|can you not make outcoming calls|reqInfo

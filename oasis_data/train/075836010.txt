@@ -2,7 +2,7 @@ b|oh hello|greet
 b|i'm awfully sorry|expressRegret
 b|i rang up yesterday|inform
 b|wonder if you can help me really|direct
-a|hello|
+a|hello|backch
 a|right|ackn
 b|um and i ordered a phone|inform
 b|i wanted to send this answer phone back|inform
@@ -12,7 +12,7 @@ b|and i've got incoming calls only|inform
 b|so|init
 b|i wanted outgoing calls as well um cos me boyfriend's moving in here next week he forgot to tell me last night he told me he'd got the phone and i've paid for it on me card yesterday sorry i paid pounds yesterday yeah|inform
 b|um cos me boyfriend's moving in here next week|inform
-a|uh hmm|
+a|uh hmm|backch
 a|oh right|ackn
 a|yeah|ackn
 b|he forgot to tell me|inform
@@ -22,7 +22,6 @@ b|and i've paid for it on me card yesterday|inform
 a|so|init
 a|you've paid for these services|confirm
 a|so|init
-a|you might as well have them on your line|unclassifiable
 b|sorry|pardon
 a|you've paid for the services with the phone haven't you like the call waiting and display|confirm
 b|i paid pounds yesterday|inform

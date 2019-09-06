@@ -13,6 +13,5 @@ b|you know one of these little discs and he tells you which who who's calling th
 a|oh Caller Display|confirm
 b|uh can i send it back|reqModal
 a|yes|answ
-a|you i|uninterpretable
 a|what's your telephone number first of all|reqInfo
 b|yeah|ackn

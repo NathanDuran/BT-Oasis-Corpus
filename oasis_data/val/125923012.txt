@@ -5,8 +5,8 @@ b|and uh uh the girl i spoke to who's a in was going to put it on for me before 
 b|uh so i could dial in and tap in the numbers that i want to refuse yeah|iinform
 b|uh but nothing's happened yet|inform
 b|i wonder whether you can tell me how long before i can put the numbers in|reqInfo
-a|yeah|
-a|mm mm|
+a|yeah|backch
+a|mm mm|backch
 a|right|ackn
 a|it's only because it's still on it's way to being put on your line really|inform
 b|oh|ackn
@@ -16,9 +16,9 @@ a|what's your number|reqInfo
 a|and i'll check|informIntent
 b|okay|accept
 b|it's uh sorry and it's uh on sure|answ
-a|mm mm|
-a|mm mm|
-a|mm mm|
+a|mm mm|backch
+a|mm mm|backch
+a|mm mm|backch
 a|and your name and address please|reqInfo
 b|and it's uh on sure|answElab
 a|okay|ackn

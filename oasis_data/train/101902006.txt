@@ -1,5 +1,4 @@
 b|hello|greet
-b|i'm just calling|unclassifiable
 b|i had um pound phone bill to pay|inform
 a|right|ackn
 b|and it's pounds|inform

@@ -12,10 +12,9 @@ b|thank you|thank
 a|right|init
 a|they have a different freephone number|inform
 a|have you got a pen handy|reqInfo
-b|right|
+b|right|backch
 b|um somewhere|answ
 b|hang on a sec|hold
-b|this pen 's sorry go on yeah|unclassifiable
 b|sorry|expressRegret
 b|go on|direct
 a|that's okay|ackn

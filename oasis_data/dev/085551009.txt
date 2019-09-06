@@ -3,14 +3,14 @@ b|said i had to press option twice|inform
 b|but never mind um|init
 b|i've just spoken to somebody in um i believe your department|inform
 b|that's residential sales innit|confirm
-a|oh|
+a|oh|backch
 a|right yes|ackn
 b|yeah|ackn
 b|and she was gonna put me through to complaints|inform
 a|oh right|ackn
 b|because um i've nightmare i was supposed to had a a business line put on last week at my home address|inform
 b|and it was supposed to take the number from my residential line|inform
-a|right|
+a|right|backch
 a|right|ackn
 b|okay|init
 b|so|init
@@ -27,7 +27,6 @@ a|if it's if it's gonna be a business line|confirm
 a|you'll actually need to speak to business|suggest
 b|yeah yeah|ackn
 b|no|refuse
-b|i i|uninterpretable
 b|look|init
 b|let me finish|direct
 b|hang on|hold
@@ -45,11 +44,11 @@ b|and they said yeah no problem|inform
 b|i'll do that for you mister and it's now Tuesday and it's still not been done it's|inform
 b|and it's now Tuesday|raiseIssue
 b|and it's still not been done|raiseIssue
-a|right|
-a|right|
-a|right|
-a|right|
-a|oh right okay|
+a|right|backch
+a|right|backch
+a|right|backch
+a|right|backch
+a|oh right okay|backch
 a|still not|echo
 a|and right|init
 a|what was the telephone number|reqInfo

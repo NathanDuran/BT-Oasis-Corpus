@@ -1,6 +1,4 @@
 b|oh marvellous|exclaim
-b|i got a person|unclassifiable
-a|you have indeed|unclassifiable
 b|fantastic|exclaim
 a|how can i help|offer
 b|well|init
@@ -11,4 +9,4 @@ b|when i ring first of all instead of saying you're open from whatever hours it 
 b|i mean i don't know who organises this for you|raiseIssue
 b|but quite honestly it it really needs looking at|raiseIssue
 b|anyway i'm ringing about some nuisance calls we had last night|inform
-a|oh dear|
+a|oh dear|backch

@@ -17,7 +17,7 @@ b|and i had it all cut off until i paid that off|inform
 a|yeah|ackn
 b|um that was a couple of months ago|inform
 b|and now i've seen your adverts for um free reconnection and uh internet time in the evenings and weekends|inform
-a|oh right|
+a|oh right|backch
 a|yeah|ackn
 a|well|init
 a|what was your um old telephone number then|reqInfo

@@ -10,19 +10,19 @@ b|and they said they have to send the pin through the phone|inform
 b|but i still haven't had the pin|inform
 b|and it's like over a week now|inform
 b|and i haven't been able to use my phone|inform
-a|mm|
+a|mm|backch
 a|ah okay|ackn
 a|let's have a look|informIntent
 a|have you got your account number with you customer number|reqInfo
 b|yeah|answ
 b|it's right um double yeah right okay alright then thanks very much thanks bye|answElab
-a|yeah|
-a|yeah|
+a|yeah|backch
+a|yeah|backch
 a|okay|ackn
 a|that's all i need|inform
 a|thank you|thank
 a|and if you could confirm the name and the address for me|reqInfo
-b|right|
+b|right|backch
 a|that's lovely|appreciate
 a|thank you|thank
 a|right|init
@@ -38,12 +38,12 @@ a|but what i'll do is i'll actually instead of the computer generating it which 
 a|it's taking its time|inform
 a|i'll send it on i'll just put in on a complement slip|informIntent
 a|and i'll send it out first class today so you will get that tomorrow morning|informIntent
-b|yeah|
+b|yeah|backch
 b|right|ackn
 a|okayokay|ackn
 a|so|init
 a|i'll i'll do that for you now|informIntent
-b|okay|
+b|okay|backch
 b|alright then|ackn
 b|thanks very much|thank
 a|alright|ackn

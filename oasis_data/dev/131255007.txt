@@ -9,7 +9,6 @@ b|uh pardon|pardon
 a|you want to apply|confirm
 b|i want to apply|ackn
 b|i want to get uh some maybe i need to fill in some|suggest
-b|you telephone me|uninterpretable
 a|so|init
 a|have you already ordered this|reqInfo
 a|or or do you want me to do an order for you now|reqDirect

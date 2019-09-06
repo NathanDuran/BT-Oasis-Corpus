@@ -18,17 +18,17 @@ b|it's this bill see|inform
 a|pardon|pardon
 b|it's this bill that i'm i you know i used to pay you know instalments of every fortnight|inform
 b|and um it's getting a bit difficult with the amount yeah but i only get paid once a fortnight i'm only on the dole|inform
-a|yeah|
-a|uh huh|
+a|yeah|backch
+a|uh huh|backch
 a|right okay well|ackn
 a|a payment card lets you pay your bill before it arrives|inform
 a|so|init
 a|instead of paying once a fortnight|inform
 a|if you go every week to the post office and put in|inform
-b|yeah|
+b|yeah|backch
 b|but i only get paid once a fortnight|inform
 b|i'm only on the dole|inform
-a|oh right|
-a|uh huh|
+a|oh right|backch
+a|uh huh|backch
 a|so|init
 a|is are you having difficulties with this bill|reqInfo

@@ -11,7 +11,6 @@ b|he not at this|answ
 b|he has one to prove his address yes|answElab
 a|okay|ackn
 a|and do you know the details of his previous line so i can link it|reqInfo
-a|or shall i have a|uninterpretable
 b|yeah|answ
 b|it's it's number yes that's|answElab
 a|yeah|ackn

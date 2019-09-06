@@ -3,8 +3,8 @@ b|do you want my phone number|reqDirect
 a|that's fine|accept
 a|yes|direct
 b|it's well i've got telephone bill off you this morning and i've only just noticed there's a charge for um a double socket and a telephone i've actually paid for this off my credit card it's a long story i ordered i originally ordered the telephone and gave a credit card number and my card was declined when i rang up um when i rang to find out why she said oh well your card's been declined i rang and she said oh gave us the wrong expiry date so i ordered another yes they did i was very annoyed brand new card i only had it a fortnight i was gonna tell them where to stick it but i thought anyone can make a mistake so it doesn't matter so i rings up orders another phone paid for it with my credit card um got the phone and everything then i gets a letter off yourself saying please re-order your phone so i rang up and i said i've got one i said and actually the first order was cancelled so she went through and i went can you make sure i'm not going to be charged for phones she said yeah that's fine um got me second card it's paid for and everything on my credit card and now i've just got it deducted out me telephone bill the same phone|inform
-a|yeah|
-a|yeah|
+a|yeah|backch
+a|yeah|backch
 a|thank you|thank
 a|how can i help you|offer
 b|well|init
@@ -18,7 +18,7 @@ b|when i rang up um when i rang to find out why she said oh well your card's bee
 b|i rang and she said oh gave us the wrong expiry date|inform
 b|so|init
 b|i ordered another|inform
-a|mm mm|
+a|mm mm|backch
 a|so|init
 a|they declined it for that mm|confirm
 b|yes|ackn
@@ -35,7 +35,7 @@ b|got the phone and everything|inform
 b|then i gets a letter off yourself saying please re-order your phone|inform
 b|so|init
 b|i rang up and i said|inform
-a|mm|
+a|mm|backch
 a|i've got one|complete
 b|i've got one i said and actually the first order was cancelled|inform
 b|so|init

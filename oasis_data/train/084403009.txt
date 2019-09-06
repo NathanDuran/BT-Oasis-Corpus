@@ -4,7 +4,7 @@ b|we uh more than likely are moving from these premises|inform
 b|we have a phone now the ones that we're moving into i think it's a cable phone they got|inform
 b|i'm going off the number uh that they have|inform
 b|uh i uh ah what's our position please|reqInfo
-a|right|
+a|right|backch
 a|right well|ackn
 a|that's no problem|accept
 a|i mean if there is a line in the property that you're moving to|inform
@@ -12,7 +12,7 @@ a|then of course you will be connected free of charge|inform
 a|and so long as you take the number that is allocated to that premises um|inform
 a|it obviously will not be the cable number|inform
 a|but um then the connection will be free of charge|inform
-b|yeah|
+b|yeah|backch
 b|and can i take this number with me|reqInfo
 a|i would have to check that for you to see if you're in the exchange area|inform
 a|can i take your customer number please on the top right hand side of your bill|reqInfo
@@ -20,7 +20,6 @@ b|i've not got a bill yet love|inform
 a|you haven't|confirm
 b|no|ackn
 b|i don't keep them once i've paid them|inform
-b|i uh|uninterpretable
 a|you throw them away|confirm
 b|well|init
 b|i do|inform

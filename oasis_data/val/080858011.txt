@@ -10,13 +10,13 @@ a|thank you can you just confirm your name and address for me please yeah lovely
 a|can you just confirm your name and address for me please|reqInfo
 b|yes|ackn
 b|my my name is uh initial and my address is flat number uh okay i'm looking scuse me i'm looking at my bill uh actually it's a statement a budget account statement which is dated the twenty sixth of June and uh on page scuse me on yes on the section that says oh dear me ah yes on page section says other charges and credits|answ
-a|yeah|
+a|yeah|backch
 a|lovely|appreciate
 a|how can i help mister right mm mm right|offer
 b|okay i'm looking scuse me i'm looking at my bill uh actually it's a statement a budget account statement which is dated the twenty sixth of June and uh on page scuse me on yes on the section that says oh dear me ah yes on page section says other charges and credits|ackn
 b|i'm looking scuse me i'm looking at my bill|inform
 b|uh actually it's a statement a budget account statement which is dated the twenty sixth of June|correctSelf
-a|right|
+a|right|backch
 a|mm mm|ackn
 b|and uh on page scuse me on yes on the section that says oh dear me ah yes on page section says other charges and credits|inform
 b|scuse me on yes on the section that says oh dear me ah yes on page section says other charges and credits|expressRegret

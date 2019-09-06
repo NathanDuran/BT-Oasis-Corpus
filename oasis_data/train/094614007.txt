@@ -13,12 +13,11 @@ b|yes|answ
 b|it's missus noey that's it uh a fortnight's time|answElab
 a|thank you|thank
 a|can you just confirm the initial for me|reqInfo
-b|noey|uninterpretable
 a|thank you right okay it's for pounds yeah when did you want to actually repay that thank you|thank
 a|right okay|ackn
 a|it's for pounds|confirm
 a|yeah|ackn
 a|when did you want to actually repay that|reqInfo
-b|that's it|
+b|that's it|backch
 b|uh a fortnight's time|answ
 a|thank you|thank

@@ -7,10 +7,10 @@ b|and we entered um Surftime on it|inform
 b|we went into Surftime and accepted and everything|inform
 b|but since then|refer
 b|we found out that Surftime isn't available in this area|inform
-a|mm hmm|
+a|mm hmm|backch
 a|ah right okay|ackn
 b|and now we're stuck|inform
 b|cause we we we tried to go into B T Internet|inform
 b|and it won't let us it won't let us do anything now with the disk|inform
 b|cause we've already accepted Surftime|inform
-a|yeah|
+a|yeah|backch

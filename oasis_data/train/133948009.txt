@@ -4,35 +4,34 @@ b|i've received a bill in for pounds something or other|inform
 b|and i you know i can't uh meet up to it at the moment|inform
 b|so|init
 b|i was just wondering if you could put me on an installment plan|direct
-a|uh huh|
+a|uh huh|backch
 a|sure okay|accept
 a|we'll have a look at that for you|informIntent
 a|do you want to give me your phone number first of all|reqInfo
 b|yeah|answ
 b|uh mm mm yeah uh it's mister um ah ha yeah i have yeah ah sixteenth uh um yeah i'm unemployed so it's difficult|answElab
-a|yeah|
-a|yeah|
+a|yeah|backch
+a|yeah|backch
 a|thank you very much indeed|thank
 a|could you just confirm your name an with uh name address with postcode for me please|reqInfo
-b|mm|
+b|mm|backch
 b|mm yeah|answ
 b|uh it's mister um ah ha yeah i have yeah ah sixteenth uh um yeah i'm unemployed so it's difficult|answElab
-a|mm hmm|
+a|mm hmm|backch
 a|thanks very much right okay i mean there is it won't i don't know if you've had a couple of payment plans before where you've done it installments um but it's it won't allow me to do it on this bill um it it will only let me go up until the sixteenth yeah on i mean there is a couple of alternatives i mean have you ever ever thought of doing it by direct debit at all which is you split it up over three months and it every bill|thank
 a|right okay|init
-a|i mean there is it won't|uninterpretable
 a|i don't know if you've had a couple of payment plans before where you've done it installments|reqInfo
-b|ah ha|
+b|ah ha|backch
 b|yeah|answ
 b|i have|answElab
 b|yeah|answElab
 a|um but it's it won't allow me to do it on this bill um|inform
 a|it it will only let me go up until the sixteenth|inform
-b|ah|
+b|ah|backch
 b|sixteenth|echo
 a|yeah|ackn
 a|i mean have you ever ever thought of doing it by direct debit at all|suggest
 a|which is you split it up over three months and it every bill|inform
-b|uh um|
+b|uh um|backch
 b|yeah|answ
 b|i'm unemployed so it's difficult|answElab

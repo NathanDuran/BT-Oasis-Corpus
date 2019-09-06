@@ -11,7 +11,6 @@ b|i wanna|direct
 b|how how much bill am i am i um um|reqInfo
 b|oh dear|expressRegret
 b|how much bill am i i'm uh|reqInfo
-b|can't even say it how much bill do i owe now please well all in all up to date do i have Friends And Family discounts cos i had em look round that|unclassifiable
 b|how much bill do i owe now please|reqInfo
 a|yes|ackn
 a|what|reqInfo

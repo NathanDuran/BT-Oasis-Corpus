@@ -6,5 +6,4 @@ a|oh right|ackn
 a|okay|ackn
 a|what's the|reqInfo
 b|but has she got to pay for it|reqInfo
-b|or you do you have to make the do it|uninterpretable
 b|cos this is um an old age pensioner's house|inform

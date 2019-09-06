@@ -8,10 +8,10 @@ b|i've i've bought a i had a bought a i've bought a new you know a walk around a
 b|and that didn't work|inform
 b|and at the weekend i just went out and bought like a new you know cheapy plug in phone|inform
 b|and i'm still not getting the dialling tone|inform
-a|right|
-a|yep|
-a|yeah|
-a|uh hmm|
+a|right|backch
+a|yep|backch
+a|yeah|backch
+a|uh hmm|backch
 a|right|ackn
 a|what was the number that they gave you please|reqInfo
 a|yep|ackn

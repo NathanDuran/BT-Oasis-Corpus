@@ -2,7 +2,6 @@ b|yes|ackn
 b|wonder if you can|direct
 b|i just um checking my bank account on the internet|inform
 b|and i've just noticed um i don't know my i'm not phoning from home so i don't know my um account number|inform
-b|um but it|uninterpretable
 b|just looking on here|inform
 b|it's got direct debit for a hundred and twenty five pounds|inform
 b|i just wondered if you could check it out|direct
@@ -23,11 +22,11 @@ a|sorry|expressRegret
 a|your name and address|correct
 b|yes|answ
 b|it's missus telephone number yes oh right is it right|answElab
-a|yeah|
+a|yeah|backch
 a|the and the first eight digits|refer
 a|that number you quoted me|refer
 a|that's your customer account number|inform
-b|yes|
+b|yes|backch
 b|oh right|ackn
 b|is it|ackn
 b|right|ackn

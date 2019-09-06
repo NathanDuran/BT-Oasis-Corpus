@@ -19,14 +19,14 @@ b|er the the er people that he was renting the place off know where he lives|inf
 b|and i've give the their number or fax number that they can get in touch|inform
 b|and they will tell you where he lives|inform
 b|cause he wasn't even using his correct name|inform
-a|right|
-a|right|
-a|mm|
-a|right|
-a|right|
-a|yes|
-a|yes|
-a|mm|
+a|right|backch
+a|right|backch
+a|mm|backch
+a|right|backch
+a|right|backch
+a|yes|backch
+a|yes|backch
+a|mm|backch
 a|no right|ackn
 b|so|init
 b|this morning|refer
@@ -43,22 +43,21 @@ b|the have faxed it to to you on they faxed it double now i've i've just spoke s
 b|they faxed it double now i've i've just spoke spoke to a missus mister or missus and they still i just cannot get no satisfaction i don't know why i have never been with in me life i'm suffering with kidney trouble to have it out and i need a phone i haven't got an order number it's now you spell this double is i have had this trouble all morning sorry love it's a mister|inform
 b|now|init
 b|i've i've just spoke spoke to a missus mister or missus and they still i just cannot get no satisfaction i don't know why i have never been with in me life i'm suffering with kidney trouble to have it out and i need a phone i haven't got an order number it's now you spell this double is i have had this trouble all morning sorry love it's a mister|inform
-b|and they still|uninterpretable
 b|i just cannot get no satisfaction|inform
 b|i don't know why|inform
 b|i have never been with in me life|inform
 b|i'm suffering with kidney trouble to have it out|inform
 b|and i need a phone|inform
-a|right|
-a|yes|
-a|right|
-a|mm|
-a|yes|
-a|right|
-a|yes|
-a|yes|
-a|right|
-a|no|
+a|right|backch
+a|yes|backch
+a|right|backch
+a|mm|backch
+a|yes|backch
+a|right|backch
+a|yes|backch
+a|yes|backch
+a|right|backch
+a|no|backch
 a|yes right|ackn
 a|well|init
 a|have you got your order number at all|reqInfo
@@ -68,12 +67,12 @@ a|what's your address|reqInfo
 b|it's now you spell this double is i have had this trouble all morning sorry love it's a mister|answ
 b|now|init
 b|you spell this double is i have had this trouble all morning sorry love it's a mister|inform
-a|yes|
-a|um|
-a|yes|
-a|yeah|
-a|yeah|
-a|right|
+a|yes|backch
+a|um|backch
+a|yes|backch
+a|yeah|backch
+a|yeah|backch
+a|right|backch
 a|okay|ackn
 a|and your postcode there|reqInfo
 b|is i have had this trouble all morning sorry love it's a mister|answ

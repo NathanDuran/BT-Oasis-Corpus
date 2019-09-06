@@ -1,28 +1,27 @@
 b|oh good morning|greet
 b|that was quick|expressOpinion
 b|i was expecting a recorded message then um|inform
-a|ah right|
+a|ah right|backch
 a|unfortunately at the moment though i don't have a computer system|expressRegret-inform
 a|so|init
 a|everything i'm doing is taking down sorta and being done later this morning|inform
 b|ah you might not be able to help me then|expressPossibility
 b|but we'll try um what it is i received my phone bill this morning um but i've been paying sort of pound pound off on the card but it doesn't actually show how much i've paid on that card on my bill mm hmm okay yeah oh hang on a minute uh|informIntent
-a|right|
+a|right|backch
 a|yeah|ackn
 b|um what it is i received my phone bill this morning um|inform
 b|but i've been paying sort of pound pound off on the card|inform
 b|but it doesn't actually show how much i've paid on that card on my bill|inform
-a|yeah|
-a|yeah|
+a|yeah|backch
+a|yeah|backch
 a|right|ackn
 a|can't actually look at your bill|confirm
-a|that's the only thing|unclassifiable
 a|i can take the details down and um get someone to call you back later|offer
-b|mm hmm|
+b|mm hmm|backch
 b|okay|accept
 a|yeah|ackn
 a|what's your customer number on there please|reqInfo
-b|yeah|
+b|yeah|backch
 b|oh hang on a minute|hold
 b|uh|answ
 a|yeah|ackn

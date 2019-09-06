@@ -4,7 +4,7 @@ b|um i still owe you pounds from um my phone bill|inform
 b|um i can't pay it um|inform
 b|it's not that i haven't got the money|inform
 b|it's that me son's gone and cut me card up|inform
-a|mm mm|
+a|mm mm|backch
 a|ah right okay|ackn
 a|and we can get a replacement sent out for you|inform
 b|right|ackn
@@ -30,8 +30,6 @@ a|the quickest thing i'll do is is to send you a payment slip okay|informIntent
 b|yeah|ackn
 a|then you can pay that through the post office|inform
 b|oh that's brilliant|accept
-b|will it will|uninterpretable
 a|so|init
-a|you'll get sorry|uninterpretable
 a|sorry|pardon
 b|will i be charged anything for that|reqInfo

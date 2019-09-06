@@ -4,7 +4,7 @@ b|i'd like to know what my account's up to at the moment my phone bill|reqInfo
 a|right|ackn
 a|what's your customer number please|reqInfo
 b|my customer number is yeah my name's missus on double no is that that one yeah that lets me know what my phone bill is after it's been after it's been sent out i wanna know what i've actually got left on me old bill i've been paying some off but i don't know|answ
-a|mm hmm|
+a|mm hmm|backch
 a|an that's fine|ackn
 a|that's all i need|inform
 a|thank you|thank
@@ -18,7 +18,6 @@ a|have you got the freephone number that you can call or|reqInfo
 b|no|answ
 a|right|ackn
 a|do you do you have a pen handy|reqInfo
-a|and i|uninterpretable
 b|is that that one|reqInfo
 a|yeah|answ
 b|yeah|ackn

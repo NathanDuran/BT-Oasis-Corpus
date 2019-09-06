@@ -2,5 +2,4 @@ b|this is uh mister i appear to have mislaid my last uh um bill|identifySelf
 a|yes mister how can i help yes what's|ackn
 a|how can i help|offer
 a|yes|ackn
-a|what's|uninterpretable
 b|i appear to have mislaid my last uh um bill|inform

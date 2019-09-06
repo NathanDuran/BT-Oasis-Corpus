@@ -6,4 +6,4 @@ a|okay|accept
 b|no|answ
 b|i've just moved from me parents|answElab
 b|so|init
-a|no okay|
+a|no okay|backch

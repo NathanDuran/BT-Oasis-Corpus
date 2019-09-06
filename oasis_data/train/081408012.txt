@@ -6,13 +6,13 @@ b|but when somebody tries to ring in|refer
 b|the phone doesn't ring|inform
 b|it rings from their end|inform
 b|but the phone doesn't ring in the house|inform
-a|mm hmm|
+a|mm hmm|backch
 a|right|ackn
 a|okay|init
 b|um sorry and i've there's another number at the house as well uh no yeah yeah is that why okay well the chances are that with the other number it's probably similar to be honest with the other number it's attached to my computer so i haven't put the phone on it so i don't know whether it rings right but i'd asked for that one to be i'd asked for my old number to be ported on that number as well|answ
 a|yeah|ackn
 b|and i've there's another number at the house as well|inform
-a|mm mm|
+a|mm mm|backch
 a|right|ackn
 a|let me just the details right so neither of them actually ring in the property no right now i am actually showing that that first number the engineers haven't actually finished the work on it yet um the exchange do you you were bringing that number back weren't you from your other company yeah yes there looks to be some sort of hold up i'll need to go through to our number portability department for you to find out what the problem is there ah right that one i'm showing that everything is done um yeah that was the is that right|selfTalk
 a|right so|ackn

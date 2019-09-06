@@ -4,10 +4,9 @@ b|uh what it is i've been on a budget account to pay my bill off|inform
 b|i'm paying the last payment today|inform
 b|i think it's|inform
 b|and is it possible you could give me um calls again|direct
-a|right|
+a|right|backch
 a|yeah|answ
 a|as soon as the payment ledgers|answElab
-a|the then the calls will be you you will|uninterpretable
 a|um what have you got|reqInfo
 a|just incoming at the moment or|reqInfo
 b|pardon|pardon

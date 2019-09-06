@@ -4,9 +4,9 @@ a|yeah|answElab
 b|oh that's unusual|expressOpinion
 b|good morning|greet
 b|this is the shop in oh right right okay i um have um a gentleman here who would like to get connected to uh please|identifySelf
-a|hello|
+a|hello|backch
 a|hi there|greet
 a|we're doing a trial into the um call steering|inform
-b|oh right|
+b|oh right|backch
 b|right okay|ackn
 b|i um have um a gentleman here who would like to get connected to uh please|direct

@@ -1,10 +1,8 @@
 b|oh good afternoon i mean good morning i mean|greet
 b|sorry|expressRegret
-a|hello there|
+a|hello there|backch
 a|that's it|ackn
-a|don't wish yer time away  oh  no no lovely can't wait yeah uh huh yeah yeah uh huh aha so you can't make any premium rate calls you mean yeah uh hm oh right uh ha ha that's right they want you they want you to use that premium rate number to spend all your money yeah ridiculous um i can only think it's an old number then i mean what number have you what number did she give you i'll just try it yeah|unclassifiable
 b|no|negate
-b|i know well that's that's what you get when you get in your retire like you know your time you know when you're leading a life of uh leisure like but not like you working hard like yeah what it is um i i i was talking to a young lady just before and i trying to find a a uh company if you just bear with me a second it's called oh god i can't even say it now it's teeth false teeth in right now i i've got the number in me paper the morning paper from yesterday like and it quotes a number but the number it quotes is a premium line number well i used to be that for them but because me bill was so high i have got me premium rate line stopped so i'm just onto ordinary phones now you know so i can't uh obviously yep that's it yeah so i phoned so i spent to that to the young lady like you know think or two it was so helpful and she said oh she gave me another number to try she had look she said oh yeah i come from like you know and and she said so what's the name of the company i told her and the address what's is the advert is in very small print like and so i got me magnifying glass out i can just about make it's always is in small print when they don't want you to phone them like yeah i know that cos that's a pound a minute you see right so that they're not daft are they like you know so um she said phone this number like and when i phoned the number she gave it me you know no problems ah uh i got the um this number is not available like you know oh i see uh double|unclassifiable
 b|well|init
 b|that's that's what you get when you get in your retire like|expressOpinion
 b|you know your time|expressOpinion
@@ -18,7 +16,6 @@ b|and i trying to find a a uh company|inform
 b|if you just bear with me a second|hold
 b|it's called oh god i can't even say it now it's teeth false teeth in right now i i've got the number in me paper the morning paper from yesterday like and it quotes a number but the number it quotes is a premium line number well i used to be that for them but because me bill was so high i have got me premium rate line stopped so i'm just onto ordinary phones now you know so i can't uh obviously yep that's it yeah so i phoned so i spent to that to the young lady like you know think or two it was so helpful and she said oh she gave me another number to try she had look she said oh yeah i come from like you know and and she said so what's the name of the company i told her and the address what's is the advert is in very small print like and so i got me magnifying glass out i can just about make it's always is in small print when they don't want you to phone them like yeah i know that cos that's a pound a minute you see right so that they're not daft are they like you know so um she said phone this number like and when i phoned the number she gave it me you know no problems ah uh i got the um this number is not available like you know oh i see uh double|inform
 b|oh god|exclaim
-b|i can't even say it now|unclassifiable
 b|it's teeth false teeth in right|inform
 b|now|init
 b|i i've got the number in me paper|inform
@@ -26,15 +23,14 @@ b|the morning paper from yesterday like|inform
 b|and it quotes a number|inform
 b|but the number it quotes is a premium line number|inform
 b|well|init
-b|i used to be that for them|unclassifiable
 b|but because me bill was so high|inform
 b|so|init
 b|i'm just onto ordinary phones now you know|inform
-a|yeah|
-a|uh huh|
-a|yeah|
-a|yeah|
-a|uh huh|
+a|yeah|backch
+a|uh huh|backch
+a|yeah|backch
+a|yeah|backch
+a|uh huh|backch
 a|aha|ackn
 a|so|init
 a|you can't make any premium rate calls you mean|confirm
@@ -46,7 +42,6 @@ a|yeah|ackn
 a|uh hm|ackn
 b|yeah|ackn
 b|so|init
-b|i phoned so i spent to that to the young lady like you know think or two|uninterpretable
 b|it was so helpful|expressOpinion
 b|and she said oh she gave me another number to try|inform
 b|she had look she said oh|inform
@@ -58,8 +53,8 @@ b|and so|init
 b|i got me magnifying glass out|inform
 b|i can just about make|inform
 b|it's always is in small print when they don't want you to phone them like|expressOpinion
-a|oh right|
-a|uh ha ha|
+a|oh right|backch
+a|uh ha ha|backch
 a|that's right|ackn
 a|they want you they want you to use that premium rate number to spend all your money|expressOpinion
 b|yeah|ackn
@@ -72,11 +67,11 @@ b|so|init
 b|um she said phone this number like|inform
 b|and when i phoned the number she gave it me you know no problems|inform
 b|ah uh i got the um this number is not available like you know|inform
-a|yeah ridiculous|
-a|um|
+a|yeah ridiculous|backch
+a|um|backch
 a|i can only think it's an old number then|expressOpinion
 a|i mean what number have you what number did she give you|reqInfo
 a|i'll just try it|informIntent
-b|oh i see|
+b|oh i see|backch
 b|uh double|answ
 a|yeah|ackn

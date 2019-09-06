@@ -1,5 +1,4 @@
 b|hi|greet
-b|i well i don't know if you can um|unclassifiable
 a|right|ackn
 b|recently we've had about power cuts in poor weather|inform
 a|right|ackn

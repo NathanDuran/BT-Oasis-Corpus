@@ -17,7 +17,7 @@ a|because|inform
 a|yeah|ackn
 a|all i can give you is that it's a working number|inform
 a|but i'm afraid i couldn't tell you much more about that number|expressRegret
-b|yes|
+b|yes|backch
 b|no|ackn
 b|in other words it it it's alright now|confirm
 b|i'm i'm dialling the right number am i|confirm

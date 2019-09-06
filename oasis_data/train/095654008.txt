@@ -11,8 +11,6 @@ a|you've paid your phone bill|confirm
 b|yeah|ackn
 a|right|ackn
 a|what's your phone number please|reqInfo
-b|it's uh night|uninterpretable
-b|i can use 'elephone|uninterpretable
 b|double no uh double|answElab
 a|sorry|pardon
 b|no|negate

@@ -6,7 +6,7 @@ b|i was due to move into a council house uh the nineteenth of last month|inform
 b|and the council pulled out on us at the last moment|inform
 b|now|init
 b|i'd already set a telephone line up for the house on the nineteenth|inform
-a|yeah|
+a|yeah|backch
 a|i see|ackn
 b|so|init
 b|i had to cancel out cancel it|inform
@@ -21,7 +21,7 @@ a|we've done that|reqInfo
 b|yeah|answ
 b|you've sorted that out|answElab
 b|and you've sent me a bill out which should have been thirteen pound but is actually forty eight ninety one|inform
-a|yeah|
+a|yeah|backch
 a|what was the reference number on that|reqInfo
 a|and i'll just have a look at that one first|informIntent
 b|uh the customer number is there okay|answ
@@ -29,5 +29,4 @@ a|yeah|ackn
 a|yeah|ackn
 a|thank you sir|thank
 a|i'll just get the details done|informIntent
-b|there|unclassifiable
 b|okay|ackn

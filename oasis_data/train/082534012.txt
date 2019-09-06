@@ -4,7 +4,7 @@ b|i called uh called to have this line my line disconnected this morning|inform
 b|and i'd like to get it disconnected now if possible|direct
 b|because i'm leaving the country|inform
 b|and i don't want to have it connected|expressWish
-a|mm hmm|
+a|mm hmm|backch
 a|okay|accept
 a|no problem|accept
 a|do you have your customer number with you|reqInfo
@@ -17,8 +17,8 @@ b|am i|reqInfo
 a|right|ackn
 a|and what's the telephone number then please|reqInfo
 b|okay|ackn
-a|yeah|
-a|mm hmm|
+a|yeah|backch
+a|mm hmm|backch
 a|lovely|appreciate
 a|thank you right can i just ask you for your address please lovely thank you and it's basically from now you want it disconnecting yeah|thank
 a|can i just ask you for your address please|reqInfo

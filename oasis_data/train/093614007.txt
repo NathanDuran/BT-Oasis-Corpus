@@ -8,7 +8,7 @@ a|it won't|answElab
 a|you do need to actually have you need to subscribe to the facility|answElab
 a|otherwise the the unit won't actually display the numbers|answElab
 b|oh uh how much is that uh|reqInfo
-a|do  the facility is every quarter every every months uh no not on the facility well you do need to subscribe to the facility yes otherwise the unit won't actually display the numbers right okay what's your telephone number please uh hmm|
+a|do  the facility is every quarter every every months uh no not on the facility well you do need to subscribe to the facility yes otherwise the unit won't actually display the numbers right okay what's your telephone number please uh hmm|backch
 a|the facility is every quarter every every months uh no not on the facility well you do need to subscribe to the facility yes otherwise the unit won't actually display the numbers right okay what's your telephone number please uh hmm|answ
 b|uh cause uh there is a special offer isn't there uh on that caller display isn't there|reqInfo
 b|a month free trial|reqInfo
@@ -18,11 +18,11 @@ b|apparently this is no good to me then uh really|inform
 a|well|init
 a|you do need to subscribe to the facility|inform
 a|yes|ackn
-b|yeah|
+b|yeah|backch
 b|yeah so uh i'd like to return that then please it's uh|ackn
 b|so|init
 b|uh i'd like to return that then please|expressWish
 a|right okay|ackn
 a|what's your telephone number please|reqInfo
 b|it's uh|answ
-a|uh hmm|
+a|uh hmm|backch

@@ -29,5 +29,4 @@ b|yes please|direct
 b|yeah|directElab
 a|right|accept
 a|okay then|init
-a|what i'll do|unclassifiable
 a|i'll just get a fully itemised bill sent out to you|informIntent

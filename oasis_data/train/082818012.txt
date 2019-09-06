@@ -30,7 +30,7 @@ b|so|init
 b|i did that|inform
 b|but instead of making a name change what did was um|inform
 b|they cancelled the line altogether|inform
-a|yeah|
+a|yeah|backch
 a|yeah|answ
 a|we do that|inform
 a|we we stop the line and restart it in another name|inform
@@ -52,5 +52,5 @@ b|and basically i reported that to the billing department|inform
 b|and they said they'd send him the outstanding bill under his name so he could pay it|inform
 b|and uh ai um the passing on to the faults department to for to regarding compensation for the last three weeks he's been cut off|inform
 b|and they were going to pass me on to sales before i got cut off there|inform
-a|mm mm|
-a|yes|
+a|mm mm|backch
+a|yes|backch

@@ -13,8 +13,8 @@ b|uh yeah|answ
 b|i mean this last bill|answElab
 b|because i mark and i mark for an exam board|inform
 b|and i need to put in all the calls that i took for them|inform
-a|yeah|
-a|oh right|
+a|yeah|backch
+a|oh right|backch
 a|oh i understand|ackn
 a|right okay|ackn
 a|let's look for you|informIntent

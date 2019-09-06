@@ -1,5 +1,4 @@
 b|oh good morning|greet
-b|i'm phoning|unclassifiable
 b|is is this the billing department|reqInfo
 a|um i can help you|inform
 a|yes|answ
@@ -16,13 +15,12 @@ b|we were told it would be put on in within two hours|inform
 b|then we're told it was a line fault and it was|inform
 b|we spent half the evening last evening trying to|inform
 b|and then we're told it was still cut off because of billing having a sorted it out in the morning|inform
-a|right|
+a|right|backch
 b|uh oh good question cause haven't got it in front of me let me just see if it's on this one oh i've got an order form here um can't see a customer number on there account number account number no that's probably not it because that's an old one oh yeah i'm looking at an old one i i don't think i've got anything in front of me uh it's probably in the office|answ
 b|let me just see if it's on this one|informIntent
 b|oh i've got an order form here um can't see a customer number on there account number account number no that's probably not it because that's an old one oh yeah i'm looking at an old one i i don't think i've got anything in front of me uh it's probably in the office|inform
 b|um can't see a customer number on there account number|inform
 a|account number|echo
-a|that'll be that's that|unclassifiable
 b|account number no that's probably not it because that's an old one oh yeah i'm looking at an old one i i don't think i've got anything in front of me uh it's probably in the office|inform
 b|no|negate
 b|that's probably not it|inform

@@ -9,10 +9,9 @@ b|it was rather sudden|expressOpinion
 b|she's going back to her house|inform
 a|oh right|ackn
 a|could you just give me uh the um the address please the name and address|reqInfo
-b|um it's uh|uninterpretable
 b|it's missus and it's ah now she's moving out today um|answ
-a|yeah|
-a|yeah|
+a|yeah|backch
+a|yeah|backch
 a|right|ackn
 a|and what's happening|reqInfo
 b|now|init

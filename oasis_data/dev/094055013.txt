@@ -1,13 +1,11 @@
-b|as a matter of fact uh|uninterpretable
 b|uh good morning|greet
-b|by the way hello good morning uh yeah i phoned up a couple of days ago you know it's set uh regarding my telephone you know it gives me a jingle jingle you know dear you know every time i lift the receiver you know know like Christmas carols yeah and i was told you know to give you another phone in case that is not amended you know or sorted well it still carries on like that|uninterpretable
 b|hello|greet
 a|hello f|greet
 a|yes|ackn
 b|good morning|greet
 a|good morning|greet
 a|how can i help you|offer
-b|uh|
+b|uh|backch
 b|yeah|ackn
 b|i phoned up a couple of days ago you know|inform
 b|it's set uh regarding my telephone|inform
@@ -15,7 +13,7 @@ b|you know it gives me a jingle jingle you know dear you know every time i lift 
 b|and i was told you know to give you another phone in case that is not amended you know or sorted|inform
 b|well|init
 b|it still carries on like that|inform
-a|right|
-a|oh right|
-a|oh right|
-a|yeah an it still|
+a|right|backch
+a|oh right|backch
+a|oh right|backch
+a|yeah an it still|backch

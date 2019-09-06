@@ -1,7 +1,5 @@
 b|oh hello|greet
-b|uh it's here|uninterpretable
 b|i didn't realise you got through to so quick|expressOpinion
-a|there you go then|unclassifiable
 a|haven't we surprised you|expressOpinion
 b|what it is is i'm having so much trouble getting on this Surftime|inform
 b|it's unbelievable|exclaim
@@ -10,15 +8,15 @@ b|i have yet to use it|inform
 b|i've been in touch with the internet people|inform
 b|all i need to do is register|inform
 b|i've registered with you cause i couldn't do it on line|inform
-a|oh dear|
-a|right have you  have you received a C D rom or an email back yet right ah ha that's right and you registered with them ah ha oh dear oh goodness on the technical helpdesk   right do you wanna give me your telephone number let's have a look at this because there has been in some of the exchanges in some areas there's been the um exchanges haven't been groomed or blocks of numbers haven't been groomed and it could be that you're falling into that category|
+a|oh dear|backch
+a|right have you  have you received a C D rom or an email back yet right ah ha that's right and you registered with them ah ha oh dear oh goodness on the technical helpdesk   right do you wanna give me your telephone number let's have a look at this because there has been in some of the exchanges in some areas there's been the um exchanges haven't been groomed or blocks of numbers haven't been groomed and it could be that you're falling into that category|backch
 a|have you received a C D rom or an email back yet|reqInfo
 b|no|answ
 b|i i i i'm on the i'm on B T Internet anyway|inform
 b|um i get it for nothing cause i work for|inform
 b|um i couldn't register online so i went through it said on it ring which registered us and i try to put i put me in the um me in email in and me and me password and it just won't take it and i can't seem to get anybody to help me to sort it i've been onto the internet people at a minute yeah and they keep saying i got to refer back to you lot i wanna if i can't get on it soon i'm gonna have to cancel it yeah yeah yeah right yep|inform
-a|right|
-a|ah ha|
+a|right|backch
+a|ah ha|backch
 a|that's right|ackn
 a|and you registered with them|confirm
 b|which registered us|inform
@@ -26,13 +24,12 @@ b|and i try to put i put me in the um me in email in and me and me password|info
 b|and it just won't take it|inform
 b|and i can't seem to get anybody to help me to sort it|inform
 b|i've been onto the internet people at a minute|inform
-a|ah ha|
-a|oh dear|
+a|ah ha|backch
+a|oh dear|backch
 a|oh goodness|exclaim
 a|on the technical helpdesk|reqInfo
 b|yeah|answ
 b|and they keep saying i got to refer back to you lot|inform
-b|i wanna|uninterpretable
 b|if i can't get on it soon|inform
 b|i'm gonna have to cancel it|informIntent
 a|right|ackn
@@ -40,8 +37,8 @@ a|do you wanna give me your telephone number|reqInfo
 a|let's have a look at this|offer
 a|because there has been in some of the exchanges in some areas there's been the um exchanges haven't been groomed or blocks of numbers haven't been groomed|inform
 a|and it could be that you're falling into that category|expressPossibility
-b|yeah|
-b|yeah|
-b|yeah|
-b|right|
-b|yep|
+b|yeah|backch
+b|yeah|backch
+b|yeah|backch
+b|right|backch
+b|yep|backch

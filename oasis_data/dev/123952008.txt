@@ -5,7 +5,7 @@ b|it's just to inform you of a change of address please|informIntent
 a|yes|ackn
 a|that's fine|accept
 a|do you have your telephone number or your customer number|reqInfo
-b|yes|
+b|yes|backch
 b|uh which would you prefer|reqDirect
 a|customer number would be great|reqInfo
 b|okay|ackn

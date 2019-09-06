@@ -1,4 +1,3 @@
-b|uh what to know want to know|uninterpretable
 b|i'm going on the the digital|inform
 b|um i'm paying for the digital|inform
 a|the On Digital television|confirm
@@ -21,5 +20,4 @@ b|and uh i want to know what the charges are and things like that|reqInfo
 a|right|ackn
 a|and what is your telephone number please sir|reqInfo
 b|oh um it's|answ
-a|yeah|
-a|and the dialling code is|unclassifiable
+a|yeah|backch

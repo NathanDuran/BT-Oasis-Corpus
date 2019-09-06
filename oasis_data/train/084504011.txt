@@ -4,7 +4,7 @@ b|i'm just phoning up to see if i've got the right phone bill|inform
 b|as i've got to pay today|inform
 a|oh right okay|ackn
 a|have you got your account number there please|reqInfo
-b|uh|
+b|uh|backch
 b|um the account|refer
 b|lets see uh|selfTalk
 a|double thank you uh no that's fine could you just confirm o double|echo
@@ -15,6 +15,6 @@ b|uh uh do do i need the rest now|reqInfo
 a|uh no|answ
 a|that's fine|accept
 a|could you just confirm o double|reqInfo
-b|okay thanks|
+b|okay thanks|backch
 b|uh double uh sorry love|answ
 b|sorry love|expressRegret

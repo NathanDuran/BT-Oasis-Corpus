@@ -50,13 +50,26 @@ def process_transcript(turn_list, a_words_file, a_da_file, b_words_file, b_da_fi
                 # If there are words i.e. not redacted/uninterpretable, concatenate to sentence
                 if words:
                     text = " ".join(words)
-
+                    text.strip()
                     # Check just in case excluded chars are in text
                     if any(char in excluded_chars for char in text):
                         print("Excluded char found!")
+                # Else skip this utterance
+                else:
+                    continue
 
-                    # Create an utterance
-                    utterances.append(Utterance(speaker, text, utt['da']))
+                # Get the DA
+                if utt['da'] not in excluded_tags:
+                    da = utt['da']
+                # If it is the empty string use the type instead (backch)
+                elif utt['da'] == '':
+                        da = utt['utt_type']
+                # Else skip this utterance
+                else:
+                    continue
+
+                # Create an utterance
+                utterances.append(Utterance(speaker, text, da))
 
     # Create a dialogue
     conversation_id = list(speaker_turns.keys())[0].split('.')[0]
@@ -111,7 +124,8 @@ def get_da_and_word_segments(da_file):
                     da = line.split(' ')[2].split('sp-act=')[1].replace("'", "")
                     segment['da'] = da
                     # Get type from segment
-                    # type = line.split(' ')[1].split('type=')[1].replace("'", "")
+                    utt_type = line.split(' ')[1].split('type=')[1].replace("'", "")
+                    segment['utt_type'] = utt_type
 
                     # Get the start and end unit (word) id's for this utterance
                     next_line = da_file[i + 1]

@@ -4,7 +4,6 @@ b|i dunno whether you can help me at all|direct
 b|but i i'm trying to figure out whether the best way um|inform
 b|and they told me not to mention Surftime|inform
 b|otherwise they won't uh send you back to them|inform
-b|but whether i'm i i any benefit i can get by joining that you see|unclassifiable
 b|but they had no information on my bill which i'm paying now|inform
 a|i'm sorry|expressRegret
 a|you're quite you're confusing me here|inform
@@ -20,8 +19,8 @@ a|i don't know without looking at your account|raiseIssue
 a|what's your telephone number what's your telephone number so i know exactly what i'm looking at yeah and your name and address and the postcode right i didn't actually get your surname and your initials please right thank you you only pay a month which is rental towards B T Together and that gives you cheaper call charges|reqInfo
 a|what's your telephone number|reqInfo
 a|so i know exactly what i'm looking at|inform
-b|oh|
-a|yeah|
+b|oh|backch
+a|yeah|backch
 a|and your name and address|reqInfo
 a|and the postcode|reqInfo
 a|right|ackn

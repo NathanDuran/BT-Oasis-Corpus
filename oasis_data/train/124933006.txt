@@ -1,5 +1,4 @@
 b|hi|greet
-b|um just phoning up|unclassifiable
 b|could you tell me how much my bill is please|reqInfo
 a|uh yeah|answ
 a|what's your telephone number please|reqInfo
@@ -14,14 +13,14 @@ b|should have|expressOpinion
 b|just one minute|hold
 b|right|init
 b|it's hang on um yeah yeah okay|answElab
-a|mm mm|
-a|mm mm|
+a|mm mm|backch
+a|mm mm|backch
 a|thank you|thank
 a|i'll just have a look at it for you|informIntent
 a|if you actually sort of need to go through and get an update in future|inform
 a|the telephone number is okay now your actual call charges|inform
-b|yeah|
-b|yeah|
+b|yeah|backch
+b|yeah|backch
 b|okay|ackn
 a|okay|ackn
 a|now|init

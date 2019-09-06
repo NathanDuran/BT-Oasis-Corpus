@@ -5,7 +5,7 @@ b|for my best friend|refer
 b|i wanted to put somebody else instead|expressWish
 a|right|accept
 a|have you got your uh customer number there please|reqInfo
-a|yeah|
+a|yeah|backch
 a|right|ackn
 a|can you just confirm your name and address for me|reqInfo
 b|miss um yes please|answ
@@ -19,6 +19,5 @@ a|do you want that just as just an ordinary number now|reqDirect
 b|um yes please|direct
 a|right|accept
 a|just bear with me|hold
-a|and we'll right what would you like as your new best friend number then|uninterpretable
 a|right|init
 a|what would you like as your new best friend number then|reqDirect

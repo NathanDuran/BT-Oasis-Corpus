@@ -1,5 +1,4 @@
 b|hi|greet
-b|i hope you can every time i get an engaged tone on my phone i'm getting one of your recorded messages telling me about Ringback can we get rid of it no thank you double the name's the address is place} that's fine thanks a lot bye|uninterpretable
 b|every time i get an engaged tone on my phone|inform
 b|i'm getting one of your recorded messages telling me about Ringback|inform
 b|can we get rid of it|reqModal

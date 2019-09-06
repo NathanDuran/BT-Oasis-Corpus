@@ -20,10 +20,10 @@ b|it's around somewhere|answElab
 b|i can find it|offer
 a|yes|accept
 a|we would need that to actually do it|inform
-b|yes|
+b|yes|backch
 b|and i'll phone you back|informIntent
 a|and then if you give us a call back|suggest
 a|then we can do it um|confirm
 a|the only thing with it is when you do want the barring taken off we would need a a letter from you|inform
-b|yeah|
-b|yeah|
+b|yeah|backch
+b|yeah|backch

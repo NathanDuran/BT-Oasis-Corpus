@@ -1,4 +1,3 @@
-b|god that was quick um|unclassifiable
 b|what it was i phoned up on Saturday morning|inform
 b|what had happened was that there was and then me mum's telling me all sorts now um what happened was that there was a man canvassing in the area and um he give me a phone number that that would be my phone number and on the Tuesday he said it'd be switched on so i phoned yous up and explained to him that there was no box for me to plug me phone in and they said there were meant an engineer was coming on Saturday but no one turned up and when i phoned yous back they turned around and said it's been cancelled and to give you another ring today and you'd try and sort something out for me|inform
 b|and then me mum's telling me all sorts now um|inform
@@ -15,8 +14,8 @@ b|and they said there were meant an engineer was coming on Saturday|inform
 a|mm hm|ackn
 b|but no one turned up|inform
 b|and when i phoned yous back they turned around and said it's been cancelled and to give you another ring today|inform
-a|oh|
-a|oh right|
+a|oh|backch
+a|oh right|backch
 a|right|ackn
 b|and you'd try and sort something out for me|inform
 a|okay|ackn

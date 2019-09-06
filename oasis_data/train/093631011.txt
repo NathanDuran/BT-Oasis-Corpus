@@ -4,7 +4,7 @@ a|about what|reqInfo
 a|sorry|pardon
 b|B T Planet Talk|answ
 b|it's about long distance call cheaper rates|inform
-a|yeah|
+a|yeah|backch
 a|right|ackn
 b|well|init
 b|i've rang the number it says on here|inform

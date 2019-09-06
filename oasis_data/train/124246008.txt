@@ -7,12 +7,12 @@ a|okay sir|accept
 a|to uh have a bar removed|inform
 a|you need to um ring in or fax in to a certain number|inform
 a|have you got access to a fax machine|reqInfo
-b|yeah|
+b|yeah|backch
 b|yeah|answ
 a|right|ackn
 a|if you i'll give you the fax number|informIntent
 a|if you'd like to put on it just your name and address with um your customer number|suggest
-b|yeah|
+b|yeah|backch
 b|yeah|accept
 a|and then just saying please can you removed call barring from this telephone number|suggest
 b|yeah|ackn

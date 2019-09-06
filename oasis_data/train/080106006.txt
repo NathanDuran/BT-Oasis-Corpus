@@ -1,16 +1,16 @@
 a|good morning|greet
 a|how can i help|offer
-b|oh good|
+b|oh good|backch
 b|oh good morning dear|greet
 b|um i've had a phone bill this morning from you charging me for um an outright sale for an additional handset and charger that was delivered to me um on on Friday|inform
 b|now|init
 b|the thing is that um i spoke to someone on Monday because the lad who said this would do wonders and what's it miracles didn't explain that i needed a base for this and i haven't got a base|inform
-a|right|
-a|mm hmm|
+a|right|backch
+a|mm hmm|backch
 a|oh dear|exclaim
 b|so|init
 b|i spoke to somebody on Monday and i said well look i'm going to return this and they said yeah no problem at all we'll send you um an envelope to put it back in to just take it up the post office and that will be credited to your account|inform
-a|right|
+a|right|backch
 a|that's right|ackn
 a|it will|confirm
 b|well now|init
@@ -21,7 +21,7 @@ a|yeah|ackn
 a|that's alright|ackn
 a|don't worry|direct
 a|as soon as um it takes two or three days for the bag to get to you|inform
-b|oh does it|
+b|oh does it|backch
 b|right|ackn
 b|only i was gonna say i've still got the black bag it came in|inform
 b|i could tart that up and send it back no|expressPossibility
@@ -32,7 +32,7 @@ b|that's what will happen|confirm
 b|now|init
 b|when i get it|refer
 b|do i put this bill in with it|reqInfo
-a|and um|
+a|and um|backch
 a|um no no|answ
 a|if you keep the bill alright|direct
 a|and then what we will do|informIntent
@@ -40,9 +40,8 @@ a|we can credit that as soon as that comes back as soon as we receive the phone|
 a|then we will credit back|informIntent
 a|now|init
 a|is is that included with your normal bill|reqInfo
-b|mm|
-b|yeah|
-b|now|
+b|mm|backch
+b|yeah|backch
+b|now|backch
 b|no no|answ
 b|my normal bill's not due yet|inform
-b|this is just|uninterpretable

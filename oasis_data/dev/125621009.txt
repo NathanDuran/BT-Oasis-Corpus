@@ -3,7 +3,6 @@ b|i was just on the phone to uh uh|inform
 b|and a lady put me through to|inform
 b|uh i'm going on the digital|inform
 b|now then|init
-b|what i want to know now is the um|unclassifiable
 b|they told me to phone back to you|inform
 b|and you'd be able to help me out like|inform
 b|um is there any deals going for for you know this low cost phoning over weekends|reqInfo

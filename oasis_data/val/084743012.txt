@@ -6,8 +6,6 @@ a|right|ackn
 a|i'll just get the details|informIntent
 a|if you could just bear with me a second|hold
 b|that's alright|accept
-b|oh it's cold|unclassifiable
-a|it's very cold isn't it i'm based in right okay got your account just here can you just confirm your name and the address for me right let's have a look for you it possibly is let me just have a look for you|unclassifiable
 b|where are you|reqInfo
 a|i'm based in right okay got your account just here can you just confirm your name and the address for me right let's have a look for you it possibly is let me just have a look for you|answ
 a|got your account just here|inform
