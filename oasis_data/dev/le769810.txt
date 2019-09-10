@@ -1,6 +1,0 @@
-b|can you tell me the number of um a name yes please|reqInfo
-a|you need for that|answ
-a|would you like me to connect you|offer
-b|yes please|accept
-a|line's ringing|inform
-a|thank you|thank

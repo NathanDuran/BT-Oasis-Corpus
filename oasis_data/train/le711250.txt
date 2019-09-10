@@ -1,0 +1,15 @@
+b|hi|greet
+b|er could i have an early morning call for about half past five please|direct
+a|right|ackn
+a|half past five|echo
+a|if you will just hold the line while i confirm that for you please|informIntent
+b|thank you|thank
+a|that's fine|accept
+a|that's booked for you|inform
+b|thank you|thank
+a|ok|ackn
+a|you're welcome|ackn
+a|thanks|thank
+a|bye|bye
+b|night|backch
+b|byebye|bye

@@ -1,6 +1,0 @@
-b|hello|greet
-b|em is this directory enquiries|reqInfo
-a|no|answ
-a|would you like directories|reqDirect
-b|yes please|direct
-a|thank you|thank

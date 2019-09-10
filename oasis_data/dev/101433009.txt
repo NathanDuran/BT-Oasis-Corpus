@@ -1,9 +1,0 @@
-b|hello|greet
-b|it's a mister here|identifySelf
-a|hello|greet
-b|it's mister here|identifySelf
-a|hello|greet
-a|how can i help you|offer
-b|uh it's you sent me a red bill of uh five pound you say i've not paid it we paid it last week|inform
-b|you say i've not paid it we paid it last week|inform
-b|we paid it last week|inform

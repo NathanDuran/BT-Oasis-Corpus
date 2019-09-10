@@ -1,0 +1,5 @@
+b|um what's what's the time thank you|reqInfo
+a|hello|greet
+b|what's the time|reqInfo
+a|it's one minute past five|answ
+a|thank you|thank

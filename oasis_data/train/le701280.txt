@@ -1,0 +1,19 @@
+b|hello there|greet
+b|i wonder if you could help please|direct
+b|we're um we've got a business line and we're going to close for the summer week|inform
+b|i want to know if you do you offer a service where you can automatically cut in leaving a message telling people we're closed|reqInfo
+a|yeah|backch
+a|er i'm not honestly sure as an operator|inform
+a|if you ring back tomorrow to customer service|inform
+a|that's er sorry er i beg your pardon i was giving you business faults and they'd be able to tell you about that yeah they're eight till six Monday to Saturday bye|inform
+a|er sorry|expressRegret
+a|i beg your pardon|expressRegret
+a|i was giving you business faults|inform
+a|and they'd be able to tell you about that|inform
+b|do you know what their opening hours are or office hours|reqInfo
+a|yeah|answ
+a|they're eight till six Monday to Saturday|answElab
+b|right|ackn
+b|thank you very much|thank
+b|bye|bye
+a|bye|bye

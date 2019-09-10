@@ -1,0 +1,28 @@
+b|yeah|ackn
+b|hello|greet
+b|um i've recently moved to|inform
+b|uh the thing is i just want to check something about my old telephone|direct
+a|yeah|backch
+a|that's fine|accept
+a|can i just take the customer number from the old telephone bill|reqInfo
+a|it's it'll be on the final bill top right hand side|inform
+b|yeah|answ
+b|the customer telephone number from the old telephone bill|confirm
+a|no|negate
+a|the customer number not the telephone number|correct
+b|the customer number|confirm
+a|yes please|ackn
+a|thank you|thank
+b|right|init
+b|i did have a telephone bill here|inform
+b|and it's just gone missing i've got a i've got a new one here would that would you be able to get it from that the old telephone fnumber is|inform
+b|i've got a i've got a new one here|inform
+b|would that would you be able to get it from that|reqInfo
+a|that's right a final one|backch
+a|not really|answElab
+a|what was the old telephone number|reqInfo
+a|and i'll just|informIntent
+b|the old telephone fnumber is|answ
+a|yeah|backch
+a|yeah|ackn
+a|yes|ackn

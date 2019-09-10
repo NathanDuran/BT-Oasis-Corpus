@@ -1,8 +1,0 @@
-b|hello|greet
-b|can you um give me the number of train station please|reqInfo
-a|hello|backch
-a|sorry|expressRegret
-a|you need to speak to would you like me to put you through thank you|inform
-a|would you like me to put you through|offer
-b|oh yes please|accept
-a|thank you|thank

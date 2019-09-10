@@ -1,0 +1,33 @@
+b|hello there|greet
+b|it's in here|identifySelf
+a|hiya|greet
+b|hi|greet
+b|i've got a job number customer ordered|inform
+b|it's all up and running|inform
+b|the order's there|inform
+b|but they wanted to go ex directory|inform
+b|and it doesn't appear that it's been logged on the system there|inform
+a|oh right|ackn
+a|what was the phone number|reqInfo
+a|have you got that|reqInfo
+a|yeah|ackn
+a|lovely|ackn
+a|thank you can you confirm the customer's name and the address please i haven't got this in the name of so it's changing today is it oh right i've got it here mister does he know the last bit of the the postal code i know it wasn't quite correct|thank
+b|mister and it's that's it's mister it's um still you've probably got it still in the name of it's stopped no it's changing on the there's stop on there's a start on|answ
+b|and it's that's it's mister it's um still you've probably got it still in the name of it's stopped no it's changing on the there's stop on there's a start on|answElab
+b|that's it's mister it's um still you've probably got it still in the name of it's stopped no it's changing on the there's stop on there's a start on|answElab
+b|it's mister it's um still you've probably got it still in the name of it's stopped no it's changing on the there's stop on there's a start on|inform
+a|i haven't got this in the name of so it's changing today is it oh right i've got it here mister does he know the last bit of the the postal code i know it wasn't quite correct|inform
+b|it's um still you've probably got it still in the name of it's stopped no it's changing on the there's stop on there's a start on|inform
+a|so|init
+a|it's changing today is it|confirm
+b|it's stopped|confirm
+b|no|negate
+b|it's changing on the there's stop on there's a start on|inform
+b|there's stop on|inform
+b|there's a start on|inform
+a|oh right|ackn
+a|i've got it here|inform
+a|mister does he know the last bit of the the postal code i know it wasn't quite correct|confirm
+a|does he know the last bit of the the postal code|reqInfo
+a|i know it wasn't quite correct|expressOpinion

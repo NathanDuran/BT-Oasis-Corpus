@@ -1,0 +1,18 @@
+b|i wonder if you could help me|direct
+b|i'm new over here is it Tuesday today sorry is it Tuesday today pardon and what is the daya oh thanks very much i'm much obliged|inform
+b|is it Tuesday today|reqInfo
+a|sorry|pardon
+b|sorry is it Tuesday today pardon and what is the daya oh thanks very much i'm much obliged|expressRegret
+b|is it Tuesday today|reqInfo
+a|um yes|answ
+a|it is indeed|answElab
+b|pardon|pardon
+a|yes|answ
+a|it is indeed|answElab
+b|and what is the daya oh thanks very much i'm much obliged|reqInfo
+a|the date is the twenty eighth|answ
+b|oh|ackn
+b|thanks very much|thank
+a|you're welcome|ackn
+b|i'm much obliged|thank
+a|byebye|bye

@@ -1,0 +1,74 @@
+b|um could you tell me if this number is temporarily out of order|reqInfo
+b|i just can't get through|inform
+a|yes|ackn
+a|thank you|thank
+a|what number|reqInfo
+b|unless the bell isn't ringing at the other end|expressPossibility
+a|ah well|init
+a|there there's been um a lightning strike on one of the aerials uh well i've only known about it today but uh let me just do a quick check yes that's right yeah let me just test this one it's affected the televisions as well i think mm is that what how long you've been trying it since Monday right i'm just going to test something for you right it's telling me the the line's testing ok but i i suspect it's involved with the trouble we're having at the moment with the lightning strike on the aerials well i i don't know whether it i can't check to see if the bell's working all i can do is make sure that the receiver is clubbed in well yeah but sometimes if it's unplugged it will still ring out although it won't ring in the house i can only test for that you see but i can't make sure the bell's working i mean it could have been switched down it could have been switched off no that's directory enquiries they won't be able to help you i'm sure that there is a fault in this area at the moment so try it tomorrow no yes thank you bye|inform
+b|since how long|reqInfo
+b|'cause we haven't been able to get through for or days|inform
+a|uh well|init
+a|i've only known about it today|inform
+b|oh i see|ackn
+a|but uh let me just do a quick check|informIntent
+b|you mean in area|reqInfo
+a|yes|answ
+a|that's right yeah|answElab
+b|oh i see|ackn
+a|let me just test this one|informIntent
+b|thank you|thank
+b|really|ackn
+b|my God|exclaim
+b|Monday Tuesday Wednesday|refer
+a|mm|backch
+a|is that what how long you've been trying it|reqInfo
+a|since Monday|reqInfo
+b|uh|backch
+b|uh yes|answ
+b|at least Tuesday|answElab
+a|i'm just going to test something for you|informIntent
+b|thank you yes how would you know if the bell's not ringing oh i see yes it does it sounds as if it's working doesn't it oh i see yes can i ring oh sorry no yes ok yes uh how do i the engineer is alright thank you thank you goodbye|thank
+a|right|init
+a|it's telling me the the line's testing ok|inform
+a|but i i suspect it's involved with the trouble we're having at the moment with the lightning strike on the aerials|expressOpinion
+b|yes|ackn
+b|how would you know if the bell's not ringing|reqInfo
+a|well|init
+a|i i don't know whether it i can't check to see if the bell's working|inform
+a|all i can do is make sure that the receiver is clubbed in|inform
+b|oh i see|ackn
+b|yes|ackn
+b|it does it sounds as if it's working doesn't it|reqInfo
+a|well|init
+a|yeah|answ
+a|but sometimes if it's unplugged|inform
+a|it will still ring out|inform
+a|although it won't ring in the house|inform
+a|i can only test for that you see|inform
+a|but i can't make sure the bell's working|inform
+a|i mean it could have been switched down|expressPossibility
+a|it could have been switched off|expressPossibility
+b|oh i see|backch
+b|yes|backch
+b|can i ring oh sorry no yes ok yes uh how do i the engineer is alright thank you thank you goodbye|reqModal
+a|no|negate
+a|that's directory enquiries|inform
+a|they won't be able to help you|inform
+b|oh sorry|expressRegret
+b|no|ackn
+a|i'm sure that there is a fault in this area at the moment|inform
+a|so|init
+a|try it tomorrow|suggest
+b|yes ok|backch
+b|yes uh|accept
+b|how do i|reqInfo
+b|the engineer is alright thank you thank you goodbye|reqInfo
+a|no|answ
+b|alright|ackn
+b|thank you|thank
+a|yes|backch
+a|thank you|thank
+b|thank you|thank
+b|goodbye|bye
+a|bye|bye

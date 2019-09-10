@@ -1,0 +1,9 @@
+b|hello|greet
+b|yes|init
+b|could i have a number for please|reqInfo
+a|are you|reqInfo
+a|oh you need directory enquiries on would you like me to connect you thank you|inform
+a|would you like me to connect you|offer
+b|yes please|accept
+a|thank you|thank
+b|sorry about that|expressRegret

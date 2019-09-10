@@ -1,0 +1,18 @@
+b|hello|greet
+b|could you give me information about lines to are they ok just now telephone lines to to are they ok from yes we we have our guest here at a hotel who's been trying to call and after she dials the number she's just getting a kind of unobtainable call ok thank you|reqInfo
+b|are they ok just now|reqInfo
+a|sorry sir yes i do believe so we've had no reported problems about it no the lines are alright caller byebye|pardon
+b|telephone lines to to are they ok from yes we we have our guest here at a hotel who's been trying to call and after she dials the number she's just getting a kind of unobtainable call ok thank you|refer
+a|yes|ackn
+b|are they ok from yes we we have our guest here at a hotel who's been trying to call and after she dials the number she's just getting a kind of unobtainable call ok thank you|reqInfo
+a|i do believe so|answ
+a|we've had no reported problems about it|answElab
+b|yes|ackn
+b|we we have our guest here at a hotel who's been trying to call and after she dials the number she's just getting a kind of unobtainable call ok thank you|inform
+b|and after she dials the number|refer
+b|she's just getting a kind of unobtainable call|inform
+a|no|negate
+a|the lines are alright caller|confirm
+b|ok|ackn
+b|thank you|thank
+a|byebye|bye

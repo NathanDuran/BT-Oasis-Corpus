@@ -1,6 +1,0 @@
-b|yeah|ackn
-a|yes|answ
-a|it's oh thank you byebye|answElab
-b|thank you|thank
-a|thank you|thank
-a|byebye|bye

@@ -1,5 +1,0 @@
-b|oh hello there do you want my name pardon i want to just add another international call on my list for for reduced cost|greet
-a|uh could i just ask what it's regarding please|reqInfo
-b|pardon|pardon
-a|can i just ask what your call's regarding please|reqInfo
-b|i want to just add another international call on my list for for reduced cost|answ

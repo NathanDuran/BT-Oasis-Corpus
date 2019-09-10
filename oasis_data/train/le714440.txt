@@ -1,0 +1,13 @@
+b|is it Monday today please|reqInfo
+a|sorry|pardon
+b|Monday|reqInfo
+a|uh yes|answ
+a|it is Monday caller yes it is Monday caller my pleasure byebye|answElab
+b|is it Monday|reqInfo
+a|yes|answ
+a|it is Monday caller|answElab
+b|oh|ackn
+b|thank you very much|thank
+a|my pleasure|ackn
+b|thank you|thank
+a|byebye|bye

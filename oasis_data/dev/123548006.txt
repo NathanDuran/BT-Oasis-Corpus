@@ -1,7 +1,0 @@
-b|i want to make some enquiries about um two two bills two accounts yes double is one of them|expressWish
-a|right|accept
-a|have you got the account numbers please|reqInfo
-b|yes|answ
-a|yeah|ackn
-a|yeah|ackn
-a|yeah|ackn

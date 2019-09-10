@@ -1,0 +1,18 @@
+b|oh hello|greet
+b|i'm trying to er er|informIntent
+b|i've on telephone number out of the er directory for the benefits agency|inform
+b|and it just saying that the number's not recognised|inform
+a|mm hmm|backch
+a|i'm sorry about that|expressRegret
+a|what's the number you've been calling please|reqInfo
+b|um it's so you don't have another number okay thank you|answ
+a|i'll just have a look at that for you|informIntent
+a|yeah|init
+a|we no longer have a customer with that number|inform
+a|that is a recently recent change within the last few months|inform
+b|so|init
+b|you don't have another number|reqInfo
+a|i can put you through to directories on they may have another number for you that's ringing for you now|offer
+a|they may have another number for you|expressPossibility
+a|that's ringing for you now|inform
+b|okay thank you|backch

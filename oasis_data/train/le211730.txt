@@ -1,0 +1,15 @@
+b|um i don't know if you can help|direct
+b|i'm trying to find a number um it's well i've got the address i've wrote them a letter but i don't seem to get any luck so i don't really know if they're on the phone or not so have you got a number or er yes please|informIntent
+b|um it's well i've got the address i've wrote them a letter but i don't seem to get any luck so i don't really know if they're on the phone or not so have you got a number or er yes please|inform
+a|and you'd like the number for them|confirm
+b|well|init
+b|i've wrote them a letter|inform
+b|but i don't seem to get any luck|inform
+b|so i don't really know if they're on the phone or not so have you got a number or er yes please|inform
+b|so|init
+b|have you got a number or|reqInfo
+a|right|backch
+a|you'll need directory enquiries on would you like me to put you through to them hold the line please|inform
+a|would you like me to put you through to them|offer
+b|er yes please|accept
+a|hold the line please|hold

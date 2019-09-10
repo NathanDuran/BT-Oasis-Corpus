@@ -1,0 +1,17 @@
+a|good afternoon|greet
+a|thank you for calling my name is can i take your telephone number please right can i just stop you there just one second i'm so sorry about that my computer has just gone down on me i need to transfer you through to a colleague just bear with me|thank
+a|my name is can i take your telephone number please right can i just stop you there just one second i'm so sorry about that my computer has just gone down on me i need to transfer you through to a colleague just bear with me|identifySelf
+a|can i take your telephone number please|reqInfo
+a|right|ackn
+a|can i just stop you there just one second|hold
+a|i'm so sorry about that|expressRegret
+a|my computer has just gone down on me|inform
+b|okay|ackn
+a|i need to transfer you through to a colleague|informIntent
+a|just bear with me|hold
+b|thank you okay it's missus place} um we're moving oh oh hang on i should do|thank
+b|okay|accept
+b|it's missus place} um we're moving oh oh hang on i should do|answ
+b|um we're moving|inform
+b|oh oh hang on|hold
+b|i should do|expressOpinion

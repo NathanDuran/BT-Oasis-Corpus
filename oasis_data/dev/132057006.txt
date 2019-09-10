@@ -1,0 +1,19 @@
+b|oh hi|greet
+b|i wanted to change some numbers on my friends and family|direct
+b|um can you give me the number who to phone|reqInfo
+a|uh yes|answ
+a|i can|answElab
+a|i need your customer number please|reqInfo
+b|it's um it's number in is it's quite a few actually um yeah please um wanna keep the best friends the same|answ
+a|yeah|backch
+a|yeah|backch
+b|it's number in is it's quite a few actually um yeah please um wanna keep the best friends the same|answ
+a|and the postal code please|reqInfo
+b|is it's quite a few actually um yeah please um wanna keep the best friends the same|answ
+a|right|ackn
+a|was it just one number you want to change|reqDirect
+b|it's quite a few actually um|direct
+a|right|accept
+a|shall i start from the beginning then and we'll get them all|suggest
+b|yeah please|accept
+b|um wanna keep the best friends the same|direct

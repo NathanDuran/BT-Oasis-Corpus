@@ -1,0 +1,11 @@
+b|uh good morning dear|greet
+b|uh i rang last week dear about the phone bill or statement that we got for July|inform
+a|right|ackn
+b|right uh|ackn
+b|because we were querying all the telephone calls that had been made|inform
+a|uh huh|ackn
+b|right|ackn
+b|no|negate
+b|the lady i spoke to said yes i'll send them off|inform
+b|i spoke to one of your ladies this morning|inform
+b|and she said well unfortunately your wife's got to make that request|inform

@@ -1,5 +1,0 @@
-b|hi|greet
-b|can i have please|direct
-a|certainly|accept
-a|hold the line please|hold
-b|thank you|thank

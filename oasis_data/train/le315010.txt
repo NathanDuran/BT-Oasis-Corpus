@@ -1,0 +1,16 @@
+b|hello there|greet
+b|i just spoke to you um i have a number here that doesn't receive incoming calls can you try it and see if you can get through it's ok alright sorry about that i'll try again in a minute|inform
+b|um i have a number here that doesn't receive incoming calls can you try it and see if you can get through it's ok alright sorry about that i'll try again in a minute|inform
+b|can you try it and see if you can get through|direct
+a|yes certainly|accept
+b|it's ok alright sorry about that i'll try again in a minute|inform
+a|i think you've got a problem with your phone caller|expressOpinion
+a|see|init
+a|i've got a horrible buzzing noise in my ear|inform
+b|ok|backch
+b|alright|ackn
+b|sorry about that|expressRegret
+b|i'll try again in a minute|informIntent
+a|ok then|ackn
+a|thank you|thank
+a|bye|bye

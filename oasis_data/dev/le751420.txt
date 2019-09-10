@@ -1,0 +1,16 @@
+b|hello|greet
+b|er i've been trying to call a number who phoned me a while back|inform
+b|and i wonder if it's possible that they haven't put the phone back properly|expressPossibility
+b|i don't know if there's any way of checking that|reqInfo
+b|cause its been permanently engaged since|inform
+a|i m sorry about that|expressRegret
+a|could i have the code and number|reqInfo
+b|yeah|answ
+b|it's okay thank you|answElab
+a|okay|ackn
+a|i'll just try the call for you okay|informIntent
+a|okay|ackn
+a|i'm actually experiencing the same difficulties|inform
+a|i'm just going to go off line so that i can make further enquiries for you|informIntent
+b|okay|ackn
+b|thank you|thank

@@ -1,0 +1,14 @@
+b|who is that|reqInfo
+a|it's from customer services|answ
+b|oh sorry|expressRegret
+b|i don't know how i got you|inform
+b|because it's not what i wanted|inform
+b|i'm awfully sorry|expressRegret
+a|that's okay|accept
+b|i just redialled you know did the redial to somebody who'd just been on|inform
+b|sorry about that|expressRegret
+a|not a problem|accept
+b|bye|bye
+b|bye|bye
+a|okay|init
+a|byebye|bye

@@ -1,0 +1,27 @@
+b|oh i think i must have dialled the wrong number|expressOpinion
+b|i want to change my family and friends number|direct
+a|i can do that one for you|offer
+b|okay|accept
+a|can i take your telephone number please or your customer number if you have it|reqInfo
+b|uh uh um that's um um uh i want to add a number and i i just want to check that one another number is present|answ
+a|yeah|ackn
+b|uh um that's um um uh i want to add a number and i i just want to check that one another number is present|answElab
+a|yes|ackn
+a|thank you|thank
+a|just bear with me|hold
+a|bring your details|informIntent
+a|right|init
+a|i have your details up in front of me|inform
+a|would you confirm your full name and address and postcode please|reqInfo
+b|um that's um um uh i want to add a number and i i just want to check that one another number is present|answ
+a|yes|ackn
+b|um um uh i want to add a number and i i just want to check that one another number is present|answElab
+a|thank you mister right just bear with me and i'll bring your friends and family plan up was it numbers you wanted to add or did you want to remove some and add some|thank
+a|right|init
+a|just bear with me|hold
+a|and i'll bring your friends and family plan up was it numbers you wanted to add or did you want to remove some and add some|informIntent
+a|was it numbers you wanted to add|reqDirect
+a|or did you want to remove some and add some|reqDirect
+b|um|backch
+b|uh i want to add a number and i|direct
+b|i just want to check that one another number is present|directElab

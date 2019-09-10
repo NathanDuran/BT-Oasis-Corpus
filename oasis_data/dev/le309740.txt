@@ -1,0 +1,33 @@
+b|i wonder if you can help me|direct
+b|i'm been trying to get my sister|informIntent
+b|and i think she's got the phone off the hook|expressOpinion
+b|i've been trying since quarter past ten this morning|inform
+a|mm mm|backch
+a|oh right|backch
+a|i see|ackn
+a|are you just getting the engaged tone|reqInfo
+b|yes|answ
+b|and she she's|answElab
+a|oh right|ackn
+a|i'm sorry about that|expressRegret
+b|can you intervene in any way|reqInfo
+a|i can't intervene|answ
+a|i can|answElab
+a|if you give me the number|answElab
+a|i can check the line|answElab
+a|and if it is off the hook|answElab
+a|i can shout down the line and see if i can attract anyone's attention|answElab
+b|yeah|ackn
+b|only she suffers with and i get a bit worried you see do you want the code in first okay love thanks very much|inform
+b|and i get a bit worried you see|inform
+a|yeah|ackn
+a|obviously|ackn
+a|what's the code and number please|reqInfo
+b|do you want the code in first|reqDirect
+a|yes please|direct
+a|thank you|thank
+a|okay|init
+a|i'm just going to go off the line for a few moments and just check and see whats happening|informIntent
+a|if you just bear with me|hold
+b|okay love|backch
+b|thanks very much|thank

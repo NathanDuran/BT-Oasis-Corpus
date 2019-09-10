@@ -1,0 +1,19 @@
+b|hello|greet
+b|i was just wondering whether you could just check a line for me|direct
+b|em it's been engaged for about the last nearly half an hour now|inform
+a|yeah certainly|accept
+a|can to what code and number please|reqInfo
+b|yep|ackn
+b|that's double my name's yeah just been like it for about the last half an hour yep|answ
+b|double my name's yeah just been like it for about the last half an hour yep|answElab
+a|double thank you and your name is yep right is that coming up as engaged for you if you can just hold the line a moment for me please|echo
+a|thank you|thank
+a|and your name is|reqInfo
+b|my name's yeah just been like it for about the last half an hour yep|answ
+a|yep|backch
+a|right|ackn
+a|is that coming up as engaged for you|reqInfo
+b|yeah|answ
+b|just been like it for about the last half an hour|answElab
+a|if you can just hold the line a moment for me please|hold
+b|yep|accept

@@ -8,10 +8,10 @@ Number of dialogue in train set: 508
 Maximum length of dialogue in train set: 153
 
 Number of dialogue in test set: 64
-Maximum length of dialogue in test set: 61
+Maximum length of dialogue in test set: 92
 
 Number of dialogue in val set: 64
-Maximum length of dialogue in val set: 89
+Maximum length of dialogue in val set: 78
 
 Number of dialogue in dev set: 254
 Maximum length of dialogue in dev set: 153

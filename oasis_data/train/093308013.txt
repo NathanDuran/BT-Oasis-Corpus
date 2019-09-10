@@ -1,8 +1,0 @@
-b|oh hello|greet
-b|could i report a fault on a line please|direct
-a|yep|accept
-a|you need to ring that's it thank you bye|inform
-a|that's it|ackn
-b|thank you|thank
-a|thank you|thank
-a|bye|bye

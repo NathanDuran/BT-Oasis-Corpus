@@ -1,0 +1,39 @@
+b|um someone's trying to phone me from a payphone today|inform
+b|and when i've done i can't get back through if i give you the number can you tell me what payphone it was from oh you can't what about roughly the area right it's double yes yeah do you know whereabouts roughly because is a big place oh and that's it oh ok then oh alright then thanks bye|refer
+b|i can't get back through|inform
+b|if i give you the number|inform
+b|can you tell me what payphone it was from|reqInfo
+a|mm|backch
+a|not where it was|answ
+a|no|answElab
+b|oh you can't|confirm
+a|no|ackn
+a|we can't give you the exact location details unfortunately|inform
+b|what about roughly the area|reqInfo
+a|i can tell you where if you've got a district listed for it|answ
+a|i can give you that|answElab
+b|right|ackn
+b|it's double yes yeah do you know whereabouts roughly because is a big place oh and that's it oh ok then oh alright then thanks bye|inform
+a|don't|backch
+a|thank you and it was a payphone yeah you can't ring it because it's incoming calls barred that's why you can't ring it it's in no all we can actually give you is yeah ok sorry about that bye|thank
+a|and it was a payphone|confirm
+b|yes yeah do you know whereabouts roughly because is a big place oh and that's it oh ok then oh alright then thanks bye|ackn
+a|yeah|ackn
+a|you can't ring it because it's incoming calls barred|inform
+a|that's why you can't ring it|inform
+a|it's in no all we can actually give you is yeah ok sorry about that bye|confirm
+b|yeah|ackn
+b|do you know whereabouts roughly|reqInfo
+b|because is a big place|inform
+a|no|answ
+a|all we can actually give you is yeah ok sorry about that bye|answElab
+b|oh|exclaim
+b|and that's it|confirm
+a|yeah|ackn
+b|oh ok then|init
+a|ok|init
+b|oh alright then|ackn
+b|thanks|thank
+a|sorry about that|expressRegret
+a|bye|bye
+b|bye|backch

@@ -1,0 +1,42 @@
+Inform|inform
+Acknowledge|ackn
+Request Inform|reqInfo
+Backchannel|backch
+Answer|answ
+Initialise|init
+Thank|thank
+Greet|greet
+Accept|accept
+Answer Elaborate|answElab
+Inform Intention|informIntent
+Bye|bye
+Direct|direct
+Confirm|confirm
+Express Regret|expressRegret
+Hold|hold
+Express Opinion|expressOpinion
+Offer|offer
+Echo|echo
+Appreciate|appreciate
+Refer|refer
+Suggest|suggest
+Request Direct|reqDirect
+Negate|negate
+Exclaim|exclaim
+Pardon|pardon
+Identify Self|identifySelf
+Express Possibility|expressPossibility
+Raise Issue|raiseIssue
+Express Wish|expressWish
+Request Modal|reqModal
+Complete|complete
+Direct Elaborate|directElab
+Correct|correct
+Refuse|refuse
+Inform Intent Hold|informIntent-hold
+Inform Continue|informCont
+Inform Discontinue|informDisc
+Self Talk|selfTalk
+Correct Self|correctSelf
+Express Regret Inform|expressRegret-inform
+Thank Identify Self|thank-identifySelf

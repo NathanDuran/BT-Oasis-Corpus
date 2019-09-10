@@ -1,0 +1,17 @@
+b|just wondering what the standard charge is for a local call|reqInfo
+a|a local call|echo
+a|are you with or the standard line|reqInfo
+b|with on a sorry on the|answ
+b|what are the two options again|reqInfo
+a|the charges are different|inform
+b|yeah|backch
+b|are they|reqInfo
+a|yes|answ
+b|can i can i tell it from a bill|reqInfo
+a|you should be able to|answ
+a|yep|answElab
+b|or if i can give you the phone number maybe|offer
+a|yep please|accept
+b|uh|inform
+a|that's yeah|confirm
+a|yeah|ackn

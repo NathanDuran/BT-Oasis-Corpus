@@ -1,8 +1,0 @@
-b|uh hello|greet
-b|it's i've got the phone in last Wednesday and|inform
-a|sorry|pardon
-a|you've got the what|reqInfo
-b|i got the phone put on last Wednesday|answ
-a|yeah aha|ackn
-b|and i would like to get a bar code cause i've got a year old daughter in the house|direct
-b|cause i've got a year old daughter in the house|inform

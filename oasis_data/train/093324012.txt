@@ -1,7 +1,0 @@
-b|good morning|greet
-a|morning sir|greet
-b|i don't know whether you're the department i want|reqInfo
-b|but i tried or different departments yesterday and couldn't get no answer|inform
-a|right|ackn
-a|so|init
-b|we want we want a telephone disconnected|direct

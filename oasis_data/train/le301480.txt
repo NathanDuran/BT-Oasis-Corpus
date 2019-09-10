@@ -1,0 +1,7 @@
+b|hello|greet
+b|um could you possibly give me the number of right okay thanks|reqInfo
+a|you need directory enquiries for telephone numbers on would you like me to connect you there thank you|inform
+a|would you like me to connect you there|offer
+b|right okay|accept
+b|thanks|thank
+a|thank you|thank

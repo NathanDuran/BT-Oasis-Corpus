@@ -1,0 +1,20 @@
+b|i'm just phoning to see if i can have a phone see i've got me own one that's it's gone all i don't know what's wrong with it they it's not ringing in uh no pardon telephone what carriage oh i don't know no|direct
+b|see|init
+b|i've got me own one that's it's gone all|inform
+b|i don't know what's wrong with it|inform
+b|they it's not ringing in|inform
+a|oh right|ackn
+a|have you got a telephone number please that i could have|reqInfo
+b|uh no pardon telephone what carriage oh i don't know no|answ
+a|and could i have the code please|reqInfo
+b|pardon|pardon
+a|could i have your telephone code please|reqInfo
+b|telephone what|reqInfo
+a|the code please|answ
+b|carriage|confirm
+a|the your telephone code it's you don't know your telephone code which area|correct
+a|it's you don't know your telephone code which area|confirm
+b|oh i don't know|raiseIssue
+a|you don't know your telephone code|confirm
+b|no|ackn
+a|which area|reqInfo

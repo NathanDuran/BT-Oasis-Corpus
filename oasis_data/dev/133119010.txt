@@ -1,0 +1,9 @@
+b|um can you put me through to the department that deals with internet please|direct
+a|yes sir|accept
+a|if you'd just bear with me a moment|hold
+b|okay|accept
+b|thanks okay thanks ! okay thanks|thank
+b|okay|ackn
+b|thanks ! okay thanks|thank
+b|okay|ackn
+b|thanks|thank

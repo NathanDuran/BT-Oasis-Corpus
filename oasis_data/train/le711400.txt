@@ -1,0 +1,20 @@
+b|hello|greet
+b|could you help me please|direct
+b|erm could you tell me what number i ring to get an early morning call|reqInfo
+a|ok|backch
+a|right|ackn
+a|if you are doing it on your own phone|answ
+a|you need to press star double star|answElab
+b|star double star|echo
+a|and then you'll get a recording which is just telling you what to do|inform
+a|when the recording's finished|inform
+a|all you need to do is to put the time in to the phone using the keypad in the twenty four hour clock|inform
+a|so|init
+a|if its seven o'clock followed by the hash|inform
+b|right ok dear|ackn
+a|ok then|init
+b|yes|ackn
+b|thank you|thank
+a|thank you|thank
+a|bye|bye
+b|bye|backch

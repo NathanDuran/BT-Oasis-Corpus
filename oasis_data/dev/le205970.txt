@@ -1,0 +1,19 @@
+b|hi|greet
+b|can i have a call in the morning please|direct
+a|sorry|pardon
+b|can i have a call in the morning please|direct
+a|yes of course|accept
+a|what time do you want it for|reqDirect
+b|um quarter to seven please|direct
+a|quarter to seven|echo
+a|right|accept
+a|hold on a moment yeah that's no problem that's booked for quarter to seven for you then you're welcome byebye then|hold
+a|yeah|init
+a|that's no problem|inform
+a|that's booked for quarter to seven for you then|inform
+b|mm mm|backch
+b|ok|ackn
+b|thanks a lot|thank
+b|bye|bye
+a|you're welcome|ackn
+a|byebye then|bye

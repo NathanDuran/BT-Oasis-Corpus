@@ -1,0 +1,16 @@
+b|er can i have an alarm call please|direct
+a|yes|accept
+a|for what time|reqInfo
+b|ten o'clock|answ
+a|ten o'clock|echo
+a|i'll just confirm that for you okay that's booked for you we'll call you at ten o'clock pound no need to use language like that is there alright bye|informIntent
+a|okay|ackn
+a|that's booked for you|inform
+a|we'll call you at ten o'clock|informIntent
+b|mm hmm|backch
+b|how much is it|reqInfo
+b|fucking hell joker|exclaim
+a|no need to use language like that is there|raiseIssue
+b|okay sorry|expressRegret
+a|alright|accept
+a|bye|bye

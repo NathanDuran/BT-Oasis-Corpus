@@ -1,0 +1,23 @@
+b|oh hello|greet
+b|could i make arrangements to pay my telephone bill|reqModal
+b|i should have paid it yesterday|inform
+b|but could i have a little bit more time|reqModal
+a|okay|accept
+a|let's have a look for you|informIntent
+a|please what's your phone number please|reqInfo
+a|uh hm|ackn
+a|uh hm|ackn
+a|thank you|thank
+a|can you confirm your full name and address with the postal code please|reqInfo
+b|yes|answ
+b|it's missus noey that's it uh a fortnight's time|answElab
+a|thank you|thank
+a|can you just confirm the initial for me|reqInfo
+a|thank you right okay it's for pounds yeah when did you want to actually repay that thank you|thank
+a|right okay|ackn
+a|it's for pounds|confirm
+a|yeah|ackn
+a|when did you want to actually repay that|reqInfo
+b|that's it|backch
+b|uh a fortnight's time|answ
+a|thank you|thank

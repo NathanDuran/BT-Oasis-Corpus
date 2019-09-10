@@ -1,0 +1,54 @@
+b|i've been ringing a business number|inform
+b|and i i know it exists|inform
+b|its and they just never reply um what am i calling sure ok what do i do will they do it straight away so what do i do that doesn't help me very much i see so i just try again do i no but you're not i need you're advice as to what i am to do do i just put the phone down and try again later or hang on or what thanks a lot bye|inform
+b|and they just never reply|inform
+a|i'm sorry|expressRegret
+a|i'll try it for you|informIntent
+a|what code and number are you calling please|reqInfo
+b|um what am i calling|reqInfo
+a|yes|answ
+a|could you repeat the code and number that you're calling to|reqInfo
+a|thank you can you hold the line please while i make further enquiries for you oh good afternoon it's the operator in i have a customer on line getting no reply when dialling yes hello yeah thank you very much byebye hello sir they're going to report the line for you well um it's not a it's i don't know because it's not a line i've just told her that you're getting no reply and she's just said she'll report it out of order for you well um she's going to report it so if it is faulty it should be dealt with sometime but i have no further information i'm afraid as it is not a line uh yes yes that would be my advice to try later thank you byebye|thank
+a|can you hold the line please while i make further enquiries for you|hold
+b|sure ok what do i do will they do it straight away so what do i do that doesn't help me very much i see so i just try again do i no but you're not i need you're advice as to what i am to do do i just put the phone down and try again later or hang on or what thanks a lot bye|accept
+a|oh good afternoon|greet
+a|it's the operator in|identifySelf
+a|i have a customer on line getting no reply when dialling yes hello yeah thank you very much byebye hello sir they're going to report the line for you well um it's not a it's i don't know because it's not a line i've just told her that you're getting no reply and she's just said she'll report it out of order for you well um she's going to report it so if it is faulty it should be dealt with sometime but i have no further information i'm afraid as it is not a line uh yes yes that would be my advice to try later thank you byebye|inform
+a|yes|backch
+a|hello|greet
+a|yeah|ackn
+a|thank you very much|thank
+a|byebye|bye
+a|hello sir|greet
+a|they're going to report the line for you|inform
+b|ok|ackn
+b|what do i do|reqInfo
+a|well um|init
+b|will they do it straight away|reqInfo
+a|it's i don't know because it's not a line|inform
+a|i've just told her that you're getting no reply|inform
+a|and she's just said she'll report it out of order for you well um she's going to report it so if it is faulty it should be dealt with sometime but i have no further information i'm afraid as it is not a line uh yes yes that would be my advice to try later thank you byebye|inform
+b|so|init
+b|what do i do|reqInfo
+b|that doesn't help me very much|raiseIssue
+a|well um|backch
+a|she's going to report it|inform
+a|so|init
+a|if it is faulty|inform
+a|it should be dealt with sometime|inform
+b|i see|ackn
+b|so|init
+b|i just try again do i|reqInfo
+a|but i have no further information i'm afraid as it is not a line|inform
+b|no|ackn
+b|but you're not|inform
+b|i need you're advice as to what i am to do|reqInfo
+b|do i just put the phone down and try again later or hang on or what|reqInfo
+a|uh|backch
+a|yes|backch
+a|yes|answ
+a|that would be my advice to try later|answElab
+b|thanks a lot|thank
+a|thank you|thank
+b|bye|bye
+a|byebye|bye

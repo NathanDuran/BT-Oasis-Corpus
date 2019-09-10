@@ -1,0 +1,12 @@
+b|hello|greet
+b|could you give me a number please|reqInfo
+a|is it directory enquiries you're wanting|reqDirect
+b|yes|direct
+b|thank you|thank
+a|right|init
+a|they're i'll connect through to them okay they're ringing for you|inform
+a|i'll connect through to them|informIntent
+b|thank you|thank
+a|okay|ackn
+a|they're ringing for you|inform
+b|thank you|thank

@@ -1,0 +1,42 @@
+b|oh good morning|greet
+b|it's reference to your My Bill service|inform
+a|that's fine|accept
+b|i keep getting told by the very nice young lady with the very nice voice that uh i've got the wrong number|inform
+b|and it isn't|inform
+b|it's correct|inform
+b|i dialled this morning and the operator tried it for me said yes there's definitely a fault on the My Bill line report to at eight o'clock|inform
+a|that's fine|accept
+a|it's actually but i can report that for you that's no problem no no no that's okay faults is actually so you can ring them direct and get straight through to faults and they will be able to um report that is it the Call My Bill number oh goodness right what is your telephone number and i'll check that for you yes they certainly are yes yeah that would be lovely thank you yeah|inform
+a|but i can report that for you|offer
+a|that's no problem|accept
+b|oh i'm sorry|expressRegret
+b|i got the wrong number|inform
+b|beg your pardon|expressRegret
+a|no no no|negate
+a|that's okay|accept
+a|faults is actually so you can ring them direct and get straight through to faults and they will be able to um report that is it the Call My Bill number oh goodness right what is your telephone number and i'll check that for you yes they certainly are yes yeah that would be lovely thank you yeah|inform
+a|so|init
+a|you can ring them direct and get straight through to faults and they will be able to um report that is it the Call My Bill number|inform
+b|the Call My Bill|confirm
+b|no|negate
+b|i no i i get through alright|inform
+b|but when i put on information through|inform
+b|i keep getting told that i've called to the wrong phone number|inform
+b|but i haven't|inform
+a|oh goodness|exclaim
+a|right|ackn
+a|what is your telephone number|reqInfo
+a|and i'll check that for you|informIntent
+b|yes|ackn
+b|a this what the ah uh did for me|inform
+b|these calls are free by the way aren't they|reqInfo
+a|yes|answ
+a|they certainly are|answElab
+b|my home number is now you want my also my bill number don't you|answ
+a|yes|ackn
+b|now|init
+b|you want my also my bill number don't you|reqDirect
+a|yeah|backch
+a|that would be lovely|answ
+a|thank you|thank
+a|yeah|ackn

@@ -1,0 +1,16 @@
+b|i mean can i have alarm call six please|direct
+a|six is fully booked i'm afraid|inform
+b|er five to|direct
+a|let's try five to for you no that's fully booked um we can do it at ten to six is that too early for you okay then we'll call you than at ten to six thanks bye|informIntent
+a|no|refuse
+a|that's fully booked um we can do it at ten to six is that too early for you okay then we'll call you than at ten to six thanks bye|inform
+a|we can do it at ten to six|offer
+a|is that too early for you|reqInfo
+b|yeah|accept
+b|that's fine|accept
+a|okay then|init
+a|we'll call you than at ten to six|informIntent
+b|thank you very much|thank
+a|thanks|thank
+a|bye|bye
+b|bye|bye

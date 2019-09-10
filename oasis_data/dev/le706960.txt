@@ -1,0 +1,32 @@
+b|hello|greet
+b|um sorry to bother you|expressRegret
+b|i've been given a number to call um it's very important only the number i'm phoning says uh this number doesn't exist would you check it for me it's there isn't oh do you know when they got disconnected would it would it have been yesterday even oh it's just that uh this is the number what it is is it's my x partner's got my children and he said when you wanna to pick them up phone me at this number and he's given me obviously a number that doesn't exist ok then all right thanks a lot thank you bye|inform
+b|um it's very important|inform
+b|only the number i'm phoning says uh this number doesn't exist|inform
+a|yes certainly|accept
+a|what's the number please|reqInfo
+b|it's there isn't oh do you know when they got disconnected would it would it have been yesterday even oh it's just that uh this is the number what it is is it's my x partner's got my children and he said when you wanna to pick them up phone me at this number and he's given me obviously a number that doesn't exist ok then all right thanks a lot thank you bye|answ
+a|ok|ackn
+a|i'll just check that for you madam yeah that's a spare line there's not actually a customer with that number anymore no uh no it was it was it was about three years ago yeah that's right it's not been it's not been in service for about three years that hasn't no problem bye now|informIntent
+a|yeah|init
+a|that's a spare line|inform
+a|there's not actually a customer with that number anymore|inform
+b|there isn't|confirm
+a|no|ackn
+b|oh do you know when they got disconnected|reqInfo
+b|would it would it have been yesterday even|reqInfo
+a|uh|backch
+a|it was it was it was about three years ago|answElab
+b|oh it's just that uh this is the number|raiseIssue
+b|what it is is it's my x partner's got my children|inform
+b|and he said when you wanna to pick them up phone me at this number|inform
+b|and he's given me obviously a number that doesn't exist|inform
+a|yeah|backch
+a|that's right it's not been it's not been in service for about three years that hasn't no problem bye now|ackn
+a|it's not been it's not been in service for about three years that hasn't|inform
+b|ok then all right thanks a lot thank you bye|ackn
+b|all right|ackn
+b|thanks a lot thank you|thank
+b|bye|bye
+a|no problem|ackn
+a|bye now|bye

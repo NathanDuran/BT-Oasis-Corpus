@@ -1,0 +1,21 @@
+b|huh um could you get er Police Station yes could you help me because i'm disabled|direct
+a|you want the number|reqInfo
+a|i can put you through to directories|offer
+b|yes|backch
+b|could you help me|direct
+b|because i'm disabled|inform
+a|just a moment then please yeah this is i'm looking for the number of Police% Station please yep yep double double okay then thanks a lot bye okay i've got the number do you want me to connect you that's ringing for you thank you|hold
+a|yeah|ackn
+a|this is i'm looking for the number of Police% Station please yep yep double double okay then thanks a lot bye okay i've got the number do you want me to connect you that's ringing for you thank you|identifySelf
+a|i'm looking for the number of Police% Station please|reqInfo
+a|yep|backch
+a|yep|backch
+a|double okay then thanks a lot bye okay i've got the number do you want me to connect you that's ringing for you thank you|echo
+a|okay then|ackn
+a|thanks a lot|thank
+a|bye okay i've got the number do you want me to connect you that's ringing for you thank you|bye
+a|okay|init
+a|i've got the number|inform
+a|do you want me to connect you|reqDirect
+a|that's ringing for you|inform
+a|thank you|thank

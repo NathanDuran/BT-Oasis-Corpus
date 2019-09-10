@@ -1,0 +1,33 @@
+b|oh hello|greet
+b|this is missus speaking|identifySelf
+b|i want to put a another name on friends and family please|direct
+a|yes|accept
+a|that's no problem missus can i take your um telephone number or your customer number whichever you've got to hand oh well let's have the customer number then yes yes yes yes hang on sorry that's lovely thank you sorry to keep you waiting right i've got your details in front of me missus would you confirm your name address and post code for me and your initial uh huh lovely and your initials|accept
+a|can i take your um telephone number or your customer number|reqInfo
+b|um i've got both actually|inform
+a|oh well|init
+a|let's have the customer number then|reqInfo
+a|yes|backch
+a|yes|backch
+a|yes|backch
+a|yes|backch
+a|hang on|hold
+b|no no|negate
+b|i mean sorry can we start yeah sorry i never even thought when i said that that's alright uh|correctSelf
+b|sorry can we start yeah sorry i never even thought when i said that that's alright uh|expressRegret
+b|yeah|ackn
+b|sorry|expressRegret
+b|i never even thought when i said that|raiseIssue
+a|sorry|pardon
+a|that's lovely|appreciate
+a|thank you|thank
+a|sorry to keep you waiting|expressRegret
+a|right|init
+a|i've got your details in front of me missus would you confirm your name address and post code for me and your initial uh huh lovely and your initials|inform
+a|would you confirm your name address and post code for me|reqInfo
+a|and your initial|reqInfo
+b|that's alright|backch
+b|uh|answ
+a|uh huh|backch
+a|lovely|appreciate
+a|and your initials|reqInfo

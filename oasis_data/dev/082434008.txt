@@ -1,0 +1,20 @@
+a|thank you for calling my name is may i take your telephone number please oh right could you just give me uh the um the address please the name and address yeah yeah right and what's happening she's moving out today yeah|thank
+a|my name is may i take your telephone number please oh right could you just give me uh the um the address please the name and address yeah yeah right and what's happening she's moving out today yeah|identifySelf
+a|may i take your telephone number please|reqInfo
+b|um it's uh now i'm phoning on behalf of me mother she's uh leaving this place today it was rather sudden she's going back to her house um it's uh it's missus and it's ah now she's moving out today um|answ
+b|now|init
+b|i'm phoning on behalf of me mother|inform
+b|she's uh leaving this place today|inform
+b|it was rather sudden|expressOpinion
+b|she's going back to her house|inform
+a|oh right|ackn
+a|could you just give me uh the um the address please the name and address|reqInfo
+b|it's missus and it's ah now she's moving out today um|answ
+a|yeah|backch
+a|yeah|backch
+a|right|ackn
+a|and what's happening|reqInfo
+b|now|init
+b|she's moving out today um|inform
+a|she's moving out today|echo
+a|yeah|ackn

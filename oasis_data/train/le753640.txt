@@ -1,0 +1,16 @@
+b|good|greet
+b|uh i wonder if i can have an early morning alarm call please|direct
+a|an alarm call|confirm
+a|what time did you want it for|reqInfo
+b|um seven|answ
+a|seven this morning|confirm
+b|aha|ackn
+a|ok|ackn
+a|hold on please right we'll call you at seven o'clock this morning thank you byebye|hold
+a|right|init
+a|we'll call you at seven o'clock this morning|informIntent
+b|great|appreciate
+a|thank you|thank
+b|thank you|thank
+b|bye|bye
+a|byebye|bye
