@@ -1,0 +1,20 @@
+b|oh hello|greet
+b|i was just enquiring|reqInfo
+b|is there any way i|reqInfo
+b|the thing is my husband's away|inform
+b|and he's meant to be ringing me|inform
+b|and i've got to go out|inform
+b|i'm actually babysitting|inform
+b|is there any way that i can divert my calls to another number|reqInfo
+a|right|backch
+a|bear with me|hold
+a|let me put you through to customer services|informIntent
+a|they should be able to tell you okay|inform
+a|thank you|thank
+a|if you'd just like to hold the line for me please|hold
+b|okay thanks|backch
+b|ok thanks|accept
+a|ok|init
+a|connecting you now caller|inform
+b|thanks|thank
+a|thank you|thank

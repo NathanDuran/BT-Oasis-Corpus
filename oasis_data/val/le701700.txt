@@ -1,0 +1,9 @@
+b|hello|greet
+b|could you put me through to telegrams please|direct
+a|er well|init
+a|i wonder if you could dial that yourself|suggest
+a|it's thank you bye bye|inform
+b|okay then|accept
+a|thank you|thank
+a|bye bye|bye
+b|bye|bye

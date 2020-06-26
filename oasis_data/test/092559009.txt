@@ -1,0 +1,10 @@
+b|yeah|ackn
+b|could i give you my account number please|reqModal
+a|yeah sure|accept
+b|it's double|inform
+a|mm hm|ackn
+a|yeah|ackn
+b|double|inform
+a|that's lovely|appreciate
+a|that's all i need|inform
+a|thank you|thank

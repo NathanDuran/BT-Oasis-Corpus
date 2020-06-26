@@ -1,0 +1,8 @@
+b|hello|greet
+b|who am i speaking to|reqInfo
+a|hello|answ
+b|is that okay this is mister double|reqInfo
+a|yes|answ
+a|it is|answElab
+b|okay|ackn
+b|this is mister double|inform

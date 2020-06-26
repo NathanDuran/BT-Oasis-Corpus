@@ -1,0 +1,13 @@
+b|yes|ackn
+b|um i'm moving out from my flat|inform
+b|and i'd like to uh cancel my line|direct
+a|oh right|accept
+a|do you have your account number there please|reqInfo
+b|uh the customer number|reqInfo
+a|yeah please|answ
+a|yeah|ackn
+a|yes|ackn
+b|yes|ackn
+a|lovely|appreciate
+a|thank you|thank
+a|yes|ackn

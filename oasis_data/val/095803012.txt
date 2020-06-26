@@ -1,0 +1,15 @@
+b|oh yes|ackn
+b|good day|greet
+b|um can i give you the telephone number|reqModal
+a|yes please|accept
+b|i'm querying uh it's yes it's missus in and it's okay i phoned a few days uh well it was last week to ask you to disconnect that phone and it still has not been done|inform
+a|yes yeah|backch
+a|thank you|thank
+a|can i confirm the name address and post code there please as well|reqInfo
+b|yes|answ
+b|it's missus in and it's okay i phoned a few days uh well it was last week to ask you to disconnect that phone and it still has not been done|answElab
+a|okay|ackn
+a|uh missus how can i help you|reqInfo
+b|okay|ackn
+b|i phoned a few days uh well it was last week to ask you to disconnect that phone and it still has not been done|inform
+b|and it still has not been done|inform

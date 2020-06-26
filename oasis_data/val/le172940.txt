@@ -1,0 +1,12 @@
+b|yes|ackn
+b|i'm looking for um in er in place}|direct
+a|what you're looking for a number for them|reqDirect
+b|yeah|accept
+b|have i got the right|reqInfo
+a|right|backch
+a|no|answ
+a|you'll need directory enquiries i'm afraid on shall i put you through hold the line please|answElab
+a|shall i put you through|reqDirect
+b|that's great|appreciate
+b|thanks|thank
+a|hold the line please|hold

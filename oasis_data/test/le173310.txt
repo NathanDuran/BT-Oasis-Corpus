@@ -1,0 +1,6 @@
+b|hello|greet
+b|er can you tell me the telephone number of er mr er i mean er please|reqInfo
+a|you'll need directory enquiries on shall i put you through to them hold the line please|inform
+a|shall i put you through to them|offer
+b|please|accept
+a|hold the line please|hold

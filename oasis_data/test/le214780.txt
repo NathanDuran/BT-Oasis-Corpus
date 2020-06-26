@@ -1,0 +1,10 @@
+b|um could you tell me um bus station please|reqInfo
+a|pardon|pardon
+b|is that the operator|reqInfo
+a|yes|answ
+a|it is|answElab
+b|um train station|direct
+a|you need for numbers|inform
+b|oh right|ackn
+a|shall i connect you|offer
+b|yeah please|accept

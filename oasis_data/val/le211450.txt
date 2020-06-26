@@ -1,0 +1,16 @@
+b|uh hello|greet
+b|um how much would an number cost if i phoned now please|reqInfo
+b|yes please|ackn
+a|and what's the rest of the number|reqInfo
+b|um pence a minute it's ok oh thanks bye|answ
+a|thank you it's charged at national rate it's approximately pence excuse me yes i've got hiccups sorry   what number yeah it's per minute uh|thank
+a|it's charged at national rate|answ
+a|it's approximately pence excuse me yes i've got hiccups sorry   what number yeah it's per minute uh|answElab
+a|excuse me|expressRegret
+a|yes|ackn
+a|sorry|expressRegret
+b|thanks|thank
+a|what number yeah it's per minute uh|reqInfo
+a|yeah|ackn
+a|it's per minute uh|inform
+b|bye|backch

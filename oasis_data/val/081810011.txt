@@ -1,0 +1,46 @@
+b|hi|greet
+b|it's at in um i've just had exactly calls um to a female member of staff in the office and somebody seems to be heavy breathing now they're all in um within a space of a minute with each one but um when i've tried to do it's saying number withheld is there any way we can trace that caller right right yeah it it's the main number that comes in but uh the female officers they answer it first and then they'll divert it through to us it is yeah right yeah okay then thanks very much thanks bye|identifySelf
+a|hello there|greet
+b|um i've just had exactly calls um to a female member of staff in the office|inform
+b|and somebody seems to be heavy breathing|inform
+b|now|init
+b|but um when i've tried to do it's saying number withheld is there any way we can trace that caller right right yeah it it's the main number that comes in but uh the female officers they answer it first and then they'll divert it through to us it is yeah right yeah okay then thanks very much thanks bye|inform
+b|it's saying number withheld|inform
+b|is there any way we can trace that caller|reqInfo
+a|right|backch
+a|oh dear|backch
+a|right|backch
+a|right|init
+a|we wouldn't be able to trace them now once once the call's been made|answ
+a|we can't put trace it back to a withheld number|answElab
+b|right|ackn
+a|i mean if you know it were to persist|inform
+a|we then could get our nuisance call bureau to put a trace on the line to see where it's coming from|inform
+a|it's to one is it|reqInfo
+a|to the main number there or is it an extension|reqInfo
+b|right|backch
+b|yeah|answ
+b|it it's the main number that comes in|answElab
+b|but uh the female officers they answer it first|answElab
+b|and then they'll divert it through to us|answElab
+a|right|backch
+a|yeah yeah|ackn
+a|i understand|ackn
+a|right|ackn
+a|is it's a business line i presume is it|reqInfo
+b|it is|answ
+b|yeah|answ
+a|you can have a word with business on|suggest
+a|you know once the call's gone we can't sort of trace it|inform
+a|but the nuisance call bureau might be able to help in that direction but if you speak to business on they'll be able to advise you more and then perhaps put you through to nuisance calls alright thanks bye|expressPossibility
+a|but if you speak to business on they'll be able to advise you more and then perhaps put you through to nuisance calls alright thanks bye|suggest
+b|right|backch
+b|yeah|ackn
+a|they'll be able to advise you more and then perhaps put you through to nuisance calls|inform
+b|okay then thanks very much thanks bye|ackn
+b|thanks very much|thank
+a|alright|ackn
+b|thanks|thank
+b|bye|bye
+a|thanks|thank
+a|bye|bye

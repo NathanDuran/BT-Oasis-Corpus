@@ -1,0 +1,19 @@
+b|hello|greet
+b|i wonder if you could just um investigate to see whether our telephone's been turned back on yet please|direct
+a|okay sir|accept
+a|what's your telephone number|reqInfo
+b|it's double yeah uh i'm sorry i've not no it has been put back on|answ
+a|thank you|thank
+a|i have your details in front of me|inform
+a|can i just confirm your name address and post code sir|reqInfo
+b|yeah|answ
+a|and um do you have your customer number with you as well sir|reqInfo
+b|i'm sorry|expressRegret
+b|i've not|answ
+b|no|answElab
+a|right okay uh yes it looks as if it has been sir as far as i can tell from my um screen yes er the line should be working|accept
+a|it looks as if it has been sir|inform
+b|it has been put back on|confirm
+a|as far as i can tell from my um screen|inform
+a|yes|init
+a|er the line should be working|inform

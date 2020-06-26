@@ -1,0 +1,9 @@
+b|eh erm can you tell me do you know where erm this phone box is|reqInfo
+a|and is that local|reqInfo
+a|that's all i'd be able to tell you the area that it's in|inform
+a|i can't tell you more than that|inform
+a|i'm afraid|expressRegret
+b|yeah|backch
+b|oh okay|backch
+b|alright then|ackn
+a|okay|ackn

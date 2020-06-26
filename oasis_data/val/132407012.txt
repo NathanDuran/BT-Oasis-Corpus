@@ -1,0 +1,41 @@
+b|yes please|ackn
+b|um i um need to make an appointment|inform
+b|i i need to have a a new phone|inform
+b|i'm not sure whether i need to have my main phone box moved or an additional socket put it um|expressOpinion
+a|right|ackn
+a|what is it exactly that you want us to do|reqDirect
+b|basically what i uh what i do is|inform
+b|at the moment the house i moved into um|refer
+b|the two two phone points that there are are down stairs on the ground floor|inform
+b|um and i have a room up on the third floor which i want to make into my study and i want to put my p c into|inform
+b|um and i need to get the line moved|direct
+b|and i'm not sure for that if i need to get the main box line moved up there or just an extension will do|expressOpinion
+b|i don't honestly know what i need|expressOpinion
+a|mm|backch
+a|mm|backch
+a|right okay|accept
+a|extension is going to be slightly cheaper|inform
+b|right|ackn
+a|to shift the main socket|refer
+a|that can only be done by and that does cost pounds|inform
+a|um we can come out and fit an extension socket for you ourselves|expressPossibility
+a|again that's expensive|inform
+a|that's pounds|inform
+b|cor|backch
+b|mm|backch
+b|what|exclaim
+b|more expensive than to move a main box|confirm
+b|that's weird|expressOpinion
+a|it is actually but|accept
+b|how weird|exclaim
+b|yeah|ackn
+a|well|init
+a|one of the reasons why is because i think um you can actually buy your own extension kits|inform
+a|they're about and if you don't want to do it yourself you could perhaps get an electrician or you know a friend or whoever to do it for you yeah as i say they're only are the kits to buy from shops or we can send them ourselves through the post|inform
+b|right|ackn
+a|and if you don't want to do it yourself|suggest
+a|you could perhaps get an electrician or you know a friend or whoever to do it for you yeah|suggest
+a|as i say they're only are the kits to buy from shops|inform
+a|or we can send them ourselves through the post|suggest
+b|yeah|backch
+b|right|ackn

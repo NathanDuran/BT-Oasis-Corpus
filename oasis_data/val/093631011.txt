@@ -1,0 +1,14 @@
+b|oh hello i got this letter through about B T Planet Talk B T Planet Talk it's about long distance call cheaper rates well i've rang the number it says on here and it says press for sales and for something else well i pressed for sales and then it just goes dead|greet
+b|i got this letter through about B T Planet Talk|inform
+a|about what|reqInfo
+a|sorry|pardon
+b|B T Planet Talk|answ
+b|it's about long distance call cheaper rates|inform
+a|yeah|backch
+a|right|ackn
+b|well|init
+b|i've rang the number it says on here|inform
+b|and it says press for sales and for something else|inform
+b|well|init
+b|i pressed for sales|inform
+b|and then it just goes dead|inform

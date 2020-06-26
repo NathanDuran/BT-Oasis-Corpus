@@ -1,0 +1,39 @@
+b|um i'm phoning um with regard to a problem that i've had on my phone|inform
+a|right|ackn
+b|um what it was is um you you kept cutting me off|inform
+b|i'm not really sure why|expressOpinion
+b|but my phone's just kept getting disconnected|inform
+b|it happened about i don't know or times|inform
+a|oh dear|backch
+a|oh dear|exclaim
+a|right|ackn
+b|and i must have made between myself and my husband we must have made about i don't know or phone calls to you|inform
+b|and um we um we have some people that would|inform
+b|they're constantly trying to get hold of us|inform
+b|but with our phone being out of order for days at a time|inform
+b|we were having to make all calls from our kind of um mobile phones|inform
+a|right|backch
+a|was it an actual fault on the line or|reqInfo
+b|um well it's just all i don't know every time it seems to be another problem it just got cut off for no reason it was nothing to do with the bill there was no bill outstanding or anything like that it was something apparently one time it was something at our end and then one time it was something at the exchange and the next time it was another it was just all different problems yeah yeah|ackn
+a|or you don't|reqInfo
+b|well|init
+b|i don't know|inform
+b|every time it seems to be another problem|inform
+b|it just got cut off for no reason|inform
+b|it was nothing to do with the bill|inform
+b|there was no bill outstanding or anything like that|inform
+b|it was something|inform
+a|right|backch
+a|oh dear|backch
+a|no no|backch
+a|no|ackn
+a|it was just something|inform
+b|apparently one time it was something at our end|inform
+b|and then one time it was something at the exchange|inform
+b|and the next time it was another|inform
+b|it was just all different problems|inform
+a|oh right|backch
+a|right yes|ackn
+a|it sounds as it various faults and bits an pieces right|expressOpinion
+b|yeah|backch
+b|yeah|ackn

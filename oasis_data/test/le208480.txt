@@ -1,0 +1,10 @@
+b|hello|greet
+b|um could i arrange a wake up call for six thirty please|direct
+a|six thirty okay we'll call you at that's alright bye|echo
+a|okay|accept
+a|we'll call you at that's alright bye|informIntent
+b|thanks ever so much|thank
+a|that's alright|ackn
+b|cheers|thank
+b|bye|bye
+a|bye|bye

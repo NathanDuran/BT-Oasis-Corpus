@@ -1,0 +1,48 @@
+b|yeah|ackn
+b|good afternoon can you try this number for me cause well basically i keep getting a message saying sorry the number i'm called is unavailable is that mean it's been disconnected okay it's double it's double yes you haven't got a number which is to that caller by any chance the number which goes to the caller by any chance i've already tried and they've ok then uh uh to change a number out of interest have they changed their number or alright then ok thanks a lot then actually|greet
+b|can you try this number for me|direct
+b|cause well basically i keep getting a message saying sorry the number i'm called is unavailable|inform
+b|is that mean it's been disconnected|reqInfo
+a|it can mean a lot of different things caller|inform
+a|bear with me|hold
+a|and i'll uh try the call for you|informIntent
+a|what's the code and number that you tried|reqInfo
+b|okay|backch
+b|it's double it's double yes you haven't got a number which is to that caller by any chance the number which goes to the caller by any chance i've already tried and they've ok then uh uh to change a number out of interest have they changed their number or alright then ok thanks a lot then actually|answ
+a|yes|ackn
+b|it's double yes you haven't got a number which is to that caller by any chance the number which goes to the caller by any chance i've already tried and they've ok then uh uh to change a number out of interest have they changed their number or alright then ok thanks a lot then actually|inform
+a|double thank you would you like to hold the line there for me please thank you yeah we don't have a caller with that number anymore i'm afraid haven't got what sorry um i can put you through to to see if they have oh no so they haven't got any listing i'm sorry i haven't ok i'm sorry about that they could have changed the number they could have gone ex directory they could have changed to a different telephone company any of those but we wouldn't be able to tell you at all we could they could have just uh not have a phone anymore we don't know ok byebye|echo
+a|thank you|thank
+a|would you like to hold the line there for me please|hold
+a|thank you|thank
+a|yeah|init
+a|we don't have a caller with that number anymore i'm afraid|inform
+b|yes|backch
+b|you haven't got a number which is to that caller by any chance|reqInfo
+a|haven't got what sorry|reqInfo
+b|the number which goes to the caller by any chance|answ
+a|um i can put you through to to see if they have|offer
+b|i've already tried and they've ok then uh uh to change a number out of interest have they changed their number or alright then ok thanks a lot then actually|inform
+b|and they've|inform
+a|oh no|negate
+a|so|init
+a|they haven't got any listing|inform
+a|i'm sorry i haven't|expressRegret
+b|ok then|ackn
+a|ok|ackn
+a|i'm sorry about that|expressRegret
+b|uh|backch
+b|uh to change a number|raiseIssue
+b|out of interest have they changed their number or|reqInfo
+a|they could have changed the number|answ
+a|they could have gone ex directory|answElab
+a|they could have changed to a different telephone company|answElab
+a|any of those|answElab
+a|but we wouldn't be able to tell you at all|inform
+a|we could they could have just uh not have a phone anymore|expressPossibility
+b|alright then|ackn
+a|we don't know|inform
+b|ok|init
+b|thanks a lot then actually|thank
+a|ok|backch
+a|byebye|bye
