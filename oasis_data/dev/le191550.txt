@@ -1,8 +1,0 @@
-b|um i wonder if you can give me a number of um its er oh please yes thank you|reqInfo
-a|right|ackn
-a|you actually need directory enquiries on would you like me to put you through to them that's ringing for you|inform
-a|would you like me to put you through to them|offer
-b|oh please|accept
-b|yes|accept
-a|that's ringing for you|inform
-b|thank you|thank

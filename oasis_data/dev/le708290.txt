@@ -1,8 +1,0 @@
-b|what do i dial for a ringback service please|reqInfo
-b|cause i'm trying to get a number that's engaged|inform
-a|five|answ
-b|just dial a once i get the engaged tone|confirm
-a|that's right|ackn
-b|yeah|ackn
-b|thank you|thank
-a|thank you|thank

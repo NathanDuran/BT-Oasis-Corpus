@@ -1,5 +1,0 @@
-b|hi|greet
-b|i'd like to have an um number to sort out a account sorry|reqInfo
-a|i'm sorry you're trying to|pardon
-b|sorry|expressRegret
-a|you're trying to|confirm

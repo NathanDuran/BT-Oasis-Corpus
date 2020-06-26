@@ -1,9 +1,0 @@
-b|um can i ask you|reqInfo
-b|is this number a free number or does it get uh charged for|reqInfo
-a|no|answ
-a|it's free|answElab
-b|it's free|echo
-b|thank you very much|thank
-a|okay|init
-b|b'bye|bye
-a|b'bye|bye

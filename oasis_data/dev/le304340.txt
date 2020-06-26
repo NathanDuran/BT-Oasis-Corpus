@@ -1,4 +1,0 @@
-b|what's the|reqInfo
-b|erm directory enquiries please|direct
-b|thank you|thank
-a|thank you|thank

@@ -1,7 +1,0 @@
-b|yes|ackn
-b|good morning|greet
-a|good morning|greet
-b|i would like to find out you've just had to run back to the desk haven't you i just saw you i'm i'm just behind you|reqInfo
-b|you've just had to run back to the desk haven't you|expressOpinion
-a|how did you know that|reqInfo
-b|i'm i'm just behind you|inform

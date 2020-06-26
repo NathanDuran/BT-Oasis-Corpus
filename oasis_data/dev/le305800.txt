@@ -1,7 +1,0 @@
-b|hello|greet
-b|er is that er erm to give me a phone number|reqInfo
-a|it's would you like me to connect you to them hold the line please|answ
-a|would you like me to connect you to them|offer
-b|yes please|accept
-b|thank you very much|thank
-a|hold the line please|hold

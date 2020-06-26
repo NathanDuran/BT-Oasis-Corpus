@@ -1,8 +1,0 @@
-b|oh right|ackn
-b|is that oh right cos i just got the recording just now and i pressed the wrong button can i change my uh Family And Friends numbers please|reqInfo
-a|that's right|answ
-a|yeah|answElab
-b|oh right|ackn
-b|cos i just got the recording just now|inform
-b|and i pressed the wrong button|inform
-a|oh right|ackn

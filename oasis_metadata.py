@@ -71,15 +71,15 @@ print(labels)
 print(len(labels))
 
 # Create label frequency chart
-label_freq_chart = plot_label_distributions(label_freq, title='Oasis Label Frequency Distributions', num_labels=15)
-label_freq_chart.savefig(os.path.join(metadata_dir, 'Oasis Label Frequency Distributions.png'))
+label_freq_chart = plot_label_distributions(label_freq, title='BT-Oasis Label Frequency Distributions', num_labels=15)
+label_freq_chart.savefig(os.path.join(metadata_dir, 'BT-Oasis Label Frequency Distributions.png'))
 
 # Write labels and frequencies to file
 save_label_frequency_distributions(label_freq, metadata_dir, 'labels.txt', to_markdown=False)
 
 # Count sets number of dialogues and maximum dialogue length
 max_dialogues_len = 0
-sets = ['train', 'test', 'val', 'dev']
+sets = ['train', 'test', 'val']
 for i in range(len(sets)):
 
     # Load data set list

@@ -2,7 +2,7 @@
 Utilities for Processing the [BT Oasis Corpus](http://groups.inf.ed.ac.uk/oasis/)
 for the purpose of dialogue act (DA) classification.
 The data has been randomly split, with the training set comprising 80% of the dialogues (508), and test and validation
-sets 10% each (64). 50% of the training set is used as a development set (254).
+sets 10% each (64).
 
 ## Scripts
 The oasis_to_text.py script processes all dialogues into a plain text format.
@@ -91,8 +91,6 @@ Thank Identify Self            |  thank-identifySelf  |    1     |   0.01   |   
 - Maximum length of dialogue in test set: 92
 - Number of dialogue in val set: 64
 - Maximum length of dialogue in val set: 78
-- Number of dialogue in dev set: 254
-- Maximum length of dialogue in dev set: 153
 
 ### Keys and values for the metadata dictionary
 - num_utterances = Total number of utterance in the full corpus.

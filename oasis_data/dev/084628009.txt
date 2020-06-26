@@ -1,8 +1,0 @@
-a|hello|greet
-b|hello|greet
-a|hello|greet
-b|ah is that uh customer services|reqInfo
-a|yes|answ
-a|you are|answElab
-b|yeah|ackn
-b|could you give me please the phone number the number for the Highway breakdown reporting|direct
