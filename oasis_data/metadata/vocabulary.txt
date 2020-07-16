@@ -1,2230 +1,2230 @@
-i 6556
-you 6276
-it 5169
-the 4479
-'s 4169
-that 3077
-to 3052
-a 2976
-and 2852
-yeah 2457
-number 1939
-is 1831
-right 1800
-um 1698
-for 1526
-n't 1495
-do 1479
-just 1371
-me 1364
-have 1343
-'ve 1335
-on 1323
-oh 1226
-what 1187
-thank 1186
-uh 1186
-no 1093
-yes 1076
-they 1050
-of 1009
-can 1005
-in 1005
-if 966
-please 946
-'m 926
-was 886
-got 877
-bye 852
-then 837
-okay 830
-we 818
-there 800
-'ll 777
-so 760
-your 743
-know 729
-but 692
-line 670
-not 659
-be 650
-get 650
-call 646
-at 627
-well 622
-phone 611
-sorry 610
-this 596
-with 589
-my 580
-ok 576
-through 554
-'re 542
-or 512
-thanks 508
-hello 505
-could 493
-one 493
-like 489
-now 465
-been 457
-up 419
-would 415
-put 408
-all 406
-want 376
-mm 370
-actually 366
-an 366
-about 365
-alright 354
-see 353
-much 341
-out 339
-bill 337
-double 322
-from 322
-telephone 322
-name 313
-time 308
-very 308
-mean 301
-are 296
-as 295
-er 292
-morning 286
-address 273
-need 263
-ca 262
-them 261
-she 259
-hold 250
-how 249
-byebye 246
-give 246
-think 244
-when 243
-try 242
-back 239
-had 233
-let 224
-which 219
-moment 218
-help 212
-calls 211
-customer 209
-off 209
-he 207
-'d 201
-code 199
-did 197
-ring 196
-said 195
-tell 195
-look 193
-because 192
-good 192
-sort 192
-here 190
-ringing 185
-where 182
-confirm 181
-will 181
-five 175
-go 170
-ah 169
-trying 167
-problem 165
-say 165
-does 164
-yep 164
-wrong 163
-dial 160
-cause 157
-only 156
-who 152
-any 151
-check 149
-getting 149
-has 148
-take 146
-operator 145
-service 145
-going 144
-star 142
-keep 140
-numbers 136
-her 135
-come 134
-still 134
-last 131
-again 130
-sure 129
-lovely 125
-some 124
-should 123
-thought 123
-really 122
-fine 119
-lot 119
-thing 116
-way 116
-mister 115
-able 113
-calling 111
-directory 111
-enquiries 111
-might 111
-says 111
-twenty 111
-our 110
-sir 108
-other 107
-something 107
-hmm 106
-make 106
-us 106
-hi 105
-two 105
-six 104
-account 102
-engaged 102
-pay 100
-were 100
-wonder 100
-done 99
-missus 99
-afraid 98
-their 97
-anything 96
-down 96
-press 95
-wo 95
-four 94
-long 94
-new 94
-postcode 94
-rang 94
-bear 93
-having 93
-obviously 93
-details 92
-another 91
-today 91
-first 90
-fault 89
-gone 89
-phoned 89
-before 88
-house 88
-minute 88
-tried 87
-waiting 87
-whether 86
-certainly 85
-dear 83
-may 83
-told 82
-booked 81
-old 80
-hang 79
-huh 78
-welcome 77
-answering 76
-basically 76
-coming 76
-seven 76
-cable 75
-hour 75
-paid 75
-quite 75
-dialled 74
-yesterday 74
-change 73
-even 73
-find 73
-area 72
-dialling 72
-full 72
-machine 72
-doing 71
-into 71
-love 71
-pounds 71
-by 70
-changed 70
-somebody 70
-tomorrow 70
-next 69
-order 69
-why 69
-couple 68
-hash 68
-shall 68
-given 67
-o'clock 67
-speak 67
-connect 66
-pound 66
-people 65
-probably 65
-second 65
-these 65
-working 65
-fax 64
-gon 64
-na 64
-answer 63
-information 63
-caller 62
-minutes 62
-someone 62
-wanted 62
-afternoon 61
-over 61
-things 61
-front 60
-moved 60
-use 60
-never 59
-business 58
-card 58
-eight 58
-miss 58
-mobile 58
-past 58
-quarter 58
-charge 57
-place 57
-anyway 56
-book 56
-correct 56
-department 56
-every 56
-looking 56
-moving 56
-must 56
-person 56
-same 56
-while 56
-different 55
-more 55
-saying 55
-called 54
-end 54
-cheers 53
-message 53
-pardon 53
-week 53
-ago 52
-am 52
-cos 52
-exchange 52
-send 52
-clock 51
-forty 51
-phoning 51
-erm 50
-later 50
-his 49
-possible 49
-unobtainable 49
-direct 48
-months 48
-alarm 47
-everything 47
-thirty 47
-trouble 47
-bit 46
-cut 46
-day 46
-half 46
-lines 46
-month 46
-sent 46
-three 46
-after 45
-else 45
-incoming 45
-lady 45
-o 45
-police 45
-quick 45
-set 45
-straight 45
-tone 45
-yet 45
-normally 44
-mind 43
-spoke 43
-than 43
-   42
-days 42
-few 42
-letter 42
-night 42
-paying 42
-within 42
-dead 41
-disconnected 41
-early 41
-great 41
-rate 41
-treble 41
-wanna 41
-whatever 41
-already 40
-away 40
-extension 40
-free 40
-minibus 40
-services 40
-transfer 40
-computer 39
-local 39
-used 39
-went 39
-work 39
-  38
-answered 38
-ask 38
-payment 38
-possibly 38
-longer 37
-many 37
-office 37
-since 37
-unfortunately 37
-using 37
-also 36
-better 36
-charged 36
-left 36
-wait 36
-' 35
-directories 35
-faults 35
-ha 35
-including 35
-pence 35
-pin 35
-post 35
-supposed 35
-talking 35
-understand 35
-without 35
-yourself 35
-little 34
-part 34
-property 34
-report 34
-residential 34
-touch 34
-cancel 33
-closed 33
-home 33
-own 33
-asked 32
-button 32
-gave 32
-Friday 31
-Monday 31
-being 31
-box 31
-internet 31
-its 31
-nine 31
-nothing 31
-received 31
-rung 31
-spare 31
-test 31
-} 31
-credit 30
-date 30
-nobody 30
-switched 30
-though 30
-T 29
-company 29
-connected 29
-evening 29
-fifteen 29
-flat 29
-seems 29
-speaking 29
-start 29
-system 29
-comes 28
-forward 28
-hm 28
-idea 28
-m 28
-main 28
-maybe 28
-per 28
-switch 28
-ten 28
-those 28
-times 28
-wondering 28
-B 27
-actual 27
-bills 27
-cost 27
-him 27
-means 27
-ordinary 27
-phones 27
-recording 27
-weeks 27
-happened 26
-hours 26
-key 26
-leave 26
-nuisance 26
-reply 26
-under 26
-charges 25
-driver 25
-during 25
-each 25
-hear 25
-hospital 25
-made 25
-perhaps 25
-pick 25
-problems 25
-regarding 25
-unless 25
-voice 25
-believe 24
-busy 24
-either 24
-engineers 24
-exactly 24
-money 24
-payphone 24
-rings 24
-shop 24
-socket 24
-amount 23
-bother 23
-came 23
-deal 23
-facility 23
-fully 23
-ground 23
-indeed 23
-making 23
-page 23
-Surftime 22
-big 22
-difficulty 22
-due 22
-engineer 22
-ever 22
-ex 22
-heard 22
-once 22
-recognised 22
-stop 22
-taken 22
-till 22
-too 22
-training 22
-twice 22
-Friends 21
-contact 21
-fight 21
-important 21
-private 21
-queue 21
-round 21
-stopped 21
-top 21
-wondered 21
-'cos 20
-ahead 20
-answerphone 20
-billing 20
-friends 20
-hook 20
-installed 20
-man 20
-ninth 20
-ordered 20
-point 20
-remove 20
-rental 20
-reported 20
-soon 20
-happening 19
-honest 19
-international 19
-live 19
-noise 19
-open 19
-return 19
-ta 19
-years 19
-always 18
-apparently 18
-bar 18
-barred 18
-best 18
-billable 18
-both 18
-connection 18
-debit 18
-duration 18
-further 18
-happens 18
-keeps 18
-outgoing 18
-sales 18
-temporarily 18
-until 18
-And 17
-access 17
-aye 17
-barring 17
-exist 17
-lives 17
-looks 17
-mate 17
-national 17
-outside 17
-remember 17
-seem 17
-sorted 17
-statement 17
-suppose 17
-weekend 17
-ya 17
-Family 16
-God 16
-Saturday 16
-Together 16
-anybody 16
-arrange 16
-automatically 16
-available 16
-bloody 16
-case 16
-country 16
-far 16
-finished 16
-friend 16
-goes 16
-goodbye 16
-monthly 16
-outstanding 16
-receive 16
-section 16
-sounds 16
-street 16
-tells 16
-wanting 16
-Tuesday 15
-anywhere 15
-arranged 15
-bank 15
-delay 15
-hanging 15
-incident 15
-lets 15
-listed 15
-meant 15
-mother 15
-onto 15
-pleasure 15
-require 15
-station 15
-switchboard 15
-took 15
-Sunday 14
-accept 14
-anyone 14
-bureau 14
-changing 14
-cheaper 14
-checking 14
-definitely 14
-em 14
-funny 14
-gosh 14
-hell 14
-install 14
-itemised 14
-late 14
-location 14
-mr 14
-postal 14
-requested 14
-surprised 14
-Call 13
-add 13
-aha 13
-chambers 13
-chance 13
-constantly 13
-earlier 13
-family 13
-figures 13
-followed 13
-giving 13
-god 13
-grandaughter 13
-hope 13
-initial 13
-keypad 13
-length 13
-list 13
-messages 13
-most 13
-move 13
-myself 13
-p 13
-pager 13
-particular 13
-pretty 13
-putting 13
-reconnect 13
-reminder 13
-reporting 13
-request 13
-s 13
-sixth 13
-telling 13
-usually 13
-worry 13
-'cause 12
-ages 12
-aware 12
-completely 12
-enquiry 12
-kind 12
-knew 12
-knows 12
-middle 12
-mistake 12
-names 12
-needs 12
-normal 12
-originally 12
-owe 12
-pages 12
-passing 12
-pen 12
-pressed 12
-recognise 12
-room 12
-run 12
-several 12
-sister 12
-sixteenth 12
-unlimited 12
-usage 12
-withheld 12
-advice 11
-advise 11
-allow 11
-appear 11
-brilliant 11
-concerning 11
-dunno 11
-entered 11
-envelope 11
-expecting 11
-extra 11
-hundred 11
-itself 11
-log 11
-matters 11
-missed 11
-nut 11
-occupants 11
-ones 11
-option 11
-paper 11
-persons 11
-plug 11
-quickly 11
-recently 11
-registered 11
-response 11
-reverse 11
-somewhere 11
-sound 11
-square 11
-stuck 11
-takes 11
-towards 11
-trace 11
-trial 11
-wake 11
-Wednesday 10
-addresses 10
-anymore 10
-bleep 10
-budget 10
-centre 10
-chat 10
-display 10
-divert 10
-entry 10
-fairly 10
-finish 10
-follow 10
-gate 10
-handy 10
-honestly 10
-hotel 10
-least 10
-locks 10
-offer 10
-otherwise 10
-parents 10
-plan 10
-reason 10
-reference 10
-seen 10
-seventh 10
-spell 10
-strange 10
-taking 10
-technical 10
-testing 10
-toilet 10
-transferred 10
-weird 10
-whole 10
-witness 10
-yellow 10
-'bout 9
-Bill 9
-Highway 9
-June 9
-My 9
-allowed 9
-asking 9
-behalf 9
-bell 9
-brand 9
-colleague 9
-course 9
-cutting 9
-dropped 9
-excellent 9
-existing 9
-features 9
-fortnight 9
-fortnights 9
-fourteenth 9
-freephone 9
-girl 9
-gives 9
-grand 9
-holiday 9
-horrendous 9
-husband 9
-incorrect 9
-instead 9
-kidney 9
-note 9
-offices 9
-presume 9
-previous 9
-printouts 9
-question 9
-rapidly 9
-receiver 9
-record 9
-renting 9
-roughly 9
-screen 9
-scuse 9
-signal 9
-slight 9
-slip 9
-such 9
-tend 9
-unbilled 9
-unusual 9
-variation 9
-videos 9
-wants 9
-wish 9
-worked 9
-wrote 9
-August 8
-Caller 8
-English 8
-Spain 8
-ai 8
-allocated 8
-appears 8
-between 8
-bogus 8
-cancelled 8
-companies 8
-cottage 8
-discounts 8
-engineering 8
-equipment 8
-excuse 8
-f 8
-faxes 8
-gentleman 8
-hand 8
-installation 8
-kept 8
-lift 8
-listen 8
-makes 8
-manual 8
-matter 8
-mine 8
-nice 8
-odd 8
-picking 8
-printed 8
-puzzled 8
-re 8
-regardless 8
-rest 8
-restaurant 8
-ringback 8
-side 8
-spoken 8
-standard 8
-sudden 8
-tonight 8
-word 8
-works 8
-young 8
-D 7
-July 7
-March 7
-Spanish 7
-according 7
-apart 7
-appreciate 7
-around 7
-assistance 7
-basic 7
-billed 7
-block 7
-board 7
-breakdown 7
-buy 7
-callminder 7
-certain 7
-cking 7
-closing 7
-collecting 7
-conversation 7
-credits 7
-d 7
-difficulties 7
-digits 7
-discount 7
-eighth 7
-email 7
-explain 7
-fact 7
-faulty 7
-faxed 7
-fed 7
-fifth 7
-fortune 7
-goodness 7
-in't 7
-instant 7
-intervention 7
-job 7
-life 7
-listening 7
-low 7
-mum 7
-neither 7
-obtain 7
-package 7
-picked 7
-position 7
-quarterly 7
-query 7
-queuing 7
-quickest 7
-redialled 7
-remain 7
-righty 7
-seconds 7
-seemed 7
-select 7
-show 7
-showing 7
-small 7
-sorta 7
-suggest 7
-surely 7
-surname 7
-switches 7
-systems 7
-term 7
-town 7
-turned 7
-whenever 7
-whereabouts 7
-Display 6
-Greek 6
-accepted 6
-accounts 6
-advert 6
-apply 6
-automated 6
-beg 6
-behind 6
-belongs 6
-blue 6
-bought 6
-causing 6
-checked 6
-closure 6
-completed 6
-contract 6
-d'you 6
-damn 6
-dials 6
-disconnect 6
-emergency 6
-enough 6
-enquire 6
-enter 6
-future 6
-gets 6
-happen 6
-hoping 6
-idle 6
-individual 6
-initials 6
-instruction 6
-invoice 6
-klined 6
-knocked 6
-knowing 6
-level 6
-likely 6
-listing 6
-lists 6
-literally 6
-loads 6
-looked 6
-lost 6
-midnight 6
-nightmare 6
-ninety 6
-none 6
-noticed 6
-operators 6
-particularly 6
-partner 6
-payments 6
-pile 6
-playing 6
-present 6
-price 6
-programmed 6
-properly 6
-rates 6
-rather 6
-realise 6
-repeat 6
-replaced 6
-residence 6
-running 6
-rushed 6
-satisfaction 6
-sending 6
-short 6
-sign 6
-silent 6
-simply 6
-sometime 6
-sorting 6
-stopping 6
-stuff 6
-suffering 6
-thingmy 6
-third 6
-transpires 6
-unavailable 6
-upstairs 6
-urgently 6
-whose 6
-worried 6
-worth 6
-yours 6
-'em 5
-? 5
-C 5
-Choose 5
-Council 5
-County 5
-Peace 5
-Refuse 5
-To 5
-War 5
-agreement 5
-arrived 5
-attached 5
-bedroom 5
-bothered 5
-breakfast 5
-bring 5
-buttons 5
-caused 5
-children 5
-concerned 5
-connecting 5
-control 5
-county 5
-court 5
-cuts 5
-dealt 5
-declined 5
-disabled 5
-documentation 5
-education 5
-ee 5
-expensive 5
-female 5
-fitted 5
-flats 5
-flimsy 5
-helpline 5
-high 5
-hiya 5
-include 5
-instalments 5
-interest 5
-living 5
-lock 5
-loud 5
-lucky 5
-marking 5
-nearly 5
-nick 5
-nineteenth 5
-operating 5
-passed 5
-password 5
-period 5
-permanent 5
-plugged 5
-pole 5
-prefer 5
-prefix 5
-premium 5
-process 5
-provisional 5
-quid 5
-recorded 5
-red 5
-reduced 5
-sec 5
-seventeenth 5
-shortly 5
-sold 5
-sometimes 5
-son 5
-special 5
-speech 5
-squirrelling 5
-stamps 5
-steering 5
-taxi 5
-telegram 5
-twigged 5
-type 5
-unbar 5
-unplugged 5
-updated 5
-urgent 5
-weekends 5
-wiring 5
-- 4
-April 4
-As 4
-British 4
-Christ 4
-Freestyle 4
-Go 4
-Home 4
-I 4
-Kingdom 4
-Pay 4
-Planet 4
-Station 4
-Talk 4
-Telecom 4
-United 4
-VAT 4
-You 4
-accountants 4
-adaptor 4
-adverts 4
-advisor 4
-afterwards 4
-allowance 4
-altogether 4
-apologise 4
-areas 4
-asleep 4
-assumed 4
-bag 4
-bargain 4
-bet 4
-bits 4
-bout 4
-bugger 4
-buzz 4
-catalogues 4
-caught 4
-ccause 4
-cheap 4
-clue 4
-compensation 4
-complicates 4
-continual 4
-cordless 4
-council 4
-crackly 4
-customers 4
-dated 4
-daughter 4
-deals 4
-depends 4
-determine 4
-difficult 4
-digit 4
-digital 4
-discontinued 4
-discs 4
-door 4
-downstairs 4
-driving 4
-effect 4
-eh 4
-electrician 4
-enquiring 4
-etcetera 4
-evenings 4
-eventually 4
-except 4
-exchanges 4
-explained 4
-faxing 4
-fee 4
-fifty 4
-fixed 4
-forget 4
-gather 4
-groomed 4
-guest 4
-handset 4
-hard 4
-hassle 4
-however 4
-hung 4
-hut 4
-identification 4
-ill 4
-leaving 4
-lovey 4
-mad 4
-mark 4
-menu 4
-modernised 4
-music 4
-noon 4
-obliged 4
-okey 4
-onwards 4
-operation 4
-options 4
-organises 4
-outta 4
-parcel 4
-pass 4
-pizza 4
-plainly 4
-pop 4
-popular 4
-premises 4
-pressing 4
-print 4
-procedure 4
-puts 4
-querying 4
-quotes 4
-reasons 4
-recent 4
-reconnection 4
-records 4
-refer 4
-refuse 4
-registration 4
-rent 4
-rented 4
-repairs 4
-restarted 4
-reu 4
-search 4
-self 4
-seriously 4
-shift 4
-shops 4
-signed 4
-slower 4
-sorts 4
-steady 4
-story 4
-subscribe 4
-sweetheart 4
-talk 4
-teeth 4
-telemessage 4
-telephones 4
-therefore 4
-thirteen 4
-unit 4
-unnecessary 4
-unpaid 4
-vat 4
-wall 4
-wherever 4
-wonderful 4
-words 4
-world 4
-writing 4
-x 4
-year 4
-yous 4
-Back 3
-Card 3
-Contact 3
-Digital 3
-Easycom 3
-Internet 3
-Mobility 3
-N 3
-On 3
-One 3
-Pages 3
-Police% 3
-S 3
-Thousand 3
-Thursday 3
-Yellow 3
-activated 3
-activity 3
-added 3
-additional 3
-aerials 3
-afford 3
-agencies 3
-although 3
-amazing 3
-amounting 3
-annoyed 3
-appointment 3
-arrangements 3
-assist 3
-auto 3
-awfully 3
-base 3
-become 3
-bed 3
-blah 3
-booking 3
-break 3
-bringing 3
-brother 3
-businesses 3
-cabling 3
-carriage 3
-catch 3
-chances 3
-cheque 3
-class 3
-clear 3
-close 3
-complaints 3
-confirmation 3
-confusing 3
-continually 3
-correctly 3
-costing 3
-crikey 3
-crossed 3
-crosses 3
-current 3
-daft 3
-daya 3
-dealing 3
-deducted 3
-departments 3
-deposit 3
-dickheads 3
-died 3
-disc 3
-diversion 3
-diverting 3
-dokey 3
-duck 3
-ear 3
-eat 3
-eighty 3
-eleven 3
-emails 3
-error 3
-especially 3
-extremely 3
-eyes 3
-fair 3
-fell 3
-final 3
-firm 3
-fjust 3
-following 3
-form 3
-forwarded 3
-forwarding 3
-found 3
-fourteen 3
-general 3
-glazing 3
-happiness 3
-head 3
-headed 3
-heavy 3
-heck 3
-helpful 3
-ho 3
-holder 3
-interested 3
-investigate 3
-joy 3
-kits 3
-lad 3
-led 3
-light 3
-lightning 3
-limit 3
-lots 3
-lotta 3
-luck 3
-marketing 3
-men 3
-minder 3
-minds 3
-mislaid 3
-modernise 3
-monitoring 3
-needed 3
-nerves 3
-noughts 3
-nursery 3
-object 3
-occupied 3
-officers 3
-okayokay 3
-okok 3
-orders 3
-original 3
-ought 3
-ourselves 3
-packaging 3
-papers 3
-permanently 3
-plastic 3
-portability 3
-ported 3
-pre 3
-precise 3
-presumed 3
-promoting 3
-proof 3
-reado 3
-reall 3
-receives 3
-recruitment 3
-redial 3
-regard 3
-regularly 3
-removed 3
-reprogramme 3
-reset 3
-responsibility 3
-ridiculous 3
-rightyo 3
-road 3
-rough 3
-scout 3
-security 3
-shocked 3
-shut 3
-shuttle 3
-similar 3
-sounded 3
-spelling 3
-spent 3
-split 3
-started 3
-starts 3
-stock 3
-strike 3
-strip 3
-super 3
-television 3
-tenancy 3
-tested 3
-thinking 3
-tickets 3
-til 3
-tired 3
-transposed 3
-tries 3
-unemployed 3
-update 3
-village 3
-wages 3
-whereas 3
-whilst 3
-whoever 3
-woman 3
-write 3
-written 3
-y 3
-! 2
-Bacardi 2
-Breezer 2
-Business 2
-Callsign 2
-Cards 2
-Careline 2
-December 2
-May 2
-Minder 2
-Payment 2
-Rejection 2
-Ringback 2
-Shenston 2
-V 2
-Vodaphone 2
-abouts 2
-absolutely 2
-accepting 2
-ad 2
-admit 2
-advertise 2
-advertising 2
-affects 2
-age 2
-airline 2
-along 2
-alternate 2
-amplifier 2
-announce 2
-anonymous 2
-apple 2
-approximately 2
-b'bye 2
-balance 2
-based 2
-became 2
-beep 2
-believes 2
-belong 2
-bereavement 2
-bizarre 2
-blame 2
-bleeping 2
-bless 2
-blind 2
-blocks 2
-blowing 2
-bobs 2
-boyfriend 2
-breathing 2
-breaths 2
-broke 2
-built 2
-buying 2
-callers 2
-canvassing 2
-carries 2
-cash 2
-category 2
-chargeable 2
-chargecard 2
-choose 2
-city 2
-clubbed 2
-codes 2
-complement 2
-computers 2
-connects 2
-continues 2
-cor 2
-corresponding 2
-costs 2
-counterfoil 2
-crackling 2
-cucumber 2
-currently 2
-damaged 2
-database 2
-daughters 2
-daytime 2
-deaf 2
-debt 2
-dedicated 2
-desk 2
-desperately 2
-detail 2
-dialing 2
-diffusion 2
-disconnecting 2
-discuss 2
-disk 2
-distance 2
-distant 2
-diverted 2
-diverts 2
-dole 2
-dots 2
-duff 2
-e 2
-elderly 2
-electric 2
-ending 2
-establish 2
-estimate 2
-everybody 2
-expected 2
-experiencing 2
-expiry 2
-eye 2
-falling 2
-false 2
-familiar 2
-favour 2
-fella 2
-finger 2
-fit 2
-floor 2
-fnumber 2
-forgetting 2
-forgot 2
-frankly 2
-furnish 2
-gain 2
-gas 2
-generating 2
-genuinely 2
-glass 2
-gotten 2
-green 2
-guarantee 2
-guy 2
-hated 2
-helpdesk 2
-helping 2
-hiccup 2
-hiccups 2
-hoc 2
-holding 2
-holidays 2
-hopefully 2
-ideally 2
-imagine 2
-immediately 2
-innit 2
-installments 2
-instance 2
-interference 2
-interrim 2
-intervene 2
-involved 2
-irate 2
-issued 2
-jingle 2
-jobs 2
-keys 2
-kicking 2
-kline 2
-known 2
-language 2
-ledge 2
-ledgers 2
-letters 2
-lined 2
-load 2
-loop 2
-lovee 2
-madam 2
-magnifying 2
-mail 2
-mainly 2
-mam 2
-managed 2
-massive 2
-measure 2
-member 2
-metal 2
-midlands 2
-miles 2
-missing 2
-mmmm 2
-mobiles 2
-modem 2
-mover 2
-mumbling 2
-narrow 2
-near 2
-network 2
-noises 2
-nother 2
-notice 2
-numeric 2
-oddly 2
-official 2
-okeydoke 2
-ooh 2
-organise 2
-ours 2
-owes 2
-owner 2
-panic 2
-party 2
-personally 2
-pieces 2
-pitched 2
-plans 2
-pointless 2
-points 2
-poised 2
-polite 2
-power 2
-preventing 2
-prior 2
-priority 2
-prove 2
-pull 2
-pulled 2
-purchase 2
-pushed 2
-queen 2
-queer 2
-quicker 2
-quote 2
-quoted 2
-radiator 2
-railway 2
-receiving 2
-reckon 2
-reconnected 2
-refund 2
-regional 2
-register 2
-relative 2
-relatives 2
-remembered 2
-remind 2
-repay 2
-res 2
-resources 2
-restricted 2
-restricting 2
-returned 2
-risk 2
-rom 2
-runs 2
-salesman 2
-settled 2
-seventy 2
-sheet 2
-shifts 2
-shock 2
-shout 2
-silly 2
-sitting 2
-situated 2
-slightly 2
-snotty 2
-social 2
-specify 2
-spolled 2
-staff 2
-standing 2
-stands 2
-starting 2
-stay 2
-stick 2
-stops 2
-stored 2
-subscriber 2
-support 2
-survey 2
-suspect 2
-tadda 2
-tap 2
-team 2
-temporary 2
-tests 2
-theirselves 2
-themselves 2
-thinks 2
-throughout 2
-throwing 2
-tiny 2
-total 2
-train 2
-undertaking 2
-user 2
-usual 2
-various 2
-wakes 2
-warm 2
-wasting 2
-ways 2
-weather 2
-whatsoever 2
-whereby 2
-wife 2
-wind 2
-wishing 2
-workers 2
-Advanced 1
-Annonymous 1
-Anonymous 1
-Chargecard 1
-Christmas 1
-Families 1
-Freedline 1
-Freespell 1
-Miss 1
-P 1
-Police 1
-Thirtieth 1
-Twenty 1
-Wesdnesday 1
-abroad 1
-accessing 1
-across 1
-administration 1
-affect 1
-affected 1
-affecting 1
-agency 1
-alarms 1
-allows 1
-alter 1
-alternatives 1
-amended 1
-amounts 1
-applied 1
-ark 1
-arrears 1
-arrives 1
-arses 1
-aspect 1
-assume 1
-attention 1
-attract 1
-automatic 1
-babysitting 1
-bad 1
-badly 1
-bakerlite 1
-bang 1
-barbie 1
-barrings 1
-basis 1
-beeping 1
-beginning 1
-benefit 1
-benefits 1
-black 1
-blaming 1
-bloke 1
-braces 1
-breather 1
-building 1
-bus 1
-buzzing 1
-c 1
-cannae 1
-car 1
-cards 1
-carols 1
-cat 1
-charger 1
-charging 1
-chase 1
-cheapest 1
-cheapy 1
-claim 1
-clearly 1
-clicked 1
-clueless 1
-coincide 1
-colleagues 1
-community 1
-complaint 1
-complete 1
-complicated 1
-concerns 1
-confirmed 1
-confirming 1
-confused 1
-contacting 1
-continuous 1
-copy 1
-corner 1
-cough 1
-crane 1
-credited 1
-crumbs 1
-curious 1
-darling 1
-data 1
-decided 1
-decoration 1
-dedicate 1
-delivered 1
-depending 1
-dern 1
-direction 1
-directly 1
-disconnection 1
-discontinue 1
-discounted 1
-district 1
-dodgy 1
-doke 1
-doubler 1
-dum 1
-dunnee 1
-duplicate 1
-dying 1
-earliest 1
-effectively 1
-electrical 1
-eleventh 1
-ello 1
-emergencies 1
-enquired 1
-entitled 1
-envelopes 1
-etc 1
-exact 1
-exam 1
-exclusion 1
-exists 1
-extensions 1
-fancy 1
-fantastic 1
-fashion 1
-fat 1
-figure 1
-file 1
-fill 1
-finding 1
-fix 1
-forced 1
-fucking 1
-function 1
-fyeah 1
-gentlemen 1
-goody 1
-greeting 1
-group 1
-guard 1
-happy 1
-harm 1
-haywire 1
-health 1
-held 1
-herself 1
-hey 1
-higher 1
-hire 1
-horrible 1
-hospitals 1
-identified 1
-ignored 1
-included 1
-income 1
-incur 1
-inform 1
-informing 1
-installment 1
-instantly 1
-instructions 1
-instrument 1
-interrupt 1
-involves 1
-issue 1
-issues 1
-issuing 1
-jedder 1
-jiffy 1
-join 1
-joker 1
-jolly 1
-keyboard 1
-kids 1
-kit 1
-knock 1
-ladies 1
-land 1
-landlord 1
-laptop 1
-large 1
-laughing 1
-leading 1
-leaflets 1
-ledger 1
-ledgered 1
-leisure 1
-lend 1
-less 1
-letting 1
-lifted 1
-limitations 1
-link 1
-linking 1
-loan 1
-locate 1
-locked 1
-logged 1
-lunch 1
-machines 1
-magnetic 1
-magneto 1
-malicious 1
-marvellous 1
-match 1
-meet 1
-memory 1
-mention 1
-mentioned 1
-meself 1
-messaged 1
-messing 1
-midday 1
-minimum 1
-miracles 1
-miskeyed 1
-moments 1
-mumbles 1
-mummy 1
-named 1
-nature 1
-necessary 1
-neighbour 1
-noey 1
-non 1
-notes 1
-notification 1
-notify 1
-obtainable 1
-occupiers 1
-often 1
-onamatre 1
-online 1
-opening 1
-operate 1
-operational 1
-opposed 1
-optional 1
-organisation 1
-outcoming 1
-outright 1
-oval 1
-overdue 1
-overpaid 1
-owners 1
-packed 1
-packing 1
-pagers 1
-paperwork 1
-particulars 1
-pays 1
-pensioner 1
-persist 1
-phonecall 1
-phonecalls 1
-phonenumber 1
-pic 1
-pissing 1
-placed 1
-plugs 1
-plumber 1
-plus 1
-pocket 1
-poisoned 1
-poor 1
-positive 1
-postage 1
-precisely 1
-prefixes 1
-prepare 1
-pressure 1
-prices 1
-prison 1
-processed 1
-promise 1
-prompt 1
-proposing 1
-protection 1
-provide 1
-provider 1
-provision 1
-public 1
-purpose 1
-quarters 1
-questions 1
-quiet 1
-quietly 1
-react 1
-reacts 1
-read 1
-ready 1
-real 1
-receipt 1
-receipts 1
-registry 1
-related 1
-release 1
-relying 1
-reminders 1
-remotely 1
-rentals 1
-rep 1
-replacement 1
-replies 1
-representative 1
-resident 1
-respect 1
-restart 1
-result 1
-retain 1
-retire 1
-returning 1
-reveal 1
-review 1
-rid 1
-righto 1
-ringer 1
-robot 1
-rooms 1
-routed 1
-safety 1
-sale 1
-saw 1
-scheme 1
-screeching 1
-sea 1
-seeing 1
-sees 1
-sends 1
-separate 1
-separated 1
-separately 1
-seperate 1
-serviced 1
-shouting 1
-showroom 1
-simple 1
-sit 1
-situation 1
-sixty 1
-sleeping 1
-snapped 1
-someones 1
-source 1
-space 1
-specialists 1
-spelt 1
-spend 1
-spread 1
-squirrel 1
-stairs 1
-stated 1
-statements 1
-stations 1
-study 1
-suddenly 1
-suffers 1
-sugar 1
-suit 1
-summer 1
-supply 1
-surprise 1
-swap 1
-t 1
-tart 1
-task 1
-telegrams 1
-telegraph 1
-televisions 1
-tenant 1
-tenner 1
-terminate 1
-thirtieth 1
-thousand 1
-thousands 1
-throw 1
-tones 1
-totally 1
-trail 1
-transferring 1
-transfers 1
-tree 1
-truthful 1
-tut 1
-twelve 1
-types 1
-unanswered 1
-unbelievable 1
-unlikely 1
-useless 1
-users 1
-vacant 1
-verify 1
-version 1
-vibration 1
-villages 1
-violent 1
-visit 1
-volume 1
-walk 1
-wee 1
-weekly 1
-whatsname 1
-whereever 1
-whichever 1
-wires 1
-withhold 1
-withholding 1
-woke 1
-woken 1
-wonders 1
-worker 1
-worse 1
-ye 1
+i
+you
+it
+the
+'s
+that
+to
+a
+and
+yeah
+number
+is
+right
+um
+for
+n't
+do
+just
+me
+have
+'ve
+on
+oh
+what
+thank
+uh
+no
+yes
+they
+of
+can
+in
+if
+please
+'m
+was
+got
+bye
+then
+okay
+we
+there
+'ll
+so
+your
+know
+but
+line
+not
+get
+be
+call
+at
+well
+phone
+sorry
+this
+with
+my
+ok
+through
+'re
+or
+thanks
+hello
+could
+one
+like
+now
+been
+up
+would
+put
+all
+want
+mm
+an
+actually
+about
+alright
+see
+much
+out
+bill
+telephone
+double
+from
+name
+time
+very
+mean
+are
+as
+er
+morning
+address
+need
+ca
+them
+she
+hold
+how
+give
+byebye
+think
+when
+try
+back
+had
+let
+which
+moment
+help
+calls
+off
+customer
+he
+'d
+code
+did
+ring
+said
+tell
+look
+because
+sort
+good
+here
+ringing
+where
+will
+confirm
+five
+go
+ah
+trying
+say
+problem
+does
+yep
+wrong
+dial
+cause
+only
+who
+any
+getting
+check
+has
+take
+operator
+service
+going
+star
+keep
+numbers
+her
+still
+come
+last
+again
+sure
+lovely
+some
+thought
+should
+really
+fine
+lot
+thing
+way
+mister
+able
+says
+twenty
+enquiries
+directory
+might
+calling
+our
+sir
+something
+other
+make
+us
+hmm
+two
+hi
+six
+account
+engaged
+wonder
+were
+pay
+missus
+done
+afraid
+their
+down
+anything
+press
+wo
+postcode
+four
+rang
+new
+long
+having
+bear
+obviously
+details
+today
+another
+first
+fault
+phoned
+gone
+minute
+house
+before
+tried
+waiting
+whether
+certainly
+dear
+may
+told
+booked
+old
+hang
+huh
+welcome
+coming
+basically
+seven
+answering
+quite
+hour
+paid
+cable
+yesterday
+dialled
+find
+even
+change
+full
+machine
+area
+dialling
+doing
+love
+into
+pounds
+somebody
+changed
+tomorrow
+by
+order
+why
+next
+hash
+shall
+couple
+given
+o'clock
+speak
+pound
+connect
+second
+people
+working
+these
+probably
+na
+gon
+fax
+answer
+information
+wanted
+minutes
+caller
+someone
+things
+afternoon
+over
+use
+front
+moved
+never
+business
+quarter
+card
+mobile
+eight
+past
+miss
+charge
+place
+moving
+while
+book
+every
+same
+department
+correct
+must
+person
+anyway
+looking
+different
+saying
+more
+called
+end
+pardon
+message
+cheers
+week
+am
+ago
+exchange
+cos
+send
+forty
+phoning
+clock
+erm
+later
+unobtainable
+his
+possible
+direct
+months
+trouble
+thirty
+alarm
+everything
+month
+half
+three
+sent
+lines
+bit
+day
+cut
+after
+set
+quick
+police
+lady
+o
+yet
+else
+straight
+tone
+incoming
+normally
+mind
+than
+spoke
+  
+night
+letter
+few
+within
+days
+paying
+dead
+great
+rate
+early
+disconnected
+whatever
+treble
+wanna
+extension
+transfer
+away
+services
+minibus
+free
+already
+went
+work
+local
+used
+computer
+ 
+answered
+ask
+possibly
+payment
+using
+office
+longer
+many
+unfortunately
+since
+also
+charged
+wait
+left
+better
+without
+yourself
+talking
+including
+pin
+ha
+directories
+post
+'
+faults
+pence
+supposed
+understand
+property
+residential
+touch
+part
+report
+little
+own
+closed
+cancel
+home
+button
+asked
+gave
+spare
+Friday
+box
+nine
+Monday
+being
+rung
+internet
+nothing
+received
+test
+}
+its
+nobody
+switched
+credit
+though
+date
+company
+seems
+speaking
+connected
+fifteen
+start
+flat
+evening
+system
+T
+main
+forward
+maybe
+switch
+ten
+hm
+wondering
+idea
+per
+m
+those
+comes
+times
+cost
+actual
+recording
+phones
+bills
+means
+him
+ordinary
+weeks
+B
+nuisance
+leave
+hours
+under
+happened
+reply
+key
+regarding
+during
+hear
+each
+charges
+voice
+perhaps
+unless
+pick
+hospital
+driver
+problems
+made
+rings
+believe
+busy
+socket
+payphone
+shop
+either
+exactly
+money
+engineers
+fully
+came
+making
+ground
+page
+bother
+facility
+amount
+deal
+indeed
+till
+training
+taken
+once
+ever
+ex
+engineer
+recognised
+difficulty
+heard
+stop
+big
+Surftime
+too
+twice
+due
+stopped
+fight
+top
+round
+important
+private
+contact
+Friends
+wondered
+queue
+point
+reported
+soon
+rental
+installed
+ahead
+ordered
+'cos
+man
+ninth
+hook
+answerphone
+remove
+billing
+friends
+live
+return
+international
+happening
+noise
+open
+ta
+years
+honest
+keeps
+temporarily
+billable
+happens
+further
+until
+connection
+apparently
+both
+outgoing
+barred
+sales
+best
+duration
+always
+bar
+debit
+suppose
+lives
+outside
+mate
+remember
+national
+barring
+weekend
+ya
+access
+sorted
+And
+exist
+seem
+statement
+looks
+aye
+street
+case
+Family
+tells
+automatically
+God
+monthly
+available
+bloody
+outstanding
+receive
+country
+finished
+goodbye
+wanting
+arrange
+section
+far
+friend
+Saturday
+Together
+anybody
+goes
+sounds
+incident
+delay
+switchboard
+anywhere
+hanging
+bank
+station
+require
+meant
+onto
+arranged
+mother
+took
+Tuesday
+lets
+listed
+pleasure
+postal
+changing
+location
+itemised
+cheaper
+gosh
+Sunday
+late
+surprised
+requested
+definitely
+install
+em
+funny
+hell
+mr
+bureau
+accept
+checking
+anyone
+reminder
+request
+aha
+reporting
+constantly
+pretty
+messages
+reconnect
+Call
+earlier
+telling
+grandaughter
+s
+usually
+myself
+most
+p
+add
+list
+worry
+hope
+pager
+god
+move
+chance
+length
+family
+giving
+sixth
+followed
+putting
+keypad
+particular
+chambers
+initial
+figures
+knows
+recognise
+aware
+originally
+names
+unlimited
+mistake
+normal
+sixteenth
+run
+needs
+middle
+kind
+pages
+completely
+withheld
+several
+knew
+'cause
+passing
+pressed
+enquiry
+pen
+usage
+room
+ages
+sister
+owe
+ones
+registered
+paper
+trace
+hundred
+wake
+matters
+quickly
+brilliant
+towards
+allow
+expecting
+advise
+envelope
+takes
+advice
+sound
+reverse
+appear
+response
+persons
+occupants
+dunno
+trial
+entered
+itself
+nut
+square
+extra
+stuck
+recently
+concerning
+option
+missed
+plug
+log
+somewhere
+fairly
+reference
+bleep
+whole
+reason
+offer
+otherwise
+finish
+seen
+spell
+Wednesday
+yellow
+parents
+honestly
+weird
+plan
+witness
+anymore
+seventh
+budget
+least
+follow
+addresses
+display
+gate
+toilet
+technical
+divert
+locks
+taking
+testing
+hotel
+entry
+centre
+transferred
+chat
+strange
+handy
+rapidly
+fortnight
+bell
+Highway
+such
+asking
+husband
+question
+'bout
+worked
+offices
+record
+June
+tend
+videos
+excellent
+unbilled
+printouts
+instead
+signal
+wants
+kidney
+features
+course
+grand
+brand
+renting
+girl
+My
+Bill
+fourteenth
+unusual
+note
+previous
+variation
+existing
+horrendous
+behalf
+cutting
+roughly
+wish
+presume
+slight
+wrote
+fortnights
+freephone
+screen
+slip
+gives
+incorrect
+dropped
+holiday
+scuse
+allowed
+colleague
+receiver
+picking
+restaurant
+lift
+young
+rest
+nice
+Caller
+tonight
+odd
+sudden
+kept
+spoken
+printed
+puzzled
+companies
+appears
+makes
+Spain
+regardless
+ai
+listen
+English
+discounts
+works
+word
+between
+gentleman
+excuse
+standard
+ringback
+faxes
+allocated
+August
+cancelled
+re
+installation
+cottage
+manual
+f
+equipment
+hand
+bogus
+side
+matter
+engineering
+mine
+quickest
+switches
+small
+mum
+low
+explain
+town
+redialled
+select
+appreciate
+board
+billed
+D
+term
+around
+email
+cking
+show
+according
+intervention
+in't
+fifth
+difficulties
+sorta
+fed
+Spanish
+block
+eighth
+quarterly
+systems
+queuing
+position
+obtain
+July
+credits
+callminder
+turned
+buy
+suggest
+breakdown
+instant
+surely
+collecting
+seconds
+March
+job
+faxed
+picked
+righty
+whereabouts
+package
+query
+surname
+goodness
+certain
+closing
+neither
+fact
+assistance
+life
+faulty
+whenever
+seemed
+digits
+remain
+listening
+apart
+fortune
+d
+discount
+showing
+conversation
+basic
+enquire
+short
+literally
+unavailable
+present
+transpires
+sorting
+klined
+properly
+loads
+enter
+residence
+automated
+blue
+individual
+rates
+happen
+listing
+third
+simply
+replaced
+Display
+checked
+emergency
+bought
+running
+rushed
+advert
+d'you
+yours
+rather
+lists
+partner
+level
+stuff
+accounts
+causing
+particularly
+gets
+disconnect
+instruction
+worried
+damn
+behind
+knowing
+hoping
+urgently
+operators
+thingmy
+looked
+midnight
+price
+ninety
+closure
+pile
+sign
+accepted
+enough
+programmed
+worth
+silent
+idle
+sending
+apply
+sometime
+whose
+future
+suffering
+satisfaction
+beg
+upstairs
+noticed
+nightmare
+dials
+contract
+lost
+realise
+likely
+invoice
+belongs
+playing
+completed
+repeat
+none
+stopping
+knocked
+payments
+Greek
+initials
+type
+ee
+permanent
+plugged
+updated
+concerned
+reduced
+prefix
+education
+taxi
+children
+lock
+disabled
+process
+unplugged
+weekends
+documentation
+living
+speech
+sec
+court
+expensive
+connecting
+telegram
+twigged
+Refuse
+'em
+nick
+Peace
+bring
+marking
+breakfast
+sometimes
+loud
+?
+premium
+County
+bedroom
+buttons
+stamps
+county
+control
+squirrelling
+War
+seventeenth
+caused
+period
+arrived
+operating
+include
+provisional
+nearly
+Choose
+To
+helpline
+urgent
+Council
+high
+interest
+flimsy
+special
+bothered
+nineteenth
+flats
+shortly
+passed
+fitted
+unbar
+instalments
+lucky
+attached
+son
+dealt
+agreement
+declined
+password
+prefer
+female
+wiring
+cuts
+C
+sold
+hiya
+pole
+red
+steering
+quid
+recorded
+ccause
+accountants
+caught
+steady
+unnecessary
+advisor
+door
+unpaid
+handset
+thirteen
+wonderful
+yous
+Christ
+procedure
+bugger
+leaving
+popular
+Freestyle
+catalogues
+assumed
+parcel
+lovey
+wherever
+words
+sorts
+April
+vat
+guest
+music
+explained
+hut
+pizza
+adaptor
+bet
+cordless
+recent
+Home
+x
+I
+crackly
+search
+council
+records
+adverts
+however
+Kingdom
+fixed
+United
+except
+discontinued
+fee
+options
+fifty
+rented
+afterwards
+slower
+reconnection
+sweetheart
+pass
+compensation
+Go
+You
+As
+Pay
+altogether
+restarted
+shops
+year
+rent
+downstairs
+electrician
+evenings
+clue
+forget
+refuse
+digital
+faxing
+apologise
+bits
+modernised
+wall
+daughter
+reu
+deals
+allowance
+okey
+onwards
+hung
+gather
+continual
+VAT
+enquiring
+eventually
+customers
+subscribe
+asleep
+mark
+hassle
+talk
+repairs
+premises
+writing
+areas
+driving
+ill
+mad
+eh
+story
+outta
+world
+plainly
+exchanges
+pressing
+buzz
+operation
+reasons
+hard
+teeth
+obliged
+quotes
+groomed
+shift
+effect
+-
+discs
+print
+difficult
+etcetera
+pop
+complicates
+puts
+seriously
+querying
+digit
+identification
+determine
+telephones
+telemessage
+bag
+Telecom
+Planet
+unit
+dated
+Station
+cheap
+noon
+bargain
+registration
+self
+British
+depends
+organises
+Talk
+refer
+therefore
+signed
+menu
+bout
+diversion
+lotta
+redial
+disc
+general
+firm
+whereas
+cheque
+carriage
+tickets
+road
+television
+written
+whoever
+especially
+helpful
+catch
+write
+super
+eyes
+Contact
+annoyed
+kits
+become
+heck
+brother
+responsibility
+clear
+minder
+precise
+although
+ported
+amounting
+blah
+needed
+rough
+S
+papers
+Thousand
+One
+N
+Easycom
+afford
+holder
+eighty
+added
+nursery
+activity
+forwarded
+found
+ought
+portability
+joy
+sounded
+spent
+lots
+form
+investigate
+bringing
+fourteen
+Pages
+split
+nerves
+modernise
+similar
+ourselves
+costing
+following
+appointment
+orders
+deducted
+monitoring
+Yellow
+error
+tries
+wages
+chances
+activated
+unemployed
+deposit
+complaints
+additional
+dokey
+extremely
+tenancy
+permanently
+receives
+lad
+strip
+minds
+crikey
+base
+happiness
+promoting
+reprogramme
+tested
+class
+eat
+agencies
+recruitment
+regularly
+men
+Internet
+y
+confirmation
+reset
+headed
+ridiculous
+regard
+crossed
+daft
+original
+ho
+awfully
+whilst
+security
+confusing
+woman
+Thursday
+til
+businesses
+forwarding
+stock
+shut
+continually
+thinking
+spelling
+dealing
+noughts
+duck
+break
+crosses
+okayokay
+eleven
+mislaid
+final
+booking
+officers
+okok
+current
+assist
+amazing
+presumed
+limit
+Card
+update
+led
+bed
+fell
+rightyo
+Back
+tired
+scout
+reado
+shocked
+started
+lightning
+aerials
+close
+auto
+ear
+Mobility
+fair
+transposed
+emails
+strike
+packaging
+marketing
+correctly
+proof
+cabling
+object
+reall
+starts
+light
+Police%
+occupied
+glazing
+interested
+dickheads
+died
+heavy
+shuttle
+luck
+departments
+Digital
+On
+arrangements
+plastic
+daya
+village
+fjust
+diverting
+head
+pre
+removed
+approximately
+falling
+blocks
+bless
+Rejection
+installments
+costs
+stick
+madam
+register
+train
+blame
+theirselves
+airline
+okeydoke
+staff
+member
+e
+hiccups
+stored
+plans
+category
+pointless
+shifts
+lovee
+oddly
+establish
+personally
+snotty
+hiccup
+city
+polite
+continues
+choose
+stops
+expiry
+dots
+narrow
+intervene
+helpdesk
+rom
+shock
+gas
+receiving
+party
+quote
+mail
+official
+near
+connects
+sheet
+metal
+workers
+advertising
+refund
+breathing
+tests
+database
+standing
+disconnecting
+noises
+Business
+jobs
+elderly
+abouts
+genuinely
+nother
+duff
+irate
+clubbed
+involved
+suspect
+wasting
+known
+V
+salesman
+modem
+measure
+temporary
+imagine
+restricting
+admit
+damaged
+chargecard
+diffusion
+pushed
+favour
+issued
+announce
+ledge
+ledgers
+broke
+green
+helping
+became
+sitting
+network
+pitched
+remind
+holidays
+mmmm
+alternate
+undertaking
+mam
+mumbling
+panic
+wind
+starting
+guarantee
+blowing
+believes
+res
+priority
+queer
+throughout
+everybody
+Callsign
+gotten
+currently
+kline
+stay
+usual
+relative
+silly
+pull
+desk
+along
+themselves
+debt
+railway
+disk
+slightly
+seventy
+tadda
+distant
+shout
+load
+diverted
+Minder
+cor
+points
+built
+complement
+power
+mainly
+restricted
+gain
+Ringback
+Vodaphone
+weather
+cash
+generating
+specify
+bobs
+beep
+mover
+daytime
+keys
+bizarre
+massive
+whereby
+total
+pulled
+bleeping
+reckon
+bereavement
+tap
+various
+crackling
+advertise
+user
+hopefully
+furnish
+dialing
+immediately
+support
+ideally
+b'bye
+interference
+stands
+breaths
+daughters
+Shenston
+expected
+eye
+age
+canvassing
+Cards
+Payment
+forgetting
+computers
+throwing
+kicking
+accepting
+affects
+letters
+detail
+preventing
+notice
+guy
+hated
+forgot
+returned
+managed
+thinks
+boyfriend
+prove
+wishing
+mobiles
+loop
+team
+resources
+frankly
+finger
+pieces
+remembered
+owner
+anonymous
+holding
+lined
+dedicated
+belong
+poised
+absolutely
+innit
+settled
+distance
+carries
+cucumber
+desperately
+apple
+estimate
+ad
+hoc
+balance
+May
+queen
+callers
+counterfoil
+chargeable
+wife
+numeric
+fnumber
+social
+language
+ways
+amplifier
+jingle
+warm
+!
+regional
+fella
+instance
+miles
+prior
+ending
+subscriber
+spolled
+fit
+whatsoever
+floor
+reconnected
+quoted
+dole
+familiar
+ooh
+risk
+blind
+purchase
+missing
+experiencing
+owes
+false
+buying
+interrim
+situated
+electric
+codes
+magnifying
+based
+glass
+wakes
+relatives
+Careline
+diverts
+quicker
+corresponding
+tiny
+deaf
+ours
+survey
+Bacardi
+runs
+radiator
+December
+repay
+organise
+discuss
+midlands
+Breezer
+poisoned
+righto
+administration
+health
+clicked
+darling
+tenner
+provide
+positive
+tut
+alarms
+twelve
+plumber
+public
+jedder
+whatsname
+pissing
+t
+quarters
+memory
+dying
+promise
+screeching
+onamatre
+knock
+barrings
+unlikely
+cannae
+greeting
+goody
+aspect
+Police
+locate
+cat
+safety
+chase
+amounts
+coincide
+rid
+forced
+worse
+tones
+summer
+opening
+non
+eleventh
+telegrams
+clueless
+jolly
+incur
+sends
+credited
+confused
+data
+assume
+protection
+mumbles
+barbie
+wee
+vibration
+types
+release
+attention
+prompt
+replacement
+mummy
+particulars
+horrible
+buzzing
+moments
+suffers
+included
+pocket
+fucking
+joker
+attract
+tart
+black
+envelopes
+pagers
+operate
+fancy
+registry
+depending
+disconnection
+contacting
+oval
+transfers
+bang
+organisation
+seperate
+questions
+representative
+thirtieth
+miracles
+exists
+accessing
+replies
+remotely
+involves
+exact
+district
+related
+worker
+resident
+affected
+televisions
+wonders
+delivered
+charger
+sale
+outright
+charging
+earliest
+plus
+discounted
+optional
+harm
+function
+necessary
+separated
+malicious
+notification
+sleeping
+violent
+tree
+babysitting
+rooms
+dunnee
+Chargecard
+less
+prices
+opposed
+rentals
+Freedline
+Freespell
+poor
+complicated
+keyboard
+users
+scheme
+affect
+leaflets
+ark
+link
+directly
+real
+inform
+locked
+figure
+mention
+reacts
+guard
+owners
+land
+vacant
+returning
+hey
+paperwork
+postage
+packing
+P
+react
+suit
+whichever
+terminate
+blaming
+discontinue
+notify
+cheapest
+sea
+abroad
+magneto
+automatic
+Families
+plugs
+transferring
+rep
+pressure
+magnetic
+beeping
+named
+instrument
+claim
+receipts
+basis
+higher
+notes
+car
+minimum
+processed
+entitled
+lend
+proposing
+herself
+pays
+large
+phonecall
+machines
+benefit
+suddenly
+gentlemen
+doubler
+noey
+villages
+overpaid
+walk
+cheapy
+retire
+leading
+leisure
+spend
+separately
+colleagues
+badly
+copy
+exam
+community
+review
+decided
+Christmas
+snapped
+arses
+wires
+logged
+telegraph
+across
+carols
+woke
+amended
+cough
+overdue
+ladies
+Twenty
+confirming
+fat
+complete
+occupiers
+pic
+finding
+etc
+someones
+miskeyed
+ready
+concerns
+match
+phonecalls
+breather
+exclusion
+serviced
+affecting
+held
+letting
+bad
+prepare
+quietly
+provision
+arrears
+extensions
+group
+thousand
+swap
+income
+dum
+kids
+simple
+provider
+retain
+crumbs
+quiet
+volume
+task
+clearly
+sees
+visit
+dedicate
+sit
+prefixes
+laptop
+duplicate
+restart
+building
+spelt
+fix
+tenant
+woken
+landlord
+issue
+shouting
+bloke
+issues
+truthful
+agency
+benefits
+ringer
+identified
+meet
+installment
+alternatives
+surprise
+neighbour
+curious
+saw
+often
+unanswered
+haywire
+ledgered
+ledger
+Miss
+supply
+verify
+kit
+linking
+space
+messaged
+instructions
+dodgy
+online
+confirmed
+continuous
+crane
+hire
+specialists
+emergencies
+dern
+ye
+bus
+unbelievable
+persist
+direction
+relying
+operational
+mentioned
+file
+ello
+doke
+packed
+reveal
+phonenumber
+fyeah
+obtainable
+informing
+decoration
+respect
+laughing
+braces
+routed
+nature
+stations
+hospitals
+messing
+interrupt
+midday
+thousands
+robot
+applied
+fill
+version
+Advanced
+reminders
+loan
+instantly
+happy
+showroom
+fantastic
+stated
+statements
+totally
+prison
+electrical
+trail
+whereever
+effectively
+source
+complaint
+situation
+ignored
+join
+Thirtieth
+sixty
+spread
+weekly
+alter
+outcoming
+lunch
+marvellous
+bakerlite
+result
+issuing
+read
+Wesdnesday
+sugar
+fashion
+pensioner
+useless
+withholding
+allows
+Annonymous
+precisely
+Anonymous
+limitations
+cards
+withhold
+receipt
+beginning
+squirrel
+throw
+arrives
+enquired
+meself
+placed
+separate
+corner
+stairs
+study
+c
+jiffy
+purpose
+lifted
+seeing
