@@ -77,7 +77,7 @@ Correct Self                   |     correctSelf      |    7     |   0.05   |   
 Express Regret Inform          | expressRegret-inform |    1     |   0.01   |        1        |   0.01   |        0        |   0.00   |        0        |   0.00  
 Thank Identify Self            |  thank-identifySelf  |    1     |   0.01   |        1        |   0.01   |        0        |   0.00   |        0        |   0.00  
 
-![Label Frequencies](oasis_data/metadata/Oasis%20Label%20Frequency%20Distributions.png)
+![Label Frequencies](oasis_data/metadata/BT-Oasis%20Label%20Frequency%20Distributions.png)
 
 ## Metadata
 - Total number of utterances:  15067
