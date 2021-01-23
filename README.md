@@ -87,7 +87,7 @@ Thank Identify Self            |  thank-identifySelf  |    1     |   0.01   |   
 - Max dialogue length: 153
 - Mean dialogue length: 23.69
 - Vocabulary size: 2230
-- Number of labels:42
+- Number of labels: 42
 - Number of speakers: 2
 
 Train set
