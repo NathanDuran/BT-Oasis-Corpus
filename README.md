@@ -9,7 +9,7 @@ The oasis_to_text.py script processes all dialogues into a plain text format.
 Individual dialogues are saved into directories corresponding to the set they belong to (train, test, etc).
 All utterances in a particular set are also saved to a text file.
 
-The oasis_utilities.py script contains various helper functions for loading/saving the data.
+The utilities.py script contains various helper functions for loading/saving the data.
  
 The process_transcript.py includes functions for processing each dialogue.
 
@@ -80,20 +80,33 @@ Thank Identify Self            |  thank-identifySelf  |    1     |   0.01   |   
 ![Label Frequencies](oasis_data/metadata/BT-Oasis%20Label%20Frequency%20Distributions.png)
 
 ## Metadata
-- Total number of utterances:  15067
-- Maximum utterance length:  449
-- Mean utterance length: 9.7
-- Total number of dialogues: 636
-- Maximum dialogue length: 153
-- Mean dialogue length: 23.7
+- Total number of utterances: 15067
+- Max utterance length: 449
+- Mean utterance length: 9.66
+- Total Number of dialogues: 636
+- Max dialogue length: 153
+- Mean dialogue length: 23.69
 - Vocabulary size: 2230
-- Number of labels: 42
-- Number of dialogue in train set: 508
-- Maximum length of dialogue in train set: 153
-- Number of dialogue in test set: 64
-- Maximum length of dialogue in test set: 92
-- Number of dialogue in val set: 64
-- Maximum length of dialogue in val set: 78
+- Number of labels:42
+- Number of speakers: 2
+
+Train set
+- Number of dialogues: 508
+- Max dialogue length: 153
+- Mean dialogue length: 23.77
+- Number of utterances: 12076
+
+Test set
+- Number of dialogues: 64
+- Max dialogue length: 92
+- Mean dialogue length: 23.27
+- Number of utterances: 1489
+
+Val set
+- Number of dialogues: 64
+- Max dialogue length: 78
+- Mean dialogue length: 23.47
+- Number of utterances: 1502
 
 ### Keys and values for the metadata dictionary
 - num_utterances = Total number of utterance in the full corpus.
@@ -106,9 +119,13 @@ Thank Identify Self            |  thank-identifySelf  |    1     |   0.01   |   
 - vocabulary = List of all words in vocabulary.
 - vocabulary_size = Number of words in the vocabulary.
 - label_freq = [Dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html) containing all data in the Dialogue Acts table above.
-- labels = Full labels - List of all DA labels.
+- labels = List of all DA labels.
 - num_labels = Number of labels used from the Oasis data.
-
+- speakers = List of all speakers.
+- num_speakers = Number of speakers in the Oasis data.
+ 
 Each data set also has:
+- <*setname*>_num_utterances = Number of utterances in the set.
 - <*setname*>_num_dialogues = Number of dialogues in the set.
-- <*setname*>_max_dialogues_len = Length of the longest dialogue in the set.
+- <*setname*>_max_dialogue_len = Length of the longest dialogue in the set.
+- <*setname*>_mean_dialogue_len = Mean length of dialogues in the set.

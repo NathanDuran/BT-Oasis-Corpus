@@ -1,4 +1,4 @@
-from oasis_utilities import *
+from utilities import *
 from process_transcript import *
 
 # Oasis archive directory
@@ -56,7 +56,7 @@ for transcript in transcript_list:
     # Process the utterances and create a dialogue object
     dialogue = process_transcript(turn_list, a_words_file, a_da_file, b_words_file, b_da_file, excluded_chars, excluded_tags)
 
-    # Append all utterances to full_set text file
+    # Append all utterances to full_set_file text file
     dialogue_to_file(os.path.join(data_dir, full_set_file), dialogue, utterance_only_flag, 'a+')
 
     # Determine which set this dialogue belongs to (training, test or validation)
@@ -87,4 +87,3 @@ for transcript in transcript_list:
 
     # Append all dialogue utterances to sets file
     dialogue_to_file(os.path.join(data_dir, set_file), dialogue, utterance_only_flag, 'a+')
-

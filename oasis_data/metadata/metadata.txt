@@ -1,17 +1,24 @@
-Total number of utterances:  15067
-Max utterance length:  449
-Maximum dialogue length: 153
-Vocabulary size: 2230
-Number of labels: 42
-
-Number of dialogue in train set: 508
-Maximum length of dialogue in train set: 153
-
-Number of dialogue in test set: 64
-Maximum length of dialogue in test set: 92
-
-Number of dialogue in val set: 64
-Maximum length of dialogue in val set: 78
-
-Number of dialogue in dev set: 254
-Maximum length of dialogue in dev set: 153
+- Total number of utterances: 15067
+- Max utterance length: 449
+- Mean utterance length: 9.66
+- Total Number of dialogues: 636
+- Max dialogue length: 153
+- Mean dialogue length: 23.69
+- Vocabulary size: 2230
+- Number of labels:42
+- Number of speakers: 2
+Train set
+- Number of dialogues: 508
+- Max dialogue length: 153
+- Mean dialogue length: 23.77
+- Number of utterances: 12076
+Test set
+- Number of dialogues: 64
+- Max dialogue length: 92
+- Mean dialogue length: 23.27
+- Number of utterances: 1489
+Val set
+- Number of dialogues: 64
+- Max dialogue length: 78
+- Mean dialogue length: 23.47
+- Number of utterances: 1502
